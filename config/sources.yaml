@@ -1,0 +1,67 @@
+sources:
+  - name: Anthropic News
+    type: official
+    url: https://www.anthropic.com/news
+    mode: webpage
+    article_path_prefix: /news/
+    priority: high
+    max_items: 3
+    enabled: true
+    notes: Anthropic official news page.
+
+  - name: OpenAI News
+    type: official
+    url: https://openai.com/news/rss.xml
+    mode: rss
+    priority: high
+    max_items: 3
+    enabled: true
+    notes: OpenAI official news feed.
+
+  - name: Google DeepMind Blog
+    type: official
+    url: https://deepmind.google/discover/blog/
+    mode: webpage
+    article_path_prefix: /blog/
+    priority: high
+    max_items: 3
+    enabled: true
+    notes: Google DeepMind official blog page.
+
+  - name: Meta AI Blog
+    type: official
+    url: https://ai.meta.com/blog/
+    mode: webpage
+    article_path_prefix: /blog/
+    priority: high
+    max_items: 3
+    enabled: true
+    notes: Meta AI official blog page.
+
+  - name: Mistral AI News
+    type: official
+    url: https://mistral.ai/news/
+    mode: webpage
+    article_path_prefix: /news/
+    priority: high
+    max_items: 3
+    enabled: true
+    notes: Mistral AI official news page.
+
+  - name: Hugging Face Blog
+    type: developer
+    url: https://huggingface.co/blog/feed.xml
+    mode: rss
+    priority: medium
+    max_items: 5
+    enabled: true
+    notes: Hugging Face official blog feed.
+
+  - name: GitHub Trending Python
+    type: developer
+    url: https://github.com/trending/python?since=daily
+    mode: github_trending
+    priority: medium
+    max_items: 5
+    enabled: true
+    notes: Daily GitHub Trending Python projects, used as an AI/open-source signal.
