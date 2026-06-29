@@ -65,3 +65,30 @@ sources:
     max_items: 5
     enabled: true
     notes: Daily GitHub Trending Python projects, used as an AI/open-source signal.
+
+  - name: Latent Space
+    type: developer
+    url: https://www.latent.space/feed
+    mode: rss
+    priority: medium
+    max_items: 5
+    enabled: true
+    notes: AI engineering and model ecosystem analysis from Latent Space.
+
+  - name: Simon Willison
+    type: developer
+    url: https://simonwillison.net/atom/everything/
+    mode: rss
+    priority: medium
+    max_items: 5
+    enabled: true
+    notes: Practical AI engineering notes, LLM tooling, and developer workflow observations.
+
+  - name: Cloudflare AI Blog
+    type: developer
+    url: https://blog.cloudflare.com/tag/ai/rss/
+    mode: rss
+    priority: medium
+    max_items: 5
+    enabled: true
+    notes: AI infrastructure, edge AI, and developer platform updates from Cloudflare.

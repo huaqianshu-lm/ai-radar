@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 from datetime import timezone
 from pathlib import Path
 
@@ -32,6 +33,37 @@ def append_source_status(brief_path: Path, statuses: list[dict[str, object]]) ->
     brief_path.write_text(text.rstrip() + "\n" + render_source_status(statuses), encoding="utf-8")
 
 
+def source_contributions(items_path: Path) -> list[dict[str, object]]:
+    if not items_path.exists():
+        return []
+
+    stats: dict[str, dict[str, int]] = {}
+    for line in items_path.read_text(encoding="utf-8").splitlines():
+        if not line.strip():
+            continue
+        item = json.loads(line)
+        source = str(item.get("source") or "unknown")
+        summary = str(item.get("summary") or "")
+        source_stats = stats.setdefault(source, {"items": 0, "list_pages": 0, "summary_chars": 0})
+        source_stats["items"] += 1
+        source_stats["summary_chars"] += len(summary)
+        if item.get("is_list_page"):
+            source_stats["list_pages"] += 1
+
+    contributions = []
+    for source, source_stats in stats.items():
+        items = source_stats["items"]
+        contributions.append(
+            {
+                "source": source,
+                "items": items,
+                "list_pages": source_stats["list_pages"],
+                "avg_summary_chars": round(source_stats["summary_chars"] / items) if items else 0,
+            }
+        )
+    return sorted(contributions, key=lambda item: (-int(item["items"]), str(item["source"])))
+
+
 def write_run_summary(
     date: str,
     statuses: list[dict[str, object]],
@@ -39,6 +71,7 @@ def write_run_summary(
     brief_input_path: Path,
     brief_path: Path | None,
     brief_issues: list[str],
+    contributions: list[dict[str, object]],
     brief_error: str = "",
 ) -> Path:
     INBOX_DIR.mkdir(parents=True, exist_ok=True)
@@ -66,6 +99,17 @@ def write_run_summary(
             lines.append(f"- {status['name']}：成功，{status['items']} 条，新增 raw {status['saved']} 条")
         else:
             lines.append(f"- {status['name']}：失败，原因：{status['error']}")
+    lines.extend(["", "## 来源贡献统计", ""])
+    if contributions:
+        lines.append("| 来源 | items | list pages | avg summary chars |")
+        lines.append("| --- | ---: | ---: | ---: |")
+        for contribution in contributions:
+            lines.append(
+                f"| {contribution['source']} | {contribution['items']} | "
+                f"{contribution['list_pages']} | {contribution['avg_summary_chars']} |"
+            )
+    else:
+        lines.append("- 无 items 贡献")
     lines.extend(["", "## 简报质量检查", ""])
     if brief_path:
         if brief_issues:
@@ -119,6 +163,7 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool) -> None:
     if brief_path:
         append_source_status(brief_path, statuses)
     brief_issues = check(run_date) if brief_path else []
+    contributions = source_contributions(items_path)
 
     summary_path = write_run_summary(
         run_date,
@@ -127,6 +172,7 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool) -> None:
         brief_input_path,
         brief_path,
         brief_issues,
+        contributions,
         brief_error,
     )
 
