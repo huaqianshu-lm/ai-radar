@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import shutil
 import subprocess
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -28,7 +29,7 @@ def build_prompt(brief_input: str, date: str) -> str:
     )
 
 
-def generate(date: str, overwrite: bool = False) -> Path:
+def generate(date: str, overwrite: bool = False, retries: int = 1) -> Path:
     if shutil.which("claude") is None:
         raise RuntimeError("Claude Code CLI not found: claude")
 
@@ -45,14 +46,32 @@ def generate(date: str, overwrite: bool = False) -> Path:
     brief_input = input_path.read_text(encoding="utf-8")
     prompt = build_prompt(brief_input, date)
 
-    result = subprocess.run(
-        ["claude", "-p", "--output-format", "text", "--no-session-persistence"],
-        input=prompt,
-        check=True,
-        capture_output=True,
-        text=True,
-        timeout=600,
-    )
+    last_error: subprocess.CalledProcessError | None = None
+    for attempt in range(1, retries + 2):
+        try:
+            result = subprocess.run(
+                ["claude", "-p", "--output-format", "text", "--no-session-persistence"],
+                input=prompt,
+                check=True,
+                capture_output=True,
+                text=True,
+                timeout=600,
+            )
+            break
+        except subprocess.CalledProcessError as error:
+            last_error = error
+            print(f"Claude Code failed on attempt {attempt}: exit {error.returncode}")
+            if error.stdout:
+                print("stdout:")
+                print(error.stdout.strip())
+            if error.stderr:
+                print("stderr:")
+                print(error.stderr.strip())
+            if attempt > retries:
+                raise
+            time.sleep(2)
+    else:
+        raise last_error or RuntimeError("Claude Code failed")
 
     brief = result.stdout.strip()
     if not brief:

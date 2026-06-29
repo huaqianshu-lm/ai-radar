@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -25,10 +26,97 @@ BANNED_TEXT = [
 ]
 
 PLACEHOLDERS = ["____", "TODO", "待补充"]
+TOP_SECTION = "## 今日最重要的 5 件事"
+GITHUB_SECTION = "## GitHub Trending 技术趋势观察"
+SUMMARY_MIN_CHARS = 80
+SUMMARY_MAX_CHARS = 500
 
 
 def today() -> str:
     return datetime.now(timezone.utc).date().isoformat()
+
+
+def get_section(text: str, heading: str) -> str:
+    marker = f"{heading}\n"
+    if marker not in text:
+        return ""
+    after_heading = text.split(marker, 1)[1]
+    next_heading = re.search(r"\n## ", after_heading)
+    if not next_heading:
+        return after_heading.strip()
+    return after_heading[: next_heading.start()].strip()
+
+
+def get_items(section: str) -> list[str]:
+    matches = list(re.finditer(r"(?m)^### \d+\. ", section))
+    items: list[str] = []
+    for index, match in enumerate(matches):
+        start = match.start()
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(section)
+        items.append(section[start:end].strip())
+    return items
+
+
+def field_value(item: str, field: str) -> str:
+    match = re.search(rf"(?m)^- {re.escape(field)}：(.+)$", item)
+    return match.group(1).strip() if match else ""
+
+
+def check_top_items(text: str) -> list[str]:
+    issues: list[str] = []
+    top_section = get_section(text, TOP_SECTION)
+    top_items = get_items(top_section)
+
+    if not top_items:
+        issues.append("missing Top 5 items")
+        return issues
+
+    if len(top_items) > 5:
+        issues.append(f"has more than 5 Top items: {len(top_items)}")
+
+    if len(top_items) < 5 and "今日候选不足" not in text:
+        issues.append("has fewer than 5 Top items but does not explain candidate shortage")
+
+    required_fields = ["来源", "原文链接", "摘要", "能力与应用", "为什么重要", "对我的影响", "后续关注", "推荐动作"]
+    for index, item in enumerate(top_items, start=1):
+        for field in required_fields:
+            if not field_value(item, field):
+                issues.append(f"Top item {index} missing field: {field}")
+
+        source_link = field_value(item, "原文链接")
+        if source_link and not source_link.startswith("http"):
+            issues.append(f"Top item {index} source link is not a URL")
+
+        summary = field_value(item, "摘要")
+        if summary:
+            summary_chars = len(summary)
+            if summary_chars < SUMMARY_MIN_CHARS:
+                issues.append(f"Top item {index} summary too short: {summary_chars} chars")
+            if summary_chars > SUMMARY_MAX_CHARS:
+                issues.append(f"Top item {index} summary too long: {summary_chars} chars")
+
+    return issues
+
+
+def check_github_items(text: str) -> list[str]:
+    issues: list[str] = []
+    github_section = get_section(text, GITHUB_SECTION)
+    github_items = get_items(github_section)
+
+    if len(github_items) != 5:
+        issues.append(f"GitHub Trending item count should be 5, got {len(github_items)}")
+
+    required_fields = ["链接", "它解决什么问题", "反映的技术 / 产品趋势", "对我的参考价值"]
+    for index, item in enumerate(github_items, start=1):
+        for field in required_fields:
+            if not field_value(item, field):
+                issues.append(f"GitHub item {index} missing field: {field}")
+
+        link = field_value(item, "链接")
+        if link and not link.startswith("http"):
+            issues.append(f"GitHub item {index} link is not a URL")
+
+    return issues
 
 
 def check(date: str) -> list[str]:
@@ -51,12 +139,11 @@ def check(date: str) -> list[str]:
         if placeholder in text:
             issues.append(f"contains placeholder: {placeholder}")
 
-    if text.count("### ") < 3:
-        issues.append("has fewer than 3 highlighted items")
-
     if "http" not in text:
         issues.append("missing source links")
 
+    issues.extend(check_top_items(text))
+    issues.extend(check_github_items(text))
     return issues
 
 

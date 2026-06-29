@@ -39,6 +39,7 @@ def write_run_summary(
     brief_input_path: Path,
     brief_path: Path | None,
     brief_issues: list[str],
+    brief_error: str = "",
 ) -> Path:
     INBOX_DIR.mkdir(parents=True, exist_ok=True)
     output_path = INBOX_DIR / f"{date}-run-summary.md"
@@ -71,6 +72,8 @@ def write_run_summary(
             lines.extend([f"- {issue}" for issue in brief_issues])
         else:
             lines.append("- 通过")
+    elif brief_error:
+        lines.append(f"- 未生成简报：{brief_error}")
     else:
         lines.append("- 未生成简报")
     output_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
@@ -104,12 +107,28 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool) -> None:
     normalize_result = normalize(run_date)
     items_path = normalize_result.path
     brief_input_path = prepare(run_date)
-    brief_path = generate(run_date, overwrite=overwrite_brief) if generate_brief else None
+    brief_path = None
+    brief_error = ""
+    if generate_brief:
+        try:
+            brief_path = generate(run_date, overwrite=overwrite_brief)
+        except Exception as error:
+            brief_error = str(error)
+            print(f"failed to generate brief: {brief_error}")
+            write_log(f"failed to generate brief: {brief_error}")
     if brief_path:
         append_source_status(brief_path, statuses)
     brief_issues = check(run_date) if brief_path else []
 
-    summary_path = write_run_summary(run_date, statuses, normalize_result, brief_input_path, brief_path, brief_issues)
+    summary_path = write_run_summary(
+        run_date,
+        statuses,
+        normalize_result,
+        brief_input_path,
+        brief_path,
+        brief_issues,
+        brief_error,
+    )
 
     print(f"done: {total_saved} new raw files")
     print(f"items: {items_path.relative_to(ROOT)}")
