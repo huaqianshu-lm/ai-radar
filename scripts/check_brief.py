@@ -39,10 +39,11 @@ def today() -> str:
 
 
 def get_section(text: str, heading: str) -> str:
-    marker = f"{heading}\n"
-    if marker not in text:
+    pattern = re.compile(rf"(?m)^{re.escape(heading)}(?:（.*?）)?\s*$")
+    match = pattern.search(text)
+    if not match:
         return ""
-    after_heading = text.split(marker, 1)[1]
+    after_heading = text[match.end() :]
     next_heading = re.search(r"\n## ", after_heading)
     if not next_heading:
         return after_heading.strip()
