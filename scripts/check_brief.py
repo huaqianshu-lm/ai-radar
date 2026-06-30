@@ -11,6 +11,7 @@ BRIEFS_DIR = ROOT / "data" / "briefs"
 REQUIRED_TEXT = [
     "# AI Daily Brief",
     "## 今日最重要的 5 件事",
+    "## 次级关注 5 条",
     "## GitHub Trending 技术趋势观察",
     "## 其他值得关注",
     "## 今日判断",
@@ -27,6 +28,7 @@ BANNED_TEXT = [
 
 PLACEHOLDERS = ["____", "TODO", "待补充"]
 TOP_SECTION = "## 今日最重要的 5 件事"
+SECONDARY_SECTION = "## 次级关注 5 条"
 GITHUB_SECTION = "## GitHub Trending 技术趋势观察"
 SUMMARY_MIN_CHARS = 80
 SUMMARY_MAX_CHARS = 500
@@ -78,10 +80,15 @@ def check_top_items(text: str) -> list[str]:
         issues.append("has fewer than 5 Top items but does not explain candidate shortage")
 
     required_fields = ["来源", "原文链接", "摘要", "能力与应用", "为什么重要", "对我的影响", "后续关注", "推荐动作"]
+    source_counts: dict[str, int] = {}
     for index, item in enumerate(top_items, start=1):
         for field in required_fields:
             if not field_value(item, field):
                 issues.append(f"Top item {index} missing field: {field}")
+
+        source = field_value(item, "来源")
+        if source:
+            source_counts[source] = source_counts.get(source, 0) + 1
 
         source_link = field_value(item, "原文链接")
         if source_link and not source_link.startswith("http"):
@@ -95,6 +102,36 @@ def check_top_items(text: str) -> list[str]:
             if summary_chars > SUMMARY_MAX_CHARS:
                 issues.append(f"Top item {index} summary too long: {summary_chars} chars")
 
+    concentrated_sources = [source for source, count in source_counts.items() if count > 2]
+    if concentrated_sources:
+        judgment_section = get_section(text, "## 今日判断")
+        for source in concentrated_sources:
+            if source not in judgment_section:
+                issues.append(f"Top 5 has more than 2 items from {source} but 今日判断 does not explain it")
+
+    return issues
+
+
+def check_secondary_items(text: str) -> list[str]:
+    issues: list[str] = []
+    secondary_section = get_section(text, SECONDARY_SECTION)
+    secondary_items = get_items(secondary_section)
+
+    if len(secondary_items) > 5:
+        issues.append(f"Secondary item count should be at most 5, got {len(secondary_items)}")
+    if len(secondary_items) < 5 and "今日候选不足" not in text:
+        issues.append("has fewer than 5 secondary items but does not explain candidate shortage")
+
+    required_fields = ["来源", "原文链接", "关注理由"]
+    for index, item in enumerate(secondary_items, start=1):
+        for field in required_fields:
+            if not field_value(item, field):
+                issues.append(f"Secondary item {index} missing field: {field}")
+
+        source_link = field_value(item, "原文链接")
+        if source_link and not source_link.startswith("http"):
+            issues.append(f"Secondary item {index} source link is not a URL")
+
     return issues
 
 
@@ -103,8 +140,10 @@ def check_github_items(text: str) -> list[str]:
     github_section = get_section(text, GITHUB_SECTION)
     github_items = get_items(github_section)
 
-    if len(github_items) != 5:
-        issues.append(f"GitHub Trending item count should be 5, got {len(github_items)}")
+    if len(github_items) > 5:
+        issues.append(f"GitHub Trending item count should be at most 5, got {len(github_items)}")
+    if len(github_items) < 5 and "今日候选不足" not in text:
+        issues.append(f"GitHub Trending has fewer than 5 items but does not explain candidate shortage: {len(github_items)}")
 
     required_fields = ["链接", "它解决什么问题", "反映的技术 / 产品趋势", "对我的参考价值"]
     for index, item in enumerate(github_items, start=1):
@@ -143,6 +182,7 @@ def check(date: str) -> list[str]:
         issues.append("missing source links")
 
     issues.extend(check_top_items(text))
+    issues.extend(check_secondary_items(text))
     issues.extend(check_github_items(text))
     return issues
 
