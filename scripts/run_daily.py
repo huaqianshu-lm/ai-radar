@@ -64,6 +64,47 @@ def source_contributions(items_path: Path) -> list[dict[str, object]]:
     return sorted(contributions, key=lambda item: (-int(item["items"]), str(item["source"])))
 
 
+def daily_reminders(
+    statuses: list[dict[str, object]],
+    normalize_result: NormalizeResult,
+    brief_issues: list[str],
+    contributions: list[dict[str, object]],
+    brief_error: str = "",
+) -> list[str]:
+    reminders: list[str] = []
+    failed_sources = [str(status["name"]) for status in statuses if not status["ok"]]
+    if failed_sources:
+        reminders.append("复查失败来源：" + "、".join(failed_sources))
+
+    if normalize_result.written_count < 5:
+        reminders.append(f"今日进入 brief input 的 items 只有 {normalize_result.written_count} 条，注意候选不足")
+
+    weak_sources = [
+        str(contribution["source"])
+        for contribution in contributions
+        if int(contribution["items"]) >= 2 and int(contribution["avg_summary_chars"]) < 80
+    ]
+    if weak_sources:
+        reminders.append("这些来源摘要偏短，生成简报时要注意信息不足：" + "、".join(weak_sources))
+
+    list_page_sources = [
+        str(contribution["source"])
+        for contribution in contributions
+        if int(contribution["items"]) > 0 and int(contribution["items"]) == int(contribution["list_pages"])
+    ]
+    if list_page_sources:
+        reminders.append("这些来源主要是列表页，Top 5 中应谨慎使用：" + "、".join(list_page_sources))
+
+    if brief_error:
+        reminders.append("简报未生成，需要手动检查 Claude Code 调用失败原因")
+    elif brief_issues:
+        reminders.append("简报质量检查未通过，需要先修正 brief 再使用")
+
+    if not reminders:
+        reminders.append("今日无明显异常，重点看 Top 5 是否有实际参考价值")
+    return reminders
+
+
 def write_run_summary(
     date: str,
     statuses: list[dict[str, object]],
@@ -72,6 +113,7 @@ def write_run_summary(
     brief_path: Path | None,
     brief_issues: list[str],
     contributions: list[dict[str, object]],
+    reminders: list[str],
     brief_error: str = "",
 ) -> Path:
     INBOX_DIR.mkdir(parents=True, exist_ok=True)
@@ -120,6 +162,8 @@ def write_run_summary(
         lines.append(f"- 未生成简报：{brief_error}")
     else:
         lines.append("- 未生成简报")
+    lines.extend(["", "## 今日提醒", ""])
+    lines.extend([f"- {reminder}" for reminder in reminders])
     output_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return output_path
 
@@ -164,6 +208,7 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool) -> None:
         append_source_status(brief_path, statuses)
     brief_issues = check(run_date) if brief_path else []
     contributions = source_contributions(items_path)
+    reminders = daily_reminders(statuses, normalize_result, brief_issues, contributions, brief_error)
 
     summary_path = write_run_summary(
         run_date,
@@ -173,6 +218,7 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool) -> None:
         brief_path,
         brief_issues,
         contributions,
+        reminders,
         brief_error,
     )
 
@@ -185,6 +231,9 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool) -> None:
     )
     print(f"brief input: {brief_input_path.relative_to(ROOT)}")
     print(f"run summary: {summary_path.relative_to(ROOT)}")
+    print("daily reminders:")
+    for reminder in reminders:
+        print(f"- {reminder}")
     if brief_path:
         print(f"brief: {brief_path.relative_to(ROOT)}")
         if brief_issues:
