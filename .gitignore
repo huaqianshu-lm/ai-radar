@@ -53,5 +53,8 @@ data/inbox/*
 data/briefs/*
 !data/briefs/.gitkeep
 
+data/wechat/drafts/*
+!data/wechat/drafts/.gitkeep
+
 data/tracking/*
 !data/tracking/.gitkeep

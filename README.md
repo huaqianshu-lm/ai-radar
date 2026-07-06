@@ -2,7 +2,7 @@
 
 个人 AI 情报雷达 v0。
 
-当前版本只实现：固定来源配置、抓取 raw、生成 items JSONL、生成 brief input，并可选调用 Claude Code CLI 生成 Markdown 简报。不接 Claude API。
+当前版本只实现：固定来源配置、抓取 raw、生成 items JSONL、生成 brief input，可选调用 Claude Code CLI 生成 Markdown 简报，并可选从简报生成公众号 Markdown 草稿。不接 Claude API。
 
 ## 安装
 
@@ -22,7 +22,7 @@ pip install -e .
 
 ## 使用
 
-推荐一条命令跑完整流程，并自动生成简报：
+推荐一条命令跑完整流程，并自动生成简报和公众号 Markdown 草稿：
 
 ```bash
 ./ai-radar
@@ -31,7 +31,7 @@ pip install -e .
 等价于：
 
 ```bash
-.venv/bin/python scripts/run_daily.py --generate-brief --overwrite-brief
+.venv/bin/python scripts/run_daily.py --generate-brief --overwrite-brief --generate-wechat-draft --overwrite-wechat-draft
 ```
 
 这会依次完成：
@@ -40,6 +40,7 @@ pip install -e .
 2. 生成当天 `data/items/YYYY-MM-DD.jsonl`
 3. 生成 `data/inbox/YYYY-MM-DD-brief-input.md`
 4. 调用 Claude Code CLI 生成 `data/briefs/YYYY-MM-DD-ai-daily-brief.md`
+5. 从简报生成 `data/wechat/drafts/YYYY-MM-DD.md`
 
 如果只想抓取和准备输入，不生成简报：
 
@@ -54,12 +55,40 @@ pip install -e .
 .venv/bin/python scripts/normalize_items.py
 .venv/bin/python scripts/prepare_brief_input.py
 .venv/bin/python scripts/generate_brief.py
+.venv/bin/python scripts/generate_wechat_draft.py
 ```
 
-如果当天简报已存在，需要重新生成：
+如果当天简报或公众号 Markdown 草稿已存在，需要重新生成：
 
 ```bash
 .venv/bin/python scripts/generate_brief.py --overwrite
+.venv/bin/python scripts/generate_wechat_draft.py --overwrite
+```
+
+安装每天 8:00 本机自动运行：
+
+```bash
+.venv/bin/python scripts/install_launchd.py install
+```
+
+查看或卸载本机自动运行：
+
+```bash
+.venv/bin/python scripts/install_launchd.py status
+.venv/bin/python scripts/install_launchd.py uninstall
+```
+
+定时任务会写入用户级 LaunchAgent：
+
+```text
+~/Library/LaunchAgents/com.huaqianshu.ai-radar.daily.plist
+```
+
+运行日志写入：
+
+```text
+logs/launchd.out.log
+logs/launchd.err.log
 ```
 
 ## 当前规则
@@ -69,6 +98,7 @@ pip install -e .
 - 每次运行会生成 `data/inbox/YYYY-MM-DD-run-summary.md`，记录输出文件、去重状态、来源状态和简报质量检查结果。
 - 自动生成简报时，`scripts/check_brief.py` 会检查必要章节、禁用内容、Top 5 结构、次级关注结构、摘要长度、GitHub Trending 数量和来源链接。
 - 简报 Top 5 优先选择单篇文章，不优先选择列表页；来源不足时不硬凑，要明确写“今日候选不足”。
+- Anthropic、OpenAI、Google DeepMind、Meta AI、Mistral AI 等核心 AI 公司来源是每日必看信号；当天 items 中只要存在，必须整理进 Top 5、次级关注或其他值得关注。
 - Top 5 默认单一来源最多 2 条；如果超过 2 条，必须在「今日判断」中解释该来源为什么构成当天核心信号。
 - Top 5 摘要应以 150–300 字为主，最多不超过 500 字；候选材料信息不足时必须明确说明缺少哪些细节。
 - 简报额外保留「次级关注 5 条」，用于放值得继续看、但不够进入 Top 5 的内容；候选不足时可以少于 5 条，但必须明确说明。
@@ -85,7 +115,10 @@ pip install -e .
 - 向量库
 - RAG 框架
 - 部署
-- 定时任务
+- 服务器级定时任务或常驻服务
 - Claude API 自动生成
 - 登录态抓取
 - X / 微信公众号 / YouTube 抓取
+- 在 `ai-radar` 中生成公众号 final 排版结果
+- 从 `ai-radar` 调用 `wechat-writer`
+- 自动发布公众号文章

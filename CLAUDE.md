@@ -7,7 +7,7 @@ AI Radar 是一个个人使用的 AI 情报雷达本地工程。
 v0 目标只有一个：
 
 ```text
-固定来源配置 → 抓取 raw 原始资料 → 生成 items JSONL → 生成 brief input → 可选调用 Claude Code CLI 生成简报
+固定来源配置 → 抓取 raw 原始资料 → 生成 items JSONL → 生成 brief input → 可选调用 Claude Code CLI 生成简报 → 可选生成公众号 Markdown 草稿
 ```
 
 ## 当前范围
@@ -21,7 +21,9 @@ v0 只做：
 - 半自动简报 Prompt：`config/brief_prompt.md`
 - 简报输入文件生成：`data/inbox/YYYY-MM-DD-brief-input.md`
 - 可选调用 Claude Code CLI 生成简报：`data/briefs/YYYY-MM-DD-ai-daily-brief.md`
+- 可选从内部简报生成公众号 Markdown 草稿：`data/wechat/drafts/YYYY-MM-DD.md`
 - 本地手动命令运行
+- macOS 用户级 `launchd` 定时运行本地完整流程
 - 暂时不在简报中判断“是否值得入库”和“是否值得写文章”
 
 v0 不做：
@@ -35,8 +37,11 @@ v0 不做：
 - 登录态抓取
 - X / 微信公众号 / YouTube 抓取
 - 部署
-- 定时任务
+- 服务器级定时任务或常驻服务
 - 自动同步知识库
+- 在 `ai-radar` 中生成公众号 final 排版结果
+- 从 `ai-radar` 调用 `wechat-writer`
+- 自动发布公众号文章
 
 ## 目录约定
 
@@ -45,6 +50,7 @@ config/              配置和 Prompt
 data/raw/            抓取到的原始资料，按日期和来源分层保存
 data/items/          结构化新闻条目，JSONL 格式
 data/briefs/         人工或半自动生成的 Markdown 简报
+data/wechat/drafts/  从内部简报生成的公众号 Markdown 草稿
 data/tracking/       趋势追踪记录，v0 不自动更新
 data/inbox/          需要人工确认的内容，v0 可手动使用
 scripts/             本地脚本
@@ -131,6 +137,7 @@ v0 不做 AI 评分，`importance_score` 和 `relevance_score` 默认为 `0`，�
 - 额外保留「次级关注 5 条」
 - 额外保留「GitHub Trending 技术趋势观察」
 - Top 5 优先选择单篇文章，不优先选择列表页
+- Anthropic、OpenAI、Google DeepMind、Meta AI、Mistral AI 等核心 AI 公司来源是每日必看信号；当天 items 中只要存在，必须整理进 Top 5、次级关注或其他值得关注，不能被聚合来源挤掉，也不能因为是列表页或摘要短而完全跳过
 - Top 5 默认单一来源最多 2 条；如果超过 2 条，必须在「今日判断」中解释该来源为什么构成当天核心信号
 - 来源不足时不要硬凑 Top 5，要明确说明候选不足
 - 暂时不判断“是否值得入库”和“是否值得写文章”
@@ -188,7 +195,7 @@ pip install -e .
 .venv/bin/python scripts/run_daily.py
 ```
 
-推荐完整流程，并自动调用 Claude Code CLI 生成 brief：
+推荐完整流程，并自动调用 Claude Code CLI 生成 brief 和公众号 Markdown 草稿：
 
 ```bash
 ./ai-radar
@@ -197,7 +204,7 @@ pip install -e .
 等价于：
 
 ```bash
-.venv/bin/python scripts/run_daily.py --generate-brief --overwrite-brief
+.venv/bin/python scripts/run_daily.py --generate-brief --overwrite-brief --generate-wechat-draft --overwrite-wechat-draft
 ```
 
 分步抓取 raw：
@@ -224,12 +231,32 @@ pip install -e .
 .venv/bin/python scripts/generate_brief.py
 ```
 
-指定日期生成 items、brief input 或 brief：
+分步从 brief 生成公众号 Markdown 草稿：
+
+```bash
+.venv/bin/python scripts/generate_wechat_draft.py
+```
+
+安装每天 8:00 本机自动运行：
+
+```bash
+.venv/bin/python scripts/install_launchd.py install
+```
+
+查看或卸载本机自动运行：
+
+```bash
+.venv/bin/python scripts/install_launchd.py status
+.venv/bin/python scripts/install_launchd.py uninstall
+```
+
+指定日期生成 items、brief input、brief 或公众号 Markdown 草稿：
 
 ```bash
 .venv/bin/python scripts/normalize_items.py --date YYYY-MM-DD
 .venv/bin/python scripts/prepare_brief_input.py --date YYYY-MM-DD
 .venv/bin/python scripts/generate_brief.py --date YYYY-MM-DD
+.venv/bin/python scripts/generate_wechat_draft.py --date YYYY-MM-DD
 ```
 
 ## 验证方式
@@ -246,6 +273,7 @@ pip install -e .
 - `data/items/YYYY-MM-DD.jsonl` 生成成功
 - `data/inbox/YYYY-MM-DD-brief-input.md` 生成成功
 - 如使用 `--generate-brief`，`data/briefs/YYYY-MM-DD-ai-daily-brief.md` 生成成功
+- 如使用 `--generate-wechat-draft`，`data/wechat/drafts/YYYY-MM-DD.md` 生成成功
 
 ## 工程纪律
 

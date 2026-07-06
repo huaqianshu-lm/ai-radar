@@ -16,6 +16,13 @@ RAW_DIR = ROOT / "data" / "raw"
 ITEMS_DIR = ROOT / "data" / "items"
 DEFAULT_DEDUPE_DAYS = 14
 TRACKING_QUERY_PARAMS = {"fbclid", "gclid", "ref"}
+CORE_AI_COMPANY_SOURCES = {
+    "Anthropic News",
+    "OpenAI News",
+    "Google DeepMind Blog",
+    "Meta AI Blog",
+    "Mistral AI News",
+}
 
 
 @dataclass(frozen=True)
@@ -162,8 +169,9 @@ def normalize(date: str) -> NormalizeResult:
             skipped_current_duplicates += 1
             continue
         if (url_key and url_key in history_urls) or (title_key and title_key in history_titles):
-            skipped_history_duplicates += 1
-            continue
+            if item.get("source") not in CORE_AI_COMPANY_SOURCES:
+                skipped_history_duplicates += 1
+                continue
         if url_key:
             seen_urls.add(url_key)
         if title_key:

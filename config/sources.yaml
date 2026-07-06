@@ -92,3 +92,39 @@ sources:
     max_items: 5
     enabled: true
     notes: AI infrastructure, edge AI, and developer platform updates from Cloudflare.
+
+  - name: The Rundown AI
+    type: aggregator
+    url: https://www.therundown.ai/
+    mode: webpage
+    priority: low
+    max_items: 5
+    enabled: true
+    notes: AI news aggregator, used only as a fallback when official and developer sources are insufficient.
+
+  - name: Reddit
+    type: aggregator
+    url: https://www.reddit.com/
+    mode: webpage
+    priority: low
+    max_items: 5
+    enabled: true
+    notes: Broad community signal, used only as a fallback when official and developer sources are insufficient.
+
+  - name: TLDR Tech
+    type: aggregator
+    url: https://tldr.tech/
+    mode: webpage
+    priority: low
+    max_items: 5
+    enabled: true
+    notes: Tech news aggregator, used only as a fallback when official and developer sources are insufficient.
+
+  - name: Product Hunt
+    type: aggregator
+    url: https://www.producthunt.com/feed
+    mode: rss
+    priority: low
+    max_items: 5
+    enabled: true
+    notes: Product launch signal, used only as a fallback when official and developer sources are insufficient.
