@@ -16,11 +16,13 @@ v0 只做：
 
 - 固定来源配置：`config/sources.yaml`
 - 公开 RSS / 普通网页抓取
+- 通过本地环境变量或被 git 忽略的 `.env.local` 中的 `X_BEARER_TOKEN`，读取显式配置的 X API 来源
 - 原始资料保存：`data/raw/`
 - 结构化条目生成：`data/items/`
 - 半自动简报 Prompt：`config/brief_prompt.md`
 - 简报输入文件生成：`data/inbox/YYYY-MM-DD-brief-input.md`
 - 可选调用 Claude Code CLI 生成简报：`data/briefs/YYYY-MM-DD-ai-daily-brief.md`
+- 可选导出每日简报到本地配置的独立 Obsidian Vault
 - 本地手动命令运行
 - 暂时不在简报中判断“是否值得入库”和“是否值得写文章”
 
@@ -33,7 +35,8 @@ v0 不做：
 - RAG 框架
 - Claude API 自动生成
 - 登录态抓取
-- X / 微信公众号 / YouTube 抓取
+- 泛化 X 抓取、X 网页抓取或动态账号发现
+- 微信公众号 / YouTube 抓取
 - 部署
 - 定时任务
 - 自动同步知识库
@@ -54,6 +57,13 @@ logs/                运行日志
 不要新增 `src/`、Web 框架目录、数据库目录或部署目录，除非项目范围先更新。
 
 ## 数据格式约定
+
+### X API 来源约束
+
+- 只允许读取 `config/sources.yaml` 中显式配置的 X API 来源
+- 只使用 `X_BEARER_TOKEN`，来源为本地环境变量或被 git 忽略的 `.env.local`
+- 不做登录态网页抓取、Cookie 抓取、动态账号发现或批量扫号
+- token 不得写入日志、raw、items、brief input、brief 或 run summary
 
 ### raw
 
@@ -188,7 +198,7 @@ pip install -e .
 .venv/bin/python scripts/run_daily.py
 ```
 
-推荐完整流程，并自动调用 Claude Code CLI 生成 brief：
+推荐完整流程，并自动调用 Claude Code CLI 生成 brief，再同步到配置好的 Obsidian Vault：
 
 ```bash
 ./ai-radar
@@ -197,7 +207,7 @@ pip install -e .
 等价于：
 
 ```bash
-.venv/bin/python scripts/run_daily.py --generate-brief --overwrite-brief
+.venv/bin/python scripts/run_daily.py --generate-brief --overwrite-brief --export-obsidian --overwrite-obsidian
 ```
 
 分步抓取 raw：
@@ -246,6 +256,7 @@ pip install -e .
 - `data/items/YYYY-MM-DD.jsonl` 生成成功
 - `data/inbox/YYYY-MM-DD-brief-input.md` 生成成功
 - 如使用 `--generate-brief`，`data/briefs/YYYY-MM-DD-ai-daily-brief.md` 生成成功
+- 如使用 `--export-obsidian`，简报质量检查通过后同步到配置好的 Obsidian Vault；若导出失败，应在 run summary 中记录原因
 
 ## 工程纪律
 
@@ -255,3 +266,4 @@ pip install -e .
 - 不抓取需要登录、强反爬或版权风险高的来源
 - 外部来源失败时记录失败，不让整个流程崩掉
 - 不把 API key、token、账号信息写入项目
+- 每次完成文件改动后，提醒用户检查并提交未提交文件

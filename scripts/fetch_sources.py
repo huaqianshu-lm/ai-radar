@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import os
 import re
 import subprocess
 from datetime import datetime, timezone
@@ -18,6 +19,7 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES_PATH = ROOT / "config" / "sources.yaml"
+ENV_LOCAL_PATH = ROOT / ".env.local"
 RAW_DIR = ROOT / "data" / "raw"
 LOG_PATH = ROOT / "logs" / "run.log"
 
@@ -49,6 +51,37 @@ def load_sources() -> list[dict[str, Any]]:
     with SOURCES_PATH.open("r", encoding="utf-8") as file:
         data = yaml.safe_load(file) or {}
     return [source for source in data.get("sources", []) if source.get("enabled")]
+
+
+def env_local_values() -> dict[str, str]:
+    if not ENV_LOCAL_PATH.exists():
+        return {}
+
+    values: dict[str, str] = {}
+    for raw_line in ENV_LOCAL_PATH.read_text(encoding="utf-8").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#"):
+            continue
+        if line.startswith("export "):
+            line = line[len("export ") :].strip()
+        if "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip()
+        if not key:
+            continue
+        if len(value) >= 2 and value[0] == value[-1] and value[0] in {'"', "'"}:
+            value = value[1:-1]
+        values[key] = value
+    return values
+
+
+def secret_value(name: str) -> str:
+    value = os.environ.get(name)
+    if value:
+        return value
+    return env_local_values().get(name, "")
 
 
 def parse_date(value: str | None) -> str:
@@ -193,6 +226,113 @@ def fetch_webpage(source: dict[str, Any], limit: int, fetched_at: str) -> list[d
     return items or [html_to_raw_item(source, str(source["url"]), html, fetched_at, is_list_page=True)]
 
 
+
+def compact_text(value: str) -> str:
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def tweet_urls(tweet: dict[str, Any]) -> list[str]:
+    urls = tweet.get("entities", {}).get("urls", [])
+    links: list[str] = []
+    for item in urls:
+        expanded_url = str(item.get("expanded_url") or item.get("url") or "").strip()
+        if expanded_url:
+            links.append(expanded_url)
+    return links
+
+
+def tweet_to_raw(
+    source: dict[str, Any], tweet: dict[str, Any], users_by_id: dict[str, dict[str, Any]], fetched_at: str
+) -> dict[str, str]:
+    tweet_id = str(tweet.get("id") or "").strip()
+    text = str(tweet.get("text") or "").strip()
+    author = users_by_id.get(str(tweet.get("author_id") or ""), {})
+    username = str(author.get("username") or "").strip()
+    author_name = str(author.get("name") or "").strip()
+    public_metrics = tweet.get("public_metrics") or {}
+    title_text = compact_text(text)[:100]
+    title = f"X: {title_text}" if title_text else f"X post {tweet_id}"
+    url = f"https://x.com/{username}/status/{tweet_id}" if username else f"https://x.com/i/web/status/{tweet_id}"
+
+    lines = []
+    if author_name or username:
+        handle = f"@{username}" if username else "unknown"
+        lines.append(f"Author: {author_name or handle} ({handle})")
+    if tweet_id:
+        lines.append(f"Tweet ID: {tweet_id}")
+    if public_metrics:
+        lines.append(
+            "Metrics: "
+            f"{public_metrics.get('reply_count', 0)} replies, "
+            f"{public_metrics.get('retweet_count', 0)} reposts, "
+            f"{public_metrics.get('like_count', 0)} likes, "
+            f"{public_metrics.get('quote_count', 0)} quotes"
+        )
+    if lines:
+        lines.append("")
+    lines.append(text or url)
+
+    links = tweet_urls(tweet)
+    if links:
+        lines.extend(["", "Links:"])
+        lines.extend(f"- {link}" for link in links)
+
+    return {
+        "title": title,
+        "url": url,
+        "source": str(source.get("name", "")),
+        "source_type": str(source.get("type", "")),
+        "published_at": str(tweet.get("created_at") or ""),
+        "fetched_at": fetched_at,
+        "content_type": "markdown",
+        "is_list_page": "false",
+        "content": "\n".join(lines),
+    }
+
+
+def fetch_x_recent_search(source: dict[str, Any], limit: int, fetched_at: str) -> list[dict[str, str]]:
+    token_env = str(source.get("token_env") or "X_BEARER_TOKEN")
+    token = secret_value(token_env)
+    if not token:
+        raise RuntimeError(f"missing env var {token_env}")
+
+    query = str(source.get("query") or "").strip()
+    if not query:
+        raise RuntimeError("missing X API query")
+
+    max_results = max(10, min(limit, 100))
+    params = {
+        "query": query,
+        "max_results": str(max_results),
+        "tweet.fields": "created_at,author_id,public_metrics,entities",
+        "expansions": "author_id",
+        "user.fields": "username,name",
+    }
+    url = str(source.get("url") or "https://api.x.com/2/tweets/search/recent")
+    headers = {"Authorization": f"Bearer {token}", "User-Agent": "ai-radar/0.1"}
+
+    with httpx.Client(timeout=20.0, follow_redirects=True) as client:
+        response = client.get(url, headers=headers, params=params)
+
+    if response.status_code in {401, 403}:
+        raise RuntimeError(f"X API authentication failed: status {response.status_code}")
+    if response.status_code == 402:
+        raise RuntimeError("X API access requires a paid or eligible plan: status 402")
+    if response.status_code == 429:
+        raise RuntimeError("X API rate limited: status 429")
+    if response.status_code >= 400:
+        raise RuntimeError(f"X API request failed: status {response.status_code}")
+
+    payload = response.json()
+    tweets = payload.get("data") or []
+    users = payload.get("includes", {}).get("users", [])
+    users_by_id = {str(user.get("id")): user for user in users}
+    items = [tweet_to_raw(source, tweet, users_by_id, fetched_at) for tweet in tweets[:limit]]
+    if not items:
+        raise RuntimeError("X API returned 0 posts")
+    return items
+
+
 def fetch_github_trending(source: dict[str, Any], limit: int, fetched_at: str) -> list[dict[str, str]]:
     html = fetch_text(source["url"])
     soup = BeautifulSoup(html, "html.parser")
@@ -278,6 +418,8 @@ def fetch_source(source: dict[str, Any], limit: int, fetched_at: str) -> list[di
         return fetch_webpage(source, limit, fetched_at)
     if mode == "github_trending":
         return fetch_github_trending(source, limit, fetched_at)
+    if mode == "x_recent_search":
+        return fetch_x_recent_search(source, limit, fetched_at)
     raise ValueError(f"unsupported mode: {mode}")
 
 

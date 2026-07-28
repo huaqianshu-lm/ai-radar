@@ -6,6 +6,7 @@ from datetime import timezone
 from pathlib import Path
 
 from check_brief import check
+from export_obsidian import export_brief
 from fetch_sources import fetch_source, load_sources, save_raw_items, utc_now, write_log
 from generate_brief import generate
 from normalize_items import NormalizeResult, normalize
@@ -70,6 +71,7 @@ def daily_reminders(
     brief_issues: list[str],
     contributions: list[dict[str, object]],
     brief_error: str = "",
+    obsidian_error: str = "",
 ) -> list[str]:
     reminders: list[str] = []
     failed_sources = [str(status["name"]) for status in statuses if not status["ok"]]
@@ -100,6 +102,9 @@ def daily_reminders(
     elif brief_issues:
         reminders.append("简报质量检查未通过，需要先修正 brief 再使用")
 
+    if obsidian_error:
+        reminders.append("Obsidian 导出失败，需要手动检查 Vault 配置或目标文件")
+
     if not reminders:
         reminders.append("今日无明显异常，重点看 Top 5 是否有实际参考价值")
     return reminders
@@ -111,10 +116,12 @@ def write_run_summary(
     normalize_result: NormalizeResult,
     brief_input_path: Path,
     brief_path: Path | None,
+    obsidian_path: Path | None,
     brief_issues: list[str],
     contributions: list[dict[str, object]],
     reminders: list[str],
     brief_error: str = "",
+    obsidian_error: str = "",
 ) -> Path:
     INBOX_DIR.mkdir(parents=True, exist_ok=True)
     output_path = INBOX_DIR / f"{date}-run-summary.md"
@@ -126,6 +133,7 @@ def write_run_summary(
         f"- items: `{normalize_result.path.relative_to(ROOT)}`",
         f"- brief input: `{brief_input_path.relative_to(ROOT)}`",
         f"- brief: `{brief_path.relative_to(ROOT)}`" if brief_path else "- brief: not generated",
+        f"- obsidian: `{obsidian_path}`" if obsidian_path else "- obsidian: not exported",
         "",
         "## 去重状态",
         "",
@@ -162,13 +170,20 @@ def write_run_summary(
         lines.append(f"- 未生成简报：{brief_error}")
     else:
         lines.append("- 未生成简报")
+    lines.extend(["", "## Obsidian 导出", ""])
+    if obsidian_path:
+        lines.append(f"- 已导出：`{obsidian_path}`")
+    elif obsidian_error:
+        lines.append(f"- 导出失败：{obsidian_error}")
+    else:
+        lines.append("- 未导出")
     lines.extend(["", "## 今日提醒", ""])
     lines.extend([f"- {reminder}" for reminder in reminders])
     output_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return output_path
 
 
-def run(limit: int, generate_brief: bool, overwrite_brief: bool) -> None:
+def run(limit: int, generate_brief: bool, overwrite_brief: bool, export_obsidian: bool, overwrite_obsidian: bool) -> None:
     fetched_at = utc_now().isoformat()
     run_date = fetched_at[:10]
     sources = load_sources()
@@ -207,8 +222,17 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool) -> None:
     if brief_path:
         append_source_status(brief_path, statuses)
     brief_issues = check(run_date) if brief_path else []
+    obsidian_path = None
+    obsidian_error = ""
+    if export_obsidian and brief_path and not brief_issues:
+        try:
+            obsidian_path = export_brief(run_date, overwrite=overwrite_obsidian)
+        except Exception as error:
+            obsidian_error = str(error)
+            print(f"failed to export obsidian brief: {obsidian_error}")
+            write_log(f"failed to export obsidian brief: {obsidian_error}")
     contributions = source_contributions(items_path)
-    reminders = daily_reminders(statuses, normalize_result, brief_issues, contributions, brief_error)
+    reminders = daily_reminders(statuses, normalize_result, brief_issues, contributions, brief_error, obsidian_error)
 
     summary_path = write_run_summary(
         run_date,
@@ -216,10 +240,12 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool) -> None:
         normalize_result,
         brief_input_path,
         brief_path,
+        obsidian_path,
         brief_issues,
         contributions,
         reminders,
         brief_error,
+        obsidian_error,
     )
 
     print(f"done: {total_saved} new raw files")
@@ -230,6 +256,14 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool) -> None:
         f"{normalize_result.skipped_current_duplicates} current, {normalize_result.skipped_history_duplicates} history"
     )
     print(f"brief input: {brief_input_path.relative_to(ROOT)}")
+    if obsidian_path:
+        print(f"obsidian: {obsidian_path}")
+    elif export_obsidian and obsidian_error:
+        print(f"obsidian export: failed: {obsidian_error}")
+    elif export_obsidian and not brief_path:
+        print("obsidian export: skipped because brief was not generated")
+    elif export_obsidian and brief_issues:
+        print("obsidian export: skipped because brief quality check failed")
     print(f"run summary: {summary_path.relative_to(ROOT)}")
     print("daily reminders:")
     for reminder in reminders:
@@ -249,9 +283,17 @@ def main() -> None:
     parser.add_argument("--limit", type=int, default=10, help="Max entries per RSS source.")
     parser.add_argument("--generate-brief", action="store_true", help="Generate the final Markdown brief with Claude Code CLI.")
     parser.add_argument("--overwrite-brief", action="store_true", help="Overwrite existing brief file when generating.")
+    parser.add_argument("--export-obsidian", action="store_true", help="Export the generated brief to the configured Obsidian vault.")
+    parser.add_argument("--overwrite-obsidian", action="store_true", help="Overwrite existing Obsidian brief file when exporting.")
     args = parser.parse_args()
 
-    run(args.limit, generate_brief=args.generate_brief, overwrite_brief=args.overwrite_brief)
+    run(
+        args.limit,
+        generate_brief=args.generate_brief,
+        overwrite_brief=args.overwrite_brief,
+        export_obsidian=args.export_obsidian,
+        overwrite_obsidian=args.overwrite_obsidian,
+    )
 
 
 if __name__ == "__main__":

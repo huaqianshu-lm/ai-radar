@@ -3,11 +3,16 @@
 .AppleDouble
 .vscode/
 .idea/
+settings.json
 
 # Local environment
 .venv/
 venv/
 env/
+.env
+.env.local
+.env.development.local
+.env.production.local
 
 # Python cache / build artifacts
 __pycache__/
@@ -55,3 +60,5 @@ data/briefs/*
 
 data/tracking/*
 !data/tracking/.gitkeep
+
+data/wechat/*

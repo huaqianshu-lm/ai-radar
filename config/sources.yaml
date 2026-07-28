@@ -1,4 +1,15 @@
 sources:
+  - name: X AI Watchlist
+    type: aggregator
+    url: https://api.x.com/2/tweets/search/recent
+    mode: x_recent_search
+    query: '(AI OR Claude OR OpenAI OR Anthropic OR Gemini OR agent) lang:en -is:retweet'
+    token_env: X_BEARER_TOKEN
+    priority: medium
+    max_items: 5
+    enabled: false
+    notes: Temporarily disabled; X API recent search is deferred and should not participate in daily runs for now.
+
   - name: Anthropic News
     type: official
     url: https://www.anthropic.com/news

@@ -61,8 +61,33 @@ def get_items(section: str) -> list[str]:
 
 
 def field_value(item: str, field: str) -> str:
-    match = re.search(rf"(?m)^- {re.escape(field)}：(.+)$", item)
-    return match.group(1).strip() if match else ""
+    list_match = re.search(rf"(?m)^- {re.escape(field)}：(.+)$", item)
+    if list_match:
+        return list_match.group(1).strip()
+
+    quote_match = re.search(rf"(?m)^> \*\*{re.escape(field)}：\*\*\s*(.+)$", item)
+    if quote_match:
+        return quote_match.group(1).strip()
+
+    inline_bold_match = re.search(rf"(?m)^\*\*{re.escape(field)}：\*\*\s*(.+)$", item)
+    if inline_bold_match:
+        return inline_bold_match.group(1).strip()
+
+    heading_match = re.search(rf"(?m)^\*\*{re.escape(field)}\*\*\s*$", item)
+    if not heading_match:
+        return ""
+
+    lines = item[heading_match.end() :].splitlines()
+    value_lines: list[str] = []
+    for line in lines:
+        stripped = line.strip()
+        if not value_lines and not stripped:
+            continue
+        if re.match(r"^(\*\*[^*]+\*\*|> |---$|### |## )", stripped):
+            break
+        value_lines.append(line)
+
+    return "\n".join(value_lines).strip()
 
 
 def check_top_items(text: str) -> list[str]:

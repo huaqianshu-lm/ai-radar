@@ -9,4 +9,4 @@ if [ ! -x ".venv/bin/python" ]; then
   exit 1
 fi
 
-.venv/bin/python scripts/run_daily.py --generate-brief --overwrite-brief "$@"
+.venv/bin/python scripts/run_daily.py --generate-brief --overwrite-brief --export-obsidian --overwrite-obsidian "$@"
