@@ -18,6 +18,16 @@ DEFAULT_DEDUPE_DAYS = 14
 TRACKING_QUERY_PARAMS = {"fbclid", "gclid", "ref"}
 
 
+SOURCE_TYPE_CREDIBILITY_SCORES = {
+    "official": 5,
+    "developer": 4,
+    "curated": 4,
+    "discovery": 3,
+    "aggregator": 3,
+    "community": 2,
+}
+
+
 @dataclass(frozen=True)
 class NormalizeResult:
     path: Path
@@ -74,6 +84,10 @@ def normalize_url(url: str) -> str:
     return urlunsplit((parts.scheme.lower(), parts.netloc.lower(), path, query, ""))
 
 
+def dedupe_url_key(item: dict[str, Any]) -> str:
+    return normalize_url(str(item.get("canonical_url") or item.get("url") or ""))
+
+
 def historical_item_keys(date: str, days: int = DEFAULT_DEDUPE_DAYS) -> tuple[set[str], set[str]]:
     target_date = datetime.fromisoformat(date).date()
     urls: set[str] = set()
@@ -87,7 +101,7 @@ def historical_item_keys(date: str, days: int = DEFAULT_DEDUPE_DAYS) -> tuple[se
             if not line.strip():
                 continue
             item = json.loads(line)
-            url_key = normalize_url(str(item.get("url") or ""))
+            url_key = dedupe_url_key(item)
             title_key = normalize_title(str(item.get("title") or ""))
             if url_key:
                 urls.add(url_key)
@@ -97,22 +111,17 @@ def historical_item_keys(date: str, days: int = DEFAULT_DEDUPE_DAYS) -> tuple[se
     return urls, titles
 
 
-def sort_key(item: dict[str, Any]) -> tuple[int, str, str]:
+def sort_key(item: dict[str, Any]) -> tuple[int, int, str, str]:
     return (
         1 if item.get("is_list_page") else 0,
+        -int(item.get("credibility_score") or 0),
         str(item.get("published_at") or item.get("fetched_at") or ""),
         str(item.get("title") or ""),
     )
 
 
 def credibility_score(source_type: str) -> int:
-    if source_type == "official":
-        return 5
-    if source_type == "developer":
-        return 4
-    if source_type == "aggregator":
-        return 3
-    return 0
+    return SOURCE_TYPE_CREDIBILITY_SCORES.get(source_type, 0)
 
 
 def raw_to_item(path: Path) -> dict[str, Any]:
@@ -121,9 +130,13 @@ def raw_to_item(path: Path) -> dict[str, Any]:
     source_type = str(meta.get("source_type") or "")
     is_list_page = meta.get("is_list_page") in (True, "true", "True")
 
+    url = meta.get("url") or ""
+
     return {
         "title": meta.get("title") or "Untitled",
-        "url": meta.get("url") or "",
+        "url": url,
+        "source_url": meta.get("source_url") or url,
+        "canonical_url": meta.get("canonical_url") or url,
         "source": meta.get("source") or "",
         "source_type": source_type,
         "published_at": meta.get("published_at") or "",
@@ -156,7 +169,7 @@ def normalize(date: str) -> NormalizeResult:
 
     for path in raw_files:
         item = raw_to_item(path)
-        url_key = normalize_url(str(item.get("url") or ""))
+        url_key = dedupe_url_key(item)
         title_key = normalize_title(str(item.get("title") or ""))
         if (url_key and url_key in seen_urls) or (title_key and title_key in seen_titles):
             skipped_current_duplicates += 1

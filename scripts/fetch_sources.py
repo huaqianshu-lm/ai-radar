@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import json
 import os
 import re
 import subprocess
@@ -22,6 +23,21 @@ SOURCES_PATH = ROOT / "config" / "sources.yaml"
 ENV_LOCAL_PATH = ROOT / ".env.local"
 RAW_DIR = ROOT / "data" / "raw"
 LOG_PATH = ROOT / "logs" / "run.log"
+HN_API_BASE_URL = "https://hacker-news.firebaseio.com/v0"
+HN_AI_KEYWORDS = (
+    "ai",
+    "llm",
+    "claude",
+    "openai",
+    "anthropic",
+    "gemini",
+    "agent",
+    "agents",
+    "model",
+    "models",
+    "inference",
+    "rag",
+)
 
 
 def utc_now() -> datetime:
@@ -108,6 +124,8 @@ def entry_to_raw(source: dict[str, Any], entry: Any, fetched_at: str) -> dict[st
     return {
         "title": title,
         "url": url,
+        "source_url": url,
+        "canonical_url": url,
         "source": str(source.get("name", "")),
         "source_type": str(source.get("type", "")),
         "published_at": published_at,
@@ -168,6 +186,8 @@ def html_to_raw_item(source: dict[str, Any], url: str, html: str, fetched_at: st
     return {
         "title": title,
         "url": url,
+        "source_url": url,
+        "canonical_url": url,
         "source": str(source.get("name", "")),
         "source_type": str(source.get("type", "")),
         "published_at": "",
@@ -280,6 +300,8 @@ def tweet_to_raw(
     return {
         "title": title,
         "url": url,
+        "source_url": url,
+        "canonical_url": url,
         "source": str(source.get("name", "")),
         "source_type": str(source.get("type", "")),
         "published_at": str(tweet.get("created_at") or ""),
@@ -359,6 +381,8 @@ def fetch_github_trending(source: dict[str, Any], limit: int, fetched_at: str) -
             {
                 "title": title,
                 "url": url,
+                "source_url": url,
+                "canonical_url": url,
                 "source": str(source.get("name", "")),
                 "source_type": str(source.get("type", "")),
                 "published_at": "",
@@ -371,6 +395,78 @@ def fetch_github_trending(source: dict[str, Any], limit: int, fetched_at: str) -
 
     if not items:
         raise RuntimeError("GitHub Trending returned 0 repositories")
+    return items
+
+
+def hn_story_url(story_id: int) -> str:
+    return f"https://news.ycombinator.com/item?id={story_id}"
+
+
+def hn_published_at(value: Any) -> str:
+    if not value:
+        return ""
+    try:
+        timestamp = int(value)
+    except (TypeError, ValueError):
+        return ""
+    return datetime.fromtimestamp(timestamp, tz=timezone.utc).replace(microsecond=0).isoformat()
+
+
+def is_ai_hn_story(story: dict[str, Any]) -> bool:
+    haystack = " ".join(str(story.get(key) or "") for key in ("title", "url", "text")).lower()
+    tokens = set(re.findall(r"[a-z0-9]+", haystack))
+    return any(keyword in tokens for keyword in HN_AI_KEYWORDS)
+
+
+def hn_story_to_raw(source: dict[str, Any], story: dict[str, Any], fetched_at: str) -> dict[str, str]:
+    story_id = int(story["id"])
+    source_url = hn_story_url(story_id)
+    canonical_url = str(story.get("url") or source_url).strip()
+    title = str(story.get("title") or f"Hacker News story {story_id}").strip()
+    text = BeautifulSoup(str(story.get("text") or ""), "html.parser").get_text("\n", strip=True)
+
+    lines = [f"HN story: {source_url}"]
+    if canonical_url != source_url:
+        lines.append(f"Original URL: {canonical_url}")
+    if story.get("by"):
+        lines.append(f"Author: {story['by']}")
+    if story.get("score") is not None:
+        lines.append(f"Score: {story['score']}")
+    if text:
+        lines.extend(["", text])
+
+    return {
+        "title": title,
+        "url": canonical_url,
+        "source_url": source_url,
+        "canonical_url": canonical_url,
+        "source": str(source.get("name", "")),
+        "source_type": str(source.get("type", "")),
+        "published_at": hn_published_at(story.get("time")),
+        "fetched_at": fetched_at,
+        "content_type": "markdown",
+        "is_list_page": "false",
+        "content": "\n".join(lines),
+    }
+
+
+def fetch_hacker_news(source: dict[str, Any], limit: int, fetched_at: str) -> list[dict[str, str]]:
+    ids = json.loads(fetch_text(str(source.get("url") or f"{HN_API_BASE_URL}/topstories.json")))
+    scan_limit = int(source.get("scan_limit") or max(limit * 10, limit))
+    items: list[dict[str, str]] = []
+
+    for story_id in ids[:scan_limit]:
+        story = json.loads(fetch_text(f"{HN_API_BASE_URL}/item/{story_id}.json"))
+        if story.get("type") != "story":
+            continue
+        if not is_ai_hn_story(story):
+            continue
+        items.append(hn_story_to_raw(source, story, fetched_at))
+        if len(items) >= limit:
+            break
+
+    if not items:
+        raise RuntimeError("Hacker News returned 0 AI-related stories")
     return items
 
 
@@ -387,6 +483,8 @@ def render_raw(item: dict[str, str]) -> str:
         "---\n"
         f"title: \"{yaml_scalar(item['title'])}\"\n"
         f"url: \"{yaml_scalar(item['url'])}\"\n"
+        f"source_url: \"{yaml_scalar(item.get('source_url') or item['url'])}\"\n"
+        f"canonical_url: \"{yaml_scalar(item.get('canonical_url') or item['url'])}\"\n"
         f"source: \"{yaml_scalar(item['source'])}\"\n"
         f"source_type: \"{yaml_scalar(item['source_type'])}\"\n"
         f"published_at: \"{yaml_scalar(item['published_at'])}\"\n"
@@ -418,6 +516,8 @@ def fetch_source(source: dict[str, Any], limit: int, fetched_at: str) -> list[di
         return fetch_webpage(source, limit, fetched_at)
     if mode == "github_trending":
         return fetch_github_trending(source, limit, fetched_at)
+    if mode == "hacker_news":
+        return fetch_hacker_news(source, limit, fetched_at)
     if mode == "x_recent_search":
         return fetch_x_recent_search(source, limit, fetched_at)
     raise ValueError(f"unsupported mode: {mode}")

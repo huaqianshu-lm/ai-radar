@@ -77,6 +77,35 @@ sources:
     enabled: true
     notes: Daily GitHub Trending Python projects, used as an AI/open-source signal.
 
+  - name: Hacker News AI
+    type: discovery
+    url: https://hacker-news.firebaseio.com/v0/topstories.json
+    mode: hacker_news
+    priority: medium
+    max_items: 5
+    scan_limit: 50
+    enabled: true
+    notes: Hacker News top stories filtered for AI-related keywords using the official Firebase API.
+
+  - name: TLDR AI
+    type: curated
+    url: https://tldr.tech/api/rss/ai
+    mode: rss
+    priority: medium
+    max_items: 5
+    enabled: true
+    notes: Public RSS feed for TLDR AI newsletter, used as a curated AI news source.
+
+  - name: The Rundown AI
+    type: curated
+    url: https://www.therundown.ai/archive
+    mode: webpage
+    article_path_prefix: /p/
+    priority: medium
+    max_items: 20
+    enabled: true
+    notes: Public The Rundown AI archive page; uses stable /p/ newsletter detail URLs without parsing internal newsletter links.
+
   - name: Latent Space
     type: developer
     url: https://www.latent.space/feed
