@@ -120,6 +120,39 @@ def sort_key(item: dict[str, Any]) -> tuple[int, int, str, str]:
     )
 
 
+def cluster_key_for(item: dict[str, Any]) -> tuple[str, str]:
+    canonical_key = normalize_url(str(item.get("canonical_url") or ""))
+    if canonical_key:
+        return f"canonical_url:{canonical_key}", "canonical_url"
+
+    url_key = normalize_url(str(item.get("url") or ""))
+    if url_key:
+        return f"url:{url_key}", "url"
+
+    if not item.get("is_list_page"):
+        title_key = normalize_title(str(item.get("title") or ""))
+        if title_key:
+            return f"normalized_title:{title_key}", "normalized_title"
+
+    raw_path = str(item.get("raw_path") or "")
+    return f"raw_path:{raw_path}", "raw_path"
+
+
+def cluster_items(items: list[dict[str, Any]]) -> None:
+    clusters: dict[str, list[dict[str, Any]]] = {}
+    for item in items:
+        cluster_key, cluster_basis = cluster_key_for(item)
+        item["cluster_key"] = cluster_key
+        item["cluster_basis"] = cluster_basis
+        clusters.setdefault(cluster_key, []).append(item)
+
+    for members in clusters.values():
+        size = len(members)
+        for rank, item in enumerate(members):
+            item["cluster_size"] = size
+            item["cluster_rank"] = rank
+
+
 def credibility_score(source_type: str) -> int:
     return SOURCE_TYPE_CREDIBILITY_SCORES.get(source_type, 0)
 
@@ -184,6 +217,7 @@ def normalize(date: str) -> NormalizeResult:
         items.append(item)
 
     items.sort(key=sort_key)
+    cluster_items(items)
 
     with output_path.open("w", encoding="utf-8") as file:
         for item in items:

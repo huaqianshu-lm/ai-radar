@@ -10,6 +10,9 @@ v0 主链路已跑通，进入稳定性修复阶段。X API 窄口径来源接�
 
 ## 最近有效进度
 
+- 2026-07-29：完成 Phase 6 第三小步实际简报验证，使用当前 cluster metadata prompt 生成 `data/briefs/2026-07-29-ai-daily-brief.md`，质量检查通过；本次 items 写入 152 条，cluster 总数 152、multi-item cluster 0、max cluster size 1，因此实际输出主要验证了 prompt 兼容性和无重复展开退化问题，尚未覆盖多条目 cluster 的真实合并表达。
+- 2026-07-29：完成 Phase 6 第二小步 brief prompt 使用 cluster metadata，提示生成简报时同一 `cluster_key` 不重复展开，优先使用 `cluster_rank: 0` 的代表项，其他同 cluster 条目只作为辅助证据；仍不物理合并 items、不改变 JSONL 行数、不改变最终 brief 结构。
+- 2026-07-29：完成 Phase 6 第一小步事件聚类元数据，`items` 逐条新增 `cluster_key`、`cluster_basis`、`cluster_size`、`cluster_rank`，仅用于观察同一事件候选，不物理合并、不减少 JSONL 行数、不改 brief prompt、不做跨天聚类或 AI 聚类；run summary 新增「事件聚类观察」区块，记录 cluster 总数、多条目 cluster 数和最大 cluster size。
 - 2026-07-29：完成 Phase 5 轻量来源权重和规则评分整理，集中维护 `source_type` 到 `credibility_score` 的可解释映射：`official=5`、`developer=4`、`curated=4`、`discovery=3`、`aggregator=3`、`community=2`；items 排序在保留列表页降权的基础上加入可信度优先，不引入 AI 自动评分、`novelty_score` 或复杂主题价值评分。
 - 2026-07-29：完成 Phase 4 最小精选源接入，确认 `https://tldr.tech/api/rss/ai` 为公开可解析 RSS，新增 `TLDR AI` curated 来源；确认 `https://www.therundown.ai/archive` 可公开访问且首屏 HTML 可提取 16 个稳定 `/p/...` newsletter 详情页链接，新增 `The Rundown AI` curated 来源，复用现有 `webpage` 模式和 `article_path_prefix: /p/`，不新增 archive parser；`curated` 的 `credibility_score` 设为 4。当前 TLDR RSS 只能稳定获得 newsletter archive URL，因此本阶段 `source_url` / `canonical_url` 均指向 TLDR archive；The Rundown 第一版仅把 newsletter 详情页作为 editorial source，不解析每期内部新闻、不解析发布时间、不做分页。
 - 2026-07-29：完成 Phase 3 Hacker News 发现源接入，新增 `hacker_news` 抓取模式和 `Hacker News AI` 配置，使用 HN Firebase API 读取 top stories 和 item JSON；通过关键词 token 过滤 AI 相关 story，raw/items 中 `source_url` 记录 HN story，`canonical_url` 记录原始外部链接，`source_type` 为 `discovery`，`credibility_score` 为 3；未做事件聚类、复杂评分或 brief 结构修改。
@@ -34,11 +37,14 @@ v0 主链路已跑通，进入稳定性修复阶段。X API 窄口径来源接�
 
 ## 下一步
 
-1. 等待用户确认 Phase 5 轻量评分整理结果是否符合预期。
-2. 如确认继续，进入 Phase 6：事件聚类和多来源合并；先只做规则级方案，不直接进入复杂实现。
+1. 等待用户确认 Phase 6 实际简报验证结果是否符合预期。
+2. 如确认继续，下一小步再决定是否提交 Phase 6 改动，或继续观察多条目 cluster 的真实样本；仍不做物理合并。
 
 ## 最近验证
 
+- 2026-07-29：运行 `.venv/bin/python scripts/run_daily.py --generate-brief --overwrite-brief` 成功，生成 `data/briefs/2026-07-29-ai-daily-brief.md`，质量检查通过；本次新增 1 个 HN raw，`data/items/2026-07-29.jsonl` 写入 152 条，去重统计为 4 条当日重复、66 条历史重复，run summary 显示 cluster 总数 152、multi-item cluster 0、max cluster size 1；人工抽查简报结构正常，未出现 cluster 字段暴露或同一 cluster 重复展开问题。
+- 2026-07-29：运行 `.venv/bin/python scripts/prepare_brief_input.py --date 2026-07-29` 成功；检查确认 `data/inbox/2026-07-29-brief-input.md` 包含 `cluster_key`、`cluster_rank: 0`、`cluster_size` 以及“同一 `cluster_key` 的条目不要重复展开”规则；运行 `.venv/bin/python scripts/run_daily.py` 成功，items 写入 151 条，去重统计为 4 条当日重复、66 条历史重复，brief input 和 run summary 均正常生成。
+- 2026-07-29：运行 `.venv/bin/python -m py_compile scripts/normalize_items.py scripts/run_daily.py` 成功；运行 `.venv/bin/python scripts/normalize_items.py --date 2026-07-29` 和 `.venv/bin/python scripts/prepare_brief_input.py --date 2026-07-29` 成功；字段检查确认 148 条 items 均包含 `cluster_key`、`cluster_basis`、`cluster_size`、`cluster_rank`，无空 cluster 字段，rank 无异常，当时 cluster 总数 148、multi-item cluster 0、max cluster size 1；运行 `.venv/bin/python scripts/run_daily.py` 成功，新增 3 个 raw 后 `data/items/2026-07-29.jsonl` 写入 151 条，去重统计为 4 条当日重复、66 条历史重复，run summary 正常生成「事件聚类观察」区块，复查确认 151 条 items 均有 cluster metadata，cluster 总数 151、multi-item cluster 0、max cluster size 1。
 - 2026-07-29：运行 `.venv/bin/python -m py_compile scripts/normalize_items.py` 成功；运行 `.venv/bin/python scripts/normalize_items.py --date 2026-07-29` 和 `.venv/bin/python scripts/prepare_brief_input.py --date 2026-07-29` 成功，`data/items/2026-07-29.jsonl` 写入 148 条，去重统计为 4 条当日重复、66 条历史重复；字段检查确认当前 items 中 `official=5`、`developer=4`、`curated=4`、`discovery=3`，前 20 条无列表页且排序优先高可信来源；运行 `.venv/bin/python scripts/run_daily.py` 成功，主流程继续生成 items、brief input 和 run summary。
 - 2026-07-29：运行公开端点检查，确认 `https://tldr.tech/api/rss/ai` 返回 `text/xml` 且可解析出 20 条 RSS entries；确认 `https://www.therundown.ai/archive` 返回 `200 text/html`，页面 HTML 可提取 16 个 `/p/...` newsletter 详情页链接；`https://www.therundown.ai/feed` 和 `https://www.therundown.ai/rss` 返回 404，因此 The Rundown AI 改按 Archive 最小方案接入。运行 `.venv/bin/python -m py_compile scripts/fetch_sources.py scripts/normalize_items.py` 成功；运行 `.venv/bin/python scripts/fetch_sources.py --limit 20` 成功，`The Rundown AI` 抓取 16 条并写入 16 个 raw，raw 的 `url` / `source_url` / `canonical_url` 均为 `/p/...` 详情页且 `is_list_page: false`；运行 `.venv/bin/python scripts/run_daily.py` 成功，`The Rundown AI` 抓取 16 条，`data/items/2026-07-29.jsonl` 写入 148 条，去重统计为 4 条当日重复、66 条历史重复；检查确认 16 条 The Rundown items 的 `source_type` 为 `curated`，`credibility_score` 为 4，`is_list_page` 均为 false。
 - 2026-07-29：运行 `.venv/bin/python -m py_compile scripts/fetch_sources.py scripts/normalize_items.py` 成功；函数级验证 `fetch_hacker_news` 成功返回 AI 相关 HN stories，并确认 `source_url` 为 HN story、`canonical_url` 为外部原始链接；运行 `.venv/bin/python scripts/run_daily.py` 成功，`Hacker News AI` 抓取 5 条并写入 raw，`data/items/2026-07-29.jsonl` 写入 18 条，去重统计为 1 条当日重复、27 条历史重复；检查确认 5 条 HN items 的 `source_type` 为 `discovery`，`credibility_score` 为 3。

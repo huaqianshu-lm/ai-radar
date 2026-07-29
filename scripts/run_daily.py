@@ -65,6 +65,28 @@ def source_contributions(items_path: Path) -> list[dict[str, object]]:
     return sorted(contributions, key=lambda item: (-int(item["items"]), str(item["source"])))
 
 
+def cluster_summary(items_path: Path) -> dict[str, int]:
+    if not items_path.exists():
+        return {"clusters": 0, "multi_item_clusters": 0, "max_cluster_size": 0}
+
+    clusters: dict[str, int] = {}
+    for line in items_path.read_text(encoding="utf-8").splitlines():
+        if not line.strip():
+            continue
+        item = json.loads(line)
+        cluster_key = str(item.get("cluster_key") or item.get("canonical_url") or item.get("url") or item.get("raw_path") or "")
+        if not cluster_key:
+            continue
+        clusters[cluster_key] = clusters.get(cluster_key, 0) + 1
+
+    sizes = list(clusters.values())
+    return {
+        "clusters": len(clusters),
+        "multi_item_clusters": sum(1 for size in sizes if size > 1),
+        "max_cluster_size": max(sizes, default=0),
+    }
+
+
 def daily_reminders(
     statuses: list[dict[str, object]],
     normalize_result: NormalizeResult,
@@ -119,6 +141,7 @@ def write_run_summary(
     obsidian_path: Path | None,
     brief_issues: list[str],
     contributions: list[dict[str, object]],
+    cluster_stats: dict[str, int],
     reminders: list[str],
     brief_error: str = "",
     obsidian_error: str = "",
@@ -140,6 +163,12 @@ def write_run_summary(
         f"- raw scanned: {normalize_result.raw_count}",
         f"- items written: {normalize_result.written_count}",
         f"- duplicates skipped: {normalize_result.skipped_current_duplicates} current, {normalize_result.skipped_history_duplicates} history",
+        "",
+        "## 事件聚类观察",
+        "",
+        f"- clusters: {cluster_stats['clusters']}",
+        f"- multi-item clusters: {cluster_stats['multi_item_clusters']}",
+        f"- max cluster size: {cluster_stats['max_cluster_size']}",
         "",
         "## 来源状态",
         "",
@@ -232,6 +261,7 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool, export_obsidian
             print(f"failed to export obsidian brief: {obsidian_error}")
             write_log(f"failed to export obsidian brief: {obsidian_error}")
     contributions = source_contributions(items_path)
+    cluster_stats = cluster_summary(items_path)
     reminders = daily_reminders(statuses, normalize_result, brief_issues, contributions, brief_error, obsidian_error)
 
     summary_path = write_run_summary(
@@ -243,6 +273,7 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool, export_obsidian
         obsidian_path,
         brief_issues,
         contributions,
+        cluster_stats,
         reminders,
         brief_error,
         obsidian_error,
