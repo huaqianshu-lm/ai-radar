@@ -40,6 +40,7 @@ dist/
 
 # Claude Code local state / scratch plans
 .claude/
+.playwright-mcp/
 .claude-plan.md
 local/
 
