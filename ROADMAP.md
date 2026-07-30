@@ -10,6 +10,10 @@ v0 主链路已跑通，进入稳定性修复阶段。X API 窄口径来源接�
 
 ## 最近有效进度
 
+- 2026-07-30：完成默认流程下候选不足原因观察，确认 `data/items/2026-07-30.jsonl` 只有 13 条主要是正常的 14 天历史去重效果，不是抓取失败或 RSS fallback 失效；当天 raw 68 个中 55 个被历史去重过滤，过滤基本按 URL 命中历史记录，`TLDR AI`、`The Rundown AI`、`Hugging Face Blog`、官方博客和 GitHub Trending 等来源当天候选大多已在 2026-07-21 至 2026-07-29 期间进入过 raw/items。当前不建议立刻放宽 items 去重，否则会把旧新闻重新推入 brief input；后续更合理的方向是单独设计 brief input 候选池策略，而不是改 raw append-only 或 items 去重语义。
+- 2026-07-30：完成 Phase 7 第二小步的次日 fresh run 观察，默认流程成功生成 `data/items/2026-07-30.jsonl`、`data/inbox/2026-07-30-brief-input.md` 和 `data/inbox/2026-07-30-run-summary.md`；本次 `TLDR AI` / `Hugging Face Blog` 抓取成功但新增 raw 均为 0，候选被 14 天历史去重过滤，未进入当日来源贡献统计，因此本次只能确认主流程无异常和短摘要提醒消失，不能作为目标来源平均摘要长度已改善的直接证据。
+- 2026-07-29：完成 Phase 7 第二小步 RSS 摘要质量修复，给 `TLDR AI` 和 `Hugging Face Blog` 显式开启 `fetch_article_content: true`，当 RSS entry 摘要为空或过短时回退抓取详情页正文；单篇失败只记录日志，不影响来源和主流程；未全局开启 RSS 全文抓取、未拆 TLDR newsletter、未引入 AI 摘要。
+- 2026-07-29：完成 Phase 7 第一小步前端展示短摘要字段，`items` 新增 `display_summary`，由 raw 正文确定性截断生成，作为未来前端新闻卡片展示用短摘要；`summary` 保持原有 brief 判断用途和约 500 字符上限，不改 brief 结构、不做前端、不引入 AI 摘要。
 - 2026-07-29：完成 Phase 6 第三小步实际简报验证，使用当前 cluster metadata prompt 生成 `data/briefs/2026-07-29-ai-daily-brief.md`，质量检查通过；本次 items 写入 152 条，cluster 总数 152、multi-item cluster 0、max cluster size 1，因此实际输出主要验证了 prompt 兼容性和无重复展开退化问题，尚未覆盖多条目 cluster 的真实合并表达。
 - 2026-07-29：完成 Phase 6 第二小步 brief prompt 使用 cluster metadata，提示生成简报时同一 `cluster_key` 不重复展开，优先使用 `cluster_rank: 0` 的代表项，其他同 cluster 条目只作为辅助证据；仍不物理合并 items、不改变 JSONL 行数、不改变最终 brief 结构。
 - 2026-07-29：完成 Phase 6 第一小步事件聚类元数据，`items` 逐条新增 `cluster_key`、`cluster_basis`、`cluster_size`、`cluster_rank`，仅用于观察同一事件候选，不物理合并、不减少 JSONL 行数、不改 brief prompt、不做跨天聚类或 AI 聚类；run summary 新增「事件聚类观察」区块，记录 cluster 总数、多条目 cluster 数和最大 cluster size。
@@ -31,17 +35,22 @@ v0 主链路已跑通，进入稳定性修复阶段。X API 窄口径来源接�
 
 ## 当前问题
 
-- Hugging Face Blog 摘要偏短，生成简报时需要注意信息不足。
+- `TLDR AI` / `Hugging Face Blog` 已启用详情页正文 fallback，2026-07-30 默认流程短摘要提醒已消失；但这两个来源当天新增 raw 均为 0，候选被 14 天历史去重过滤，仍需等它们实际产生新 item 后再确认来源贡献统计中的平均摘要长度。
+- 2026-07-30 当天 items 只有 13 条，经检查主要是 14 天历史去重正常生效：68 个 raw 中 55 个命中历史重复，绝大多数按 URL 命中，不是抓取失败；短期不建议放宽 items 去重把旧内容重新送入 brief input。
 - `data/wechat/` 已按当前策略加入忽略，不纳入版本管理；如后续要沉淀公众号发布稿，需要重新确认存放和提交规则。
 - 公众号草稿生成没有出现在 2026-07-21 run summary 中，需要后续确认是否仍纳入自动流程。
 
 ## 下一步
 
-1. 等待用户确认 Phase 6 实际简报验证结果是否符合预期。
-2. 如确认继续，下一小步再决定是否提交 Phase 6 改动，或继续观察多条目 cluster 的真实样本；仍不做物理合并。
+1. 等待用户确认是否提交 Phase 7 改动。
+2. 如确认继续，下一小步建议先讨论并设计 brief input 候选池策略：保持 `items` 只代表当日新增内容，同时考虑在候选不足时是否从近 3～7 天高质量历史 items 中补充一个单独的“近期仍可参考候选”区块，避免日更来源重复刷屏，也避免当天新增过少导致简报素材不足。
 
 ## 最近验证
 
+- 2026-07-30：分析 `data/raw/2026-07-30/` 与 `data/items/2026-07-30.jsonl` 的来源分布和历史重复命中，确认当天 raw 68 个、items 13 条，过滤掉的 55 个候选主要按 URL 命中 2026-07-21 至 2026-07-29 历史 raw；`TLDR AI` 5/5、`The Rundown AI` 16/16、`Hugging Face Blog` 5/5、多数官方博客和 GitHub Trending 候选均为历史重复，进入 items 的主要是 `Hacker News AI` 5 条、`Simon Willison` 4 条、`OpenAI News` 3 条、`Latent Space` 1 条。结论是候选不足主要来自去重策略正常生效，暂不建议放宽 items 去重。
+- 2026-07-30：运行 `.venv/bin/python scripts/run_daily.py` 成功，生成 `data/items/2026-07-30.jsonl`、`data/inbox/2026-07-30-brief-input.md` 和 `data/inbox/2026-07-30-run-summary.md`；本次扫描 raw 68 个、写入 items 13 条、历史重复过滤 55 条，`Hacker News AI` 新增 raw 2 条；`TLDR AI` / `Hugging Face Blog` 抓取均成功但新增 raw 0 条，且未进入来源贡献统计，run summary 今日提醒为“今日无明显异常”，说明默认流程已不再提示这两个来源摘要偏短，但仍需等目标来源产生新 item 后确认平均摘要长度。
+- 2026-07-29：运行 `.venv/bin/python -m py_compile scripts/fetch_sources.py` 成功；内存级验证 `fetch_source()` 显示 `Hugging Face Blog` 5 条内容长度分别为 11951、7612、9082、36382、15885，`TLDR AI` 5 条内容长度分别为 6833、5073、6287、7148、4673，确认详情页正文 fallback 生效且 TLDR 仍保持一期 newsletter 一个 item；运行 `.venv/bin/python scripts/run_daily.py` 成功，因当天目标 URL 旧 raw 已存在且 raw 只追加不覆盖，本次新增 raw 0 条，run summary 中 TLDR AI / Hugging Face Blog 的 `avg summary chars` 仍沿用旧 raw 统计，需要下一天 fresh raw 继续观察；字段复查确认 156 条 items 均包含 `summary`、`display_summary` 和 cluster metadata。
+- 2026-07-29：运行 `.venv/bin/python -m py_compile scripts/normalize_items.py` 成功；运行 `.venv/bin/python scripts/normalize_items.py --date 2026-07-29` 和 `.venv/bin/python scripts/prepare_brief_input.py --date 2026-07-29` 成功，字段检查确认 152 条 items 均包含 `summary` 和 `display_summary`，`summary` 最大长度 503、`display_summary` 最大长度 163，cluster metadata 无缺失；运行 `.venv/bin/python scripts/run_daily.py` 成功，本次新增 4 个 raw，`data/items/2026-07-29.jsonl` 写入 156 条，复查确认 156 条 items 均包含 `display_summary`，run summary 正常生成且摘要偏短提醒仍基于 `summary`。
 - 2026-07-29：运行 `.venv/bin/python scripts/run_daily.py --generate-brief --overwrite-brief` 成功，生成 `data/briefs/2026-07-29-ai-daily-brief.md`，质量检查通过；本次新增 1 个 HN raw，`data/items/2026-07-29.jsonl` 写入 152 条，去重统计为 4 条当日重复、66 条历史重复，run summary 显示 cluster 总数 152、multi-item cluster 0、max cluster size 1；人工抽查简报结构正常，未出现 cluster 字段暴露或同一 cluster 重复展开问题。
 - 2026-07-29：运行 `.venv/bin/python scripts/prepare_brief_input.py --date 2026-07-29` 成功；检查确认 `data/inbox/2026-07-29-brief-input.md` 包含 `cluster_key`、`cluster_rank: 0`、`cluster_size` 以及“同一 `cluster_key` 的条目不要重复展开”规则；运行 `.venv/bin/python scripts/run_daily.py` 成功，items 写入 151 条，去重统计为 4 条当日重复、66 条历史重复，brief input 和 run summary 均正常生成。
 - 2026-07-29：运行 `.venv/bin/python -m py_compile scripts/normalize_items.py scripts/run_daily.py` 成功；运行 `.venv/bin/python scripts/normalize_items.py --date 2026-07-29` 和 `.venv/bin/python scripts/prepare_brief_input.py --date 2026-07-29` 成功；字段检查确认 148 条 items 均包含 `cluster_key`、`cluster_basis`、`cluster_size`、`cluster_rank`，无空 cluster 字段，rank 无异常，当时 cluster 总数 148、multi-item cluster 0、max cluster size 1；运行 `.venv/bin/python scripts/run_daily.py` 成功，新增 3 个 raw 后 `data/items/2026-07-29.jsonl` 写入 151 条，去重统计为 4 条当日重复、66 条历史重复，run summary 正常生成「事件聚类观察」区块，复查确认 151 条 items 均有 cluster metadata，cluster 总数 151、multi-item cluster 0、max cluster size 1。

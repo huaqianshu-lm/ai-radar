@@ -38,6 +38,7 @@ HN_AI_KEYWORDS = (
     "inference",
     "rag",
 )
+RSS_ARTICLE_FALLBACK_MIN_CHARS = 80
 
 
 def utc_now() -> datetime:
@@ -112,14 +113,43 @@ def parse_date(value: str | None) -> str:
     return parsed.astimezone(timezone.utc).replace(microsecond=0).isoformat()
 
 
+def entry_text(entry: Any) -> str:
+    candidates = [entry.get("summary", ""), entry.get("description", "")]
+    for content in entry.get("content", []) or []:
+        if isinstance(content, dict):
+            candidates.append(content.get("value", ""))
+
+    for candidate in candidates:
+        text = str(candidate or "").strip()
+        if not text:
+            continue
+        soup = BeautifulSoup(text, "html.parser")
+        return soup.get_text("\n", strip=True)
+    return ""
+
+
+def extract_html_content(url: str, html: str) -> str:
+    extracted = trafilatura.extract(html, url=url, output_format="markdown")
+    if extracted:
+        return extracted
+    soup = BeautifulSoup(html, "html.parser")
+    return soup.get_text("\n", strip=True)[:5000]
+
+
+def should_fetch_article_content(source: dict[str, Any], content: str, url: str) -> bool:
+    if source.get("fetch_article_content") is not True:
+        return False
+    if len(content.strip()) >= RSS_ARTICLE_FALLBACK_MIN_CHARS:
+        return False
+    parsed = urlparse(url)
+    return parsed.scheme in {"http", "https"} and bool(parsed.netloc)
+
+
 def entry_to_raw(source: dict[str, Any], entry: Any, fetched_at: str) -> dict[str, str]:
     title = str(entry.get("title", "")).strip() or "Untitled"
     url = str(entry.get("link", source.get("url", ""))).strip()
-    summary = str(entry.get("summary", "") or entry.get("description", "")).strip()
+    text = entry_text(entry)
     published_at = parse_date(entry.get("published") or entry.get("updated"))
-
-    soup = BeautifulSoup(summary, "html.parser")
-    text = soup.get_text("\n", strip=True) if summary else ""
 
     return {
         "title": title,
@@ -132,7 +162,7 @@ def entry_to_raw(source: dict[str, Any], entry: Any, fetched_at: str) -> dict[st
         "fetched_at": fetched_at,
         "content_type": "markdown",
         "is_list_page": "false",
-        "content": text or summary or url,
+        "content": text or url,
     }
 
 
@@ -147,7 +177,20 @@ def fetch_rss(source: dict[str, Any], limit: int, fetched_at: str) -> list[dict[
         write_log(f"rss parse warning: {source['name']}: {getattr(feed, 'bozo_exception', '')}")
     if not feed.entries:
         raise RuntimeError("RSS returned 0 entries")
-    return [entry_to_raw(source, entry, fetched_at) for entry in feed.entries[:limit]]
+
+    items: list[dict[str, str]] = []
+    for entry in feed.entries[:limit]:
+        item = entry_to_raw(source, entry, fetched_at)
+        if should_fetch_article_content(source, item["content"], item["url"]):
+            try:
+                article_html = fetch_text(item["url"])
+                article_content = extract_html_content(item["url"], article_html)
+                if len(article_content.strip()) > len(item["content"].strip()):
+                    item["content"] = article_content
+            except Exception as error:
+                write_log(f"rss article content fallback failed: {source['name']}: {item['url']}: {error}")
+        items.append(item)
+    return items
 
 
 def fetch_text(url: str) -> str:
@@ -179,7 +222,6 @@ def fetch_text(url: str) -> str:
 
 
 def html_to_raw_item(source: dict[str, Any], url: str, html: str, fetched_at: str, is_list_page: bool) -> dict[str, str]:
-    extracted = trafilatura.extract(html, url=url, output_format="markdown")
     soup = BeautifulSoup(html, "html.parser")
     title = soup.title.get_text(strip=True) if soup.title else source.get("name", "Untitled")
 
@@ -194,7 +236,7 @@ def html_to_raw_item(source: dict[str, Any], url: str, html: str, fetched_at: st
         "fetched_at": fetched_at,
         "content_type": "markdown",
         "is_list_page": "true" if is_list_page else "false",
-        "content": extracted or soup.get_text("\n", strip=True)[:5000],
+        "content": extract_html_content(url, html),
     }
 
 

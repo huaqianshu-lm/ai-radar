@@ -101,11 +101,14 @@ data/items/YYYY-MM-DD.jsonl
 
 - `title`
 - `url`
+- `source_url`
+- `canonical_url`
 - `source`
 - `source_type`
 - `published_at`
 - `fetched_at`
 - `summary`
+- `display_summary`
 - `category`
 - `importance_score`
 - `relevance_score`
@@ -115,6 +118,12 @@ data/items/YYYY-MM-DD.jsonl
 - `reason`
 - `raw_path`
 - `is_list_page`
+- `cluster_key`
+- `cluster_basis`
+- `cluster_size`
+- `cluster_rank`
+
+`summary` 是供 brief 判断使用的较完整候选摘要；`display_summary` 是供未来前端卡片展示的短摘要，由 raw 正文确定性截断生成，brief 仍优先使用 `summary`。
 
 v0 不做 AI 评分，`importance_score` 和 `relevance_score` 默认为 `0`，等待人工或 Claude Code 简报阶段判断。
 

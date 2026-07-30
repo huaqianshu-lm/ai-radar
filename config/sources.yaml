@@ -65,6 +65,7 @@ sources:
     mode: rss
     priority: medium
     max_items: 5
+    fetch_article_content: true
     enabled: true
     notes: Hugging Face official blog feed.
 
@@ -93,6 +94,7 @@ sources:
     mode: rss
     priority: medium
     max_items: 5
+    fetch_article_content: true
     enabled: true
     notes: Public RSS feed for TLDR AI newsletter, used as a curated AI news source.
 
