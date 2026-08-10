@@ -14,12 +14,12 @@ REQUIRED_TEXT = [
     "## 次级关注 5 条",
     "## GitHub Trending 技术趋势观察",
     "## 其他值得关注",
+    "## 知识库入库候选",
     "## 今日判断",
     "## 明天继续追踪",
 ]
 
 BANNED_TEXT = [
-    "是否值得入库",
     "是否值得写文章",
     "## 可写选题",
     "## 值得入库的原始资料",
@@ -30,6 +30,7 @@ PLACEHOLDERS = ["____", "TODO", "待补充"]
 TOP_SECTION = "## 今日最重要的 5 件事"
 SECONDARY_SECTION = "## 次级关注 5 条"
 GITHUB_SECTION = "## GitHub Trending 技术趋势观察"
+ARCHIVE_SECTION = "## 知识库入库候选"
 SUMMARY_MIN_CHARS = 80
 SUMMARY_MAX_CHARS = 500
 
@@ -73,6 +74,10 @@ def field_value(item: str, field: str) -> str:
     if inline_bold_match:
         return inline_bold_match.group(1).strip()
 
+    plain_match = re.search(rf"(?m)^{re.escape(field)}：\s*(.+)$", item)
+    if plain_match:
+        return plain_match.group(1).strip()
+
     heading_match = re.search(rf"(?m)^\*\*{re.escape(field)}\*\*\s*$", item)
     if not heading_match:
         return ""
@@ -90,6 +95,18 @@ def field_value(item: str, field: str) -> str:
     return "\n".join(value_lines).strip()
 
 
+def field_value_any(item: str, fields: list[str]) -> str:
+    for field in fields:
+        value = field_value(item, field)
+        if value:
+            return value
+    return ""
+
+
+def top_summary_bullets(item: str) -> list[str]:
+    return [line[2:].strip() for line in item.splitlines() if re.match(r"^- \S", line)]
+
+
 def check_top_items(text: str) -> list[str]:
     issues: list[str] = []
     top_section = get_section(text, TOP_SECTION)
@@ -105,18 +122,37 @@ def check_top_items(text: str) -> list[str]:
     if len(top_items) < 5 and "今日候选不足" not in text:
         issues.append("has fewer than 5 Top items but does not explain candidate shortage")
 
-    required_fields = ["来源", "原文链接", "摘要", "能力与应用", "为什么重要", "对我的影响", "后续关注", "推荐动作"]
+    # Keep historical briefs valid while requiring the compact format for new output.
+    legacy_fields = ["来源", "原文链接", "摘要", "为什么重要", "对我的影响", "后续关注", "推荐动作"]
     source_counts: dict[str, int] = {}
     for index, item in enumerate(top_items, start=1):
-        for field in required_fields:
-            if not field_value(item, field):
-                issues.append(f"Top item {index} missing field: {field}")
+        original_link = field_value_any(item, ["原文", "原文链接"])
+        new_format_fields = {
+            "发布时间": field_value(item, "发布时间"),
+            "影响": field_value(item, "影响"),
+            "原文": original_link,
+        }
+        is_new_format = all(new_format_fields.values())
+        is_legacy_format = all(field_value(item, field) for field in legacy_fields)
+
+        if not is_new_format and not is_legacy_format:
+            for field, value in new_format_fields.items():
+                if not value:
+                    issues.append(f"Top item {index} missing field: {field}")
+
+        if is_new_format:
+            bullets = top_summary_bullets(item)
+            if len(bullets) < 2 or len(bullets) > 4:
+                issues.append(f"Top item {index} should have 2–4 summary bullets, got {len(bullets)}")
+            summary = "\n".join(bullets)
+        else:
+            summary = field_value(item, "摘要")
 
         source = field_value(item, "来源")
         if source:
             source_counts[source] = source_counts.get(source, 0) + 1
 
-        source_link = field_value(item, "原文链接")
+        source_link = original_link
         if source_link and not source_link.startswith("http"):
             issues.append(f"Top item {index} source link is not a URL")
 
@@ -184,6 +220,41 @@ def check_github_items(text: str) -> list[str]:
     return issues
 
 
+def check_archive_items(text: str) -> list[str]:
+    issues: list[str] = []
+    archive_section = get_section(text, ARCHIVE_SECTION)
+    archive_items = get_items(archive_section)
+
+    if len(archive_items) > 5:
+        issues.append(f"Archive candidate count should be at most 5, got {len(archive_items)}")
+
+    required_fields = [
+        "来源",
+        "原文链接",
+        "入库建议",
+        "入库类型",
+        "关联主题",
+        "入库理由",
+        "与现有知识或项目的连接",
+        "我的理解",
+        "对我的启发",
+    ]
+    for index, item in enumerate(archive_items, start=1):
+        for field in required_fields:
+            if not field_value(item, field):
+                issues.append(f"Archive item {index} missing field: {field}")
+
+        source_link = field_value(item, "原文链接")
+        if source_link and not source_link.startswith("http"):
+            issues.append(f"Archive item {index} source link is not a URL")
+
+        recommendation = field_value(item, "入库建议")
+        if recommendation and recommendation != "直接入库":
+            issues.append(f"Archive item {index} has invalid recommendation: {recommendation}")
+
+    return issues
+
+
 def check(date: str) -> list[str]:
     path = BRIEFS_DIR / f"{date}-ai-daily-brief.md"
     if not path.exists():
@@ -210,6 +281,7 @@ def check(date: str) -> list[str]:
     issues.extend(check_top_items(text))
     issues.extend(check_secondary_items(text))
     issues.extend(check_github_items(text))
+    issues.extend(check_archive_items(text))
     return issues
 
 

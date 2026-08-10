@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: ai-radar-remote-fetch
@@ -25,6 +25,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -41,50 +43,64 @@ jobs:
         id: date
         run: echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
 
-      - name: Restore items history for deduplication
-        uses: actions/cache/restore@v4
-        with:
-          path: data/items
-          key: ai-radar-news-state-${{ github.run_id }}
-          restore-keys: |
-            ai-radar-news-state-
+      - name: Fetch raw news
+        run: python scripts/fetch_sources.py
 
-      - name: Fetch news and prepare remote outputs
-        run: python scripts/run_daily.py
-
-      - name: Validate remote outputs
+      - name: Validate remote raw
         if: always()
         run: |
-          items_path="data/items/${{ steps.date.outputs.date }}.jsonl"
-          brief_input_path="data/inbox/${{ steps.date.outputs.date }}-brief-input.md"
-          summary_path="data/inbox/${{ steps.date.outputs.date }}-run-summary.md"
+          raw_dir="data/raw/${{ steps.date.outputs.date }}"
+          raw_count="$(find "$raw_dir" -type f -name '*.md' 2>/dev/null | wc -l | tr -d ' ')"
 
-          test -f "$items_path" || { echo "Missing $items_path"; exit 1; }
-          test -f "$brief_input_path" || { echo "Missing $brief_input_path"; exit 1; }
-          test -f "$summary_path" || { echo "Missing $summary_path"; exit 1; }
-
-          if [ ! -s "$items_path" ]; then
-            echo "No items were produced; inspect the run summary and source failures."
+          if [ "$raw_count" -eq 0 ]; then
+            echo "No raw files were produced; inspect the fetch log and source failures."
             exit 1
           fi
 
-      - name: Save items history for the next run
-        if: always()
-        uses: actions/cache/save@v4
-        with:
-          path: data/items
-          key: ai-radar-news-state-${{ github.run_id }}
+          echo "Remote raw files: $raw_count"
 
-      - name: Upload daily news artifact
+      - name: Publish raw for local sync
+        if: success()
+        env:
+          RUN_DATE: ${{ steps.date.outputs.date }}
+        run: |
+          set -euo pipefail
+
+          sync_branch="remote-news"
+          sync_dir="$(mktemp -d)"
+          cleanup() {
+            git worktree remove --force "$sync_dir" >/dev/null 2>&1 || true
+          }
+          trap cleanup EXIT
+
+          if git ls-remote --exit-code --heads origin "$sync_branch" >/dev/null 2>&1; then
+            git fetch --no-tags origin "refs/heads/$sync_branch:refs/remotes/origin/$sync_branch"
+            git worktree add --detach "$sync_dir" "origin/$sync_branch"
+          else
+            git worktree add --detach "$sync_dir" HEAD
+          fi
+
+          mkdir -p "$sync_dir/data/raw/$RUN_DATE"
+          cp -R "data/raw/$RUN_DATE/." "$sync_dir/data/raw/$RUN_DATE/"
+
+          git -C "$sync_dir" config user.name "github-actions[bot]"
+          git -C "$sync_dir" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C "$sync_dir" add -f "data/raw/$RUN_DATE"
+
+          if git -C "$sync_dir" diff --cached --quiet; then
+            echo "No new raw files to publish."
+          else
+            git -C "$sync_dir" commit -m "chore: publish remote raw $RUN_DATE"
+            git -C "$sync_dir" push origin "HEAD:$sync_branch"
+          fi
+
+      - name: Upload raw backup artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: ai-radar-news-${{ steps.date.outputs.date }}
+          name: ai-radar-raw-${{ steps.date.outputs.date }}
           if-no-files-found: warn
           retention-days: 30
           path: |
             data/raw/${{ steps.date.outputs.date }}/
-            data/items/${{ steps.date.outputs.date }}.jsonl
-            data/inbox/${{ steps.date.outputs.date }}-brief-input.md
-            data/inbox/${{ steps.date.outputs.date }}-run-summary.md
             logs/

@@ -9,4 +9,10 @@ if [ ! -x ".venv/bin/python" ]; then
   exit 1
 fi
 
+if [ "${1:-}" = "--remote" ]; then
+  shift
+  .venv/bin/python scripts/run_remote_daily.py "$@"
+  exit $?
+fi
+
 .venv/bin/python scripts/run_daily.py --generate-brief --overwrite-brief --export-obsidian --overwrite-obsidian "$@"

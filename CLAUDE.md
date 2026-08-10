@@ -16,7 +16,8 @@ v0 只做：
 
 - 固定来源配置：`config/sources.yaml`
 - 公开 RSS / 普通网页抓取
-- 通过本地环境变量或被 git 忽略的 `.env.local` 中的 `X_BEARER_TOKEN`，读取显式配置的 X API 来源
+- 通过本地环境变量、被 git 忽略的 `.env.local` 或 GitHub Actions Secrets 中的 `X_BEARER_TOKEN`，读取显式配置的 X API 来源
+- 通过本地环境变量、被 git 忽略的 `.env.local` 或 GitHub Actions Secrets 中的 `PRODUCT_HUNT_TOKEN`，读取显式配置的 Product Hunt 公开产品数据
 - 原始资料保存：`data/raw/`
 - 结构化条目生成：`data/items/`
 - 半自动简报 Prompt：`config/brief_prompt.md`
@@ -24,7 +25,9 @@ v0 只做：
 - 可选调用 Claude Code CLI 生成简报：`data/briefs/YYYY-MM-DD-ai-daily-brief.md`
 - 可选导出每日简报到本地配置的独立 Obsidian Vault
 - 本地手动命令运行
-- 暂时不在简报中判断“是否值得入库”和“是否值得写文章”
+- GitHub Actions 远程抓取：定时或手动只抓取 raw，并发布到独立 `remote-news` 分支；本地同步后继续运行 items、brief、Claude Code CLI、Obsidian 和 Memora
+- 简报输出经过 AI 判断的 Memora 入库候选；只有“直接入库”且能找到完整 raw 原文的候选自动生成 Memora note，“先观察”和来源信息不足的内容不写入
+- 暂时不在简报中判断“是否值得写文章”
 
 v0 不做：
 
@@ -37,9 +40,10 @@ v0 不做：
 - 登录态抓取
 - 泛化 X 抓取、X 网页抓取或动态账号发现
 - 微信公众号 / YouTube 抓取
-- 部署
-- 定时任务
-- 自动同步知识库
+- 前端 / 后端部署
+- GitHub Actions 中运行 Claude Code CLI、Obsidian 或 Memora
+- 自动更新已有知识卡片、主题追踪或建立双向链接
+- 将 AI Radar 候选直接写入独立 Obsidian Vault 的 `Knowledge Cards/`
 
 ## 目录约定
 
@@ -49,7 +53,7 @@ data/raw/            抓取到的原始资料，按日期和来源分层保存
 data/items/          结构化新闻条目，JSONL 格式
 data/briefs/         人工或半自动生成的 Markdown 简报
 data/tracking/       趋势追踪记录，v0 不自动更新
-data/inbox/          需要人工确认的内容，v0 可手动使用
+data/inbox/          brief input、运行摘要和自动入库过程产物
 scripts/             本地脚本
 logs/                运行日志
 ```
@@ -61,8 +65,15 @@ logs/                运行日志
 ### X API 来源约束
 
 - 只允许读取 `config/sources.yaml` 中显式配置的 X API 来源
-- 只使用 `X_BEARER_TOKEN`，来源为本地环境变量或被 git 忽略的 `.env.local`
+- 只使用 `X_BEARER_TOKEN`，来源为本地环境变量、被 git 忽略的 `.env.local` 或 GitHub Actions Secrets
 - 不做登录态网页抓取、Cookie 抓取、动态账号发现或批量扫号
+- token 不得写入日志、raw、items、brief input、brief 或 run summary
+
+### Product Hunt API 来源约束
+
+- 只允许读取 `config/sources.yaml` 中显式配置的 Product Hunt 来源
+- 只使用 `PRODUCT_HUNT_TOKEN`，来源为本地环境变量、被 git 忽略的 `.env.local` 或 GitHub Actions Secrets
+- 只读取公开产品数据，不进行任何写操作或用户数据读取
 - token 不得写入日志、raw、items、brief input、brief 或 run summary
 
 ### raw
@@ -152,14 +163,17 @@ v0 不做 AI 评分，`importance_score` 和 `relevance_score` 默认为 `0`，�
 - Top 5 优先选择单篇文章，不优先选择列表页
 - Top 5 默认单一来源最多 2 条；如果超过 2 条，必须在「今日判断」中解释该来源为什么构成当天核心信号
 - 来源不足时不要硬凑 Top 5，要明确说明候选不足
-- 暂时不判断“是否值得入库”和“是否值得写文章”
+- 只有“直接入库”且 raw 原文完整可追溯的候选会自动进入 Memora；“先观察”和来源信息不足的内容只保留在简报中
+- Memora note 完成后必须更新 `knowledge/index.md`、`knowledge/log.md`，并在 `knowledge/知识库总览.md` 添加原文链接和 note 链接
+- 暂时不判断“是否值得写文章”
 
 Top 5 的摘要规则：
 
-- 摘要以 150–300 字为主，最多不超过 500 字
-- 摘要必须说明：对象、发生了什么变化、核心信息、可能用途或趋势意义
+- 每条 Top 5 使用 2–4 个项目符号概括事实，要点合计以 100–250 字为宜；候选材料信息不足时可以更短
+- 要点必须共同说明：对象、发生了什么变化、核心信息、可能用途或趋势意义
+- 每条必须有非空的发布时间、影响判断和原文链接；影响段落同时说明为什么重要，以及对我的 AI 编程、产品判断、AI 工具链或长期趋势观察的影响
 - 如果候选材料没有提供能力、参数、发布时间、性能指标等细节，必须明确写“候选材料未提供……”
-- 不要只复述 raw summary 的一句话
+- 不要只复述 raw summary 的一句话，也不要把同一事实拆成多个重复区块
 - 不要编造候选材料没有提供的信息
 
 次级关注规则：
@@ -219,6 +233,14 @@ pip install -e .
 .venv/bin/python scripts/run_daily.py --generate-brief --overwrite-brief --export-obsidian --overwrite-obsidian
 ```
 
+远程抓取后的本地同步与完整处理：
+
+```bash
+./ai-radar --remote
+```
+
+该命令只同步远程 raw，不在本地重复抓取来源；后续处理仍由本地 AI Radar、Claude Code CLI、Obsidian 和 Memora 完成。
+
 分步抓取 raw：
 
 ```bash
@@ -249,6 +271,12 @@ pip install -e .
 .venv/bin/python scripts/normalize_items.py --date YYYY-MM-DD
 .venv/bin/python scripts/prepare_brief_input.py --date YYYY-MM-DD
 .venv/bin/python scripts/generate_brief.py --date YYYY-MM-DD
+```
+
+只处理已经存在的 raw：
+
+```bash
+.venv/bin/python scripts/run_daily.py --skip-fetch --date YYYY-MM-DD
 ```
 
 ## 验证方式

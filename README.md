@@ -2,7 +2,7 @@
 
 个人 AI 情报雷达 v0。
 
-当前版本只实现：固定来源配置、抓取 raw、生成 items JSONL、生成 brief input，并可选调用 Claude Code CLI 生成 Markdown 简报、导出到本地配置的独立 Obsidian Vault。不接 Claude API。X 只支持通过本地 `X_BEARER_TOKEN` 读取显式配置的 API 来源，不做登录态抓取或泛化网页抓取。
+当前版本实现：固定来源配置、抓取 raw、生成 items JSONL、生成 brief input，并可选调用 Claude Code CLI 生成 Markdown 简报、自动判断 Memora 入库候选并生成正式 note；另提供 GitHub Actions 远程抓取工作流。不接 Claude API。重点关注视频制作、文本转音频、前端页面设计、新闻抓取、AI 产品和 AI 工具等领域。X 只支持通过显式配置的 API 来源读取数据，不做登录态抓取或泛化网页抓取。
 
 ## 安装
 
@@ -41,6 +41,7 @@ pip install -e .
 3. 生成 `data/inbox/YYYY-MM-DD-brief-input.md`
 4. 调用 Claude Code CLI 生成 `data/briefs/YYYY-MM-DD-ai-daily-brief.md`
 5. 简报质量检查通过后，复制到配置好的 Obsidian Vault
+6. 简报质量检查通过后，自动将“直接入库”候选写入配置的 Obsidian 知识卡片目录
 
 如果只想抓取和准备输入，不生成简报：
 
@@ -56,6 +57,51 @@ pip install -e .
 .venv/bin/python scripts/prepare_brief_input.py
 .venv/bin/python scripts/generate_brief.py
 ```
+
+远程抓取完成后，在本地同步 raw 并继续完整流程：
+
+```bash
+./ai-radar --remote
+```
+
+这个命令不会再次访问新闻来源，而是同步远程 raw 后在本地继续生成 items、brief、Obsidian 和 Memora 结果。
+
+## GitHub Actions 远程抓取与本地同步
+
+`.github/workflows/fetch-news.yml` 只负责在 GitHub Actions 中抓取 raw，不运行 items、brief、Claude Code CLI、Obsidian 或 Memora。
+
+- 每天 `01:00 UTC`（北京时间 `09:00`）自动运行，也可以在 GitHub Actions 页面手动运行。
+- 在仓库 `Settings → Secrets and variables → Actions` 中配置 `PRODUCT_HUNT_TOKEN`；只有重新启用 X 来源时才需要配置 `X_BEARER_TOKEN`。
+- 每次成功运行会把当天 raw 发布到独立的 `remote-news` 分支；主分支和本地 `data/` 忽略规则保持不变。
+- 本地 `./ai-radar --remote` 使用现有 Git 凭据同步 `remote-news` 分支，再调用本地完整处理流程。
+- 运行还会生成 `ai-radar-raw-YYYY-MM-DD` Artifact 作为排查备份，默认保留 30 天；日常同步不需要手动下载 Artifact。
+
+macOS 自动同步可以使用 [config/com.ai-radar.remote-daily.plist.example](config/com.ai-radar.remote-daily.plist.example)：
+
+```bash
+cp config/com.ai-radar.remote-daily.plist.example ~/Library/LaunchAgents/com.ai-radar.remote-daily.plist
+launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.ai-radar.remote-daily.plist
+```
+
+该任务登录时运行一次，之后每 30 分钟检查一次；电脑关机期间不会丢失远程 raw，开机后会继续同步和处理。
+
+
+## 知识库入库
+
+简报生成后，AI 只会把满足“直接入库”标准且能找到完整 raw 原文的候选交给 Memora 入库；“先观察”和来源信息不足的内容只保留在简报中。Memora 完成 note、索引和日志更新后，还会把原文链接与 note 链接写入 `knowledge/知识库总览.md`。
+
+```bash
+# 从当天简报自动写入“直接入库”候选；run_daily.py 生成简报时也会自动执行
+.venv/bin/python scripts/archive_notes.py --date YYYY-MM-DD --apply
+```
+
+配置 `MEMORA_ROOT` 指向 Memora 项目根目录，例如 `/Users/limiao/personal/2-topic/4-AI/project/memora`。不再写入 AI Radar 独立 Vault 的 `Knowledge Cards/`。
+
+```bash
+.venv/bin/python scripts/archive_notes.py --date YYYY-MM-DD --apply
+```
+
+脚本只会写入简报中标记为“直接入库”的候选，并保留原文链接；“先观察”、来源信息不足或目标文件已存在的条目会跳过。
 
 如果当天简报已存在，需要重新生成：
 
@@ -96,10 +142,10 @@ OBSIDIAN_AI_RADAR_DIR="Daily Briefs"
 - raw 每天保留抓取快照，不因为重复而删除。
 - items 生成时会过滤最近 14 天历史重复内容，避免 brief input 反复出现旧内容。
 - 每次运行会生成 `data/inbox/YYYY-MM-DD-run-summary.md`，记录输出文件、去重状态、来源状态、简报质量检查结果和 Obsidian 导出状态。
-- 自动生成简报时，`scripts/check_brief.py` 会检查必要章节、禁用内容、Top 5 结构、次级关注结构、摘要长度、GitHub Trending 数量和来源链接。
+- 自动生成简报时，`scripts/check_brief.py` 会检查必要章节、禁用内容、Top 5 结构、要点与影响格式、次级关注结构、GitHub Trending 数量和来源链接。
 - 简报 Top 5 优先选择单篇文章，不优先选择列表页；来源不足时不硬凑，要明确写“今日候选不足”。
 - Top 5 默认单一来源最多 2 条；如果超过 2 条，必须在「今日判断」中解释该来源为什么构成当天核心信号。
-- Top 5 摘要应以 150–300 字为主，最多不超过 500 字；候选材料信息不足时必须明确说明缺少哪些细节。
+- Top 5 每条使用 2–4 个要点概括事实，要点合计以 100–250 字为宜，并用一段“影响”合并说明重要性和对个人工作流的影响；候选材料信息不足时必须明确说明缺少哪些细节。
 - 简报额外保留「次级关注 5 条」，用于放值得继续看、但不够进入 Top 5 的内容；候选不足时可以少于 5 条，但必须明确说明。
 
 ## 公众号草稿风格
@@ -113,8 +159,8 @@ OBSIDIAN_AI_RADAR_DIR="Daily Briefs"
 - 数据库
 - 向量库
 - RAG 框架
-- 部署
-- 定时任务
+- 前端 / 后端部署
+- GitHub Actions 中运行 Claude Code CLI、Obsidian 或 Memora
 - Claude API 自动生成
 - 登录态抓取
 - 泛化 X 抓取、X 网页抓取或动态账号发现

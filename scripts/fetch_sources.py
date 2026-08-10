@@ -6,7 +6,7 @@ import json
 import os
 import re
 import subprocess
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any
@@ -24,6 +24,7 @@ ENV_LOCAL_PATH = ROOT / ".env.local"
 RAW_DIR = ROOT / "data" / "raw"
 LOG_PATH = ROOT / "logs" / "run.log"
 HN_API_BASE_URL = "https://hacker-news.firebaseio.com/v0"
+PRODUCT_HUNT_API_URL = "https://api.producthunt.com/v2/api/graphql"
 HN_AI_KEYWORDS = (
     "ai",
     "llm",
@@ -512,6 +513,92 @@ def fetch_hacker_news(source: dict[str, Any], limit: int, fetched_at: str) -> li
     return items
 
 
+def product_hunt_post_to_raw(source: dict[str, Any], post: dict[str, Any], fetched_at: str) -> dict[str, str]:
+    name = str(post.get("name") or "Untitled").strip()
+    tagline = compact_text(str(post.get("tagline") or ""))
+    title = f"Product Hunt: {name}" + (f" — {tagline}" if tagline else "")
+    source_url = str(post.get("url") or "").strip()
+    website = str(post.get("website") or "").strip()
+    canonical_url = website or source_url
+    description = compact_text(str(post.get("description") or ""))
+
+    lines = [f"Product Hunt page: {source_url}"]
+    if website:
+        lines.append(f"Product website: {website}")
+    if post.get("dailyRank") is not None:
+        lines.append(f"Daily rank: #{post['dailyRank']}")
+    lines.append(f"Votes: {post.get('votesCount', 0)}")
+    lines.append(f"Comments: {post.get('commentsCount', 0)}")
+    if tagline:
+        lines.extend(["", tagline])
+    if description:
+        lines.extend(["", description])
+
+    return {
+        "title": title,
+        "url": canonical_url,
+        "source_url": source_url,
+        "canonical_url": canonical_url,
+        "source": str(source.get("name", "")),
+        "source_type": str(source.get("type", "")),
+        "published_at": str(post.get("featuredAt") or post.get("createdAt") or ""),
+        "fetched_at": fetched_at,
+        "content_type": "markdown",
+        "is_list_page": "false",
+        "content": "\n".join(lines),
+    }
+
+
+def fetch_product_hunt(source: dict[str, Any], limit: int, fetched_at: str) -> list[dict[str, str]]:
+    token_env = str(source.get("token_env") or "PRODUCT_HUNT_TOKEN")
+    token = secret_value(token_env)
+    if not token:
+        raise RuntimeError(f"missing env var {token_env}")
+
+    topic = str(source.get("topic") or "artificial-intelligence").strip()
+    lookback_hours = max(1, int(source.get("lookback_hours") or 24))
+    fetched_datetime = datetime.fromisoformat(fetched_at.replace("Z", "+00:00"))
+    posted_after = (fetched_datetime - timedelta(hours=lookback_hours)).isoformat()
+    query = """
+        query Posts($first: Int!, $topic: String!, $postedAfter: DateTime!) {
+          posts(first: $first, featured: true, order: RANKING, topic: $topic, postedAfter: $postedAfter) {
+            nodes {
+              name
+              tagline
+              description
+              url
+              website
+              createdAt
+              featuredAt
+              votesCount
+              commentsCount
+              dailyRank
+            }
+          }
+        }
+    """
+    variables = {"first": limit, "topic": topic, "postedAfter": posted_after}
+    headers = {"Authorization": f"Bearer {token}", "User-Agent": "ai-radar/0.1"}
+    with httpx.Client(timeout=20.0, follow_redirects=True) as client:
+        response = client.post(PRODUCT_HUNT_API_URL, headers=headers, json={"query": query, "variables": variables})
+
+    if response.status_code in {401, 403}:
+        raise RuntimeError(f"Product Hunt API authentication failed: status {response.status_code}")
+    if response.status_code == 429:
+        raise RuntimeError("Product Hunt API rate limited: status 429")
+    if response.status_code >= 400:
+        raise RuntimeError(f"Product Hunt API request failed: status {response.status_code}")
+
+    payload = response.json()
+    if payload.get("errors"):
+        raise RuntimeError("Product Hunt API returned GraphQL errors")
+    posts = payload.get("data", {}).get("posts", {}).get("nodes") or []
+    items = [product_hunt_post_to_raw(source, post, fetched_at) for post in posts if post.get("url")]
+    if not items:
+        raise RuntimeError(f"Product Hunt returned 0 featured {topic} posts in the last {lookback_hours} hours")
+    return items
+
+
 def raw_path_for(item: dict[str, str], run_date: str) -> Path:
     source_slug = slugify(item["source"])
     item_key = item.get("url") or item["title"]
@@ -562,6 +649,8 @@ def fetch_source(source: dict[str, Any], limit: int, fetched_at: str) -> list[di
         return fetch_hacker_news(source, limit, fetched_at)
     if mode == "x_recent_search":
         return fetch_x_recent_search(source, limit, fetched_at)
+    if mode == "product_hunt":
+        return fetch_product_hunt(source, limit, fetched_at)
     raise ValueError(f"unsupported mode: {mode}")
 
 

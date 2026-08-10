@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.ai-radar.remote-daily</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/limiao/personal/2-topic/4-AI/project/ai-radar/ai-radar</string>
+    <string>--remote</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/limiao/personal/2-topic/4-AI/project/ai-radar</string>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>HOME</key>
+    <string>/Users/limiao</string>
+    <key>PATH</key>
+    <string>/Users/limiao/.nvm/versions/node/v22.21.0/bin:/Users/limiao/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+  </dict>
+
+  <key>RunAtLoad</key>
+  <true/>
+  <key>StartInterval</key>
+  <integer>1800</integer>
+
+  <key>StandardOutPath</key>
+  <string>/Users/limiao/personal/2-topic/4-AI/project/ai-radar/logs/remote-daily.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/limiao/personal/2-topic/4-AI/project/ai-radar/logs/remote-daily.err.log</string>
+</dict>
+</plist>

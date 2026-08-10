@@ -88,6 +88,18 @@ sources:
     enabled: true
     notes: Hacker News top stories filtered for AI-related keywords using the official Firebase API.
 
+  - name: Product Hunt AI
+    type: community
+    url: https://api.producthunt.com/v2/api/graphql
+    mode: product_hunt
+    token_env: PRODUCT_HUNT_TOKEN
+    topic: artificial-intelligence
+    lookback_hours: 24
+    priority: low
+    max_items: 5
+    enabled: true
+    notes: Featured Product Hunt AI products from the last 24 hours, used as low-weight product signals.
+
   - name: TLDR AI
     type: curated
     url: https://tldr.tech/api/rss/ai

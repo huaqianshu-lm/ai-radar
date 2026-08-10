@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import argparse
 import json
-from datetime import timezone
+from datetime import datetime, timezone
 from pathlib import Path
 
 from check_brief import check
@@ -11,6 +11,7 @@ from fetch_sources import fetch_source, load_sources, save_raw_items, utc_now, w
 from generate_brief import generate
 from normalize_items import NormalizeResult, normalize
 from prepare_brief_input import prepare
+from archive_notes import archive_brief
 
 ROOT = Path(__file__).resolve().parents[1]
 INBOX_DIR = ROOT / "data" / "inbox"
@@ -18,11 +19,14 @@ INBOX_DIR = ROOT / "data" / "inbox"
 
 def render_source_status(statuses: list[dict[str, object]]) -> str:
     lines = ["", "## 抓取状态", ""]
-    for status in statuses:
-        if status["ok"]:
-            lines.append(f"- {status['name']}：成功，{status['items']} 条，新增 raw {status['saved']} 条")
-        else:
-            lines.append(f"- {status['name']}：失败，原因：{status['error']}")
+    if not statuses:
+        lines.append("- 使用已同步的远程 raw，本地跳过抓取。")
+    else:
+        for status in statuses:
+            if status["ok"]:
+                lines.append(f"- {status['name']}：成功，{status['items']} 条，新增 raw {status['saved']} 条")
+            else:
+                lines.append(f"- {status['name']}：失败，原因：{status['error']}")
     return "\n".join(lines) + "\n"
 
 
@@ -138,6 +142,7 @@ def write_run_summary(
     normalize_result: NormalizeResult,
     brief_input_path: Path,
     brief_path: Path | None,
+    archive_card_paths: list[Path],
     obsidian_path: Path | None,
     brief_issues: list[str],
     contributions: list[dict[str, object]],
@@ -156,6 +161,7 @@ def write_run_summary(
         f"- items: `{normalize_result.path.relative_to(ROOT)}`",
         f"- brief input: `{brief_input_path.relative_to(ROOT)}`",
         f"- brief: `{brief_path.relative_to(ROOT)}`" if brief_path else "- brief: not generated",
+        f"- Memora notes archived: {len(archive_card_paths)}" if archive_card_paths else "- Memora notes archived: 0",
         f"- obsidian: `{obsidian_path}`" if obsidian_path else "- obsidian: not exported",
         "",
         "## 去重状态",
@@ -173,11 +179,14 @@ def write_run_summary(
         "## 来源状态",
         "",
     ]
-    for status in statuses:
-        if status["ok"]:
-            lines.append(f"- {status['name']}：成功，{status['items']} 条，新增 raw {status['saved']} 条")
-        else:
-            lines.append(f"- {status['name']}：失败，原因：{status['error']}")
+    if statuses:
+        for status in statuses:
+            if status["ok"]:
+                lines.append(f"- {status['name']}：成功，{status['items']} 条，新增 raw {status['saved']} 条")
+            else:
+                lines.append(f"- {status['name']}：失败，原因：{status['error']}")
+    else:
+        lines.append("- 使用已同步的远程 raw，本次未在本地重复抓取。")
     lines.extend(["", "## 来源贡献统计", ""])
     if contributions:
         lines.append("| 来源 | items | list pages | avg summary chars |")
@@ -212,29 +221,51 @@ def write_run_summary(
     return output_path
 
 
-def run(limit: int, generate_brief: bool, overwrite_brief: bool, export_obsidian: bool, overwrite_obsidian: bool) -> None:
+def valid_date(value: str) -> str:
+    try:
+        datetime.strptime(value, "%Y-%m-%d")
+    except ValueError as error:
+        raise argparse.ArgumentTypeError("date must use YYYY-MM-DD") from error
+    return value
+
+
+def run(
+    limit: int,
+    generate_brief: bool,
+    overwrite_brief: bool,
+    export_obsidian: bool,
+    overwrite_obsidian: bool,
+    run_date: str | None = None,
+    fetch: bool = True,
+) -> None:
     fetched_at = utc_now().isoformat()
-    run_date = fetched_at[:10]
-    sources = load_sources()
+    run_date = run_date or fetched_at[:10]
 
     total_saved = 0
     statuses: list[dict[str, object]] = []
-    for source in sources:
-        name = source.get("name", "unknown")
-        try:
-            source_limit = int(source.get("max_items") or limit)
-            items = fetch_source(source, source_limit, fetched_at)
-            saved = save_raw_items(items, run_date)
-            total_saved += saved
-            message = f"fetched {name}: {len(items)} items, {saved} new raw files"
-            statuses.append({"name": name, "ok": True, "items": len(items), "saved": saved, "error": ""})
-            print(message)
-            write_log(message)
-        except Exception as error:
-            message = f"failed {name}: {error}"
-            statuses.append({"name": name, "ok": False, "items": 0, "saved": 0, "error": str(error)})
-            print(message)
-            write_log(message)
+    if fetch:
+        sources = load_sources()
+        for source in sources:
+            name = source.get("name", "unknown")
+            try:
+                source_limit = int(source.get("max_items") or limit)
+                items = fetch_source(source, source_limit, fetched_at)
+                saved = save_raw_items(items, run_date)
+                total_saved += saved
+                message = f"fetched {name}: {len(items)} items, {saved} new raw files"
+                statuses.append({"name": name, "ok": True, "items": len(items), "saved": saved, "error": ""})
+                print(message)
+                write_log(message)
+            except Exception as error:
+                message = f"failed {name}: {error}"
+                statuses.append({"name": name, "ok": False, "items": 0, "saved": 0, "error": str(error)})
+                print(message)
+                write_log(message)
+    else:
+        raw_dir = ROOT / "data" / "raw" / run_date
+        if not raw_dir.exists():
+            raise FileNotFoundError(f"raw directory not found: {raw_dir.relative_to(ROOT)}")
+        print(f"using existing raw: {raw_dir.relative_to(ROOT)}")
 
     normalize_result = normalize(run_date)
     items_path = normalize_result.path
@@ -251,6 +282,13 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool, export_obsidian
     if brief_path:
         append_source_status(brief_path, statuses)
     brief_issues = check(run_date) if brief_path else []
+    archive_card_paths: list[Path] = []
+    if brief_path and not brief_issues:
+        try:
+            archive_card_paths = archive_brief(run_date)
+        except Exception as error:
+            print(f"failed to archive knowledge cards: {error}")
+            write_log(f"failed to archive knowledge cards: {error}")
     obsidian_path = None
     obsidian_error = ""
     if export_obsidian and brief_path and not brief_issues:
@@ -270,6 +308,7 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool, export_obsidian
         normalize_result,
         brief_input_path,
         brief_path,
+        archive_card_paths,
         obsidian_path,
         brief_issues,
         contributions,
@@ -279,7 +318,10 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool, export_obsidian
         obsidian_error,
     )
 
-    print(f"done: {total_saved} new raw files")
+    if fetch:
+        print(f"done: {total_saved} new raw files")
+    else:
+        print(f"processed existing raw: {run_date}")
     print(f"items: {items_path.relative_to(ROOT)}")
     print(f"items written: {normalize_result.written_count}")
     print(
@@ -295,6 +337,7 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool, export_obsidian
         print("obsidian export: skipped because brief was not generated")
     elif export_obsidian and brief_issues:
         print("obsidian export: skipped because brief quality check failed")
+    print(f"Memora notes archived: {len(archive_card_paths)}")
     print(f"run summary: {summary_path.relative_to(ROOT)}")
     print("daily reminders:")
     for reminder in reminders:
@@ -312,6 +355,8 @@ def run(limit: int, generate_brief: bool, overwrite_brief: bool, export_obsidian
 def main() -> None:
     parser = argparse.ArgumentParser(description="Run the v0 daily AI radar workflow.")
     parser.add_argument("--limit", type=int, default=10, help="Max entries per RSS source.")
+    parser.add_argument("--date", type=valid_date, default=None, help="Date to process, format YYYY-MM-DD.")
+    parser.add_argument("--skip-fetch", action="store_true", help="Skip network fetching and process existing raw files.")
     parser.add_argument("--generate-brief", action="store_true", help="Generate the final Markdown brief with Claude Code CLI.")
     parser.add_argument("--overwrite-brief", action="store_true", help="Overwrite existing brief file when generating.")
     parser.add_argument("--export-obsidian", action="store_true", help="Export the generated brief to the configured Obsidian vault.")
@@ -324,6 +369,8 @@ def main() -> None:
         overwrite_brief=args.overwrite_brief,
         export_obsidian=args.export_obsidian,
         overwrite_obsidian=args.overwrite_obsidian,
+        run_date=args.date,
+        fetch=not args.skip_fetch,
     )
 
 
