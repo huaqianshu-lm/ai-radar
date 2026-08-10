@@ -46,6 +46,14 @@ def utc_now() -> datetime:
     return datetime.now(timezone.utc).replace(microsecond=0)
 
 
+def valid_date(value: str) -> str:
+    try:
+        datetime.strptime(value, "%Y-%m-%d")
+    except ValueError as error:
+        raise argparse.ArgumentTypeError("date must use YYYY-MM-DD") from error
+    return value
+
+
 def slugify(value: str, max_length: int = 80) -> str:
     slug = re.sub(r"[^a-zA-Z0-9]+", "-", value.lower()).strip("-")
     if not slug:
@@ -657,10 +665,11 @@ def fetch_source(source: dict[str, Any], limit: int, fetched_at: str) -> list[di
 def main() -> None:
     parser = argparse.ArgumentParser(description="Fetch configured AI sources into raw markdown files.")
     parser.add_argument("--limit", type=int, default=10, help="Max entries per RSS source.")
+    parser.add_argument("--date", type=valid_date, default=None, help="Raw date, format YYYY-MM-DD.")
     args = parser.parse_args()
 
     fetched_at = utc_now().isoformat()
-    run_date = fetched_at[:10]
+    run_date = args.date or fetched_at[:10]
     sources = load_sources()
 
     total_saved = 0

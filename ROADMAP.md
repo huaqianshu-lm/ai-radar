@@ -30,13 +30,13 @@
 ## 进行中
 
 - 稳定性观察：等待 `TLDR AI` 或 `Hugging Face Blog` 出现新增 item，以确认详情页正文 fallback 对来源贡献统计中平均摘要长度的实际改善。
-- 远程 raw 发布和本地继续处理链路已完成代码实现，待首次 Actions 运行并安装 macOS 本地自动同步任务。
+- 远程 raw 发布、本地继续处理链路和 macOS 本地自动同步任务已完成，远程抓取计划为每天 07:00，待首次 Actions 运行并观察定时日志。
 
 ## 下一步
 
 1. 手动运行一次 `Remote news fetch`，确认 `remote-news` 分支出现当天 raw。
 2. 在本地运行 `./ai-radar --remote`，确认本地 items、brief、Obsidian 和 Memora 链路继续工作。
-3. 安装并观察 macOS LaunchAgent 的自动同步日志。
+3. 观察每天 08:00、16:00 运行的 macOS LaunchAgent 自动同步日志。
 4. 观察 `Product Hunt AI` 在日常运行中的候选质量与去重命中，不因单日候选少而扩大时间窗口。
 5. 等待 `TLDR AI` 或 `Hugging Face Blog` 出现新增 item，以确认详情页正文 fallback 对来源贡献统计中平均摘要长度的实际改善。
 
@@ -50,7 +50,7 @@
 
 ## 最近验证
 
-- 2026-08-10：远程工作流收窄为只抓 raw，并新增 `remote-news` 分支发布、本地同步脚本、远程 raw 本地处理入口和 macOS LaunchAgent 模板；尚未在 GitHub Actions 上实际运行。
+- 2026-08-10：远程工作流收窄为只抓 raw，并新增 `remote-news` 分支发布、本地同步脚本、远程 raw 本地处理入口和 macOS LaunchAgent；远程抓取调整为每天 07:00，LaunchAgent 每天 08:00、16:00 运行，尚未在 GitHub Actions 上实际运行。
 - 2026-08-01：Product Hunt 官方 API Token 与 GraphQL 查询验证成功；近 24 小时获取 4 条 AI 精选产品，标准 `normalize_items.py` 与 `prepare_brief_input.py` 产出中均包含 4 条 `Product Hunt AI` items，且可信度为 2、来源链接和 canonical URL 完整。完整 `run_daily.py` 在本执行器的时限内被中断，未将其标记为成功。
 - 2026-08-01：当日简报经 GitHub Trending 链接规则修正后通过质量检查，并成功导出到 Obsidian。
 - 2026-08-02：Memora 入库验证成功：2 条候选生成标准 note，更新 `index.md`、`log.md` 和 `知识库总览.md`；总览已记录原文链接 → note 链接，重复执行会跳过已有 note。Memora 全库检查仍有 2 条既有历史 raw 引用错误，不影响本次新 note 结构校验。

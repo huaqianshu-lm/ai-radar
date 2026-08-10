@@ -70,7 +70,7 @@ pip install -e .
 
 `.github/workflows/fetch-news.yml` 只负责在 GitHub Actions 中抓取 raw，不运行 items、brief、Claude Code CLI、Obsidian 或 Memora。
 
-- 每天 `01:00 UTC`（北京时间 `09:00`）自动运行，也可以在 GitHub Actions 页面手动运行。
+- 每天 `23:00 UTC`（北京时间次日 `07:00`）自动运行，也可以在 GitHub Actions 页面手动运行。
 - 在仓库 `Settings → Secrets and variables → Actions` 中配置 `PRODUCT_HUNT_TOKEN`；只有重新启用 X 来源时才需要配置 `X_BEARER_TOKEN`。
 - 每次成功运行会把当天 raw 发布到独立的 `remote-news` 分支；主分支和本地 `data/` 忽略规则保持不变。
 - 本地 `./ai-radar --remote` 使用现有 Git 凭据同步 `remote-news` 分支，再调用本地完整处理流程。
@@ -83,7 +83,7 @@ cp config/com.ai-radar.remote-daily.plist.example ~/Library/LaunchAgents/com.ai-
 launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.ai-radar.remote-daily.plist
 ```
 
-该任务登录时运行一次，之后每 30 分钟检查一次；电脑关机期间不会丢失远程 raw，开机后会继续同步和处理。
+该任务每天按本地时间 08:00 和 16:00 各检查一次；电脑关机期间不会丢失远程 raw，下一次到点或开机后会继续同步和处理。
 
 
 ## 知识库入库

@@ -2,8 +2,8 @@ name: Remote news fetch
 
 on:
   schedule:
-    # 01:00 UTC = 09:00 Asia/Shanghai. GitHub may delay scheduled runs during load.
-    - cron: "0 1 * * *"
+    # 23:00 UTC = 07:00 Asia/Shanghai on the next calendar day. GitHub may delay scheduled runs during load.
+    - cron: "0 23 * * *"
   workflow_dispatch:
 
 permissions:
@@ -41,10 +41,10 @@ jobs:
 
       - name: Set run date
         id: date
-        run: echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+        run: echo "date=$(TZ=Asia/Shanghai date +%F)" >> "$GITHUB_OUTPUT"
 
       - name: Fetch raw news
-        run: python scripts/fetch_sources.py
+        run: python scripts/fetch_sources.py --date "${{ steps.date.outputs.date }}"
 
       - name: Validate remote raw
         if: always()
