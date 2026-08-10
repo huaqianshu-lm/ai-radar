@@ -1,0 +1,90 @@
+name: Remote news fetch
+
+on:
+  schedule:
+    # 01:00 UTC = 09:00 Asia/Shanghai. GitHub may delay scheduled runs during load.
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ai-radar-remote-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      PYTHONUNBUFFERED: "1"
+      X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+      PRODUCT_HUNT_TOKEN: ${{ secrets.PRODUCT_HUNT_TOKEN }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install project dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -e .
+
+      - name: Set run date
+        id: date
+        run: echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+
+      - name: Restore items history for deduplication
+        uses: actions/cache/restore@v4
+        with:
+          path: data/items
+          key: ai-radar-news-state-${{ github.run_id }}
+          restore-keys: |
+            ai-radar-news-state-
+
+      - name: Fetch news and prepare remote outputs
+        run: python scripts/run_daily.py
+
+      - name: Validate remote outputs
+        if: always()
+        run: |
+          items_path="data/items/${{ steps.date.outputs.date }}.jsonl"
+          brief_input_path="data/inbox/${{ steps.date.outputs.date }}-brief-input.md"
+          summary_path="data/inbox/${{ steps.date.outputs.date }}-run-summary.md"
+
+          test -f "$items_path" || { echo "Missing $items_path"; exit 1; }
+          test -f "$brief_input_path" || { echo "Missing $brief_input_path"; exit 1; }
+          test -f "$summary_path" || { echo "Missing $summary_path"; exit 1; }
+
+          if [ ! -s "$items_path" ]; then
+            echo "No items were produced; inspect the run summary and source failures."
+            exit 1
+          fi
+
+      - name: Save items history for the next run
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data/items
+          key: ai-radar-news-state-${{ github.run_id }}
+
+      - name: Upload daily news artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-radar-news-${{ steps.date.outputs.date }}
+          if-no-files-found: warn
+          retention-days: 30
+          path: |
+            data/raw/${{ steps.date.outputs.date }}/
+            data/items/${{ steps.date.outputs.date }}.jsonl
+            data/inbox/${{ steps.date.outputs.date }}-brief-input.md
+            data/inbox/${{ steps.date.outputs.date }}-run-summary.md
+            logs/
