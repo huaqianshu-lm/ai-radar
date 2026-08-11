@@ -13,6 +13,7 @@
 
 ## 已完成
 
+- 2026-08-11：修正 GitHub Trending 候选不足说明的质量检查误判；检查器改为在对应区块识别“候选不足”，当日简报已重新通过检查并导出到 Obsidian。
 - 2026-08-02：删除简报 Top 5 独立「能力与应用」区块，将模型能力和应用场景并入「摘要」要求，减少重复字段。
 - 2026-08-02：简化 Top 5 条目为「发布时间 + 2–4 个要点 + 影响 + 原文链接」，合并重复判断，降低日常扫读成本；质量检查兼容旧格式。
 - 2026-08-02：改为 Memora 入库闭环：仅来源充分、raw 完整且判断为“直接入库”的候选生成 Memora note；完成收尾后登记原文与 note 链接。
@@ -22,10 +23,6 @@
 - 2026-07-30：确认当日 items 候选较少主要是 14 天历史去重正常生效，而非抓取或 RSS fallback 故障；短期不放宽去重策略。
 - 2026-07-29：为 `TLDR AI` 和 `Hugging Face Blog` 增加详情页正文 fallback；RSS 摘要为空或过短时抓正文，单篇失败不影响主流程。
 - 2026-07-29：items 新增 `display_summary`，供未来展示卡片使用；`summary` 保持供 brief 判断的完整候选摘要。
-- 2026-07-29：完成事件聚类元数据及 brief prompt 兼容：同一 `cluster_key` 优先使用代表项，不物理合并 items。
-- 2026-07-29：完成可解释的来源可信度映射与排序接入，不引入 AI 自动评分。
-- 2026-07-29：接入 `TLDR AI`、`The Rundown AI` 与 Hacker News AI 发现源，并完成 canonical URL 优先去重。
-- 2026-07-27：Obsidian 导出已接入完整流程；`./ai-radar` 可在简报质量检查通过后覆盖同步到配置的独立 Vault。
 
 ## 进行中
 
@@ -50,6 +47,7 @@
 
 ## 最近验证
 
+- 2026-08-11：当日简报中的「今日 GitHub Trending 候选不足」说明可被质量检查正确识别；缺少说明的反例仍会失败。简报质量检查通过，Obsidian 导出文件与项目简报内容一致。
 - 2026-08-10：远程工作流收窄为只抓 raw，并新增 `remote-news` 分支发布、本地同步脚本、远程 raw 本地处理入口和 macOS LaunchAgent；远程抓取调整为每天 07:00，LaunchAgent 每天 08:00、16:00 运行，尚未在 GitHub Actions 上实际运行。
 - 2026-08-01：Product Hunt 官方 API Token 与 GraphQL 查询验证成功；近 24 小时获取 4 条 AI 精选产品，标准 `normalize_items.py` 与 `prepare_brief_input.py` 产出中均包含 4 条 `Product Hunt AI` items，且可信度为 2、来源链接和 canonical URL 完整。完整 `run_daily.py` 在本执行器的时限内被中断，未将其标记为成功。
 - 2026-08-01：当日简报经 GitHub Trending 链接规则修正后通过质量检查，并成功导出到 Obsidian。
@@ -58,5 +56,4 @@
 - 2026-07-30：复查去重命中，55 个历史重复主要按 URL 命中 2026-07-21 至 2026-07-29 的记录，确认候选不足是预期行为。
 - 2026-07-29：`TLDR AI` 与 `Hugging Face Blog` 的详情页正文 fallback 函数级检查成功；抓到的正文长度显著高于短 RSS 摘要。
 - 2026-07-29：`.venv/bin/python scripts/run_daily.py --generate-brief --overwrite-brief` 成功；生成简报并通过质量检查，cluster metadata 未造成重复展开。
-- 2026-07-29：`fetch_sources.py`、`normalize_items.py`、`prepare_brief_input.py` 的编译和分步流程验证成功；新增字段与聚类字段完整。
 - 2026-08-02：完整 `run_daily.py` 在无外网 DNS 的执行环境中退出码为 0，Codex 根据当天 5 条 items 生成简报并通过质量检查，成功生成 4 条入库候选复核项；Claude Code CLI 调用仍因无输出被手动中断。

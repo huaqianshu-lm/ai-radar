@@ -204,7 +204,7 @@ def check_github_items(text: str) -> list[str]:
 
     if len(github_items) > 5:
         issues.append(f"GitHub Trending item count should be at most 5, got {len(github_items)}")
-    if len(github_items) < 5 and "今日候选不足" not in text:
+    if len(github_items) < 5 and "候选不足" not in github_section:
         issues.append(f"GitHub Trending has fewer than 5 items but does not explain candidate shortage: {len(github_items)}")
 
     required_fields = ["链接", "它解决什么问题", "反映的技术 / 产品趋势", "对我的参考价值"]
