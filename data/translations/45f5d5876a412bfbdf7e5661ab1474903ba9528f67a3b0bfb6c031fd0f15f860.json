@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/workers-ai-gateway-unification",
+  "content_hash": "1b9695248f65fb0a04e265f3b40c401c643d3f9dedf24184b8f50c509a61f129",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "009218646f3e9b5463218e510b8f85d3b6054f6502c5386fb14d85e37785ed3d",
+    "title": "将 Workers AI 和 AI Gateway 统一为一个 AI 控制平面",
+    "summary": "Cloudflare 正在将 AI Gateway 和 Workers AI 统一为一个单一的控制平面，为开发者提供跨托管服务的可观测性、计费和动态路由..."
+  }
+}

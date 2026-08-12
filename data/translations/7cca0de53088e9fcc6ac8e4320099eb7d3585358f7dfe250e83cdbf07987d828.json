@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/baseten",
+  "content_hash": "31baad912846b0ed6413cbe281fdf8f6a2c38f561b49a770b7595aa0ea75960d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "23ccd9ff0c11ef81ec2380b190cca16b9bf8060ea7b88f5f2fe29d03a80c6c2f",
+    "title": "Baseten 登陆 Hugging Face 推理提供商 🔥",
+    "summary": "我们非常高兴地分享，Baseten 现在成为 Hugging Face Hub 上支持的推理提供商！"
+  }
+}

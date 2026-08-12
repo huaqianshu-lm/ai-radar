@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/robostral-navigate",
+  "content_hash": "f3014c191b8a0dd11d093bddd989213eebd7ee1ce6db2a3735a5beaa88d96b99",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cafc9d3c3da053e9739d61b137ae7a0eb001544e8ca90e0502d85a30c62c131e",
+    "title": "Robostral Navigate：单相机 AI 导航 | Mistral AI",
+    "summary": "Robostral Navigate 是一个 8B 模型，能够使机器人在仅使用单相机的情况下在复杂环境中自主导航..."
+  }
+}

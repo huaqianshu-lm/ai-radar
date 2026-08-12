@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+  "content_hash": "ce9d0233ab00308e04a8e19a20555fe5042630476be6879bdb19b4e5ad073782",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c09b9b5f698dc2331747e8fc2365cb6bcede65c0f3a487294da774edbc32f448",
+    "title": "[AINews] Qwen 3.8 Max(2.4T) 与 27B，用于代码和协同办公的全新开源权重模型",
+    "summary": "Qwen 强势回归！"
+  }
+}

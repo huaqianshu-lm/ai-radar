@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/mistral-small-4",
+  "content_hash": "6e38846b04f9204ddf3244c5f19bf97a60b95e76af37bd4d99d9e39c790f92c9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b071b3375367ea5044cface31ea56047e5a66c2e9df81e4297f465734a91d432",
+    "title": "介绍 Mistral Small 4 | Mistral AI",
+    "summary": "今天，我们宣布推出 Mistral Small 4。该模型是 Mistral Small 系列中的下一个重大版本..."
+  }
+}

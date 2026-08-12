@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model",
+  "content_hash": "a824e35ce2339997582f569a2754a89b193f7d68320b7694801a77d446fa5cf6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c386882163e19d1fa728a294f13402059770b9699b80f3f1194a26fd64fa1be8",
+    "title": "介绍 TRIBE v2：一个旨在理解人脑如何处理复杂刺激的预测基础模型",
+    "summary": "要点：理解人脑如何处理我们周围的世界是神经科学中未解的最大挑战之一。此领域的突破可能会改变..."
+  }
+}

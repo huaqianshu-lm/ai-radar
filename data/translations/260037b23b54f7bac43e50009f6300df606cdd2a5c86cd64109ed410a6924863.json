@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+  "content_hash": "f9af7068efb9438eaa9bc49c0a737f9b04533268787bc695e46e5165948fd1db",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7dce15731b62c6240c245a0a4b0c9ea1912e709d82f3c735837115b0a230395f",
+    "title": "Vibe 中的远程智能体，由 Mistral Medium 3.5 驱动 | Mistral AI",
+    "summary": "Mistral 已将编码智能体移至云端，通过 Mistral Medium 3.5（一个新的 128B 开源权重模型）实现并行、异步的任务执行..."
+  }
+}

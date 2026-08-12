@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-08-05",
+  "content_hash": "f0a5e70b21f86c68024600656a782eebe188b98e4f59870cf0f8f2b142cf3e1e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1b3ca2ea22e461f5d615bb6ea8915f91bfce05180ed5a411a7e5cb98c882345e",
+    "title": "Google LLM 路由器 ➡️、Cloudflare 钱包 💳、Anthropic 与 Volta 🤝",
+    "summary": "AI 快讯 2026-08-05：IBM Bob 让工作流具备可审查、可测试和可扩展性。"
+  }
+}

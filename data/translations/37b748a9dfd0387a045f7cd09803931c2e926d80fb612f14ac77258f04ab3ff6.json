@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+  "content_hash": "65398c461ecc93b09bf414fefd0948941cefcb124ec7226a762e1b0e394419f9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "859cdcef3df01ae8d929e50b9f9da9f8126fe435aacd0a43ca0bd2b8ba0b3f21",
+    "title": "GPU 管理：为什么闲置的 GPU 就像停飞的飞机",
+    "summary": "在 AI 领域，利用率而不是智能是下一个真正的限制因素。航空业通过惨痛教训学到了这一点。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs",
+  "content_hash": "91896b078285fe7f4a2ca8c3413a1abb1564d2b9d7079b6805c48a2117e9b659",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "33db945aae2dde73b5f2786a4fd2772f5a7f04e89d2d47801bac173b7a6ea140",
+    "title": "datasette-upload-dbs 0.5a0 发布",
+    "summary": "datasette-upload-dbs 0.5a0 版本发布。该插件允许用户将全新的 SQLite 数据库上传到托管的 Datasette 实例中。"
+  }
+}

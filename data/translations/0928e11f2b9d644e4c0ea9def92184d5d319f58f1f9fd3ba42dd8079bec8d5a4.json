@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/smicallef/spiderfoot",
+  "content_hash": "a7cc382320f8a65f505ecbdc857bdb7e83c265c5de256dc58308251b8bfa7f7a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5a20fe74b08287c3e619d374fdd0b6c53cb245b315b79d7bc35166684ab2830f",
+    "title": "smicallef / spiderfoot：原文摘要",
+    "summary": "原文摘要：SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. - Language: Python - 40 stars today"
+  }
+}

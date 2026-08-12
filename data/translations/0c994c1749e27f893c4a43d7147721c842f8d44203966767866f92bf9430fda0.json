@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer",
+  "content_hash": "5be3d90ca2d476d425baa9d09ba0682f399e21c1b073f46bc1af61cad49b1a88",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "04251f3749e76802a9e34bd6e2f9f0d0e349c52301b58e105747183ce261f741",
+    "title": "推出 Muse Glimmer",
+    "summary": "Meta 重返开源权重领域！Muse Glimmer 是一款全新的 30B 模型，采用清晰的 Apache 2.0 许可证（比以往的协议有所改进）。"
+  }
+}

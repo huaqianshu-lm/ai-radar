@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/leanstral-1-5",
+  "content_hash": "9dddc15bfe683f9b376af46e857ee7ef20377527b954439501a0caab4c4cc8a7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "93d04618369d3d6e8f6300e53e565f9459a2b3e30a01b7cb92828851a8459a21",
+    "title": "Leanstral 1.5：面向所有人的丰富证明",
+    "summary": "Leanstral 1.5 是一个采用 Apache-2.0 许可证的免费模型，拥有 6B 的活跃参数，在形式化验证方面带来了重大的性能升级..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/the-agentic-internet",
+  "content_hash": "a782e94eb086df77a2b508694f9092f2e65ea73dcf5c8ebc27b8418f2a5e7f33",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e10b6da166c5ecb8a20dd1d04b0e4313ac067973f9f0524bd21a63e815ccd76a",
+    "title": "构建开放的 Agent 互联网：可读、可发现、可调用且可付费",
+    "summary": "Agent 是一种新型访客。它们不渲染 CSS 或点击广告，但它们终端连着一位付费人类。阻止它们就等于阻止你的客户。"
+  }
+}

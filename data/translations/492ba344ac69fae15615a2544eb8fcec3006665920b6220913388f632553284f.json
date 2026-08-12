@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/webmcp",
+  "content_hash": "62f1422bb9d4783b625e718444cfdcdc1caee06fc032e4ee9d96f9c419093744",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cb25a842d58a5ffc9cb5159003fdf323b914a3061a70a0f079b6e8f3ec4fd068",
+    "title": "为任何网站提供 WebMCP 接口",
+    "summary": "今天我们在 Cloudflare 上推出了 WebMCP 的开发者预览版。只需一个开关，任何网站都可以被浏览器 AI Agent 使用 —— 无需新 API，也无需更改源站..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+  "content_hash": "4a843877662a0ee5d7d58255152b013b4fa72980d528eafc1af9fc715c5da93d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c26c8d5a4e90c67829e9c660ce4116c2b017553675393f87c94877de7e77f6bb",
+    "title": "将手语 AI 交到用户手中 — Google DeepMind",
+    "summary": "介绍手语转文本（SL2T），这是我们推出的一款突破性模型，旨在为聋哑及听力障碍用户提供全新的手语功能..."
+  }
+}

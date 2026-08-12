@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+  "content_hash": "a9c1b27934bc2df52184369b5b5dd05078b53591efc90df35f6c3b7027b1e6ba",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "16e13c52f7cd02d4ace3d47abac95ccf3b9e630262bd24e605b9bb93a859298e",
+    "title": "Google DeepMind 与 Isomorphic Labs 的生物防御方法 — Google DeepMind",
+    "summary": "我们应对生物防御的方法，全球生物安全格局正在迅速演变。自然生态系统的转变、全球旅行以及 AI 的潜在滥用..."
+  }
+}

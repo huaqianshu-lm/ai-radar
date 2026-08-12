@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/voxtral-tts",
+  "content_hash": "b0ad4d4df01697629bf258af71b35604be9a753c726dc23e0331a0eafe18fab7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6a35b94fbf5682872e1600eedc04b1421d4e8f88fa04f0d42809174f335cd8fa",
+    "title": "谈谈 Voxtral | Mistral AI",
+    "summary": "Mistral AI 推出了 Voxtral TTS，这是一个具有 40 亿参数的文本转语音模型，能够提供最先进、逼真的多语言语音生成。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/the-agent-access-model",
+  "content_hash": "21e0f6e588e23238e08d860ddd82705923240d4842b3dbbee5d287564720c3c1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0a7af6e09c2f803bea6434c620b3e282f97915a7fabd96f3b8647a1e36f76886",
+    "title": "Agent 访问模型",
+    "summary": "Agent 访问模型提出了一种新架构，通过严格的身份代理、持续的调解和有状态的信任来保护任务限定的 Agent。"
+  }
+}

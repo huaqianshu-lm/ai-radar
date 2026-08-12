@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/regional-inference-open-models-new-compute",
+  "content_hash": "e84082ab92ca8c6feaded2ad9ca64480461e0661df60b27a52d255e523461322",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1007367946328b2be18851f357f6ab064b9543e4d3f3d0909c45f5b537368c2b",
+    "title": "区域内推理、开源模型以及用于主权 AI 的全新欧洲基础设施",
+    "summary": "思考总结：Mistral 正在通过为企业和国家提供对 AI 模型、基础设施和计算能力的控制来推进 AI 主权，确保..."
+  }
+}

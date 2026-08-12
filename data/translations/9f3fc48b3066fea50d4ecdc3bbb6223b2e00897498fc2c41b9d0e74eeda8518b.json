@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/kitesurf",
+  "content_hash": "aa0565b5ab17ac790b42b47f36f503dcae292a6d2baee011d4ea9809a74383a3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d13caba5351daa86f09527d584478a96df7d3c6d47df9302b90c2b21792d5be5",
+    "title": "介绍 Kitesurf：在 Cloudflare Workers 的 V8 隔离区中运行的 Agent 优先浏览器",
+    "summary": "我们应该为所有 Agent 提供擅长 AI 模型重要功能的工具。Kitesurf 是 Cloudflare 推出的无状态、高度可扩展且具成本效益的新工具..."
+  }
+}

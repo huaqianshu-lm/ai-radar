@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://ai.meta.com/blog/introducing-muse-spark-msl",
+  "content_hash": "5ad6012a62caa65051470ea54304b01ebc8a2f4c7f607932a3932352fd7c6bdc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2e5ac777df91ff1b3cfe6c7cc249f0d1d60bad91d19dbd67d1663421d76b9029",
+    "title": "介绍 Muse Spark：迈向个人超级智能的规模化发展",
+    "summary": "今天，我们很高兴地推出 Muse Spark，这是 Meta Superintelligence Labs 开发的 Muse 系列模型中的第一款..."
+  }
+}

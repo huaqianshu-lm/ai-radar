@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://knownagents.com/insights",
+  "content_hash": "0496d2997292b725b278132b21f67032a2552aa6d796bc23ba7696c108ad52a9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "de5acd99dd765901276f899758092eb3da9aab1d920171720caa64452d0ef11f",
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot：原文摘要",
+    "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=49272569 Original URL: https://knownagents.com/insights Author: gavinhking Score: 6"
+  }
+}

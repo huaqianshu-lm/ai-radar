@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/claude-opus-5",
+  "content_hash": "dc4109997661ff3892332209fbc2c96cd6ac37ce4e0de7a97c0465823fd8be6d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c34a327604b5be4a7c98002df4365d3ba7ea31a8a315f02f0082d8694e23de2f",
+    "title": "介绍 Claude Opus 5 Anthropic",
+    "summary": "介绍 Claude Opus 5，Claude Opus 5 于今天发布。它是一个深思熟虑且积极主动的模型，接近 Claude Fable 的前沿智能..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai",
+  "content_hash": "0605efd39721f6e703d9cdf7c066374ee1186aa42282d50d8d4b17e72d3eae31",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1f85c944026fa57d1c4bd3af6f448e07c2e8b54a9861f116276df4e7a6af1f8c",
+    "title": "规模化构建和测试我们最先进的 AI",
+    "summary": "随着我们构建功能更强大、更个性化的 AI，可靠性、安全性和用户保护比以往任何时候都更加重要。先进的模型需要先进的..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.therundown.ai/p/openai-astra-solves-10-long-standing-math-problems",
+  "content_hash": "facddca3a39efb3dae1825038cf4751413b241182ad44ff3e4a0ca40b611a619",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "306c3096c1e54e2dc18f4615c8decfb351ad6bafc84cef56ad08dd82764e1f81",
+    "title": "OpenAI's 'Astra' solves 10 long-standing math problems：原文摘要",
+    "summary": "原文摘要：**Good morning, {{ first_name | AI enthusiasts }}, and welcome to the 5,860 new readers who joined us yesterday.** Even with the drama of its agents breaking co..."
+  }
+}

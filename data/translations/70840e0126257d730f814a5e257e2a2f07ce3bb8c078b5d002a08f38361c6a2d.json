@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired",
+  "content_hash": "82f04d4fe160f43c49ec290d9529ec5c3a2d8971949f3d6900f6c47612164f01",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5e6d7871f3c46c13fe4a919918ba4708d9d18283497d2d52c299fcbe3a5dcbff",
+    "title": "GitHub Models 现已退役",
+    "summary": "GitHub Models 现已退役。直到今天我的 simonw/research 仓库的 GitHub Actions 运行出现此错误消息时，我才错过这条新闻：GitHub..."
+  }
+}

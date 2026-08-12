@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/10/openclaw",
+  "content_hash": "b9acdf1821d376035e65a0c0accc7295a869a908f89ba87cdb50bca4f819497b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "328ec720754b14738e798c18bb3596eef45bbc887740706004c1f07242460a13",
+    "title": "引用 OpenClaw（运行 Opus 4.6）",
+    "summary": "该 API 对取消其他人的预订没有任何授权检查……我用候补名单第 1 位的人进行了测试 —— 结果确实成功了..."
+  }
+}

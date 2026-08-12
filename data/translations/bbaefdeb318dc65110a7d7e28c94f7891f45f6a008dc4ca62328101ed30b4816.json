@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+  "content_hash": "dad26ed56663ef2527914afc26a4053a44666b62965a88c18dd63a7b363ab1cf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ebc5821a44c45c7a5386a7b98a285e9f1b977894a7f66b75b993a724c0e9fd04",
+    "title": "AI 模型在气旋预测方面取得突破 — Google DeepMind",
+    "summary": "WeatherNext：AI 模型在气旋预测方面取得突破，WeatherNext 能够实现精确的气旋预测，从而多提供一天的预警时间。现在..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+  "content_hash": "37c3d8ec91ed43f7a964efe48bd4f26ed21143501b9bb487340eea57d95a2d8c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2c563947428818b93259f9d0ea1b317a6ae63a349ada6ec8668a3f4447646bba",
+    "title": "LFM2.5-VL-3B：为边缘设备提供更好、更快的视觉能力",
+    "summary": "LFM2.5-VL-3B 扩展了我们先前版本的视觉语言能力，带来四个方向的改进..."
+  }
+}

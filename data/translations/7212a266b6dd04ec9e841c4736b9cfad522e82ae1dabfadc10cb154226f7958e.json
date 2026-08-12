@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
+  "content_hash": "4d3c492396fb719d0926906662cc5c8b63dcd6cac58f4042a06bf005125199c2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d469b3da0ae18fadcbdb71349131855fb5e607b0f9f3ebf0537335749a307f99",
+    "title": "Studio 中的 Prompt 与 Skills 版本控制 | Mistral",
+    "summary": "大多数企业都在应对管理混乱、分散的 AI 提示词和技能，这会导致行为不一致和问题无法追溯。Studio 提供了相关解决方案。"
+  }
+}

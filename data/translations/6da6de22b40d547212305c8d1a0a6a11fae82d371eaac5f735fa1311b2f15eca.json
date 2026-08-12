@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/securing-the-future-of-ai-agents",
+  "content_hash": "1f84181e2088cde778b99a5b1962b1df8ca2e20698afab67734dedc2ce383340",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3d293869c3ae62396dc43f6e66ce6bbd6765e9af19c03f84fa634102178d1251",
+    "title": "保护内部系统以防范能力日益增强且未完全对齐的 AI — Google DeepMind",
+    "summary": "我们如何保护内部系统以防范能力日益增强且未完全对齐的 AI。AI 智能体正在改变我们的研究方式..."
+  }
+}

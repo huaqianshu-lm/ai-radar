@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/muse-glimmer",
+  "content_hash": "f985a85d5fec00b82e6e1c349aa27a8117a231cff64a612ecea0b881bcb05784",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dfb586131bf3d3cb04b45c447ddda1020a0bfabb4f918d58630b10079556383d",
+    "title": "Meta 携 Muse Glimmer 回归：本地运行、Agent 化、多模态且开源",
+    "summary": "# Meta 携 Muse Glimmer 回归：本地运行、Agent 化、多模态且开源！拥有 **30B** 参数，并在 **Apache 2.0 许可证** 下发布，非常适合部署..."
+  }
+}

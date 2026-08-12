@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Lightricks/LTX-2",
+  "content_hash": "389076e1694233a513c00d86e2e76818a043c2334dbdae50638a1c467837ba17",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d8accc04bfd9f24f1e6b47215496c0321a2a249c4e8bcdb6045f1e9436f9f43a",
+    "title": "Lightricks / LTX-2 音视频生成模型推理与训练工具",
+    "summary": "LTX-2 音视频生成模型的官方 Python 推理和 LoRA 训练软件包。主要编程语言为 Python。"
+  }
+}

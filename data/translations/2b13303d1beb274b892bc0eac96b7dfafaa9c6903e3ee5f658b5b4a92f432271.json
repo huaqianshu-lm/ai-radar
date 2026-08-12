@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/inference-eng",
+  "content_hash": "b331f83ca2b468ea88bcd0e0c93bc131213aff641c292a5e4aa1be59c1fefedd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "20eb9da94f2bded7e24f9a9c7d3624e8ddc45336085efade74fdb52b726c7b67",
+    "title": "推理工程大师课 — Philip Kiely & Ali Taha，Baseten",
+    "summary": "Baseten 刚刚完成了 13 亿美元的 F 轮融资，现在是推理工程领域的领头羊之一。我们深入探讨了自回归所需了解的一切内容。"
+  }
+}

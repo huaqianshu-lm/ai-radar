@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/position-open-weights-models",
+  "content_hash": "f10bd9c2ed0022eee9d5e4fb1e53e83c54c9f3b476113c03a24dd5ba622f2116",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "688b06fb84f51f177c70597ddbed8f667858bb3cd8b9f4b4620209c1a995810b",
+    "title": "我们对开源权重模型的立场 - Anthropic",
+    "summary": "Anthropic 首席执行官 Dario Amodei 的一篇文章，探讨了过去几天关于开源权重模型的许多讨论..."
+  }
+}

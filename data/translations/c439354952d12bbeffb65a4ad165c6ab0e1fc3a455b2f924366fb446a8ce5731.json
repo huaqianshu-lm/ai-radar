@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.therundown.ai/p/openai-escaped-ai-claims-another-victim",
+  "content_hash": "7c2e41558d5cd4927f691ca2d853b1f121c9fe8d5b0e6f07d86a2c9f1ebdba8d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6ca95a978c23f2fc9a074512e078ec8e8182193db942c678e9202dab42c921b7",
+    "title": "OpenAI's escaped AI claims another victim：原文摘要",
+    "summary": "原文摘要：**Good morning, {{ first_name | AI enthusiasts }}, and welcome to the 6,146 new readers who joined us yesterday.** The sci-fi style breach that saw OpenAI’s mod..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-08-06",
+  "content_hash": "49beccf0aa95d3147fb1501ab39ab871fb472e4242c33ea4be1eeb21d648edf8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6e9a89ec6b80f423dd8bfeaeaf6a36d40c9b505a9c9705a23c6769869139d025",
+    "title": "Google DeepMind 改组 🧠、Meta Muse Code 💻、Anthropic 芯片团队 🧩",
+    "summary": "AI 快讯 2026-08-06：Meta 发布了 Muse Code。"
+  }
+}

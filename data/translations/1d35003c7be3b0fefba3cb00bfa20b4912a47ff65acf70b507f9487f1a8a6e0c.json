@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/cactus-compute/needle",
+  "content_hash": "d63f6ec60a1567f5d91d5eac037d7faeb3bd566dabb27f28eca885956dff5853",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e1739cedc6f9ead74fedb98f45537682342f7d7c03e436327227ffc1d95eadbb",
+    "title": "cactus-compute / needle：原文摘要",
+    "summary": "原文摘要：14MB foundation model for tiny devices; phones, wearables, smart home, and robots. - Language: Python - 248 stars today"
+  }
+}

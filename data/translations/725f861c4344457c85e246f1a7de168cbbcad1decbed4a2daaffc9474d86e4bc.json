@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/aeo",
+  "content_hash": "c69466b6a55e3eb6a6a32a0d73fdb40ce89d97044bd0ee50c44bea88226e2ec9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c541e8167ccee2f37860ac5de51c5463f97d44d71876470489b54ff2486b5e6e",
+    "title": "从排名到推荐：让你的网站在 AI Agent 时代蓬勃发展",
+    "summary": "现在一半以上的请求来自机器，而不是人类。Agent Readiness 展示了 Agent 发现和读取你网站的程度，而答案引擎优化..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber",
+  "content_hash": "7d6dee5e9ec590e7d24842d0a41e399d577799b488b2d573991a62496edc23eb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "969044f63ea6bfa4b0495f3d656aad9a813bc9f6e3bc906ea3d8ad84ca1500a6",
+    "title": "介绍 Gemini 3.5 Flash Cyber — Google DeepMind",
+    "summary": "Google 多年来一直投资于网络安全领域，开创了自动漏洞发现技术以保护全球的代码库..."
+  }
+}

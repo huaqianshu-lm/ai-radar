@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/tutormoments",
+  "content_hash": "c197ec64205ab632b03b1bdcd7a492418bf77637bd1ddb76050d74e51f81546c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "624979042481ff504b8cdd9f4fefd24e5c9226e8b96822c1d4945a834a37fbab",
+    "title": "TutorMoments：AI 导师知道什么时候该帮忙、什么时候该克制吗？",
+    "summary": "# TutorMoments：AI 导师知道什么时候该帮忙、什么时候该克制吗？今天我们推出了 **TutorMoments** 的预览版，这是一个用于衡量尖端 AI 模型..."
+  }
+}

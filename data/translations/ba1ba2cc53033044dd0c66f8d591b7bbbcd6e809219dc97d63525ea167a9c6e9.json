@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/mcp-v2",
+  "content_hash": "7540f8332ee6ccc4c38406b201960788c915d98e17ed7bbbce2cfffb3d6884d9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f66aea27eeabe66a6361457106cbd6fabdc6a20f48f41aa0edcc84596bef73ca",
+    "title": "新一代 MCP",
+    "summary": "新版本的 MCP 拥有重构的、无状态的核心，可以直接在 Workers 上运行。我们涵盖了协议升级、新功能生命周期和 SDK 迁移..."
+  }
+}

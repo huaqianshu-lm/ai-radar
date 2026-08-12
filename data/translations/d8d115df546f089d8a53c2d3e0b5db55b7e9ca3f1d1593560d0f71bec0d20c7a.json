@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/shieldstral",
+  "content_hash": "db3264535ac9a62f8049221cd90213f39ae8bca1bb739ccc520f45fbb9c890e1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a594752653c1015b8463a50f098aca8409612def93676aefed7f1686558f358f",
+    "title": "介绍 Shieldstral | Mistral AI",
+    "summary": "Shieldstral 引入了一个 3B 开源权重的多模态安全分类器，其性能表现优于体积大其 7 倍的模型..."
+  }
+}

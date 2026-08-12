@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+  "content_hash": "48c53fdc3f35f8ea5bcbe65db1958087815590ccda5a8073a5b113b158936326",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5890b1cfd4cc38aa3885e02e9fc3010d881da63d5d8b82ee82ae0ed7c4531d58",
+    "title": "使用 NVIDIA Magpie TTS 构建低延迟多语言语音智能体：开源权重与完整部署控制",
+    "summary": "使用 NVIDIA Magpie TTS 构建低延迟多语言语音智能体，提供开源权重与完整的部署控制权，满足语音交互中的延迟预算需求。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.therundown.ai/p/openai-s-models-cut-their-own-costs",
+  "content_hash": "0da6a865ab660dd65d8423618cd2a925c532ebd52331ae7f475da453df0f7e85",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d9498793ff50b3dfd5393febd01f81eed1fbd4f4e57c3df16354a7e0e81b9ae8",
+    "title": "OpenAI's models cut their own costs：原文摘要",
+    "summary": "原文摘要：**Good morning, {{ first_name | AI enthusiasts }}, and welcome to the 6,038 new readers who joined us yesterday.** What happens when an AI model gets good enoug..."
+  }
+}

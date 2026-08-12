@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt",
+  "content_hash": "57a374d0ce73aae66985257f65031729da77026de5902d0cea80023f09b6eef1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d2a5f0864ab37741d5684ce6685bab7e388bcae7f3fe32d28a7ca7c6a37b81b1",
+    "title": "引用 Claude Opus 5 系统提示词",
+    "summary": "Claude Fable 5 和 Claude Mythos 5 于 2026 年 6 月 9 日首次发布。2026 年 6 月 12 日，Anthropic 暂停了对这两个模型的访问，以遵守美国国防部的规定..."
+  }
+}

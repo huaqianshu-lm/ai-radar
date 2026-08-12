@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026",
+  "content_hash": "3b6f9aa10d5e9ce4e9a2e3d369e5fc51914e71efca893cf93005f460244873b2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "117b7c0d74795bc54d9dc192a1bd4729f0e9a115aa31a845a3b2e311a95fb2ad",
+    "title": "Cloudflare 是唯一在 2026 年 SASE 和 SSE 报告中被评为远见者的供应商",
+    "summary": "我们很荣幸地宣布，Cloudflare 是唯一一家在 2026 年 Gartner® 魔力象限 SASE 平台报告中被认可为远见者的供应商。"
+  }
+}

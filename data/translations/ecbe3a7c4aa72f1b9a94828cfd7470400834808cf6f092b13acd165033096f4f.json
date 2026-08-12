@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+  "content_hash": "9f4acd93d6b795cdd8be84ba5f0ac63154347e19dda22c7c2b74cb399fa8ed22",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "96537f9acc12bc3d68e6b6fb2d661a65772f583697352d4f1c191b91c0ae113e",
+    "title": "NVIDIA Cosmos-H-Dreams：将实时生成式模拟引入手术机器人",
+    "summary": "世界基础模型提供了一条不同的路径，而非手动编写。"
+  }
+}

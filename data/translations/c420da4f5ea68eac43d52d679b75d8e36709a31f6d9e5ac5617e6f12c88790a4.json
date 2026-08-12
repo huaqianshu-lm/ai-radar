@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype",
+  "content_hash": "acaf484c745da17ede37963c118b5066e2d0920db9fea5b8bbadf8a93cd05808",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "aa5eb22285cdf802e5160aa50efa491c36702eaaa54ab25c3a7e21ea40b515ca",
+    "title": "SQLite 压缩文本历史记录原型",
+    "summary": "研究：SQLite 压缩文本历史记录原型。我一直对在关系数据库中存储修订历史记录的选项很感兴趣。在外面..."
+  }
+}

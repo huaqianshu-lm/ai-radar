@@ -1,0 +1,14 @@
+---
+title: "Cloudflare is the only vendor named a Visionary in 2026 SASE and SSE reports"
+url: "https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/"
+source_url: "https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/"
+canonical_url: "https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/"
+source: "Cloudflare AI Blog"
+source_type: "developer"
+published_at: "2026-08-05T23:24:51+00:00"
+fetched_at: "2026-08-12T14:34:18+00:00"
+content_type: "markdown"
+is_list_page: false
+---
+
+We're honored to announce that Cloudflare is the only vendor that has been recognized as a Visionary in both the 2026 Gartner® Magic Quadrant™ for SASE Platforms and the 2026 Gartner® Magic Quadrant™ for Security Service Edge reports.

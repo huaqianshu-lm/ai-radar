@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/ai-search-easier",
+  "content_hash": "802d8390cb76a05fc8b8e85a1429f7eca3b5f90c0705d97e424cba5e3befa90a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "54aa107c534ae476237846ef18d7a757cec8e6b42fb4a2ccf21c852b231c2d99",
+    "title": "Cloudflare AI Search：为你的 Agent 提供数据搜索引擎",
+    "summary": "AI Search 让搜索比以往任何时候都更容易，无需拼凑 Cloudflare 原语。将其指向你的数据，即可为你的文件和网站创建搜索。"
+  }
+}

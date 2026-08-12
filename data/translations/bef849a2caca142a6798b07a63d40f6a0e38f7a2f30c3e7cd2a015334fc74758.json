@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-08-10",
+  "content_hash": "7672c517d770c7898aa4fc4fd752665a0f85dc6a2b6f167fb9f08f84b4889657",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c672180a27bd805aeb2799bdc341c0989f8e18c45bd2fc7b3df6219b23ef18c1",
+    "title": "OpenAI Astra 暂停 🚨、Claude Code 跨会话 🤖、Cursor Router 工作原理 🔀",
+    "summary": "# TLDR AI 2026-08-10 ## OpenAI Astra 暂停 🚨、Claude Code 跨会话 🤖、Cursor Router 工作原理 🔀 ### Verda：在 20 分钟内启动 GPU 集群，自托管..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/claude-sonnet-5",
+  "content_hash": "6bbbb4005e96293eaa6e2b28c197da400a0c69fc0d261c917206b001a92afccd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4307222bc7e5f2e471152174bb7c460b9a7d74b4becbb1e59011c7ac18dd09e6",
+    "title": "介绍 Claude Sonnet 5 - Anthropic",
+    "summary": "Anthropic 推出了 Claude Sonnet 5，旨在成为迄今为止最具智能体特性的 Sonnet 模型。它能够制定计划、使用浏览器和终端等工具并运行..."
+  }
+}

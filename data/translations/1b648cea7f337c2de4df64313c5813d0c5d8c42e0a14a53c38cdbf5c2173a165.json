@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "content_hash": "4588245bbc68e3de115b46bbf2847db9c4a42797cc0a74d342e154ae94e6266a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8088c1dfd69d52169d26c3ad98d416ee06b8c8b567835bffc63d0babec849503",
+    "title": "前沿实验室 Agent 入侵剖析：2026年7月事件的技术时间线",
+    "summary": "这是我们事件披露的配套技术文章。"
+  }
+}

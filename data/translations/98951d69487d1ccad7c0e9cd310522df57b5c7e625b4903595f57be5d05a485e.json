@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+  "content_hash": "aa0e93abfc652733ffe5271dd81b0cae853b637aa9f645476172226707890d8a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "68b415c71f0bdd5538df2f099ae31954adb9c5ef4dd90e52154d7576dd64a683",
+    "title": "[AINews] 如何窃取推理轨迹",
+    "summary": "换个名字的推测解码（Speculative Decoding）蒸馏起来同样甜美"
+  }
+}

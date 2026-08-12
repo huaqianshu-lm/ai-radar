@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+  "content_hash": "378a34332f3e6713e29eef229da8f0ef2187f4ee536eb53a7ef8e1f7c37c8909",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "815edfe6383208a72cfe7f7d043ea0afc2543b1ffb0ccb04372202c8f4eb8186",
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale：原文摘要",
+    "summary": "原文摘要：https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
+  }
+}

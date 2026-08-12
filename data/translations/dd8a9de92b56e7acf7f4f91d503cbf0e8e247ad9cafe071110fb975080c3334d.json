@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.therundown.ai/p/anthropic-slips-an-invisible-signature-into-claude",
+  "content_hash": "c6f842f16b1a6572c41c0923dec2b9e30011035d48e54d8cb83e36d2691f46fc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "668637a0f8b18fda6dc2a937d0987ba13ffe52cdf530ebd07f9c51c865500529",
+    "title": "Anthropic 在 Claude 中嵌入隐式签名",
+    "summary": "Anthropic 为 Claude 添加了隐式签名技术。"
+  }
+}

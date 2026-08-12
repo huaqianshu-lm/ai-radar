@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/rss",
+  "content_hash": "a68a8f56bd43b4afcc09b0e5f121514c36cf3411f3eec1041628408c2910d097",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6c99bcc6780c370d7ea29bb011fd4438d9cf23ffebf09517509823747d11088b",
+    "title": "Mistral AI 博客",
+    "summary": "Mistral AI 博客提供来自 Mistral AI 的最新新闻和更新。内容涵盖区域内推理、开源模型以及用于主权 AI 的全新欧洲基础设施..."
+  }
+}

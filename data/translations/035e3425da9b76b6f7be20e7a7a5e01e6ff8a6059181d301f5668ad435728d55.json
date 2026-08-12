@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/ocr-4",
+  "content_hash": "774da3ab590869aaf70144db6087f25b8347080c501b67c90ccda2e6a25ca317",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "61adea8d905df4409e121f0711240d7867777ea364a50e83aa89660d7fc7ff58",
+    "title": "Mistral OCR 4：用于文档智能的最先进 OCR",
+    "summary": "Mistral OCR 4 引入了具有边界框、块分类和行内代码解析功能的突破性文档解析技术..."
+  }
+}

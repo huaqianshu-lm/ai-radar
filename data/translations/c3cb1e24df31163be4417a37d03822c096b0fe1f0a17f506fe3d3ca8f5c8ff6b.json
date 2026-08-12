@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail",
+  "content_hash": "13c8bffa2372eededea4100ead43f2d754b7b7aba20572d94dec089d567fc948",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "35fa779508ee87b8b25db5535be7600e85cf636e0f28ae7ff3e5ac3962e482c9",
+    "title": "AlphaEarth Foundations 帮助以空前详细的精度绘制我们的星球地图 — Google DeepMind",
+    "summary": "AlphaEarth Foundations 帮助以空前详细的精度绘制我们的星球地图，新型 AI 模型整合了数 PB 的地球观测数据以生成统一的数据表示..."
+  }
+}

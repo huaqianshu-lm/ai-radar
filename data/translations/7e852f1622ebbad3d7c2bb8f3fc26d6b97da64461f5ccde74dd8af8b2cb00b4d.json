@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/unpacking-chatgpt-work",
+  "content_hash": "f1ac9e849bc55c0ead35a450558da7c5d8b91e48df5f83735658a59487950297",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dfc4aca081a338564421c1ddb8bde723681a750c4c9f005ed5a308049148a098",
+    "title": "解析 ChatGPT Work：面向十亿用户的 AI Agent",
+    "summary": "外部重构了内存、主动性、调度、浏览器使用、插件、技能和工具如何在全新的 ChatGPT Work 中运作。"
+  }
+}

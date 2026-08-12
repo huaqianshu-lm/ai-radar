@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api",
+  "content_hash": "9b453c53ede6fe91c4b4f2241bb11ccd47b4b764c64f1f4d85f4c97b4825c51d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f8a956094e526a92caf3ce4eff950bbb824985a4609bd7aed3e57e51ebbc6ac1",
+    "title": "介绍 Muse Spark 1.1",
+    "summary": "今天，我们很高兴地推出 Muse Spark 1.1，这是 Meta Superintelligence Labs 的最新模型，也是 Muse Spark 的重大升级..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces",
+  "content_hash": "87c3014a44553ec1110d5ad3f5e0953b452f5216f279e1c93898c7d91c64094a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ae0bb8510d8a9c3c6c0a8df5e7b203a47580471afbe439919eb001eb28d3e214",
+    "title": "从专有 LLM API 中窃取推理轨迹",
+    "summary": "Stealing Reasoning Traces from Proprietary LLM APIs 一篇关于炫酷论文的个性化域名（stolen-thoughts.com）：Anthropic、OpenAI 和 Google 返回加密..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+  "content_hash": "c943f7703d6390de491251ae1da7bf7b3ab866f9237605deddab7db2babb5876",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bba16244a7af23a2584cbd65cccbd23519c859bb6b609fb510d95895046840f1",
+    "title": "Gemini Robotics 2 为机器人带来全身智能 — Google DeepMind",
+    "summary": "Gemini Robotics 2 为机器人带来全身智能，从双足到指尖——我们正在教导机器人智能的全身控制、精细灵巧度以及..."
+  }
+}
