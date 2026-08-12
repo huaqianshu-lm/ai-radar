@@ -171,6 +171,7 @@ def write_run_summary(
         f"- raw scanned: {normalize_result.raw_count}",
         f"- items written: {normalize_result.written_count}",
         f"- duplicates skipped: {normalize_result.skipped_current_duplicates} current, {normalize_result.skipped_history_duplicates} history",
+        f"- stale items skipped: {normalize_result.skipped_stale_items}",
         "",
         "## 事件聚类观察",
         "",
@@ -332,6 +333,7 @@ def run(
         "duplicates skipped: "
         f"{normalize_result.skipped_current_duplicates} current, {normalize_result.skipped_history_duplicates} history"
     )
+    print(f"stale items skipped: {normalize_result.skipped_stale_items}")
     print(
         f"frontend data: {frontend_count} items -> "
         f"{frontend_archive_path.relative_to(ROOT)}, {frontend_latest_path.relative_to(ROOT)}"

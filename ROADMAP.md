@@ -8,7 +8,7 @@
 - 目标链路为 GitHub Actions 每日抓取和处理数据、Gemini 自动生成中文标题摘要、前端读取 `latest.json`，并发布到 Cloudflare Pages。
 - 前端已接入动态 JSON 并部署到 Cloudflare Pages；翻译模型已切换到当前稳定版 `gemini-3.5-flash-lite`，25 条真实翻译、专有名称标题中文兜底和缓存复用均已通过。
 - 简报已增加 Memora 入库判断；符合标准且 raw 完整的候选生成 Memora note，并登记原文与 note 链接。
-- 当前线上发布平台为 Cloudflare Pages，Git 推送已能自动部署；每日 GitHub Actions 数据更新配置已完成本地验证，正在修复首次创建 `remote-news` 分支时的远端引用格式。
+- 当前线上发布平台为 Cloudflare Pages，Git 推送已能自动部署；每日 GitHub Actions 数据更新已跑通，正在修复旧发布时间内容进入当天前端数据的问题。
 - 翻译失败保护已增强：按 20 条分批请求，异常批次逐条重试，单条仍失败时保留带“原文摘要”标记的原文兜底。
 
 ## 已完成
@@ -26,26 +26,28 @@
 
 ## 进行中
 
-- 修复 `remote-news` 首次发布使用不完整 ref 导致工作流中断的问题，待提交后重新运行每日工作流。
+- 为 items 增加按 Asia/Shanghai 日期窗口过滤，排除过旧或未来发布时间的内容。
 
 ## 下一步
 
-1. 提交并推送工作流的完整远端分支引用，然后在 GitHub Actions 手动运行一次并检查日志。
-2. 确认 `remote-news` 保存 raw、items 和翻译缓存，`main` 只新增前端数据提交。
-3. 确认 Cloudflare Pages 接收到机器人提交并成功发布；自定义域名等其他生产配置继续逐步确认。
+1. 提交并推送日期过滤修复，然后在 GitHub Actions 手动运行一次并检查输出条数。
+2. 确认 `remote-news` 保存 raw、过滤后的 items 和翻译缓存，`main` 只新增前端数据提交。
+3. 确认 Cloudflare Pages 接收到机器人提交并成功发布。
 
 ## 阻塞与注意事项
 
 - GitHub Actions 需要配置 `GEMINI_API_KEY` 和 `PRODUCT_HUNT_TOKEN`；X 来源重新启用时再配置 `X_BEARER_TOKEN`。
 - Cloudflare Pages 已完成首次部署；后续环境变量、域名或生产发布配置仍必须逐步取得确认。
 - Gemini 免费额度和 Cloudflare 免费套餐均属于外部平台政策，实施时需重新核对；自动化失败必须保留上一版有效页面与数据。
-- `remote-news` 首次创建时必须使用 `HEAD:refs/heads/remote-news`，否则 Git 可能将目标解析为不完整 ref 并拒绝推送。
+- `remote-news` 首次创建时必须使用 `HEAD:refs/heads/remote-news`，否则 Git 可能将目标解析为不完整 ref 并拒绝推送；该问题已在工作流中修复。
+- items 的 14 天 URL／标题去重不能代替发布时间过滤；有发布时间的内容只保留运行日及前一天，没有发布时间的内容只保留当天 `fetched_at`。
 - 本机已配置 `GEMINI_API_KEY`；旧版 `gemini-2.5-flash-lite` 对新用户返回 404，已改用当前稳定版 `gemini-3.5-flash-lite`。纯专有名称标题不能只依赖提示词，必须保留确定性中文兜底。
 - 不设计 brief input 候选池，不补充近 3～7 天历史 items；`items` 和 brief input 均保持仅当日新增内容。候选不足时，简报应如实说明候选不足。
 - 真实多来源事件合并与 newsletter 内原始新闻链接解析均暂不做；当前只保留已有的 canonical URL 去重和 cluster metadata。
 
 ## 最近验证
 
+- 2026-08-12：新增 items 日期窗口过滤和 4 项回归测试；本地 2026-08-12 raw 扫描 71 条，过滤 17 条过旧内容、1 条当日重复和 28 条历史重复，保留 25 条。
 - 2026-08-12：每日工作流已扩展为恢复历史 items 与翻译缓存、处理当日 raw、校验三份前端输出、向 `remote-news` 发布处理状态并向 `main` 发布前端数据；本地 YAML、Shell 和 Python 验证通过，远端运行待提交后验证。
 - 2026-08-12：定位并修复每日工作流首次创建 `remote-news` 分支时使用不完整推送 ref 的问题，改为完整限定 `refs/heads/remote-news`，待远端运行验证。
 - 2026-08-12：翻译导出改为 20 条分批；批次异常时逐条重试，单条仍异常时使用不扩写事实的“原文摘要”兜底，并新增回归测试。

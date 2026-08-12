@@ -8,6 +8,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
+from zoneinfo import ZoneInfo
 
 import yaml
 
@@ -15,6 +16,8 @@ ROOT = Path(__file__).resolve().parents[1]
 RAW_DIR = ROOT / "data" / "raw"
 ITEMS_DIR = ROOT / "data" / "items"
 DEFAULT_DEDUPE_DAYS = 14
+DAILY_ITEM_LOOKBACK_DAYS = 1
+BUSINESS_TIMEZONE = ZoneInfo("Asia/Shanghai")
 TRACKING_QUERY_PARAMS = {"fbclid", "gclid", "ref"}
 
 
@@ -35,6 +38,7 @@ class NormalizeResult:
     written_count: int
     skipped_current_duplicates: int
     skipped_history_duplicates: int
+    skipped_stale_items: int
 
 
 def today() -> str:
@@ -86,6 +90,38 @@ def normalize_url(url: str) -> str:
 
 def dedupe_url_key(item: dict[str, Any]) -> str:
     return normalize_url(str(item.get("canonical_url") or item.get("url") or ""))
+
+
+def item_local_date(item: dict[str, Any]) -> datetime.date | None:
+    value = item.get("published_at") or item.get("fetched_at")
+    if not value:
+        return None
+
+    try:
+        if isinstance(value, datetime):
+            parsed = value
+        else:
+            parsed = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+    except ValueError:
+        return None
+
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(BUSINESS_TIMEZONE).date()
+
+
+def is_recent_item(item: dict[str, Any], date: str) -> bool:
+    has_published_at = bool(str(item.get("published_at") or "").strip())
+    observed_date = item_local_date(item)
+    if observed_date is None:
+        return False
+
+    target_date = datetime.fromisoformat(date).date()
+    if not has_published_at:
+        return observed_date == target_date
+
+    earliest_date = target_date - timedelta(days=DAILY_ITEM_LOOKBACK_DAYS)
+    return earliest_date <= observed_date <= target_date
 
 
 def historical_item_keys(date: str, days: int = DEFAULT_DEDUPE_DAYS) -> tuple[set[str], set[str]]:
@@ -200,9 +236,13 @@ def normalize(date: str) -> NormalizeResult:
     items: list[dict[str, Any]] = []
     skipped_current_duplicates = 0
     skipped_history_duplicates = 0
+    skipped_stale_items = 0
 
     for path in raw_files:
         item = raw_to_item(path)
+        if not is_recent_item(item, date):
+            skipped_stale_items += 1
+            continue
         url_key = dedupe_url_key(item)
         title_key = normalize_title(str(item.get("title") or ""))
         if (url_key and url_key in seen_urls) or (title_key and title_key in seen_titles):
@@ -230,6 +270,7 @@ def normalize(date: str) -> NormalizeResult:
         written_count=len(items),
         skipped_current_duplicates=skipped_current_duplicates,
         skipped_history_duplicates=skipped_history_duplicates,
+        skipped_stale_items=skipped_stale_items,
     )
 
 
@@ -245,6 +286,7 @@ def main() -> None:
         "duplicates skipped: "
         f"{result.skipped_current_duplicates} current, {result.skipped_history_duplicates} history"
     )
+    print(f"stale items skipped: {result.skipped_stale_items}")
 
 
 if __name__ == "__main__":
