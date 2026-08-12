@@ -145,7 +145,7 @@ jobs:
             echo "No new processing state to publish."
           else
             git -C "$state_dir" commit -m "chore: publish daily data $RUN_DATE"
-            git -C "$state_dir" push origin "HEAD:$state_branch"
+            git -C "$state_dir" push origin "HEAD:refs/heads/$state_branch"
           fi
 
       - name: Publish frontend data to main

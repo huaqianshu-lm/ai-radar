@@ -8,7 +8,7 @@
 - 目标链路为 GitHub Actions 每日抓取和处理数据、Gemini 自动生成中文标题摘要、前端读取 `latest.json`，并发布到 Cloudflare Pages。
 - 前端已接入动态 JSON 并部署到 Cloudflare Pages；翻译模型已切换到当前稳定版 `gemini-3.5-flash-lite`，25 条真实翻译、专有名称标题中文兜底和缓存复用均已通过。
 - 简报已增加 Memora 入库判断；符合标准且 raw 完整的候选生成 Memora note，并登记原文与 note 链接。
-- 当前线上发布平台为 Cloudflare Pages，Git 推送已能自动部署；每日 GitHub Actions 数据更新配置已完成本地验证，待首次手动运行验证远端完整链路。
+- 当前线上发布平台为 Cloudflare Pages，Git 推送已能自动部署；每日 GitHub Actions 数据更新配置已完成本地验证，正在修复首次创建 `remote-news` 分支时的远端引用格式。
 - 翻译失败保护已增强：按 20 条分批请求，异常批次逐条重试，单条仍失败时保留带“原文摘要”标记的原文兜底。
 
 ## 已完成
@@ -26,11 +26,11 @@
 
 ## 进行中
 
-- 重新运行每日工作流，验证分批翻译与单条兜底后能完成双分支发布。
+- 修复 `remote-news` 首次发布使用不完整 ref 导致工作流中断的问题，待提交后重新运行每日工作流。
 
 ## 下一步
 
-1. 提交并推送翻译失败保护改动，然后在 GitHub Actions 手动运行一次并检查日志。
+1. 提交并推送工作流的完整远端分支引用，然后在 GitHub Actions 手动运行一次并检查日志。
 2. 确认 `remote-news` 保存 raw、items 和翻译缓存，`main` 只新增前端数据提交。
 3. 确认 Cloudflare Pages 接收到机器人提交并成功发布；自定义域名等其他生产配置继续逐步确认。
 
@@ -39,6 +39,7 @@
 - GitHub Actions 需要配置 `GEMINI_API_KEY` 和 `PRODUCT_HUNT_TOKEN`；X 来源重新启用时再配置 `X_BEARER_TOKEN`。
 - Cloudflare Pages 已完成首次部署；后续环境变量、域名或生产发布配置仍必须逐步取得确认。
 - Gemini 免费额度和 Cloudflare 免费套餐均属于外部平台政策，实施时需重新核对；自动化失败必须保留上一版有效页面与数据。
+- `remote-news` 首次创建时必须使用 `HEAD:refs/heads/remote-news`，否则 Git 可能将目标解析为不完整 ref 并拒绝推送。
 - 本机已配置 `GEMINI_API_KEY`；旧版 `gemini-2.5-flash-lite` 对新用户返回 404，已改用当前稳定版 `gemini-3.5-flash-lite`。纯专有名称标题不能只依赖提示词，必须保留确定性中文兜底。
 - 不设计 brief input 候选池，不补充近 3～7 天历史 items；`items` 和 brief input 均保持仅当日新增内容。候选不足时，简报应如实说明候选不足。
 - 真实多来源事件合并与 newsletter 内原始新闻链接解析均暂不做；当前只保留已有的 canonical URL 去重和 cluster metadata。
@@ -46,6 +47,7 @@
 ## 最近验证
 
 - 2026-08-12：每日工作流已扩展为恢复历史 items 与翻译缓存、处理当日 raw、校验三份前端输出、向 `remote-news` 发布处理状态并向 `main` 发布前端数据；本地 YAML、Shell 和 Python 验证通过，远端运行待提交后验证。
+- 2026-08-12：定位并修复每日工作流首次创建 `remote-news` 分支时使用不完整推送 ref 的问题，改为完整限定 `refs/heads/remote-news`，待远端运行验证。
 - 2026-08-12：翻译导出改为 20 条分批；批次异常时逐条重试，单条仍异常时使用不扩写事实的“原文摘要”兜底，并新增回归测试。
 - 2026-08-12：`run_daily.py --skip-fetch --date 2026-08-12` 使用 `gemini-3.5-flash-lite` 成功翻译 25 条并生成 25 个缓存；25 条标题和摘要均含中文、字段完整，三个前端数据文件一致。再次运行为 `0 Gemini, 25 cache`，5 项翻译测试通过。
 - 2026-08-12：官方 `models.list` 返回 200；确认旧模型 404 的原因为 Google 不再向新用户开放。切换 `gemini-3.5-flash-lite` 后真实结构化响应成功，失败保护在纯仓库名标题不含中文时未写缓存、未覆盖旧前端数据。
