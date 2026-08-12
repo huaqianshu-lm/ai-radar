@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/DannyArends/DLLM",
+  "content_hash": "271d9b956ef016fb67e5ec788228bf94443fac2f287c2ee85d90954ac2c8a752",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6e3a868b2173c0f296e3d9d30fbf6ba00f887afed1733a3f5e8561eab5a7aa5d",
+    "title": "DLLM：直接构建在 llama.cpp 之上且无额外开销的极简纯净编码 Agent",
+    "summary": "HN 讨论帖；原始链接：https://github.com/DannyArends/DLLM；作者：teleforce；得分：3"
+  }
+}
