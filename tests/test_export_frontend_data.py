@@ -136,6 +136,26 @@ class TranslationCacheTest(unittest.TestCase):
         self.assertIn("原始 title 只有产品名、仓库名", prompt)
         self.assertEqual(translated[item["id"]]["title"], "示例 AI 模型")
 
+    def test_invalid_batch_retries_items_and_uses_conservative_fallback(self) -> None:
+        items = [sample_item(), {**sample_item(), "id": "item-2", "title": "Example tool"}]
+        valid = {"id": "item-1", "title": "示例 AI 模型", "summary": "一个示例模型已发布。"}
+
+        with patch.object(
+            exporter,
+            "_translate_batch",
+            side_effect=[
+                ValueError("invalid batch item"),
+                {"item-1": valid},
+                ValueError("still invalid"),
+            ],
+        ) as translate:
+            translated = exporter.translate_items(items, "test-key")
+
+        self.assertEqual(translated["item-1"]["summary"], "一个示例模型已发布。")
+        self.assertEqual(translated["item-2"]["title"], "Example tool：原文摘要")
+        self.assertTrue(translated["item-2"]["summary"].startswith("原文摘要："))
+        self.assertEqual(translate.call_count, 3)
+
 
 if __name__ == "__main__":
     unittest.main()

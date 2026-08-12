@@ -22,6 +22,7 @@ FRONTEND_DIR = ROOT / "data" / "frontend"
 TRANSLATIONS_DIR = ROOT / "data" / "translations"
 ENV_LOCAL_PATH = ROOT / ".env.local"
 GEMINI_MODEL = "gemini-3.5-flash-lite"
+TRANSLATION_BATCH_SIZE = 20
 GEMINI_API_URL = (
     f"https://generativelanguage.googleapis.com/v1beta/models/"
     f"{GEMINI_MODEL}:generateContent"
@@ -196,7 +197,18 @@ def read_cached_translation(item: dict[str, str]) -> dict[str, str] | None:
         return None
 
 
-def translate_items(items: list[dict[str, str]], api_key: str) -> dict[str, dict[str, str]]:
+def fallback_translation(item: dict[str, str]) -> dict[str, str]:
+    """Keep the source text when Gemini cannot produce a valid translation."""
+    title = item["title"]
+    summary = f"原文摘要：{item['summary']}"
+    if not has_chinese(title):
+        title = f"{title}：原文摘要"
+    return {"title": title.strip(), "summary": summary.strip()}
+
+
+def _translate_batch(
+    items: list[dict[str, str]], api_key: str
+) -> dict[str, dict[str, str]]:
     prompt_items = [
         {"id": item["id"], "title": item["title"], "summary": item["summary"]}
         for item in items
@@ -251,6 +263,38 @@ def translate_items(items: list[dict[str, str]], api_key: str) -> dict[str, dict
         translations[item_id] = validate_translation(value, item_id)
     if set(translations) != expected_ids:
         raise ValueError("Gemini returned an incomplete translation batch")
+    return translations
+
+
+def translate_items(items: list[dict[str, str]], api_key: str) -> dict[str, dict[str, str]]:
+    """Translate in small batches and isolate malformed model responses."""
+    translations: dict[str, dict[str, str]] = {}
+    fallback_count = 0
+
+    for start in range(0, len(items), TRANSLATION_BATCH_SIZE):
+        batch = items[start : start + TRANSLATION_BATCH_SIZE]
+        try:
+            translations.update(_translate_batch(batch, api_key))
+            continue
+        except (RuntimeError, ValueError) as batch_error:
+            print(
+                f"Translation batch failed ({len(batch)} items, "
+                f"{type(batch_error).__name__}); retrying individually."
+            )
+
+        for item in batch:
+            try:
+                translations.update(_translate_batch([item], api_key))
+            except (RuntimeError, ValueError) as item_error:
+                fallback_count += 1
+                translations[item["id"]] = fallback_translation(item)
+                print(
+                    f"Translation fallback for {item['id']}: "
+                    f"{type(item_error).__name__}"
+                )
+
+    if fallback_count:
+        print(f"Translation fallbacks: {fallback_count}")
     return translations
 
 
