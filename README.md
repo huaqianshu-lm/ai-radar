@@ -38,16 +38,20 @@ pip install -e .
 
 1. 抓取固定来源到 `data/raw/`
 2. 生成当天 `data/items/YYYY-MM-DD.jsonl`
-3. 生成 `data/inbox/YYYY-MM-DD-brief-input.md`
-4. 调用 Claude Code CLI 生成 `data/briefs/YYYY-MM-DD-ai-daily-brief.md`
-5. 简报质量检查通过后，复制到配置好的 Obsidian Vault
-6. 简报质量检查通过后，自动将“直接入库”候选写入配置的 Obsidian 知识卡片目录
+3. 导出 `data/frontend/YYYY-MM-DD.json` 和 `data/frontend/latest.json`
+4. 构建 `dist/index.html` 和 `dist/data/latest.json`
+5. 生成 `data/inbox/YYYY-MM-DD-brief-input.md`
+6. 调用 Claude Code CLI 生成 `data/briefs/YYYY-MM-DD-ai-daily-brief.md`
+7. 简报质量检查通过后，复制到配置好的 Obsidian Vault
+8. 简报质量检查通过后，自动将“直接入库”候选写入配置的 Obsidian 知识卡片目录
 
 如果只想抓取和准备输入，不生成简报：
 
 ```bash
 .venv/bin/python scripts/run_daily.py
 ```
+
+该命令也会自动更新前端数据并重新生成 `dist/` 静态页面。
 
 也可以分步运行：
 

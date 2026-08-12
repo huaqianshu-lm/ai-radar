@@ -12,6 +12,8 @@ from generate_brief import generate
 from normalize_items import NormalizeResult, normalize
 from prepare_brief_input import prepare
 from archive_notes import archive_brief
+from build_frontend import build as build_frontend
+from export_frontend_data import export as export_frontend_data
 
 ROOT = Path(__file__).resolve().parents[1]
 INBOX_DIR = ROOT / "data" / "inbox"
@@ -269,6 +271,8 @@ def run(
 
     normalize_result = normalize(run_date)
     items_path = normalize_result.path
+    frontend_archive_path, frontend_latest_path, frontend_count = export_frontend_data(run_date)
+    frontend_html_path, frontend_data_path = build_frontend()
     brief_input_path = prepare(run_date)
     brief_path = None
     brief_error = ""
@@ -327,6 +331,14 @@ def run(
     print(
         "duplicates skipped: "
         f"{normalize_result.skipped_current_duplicates} current, {normalize_result.skipped_history_duplicates} history"
+    )
+    print(
+        f"frontend data: {frontend_count} items -> "
+        f"{frontend_archive_path.relative_to(ROOT)}, {frontend_latest_path.relative_to(ROOT)}"
+    )
+    print(
+        "frontend build: "
+        f"{frontend_html_path.relative_to(ROOT)}, {frontend_data_path.relative_to(ROOT)}"
     )
     print(f"brief input: {brief_input_path.relative_to(ROOT)}")
     if obsidian_path:

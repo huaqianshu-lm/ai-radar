@@ -51,8 +51,7 @@ def validate_frontend_data(path: Path) -> None:
             )
 
 
-def main() -> None:
-    args = parse_args()
+def build(output: Path = DEFAULT_OUTPUT) -> tuple[Path, Path]:
     html_source = PROJECT_ROOT / "web" / "index.html"
     data_source = PROJECT_ROOT / "data" / "frontend" / "latest.json"
 
@@ -63,13 +62,22 @@ def main() -> None:
 
     validate_frontend_data(data_source)
 
-    output = args.output.resolve()
+    output = output.resolve()
     data_output = output / "data"
     data_output.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(html_source, output / "index.html")
-    shutil.copy2(data_source, data_output / "latest.json")
+    html_output = output / "index.html"
+    latest_output = data_output / "latest.json"
+    shutil.copy2(html_source, html_output)
+    shutil.copy2(data_source, latest_output)
 
-    print(f"Frontend built: {output}")
+    return html_output, latest_output
+
+
+def main() -> None:
+    args = parse_args()
+    html_output, _ = build(args.output)
+
+    print(f"Frontend built: {html_output.parent}")
 
 
 if __name__ == "__main__":
