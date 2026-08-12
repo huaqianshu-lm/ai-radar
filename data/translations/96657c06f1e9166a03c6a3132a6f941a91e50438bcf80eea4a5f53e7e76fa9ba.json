@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+  "content_hash": "2a77b9cc709eb9b145ea7e77c78755161399a6fefb53d46bf7c76f0369e01859",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eb7be454b2fa3b50ae8ec86e7aa8a38d740fabb488d4236385a52fe3855cc520",
+    "title": "我的 Agent 设置",
+    "summary": "HN讨论：作者分享的个人AI Agent环境配置方案。"
+  }
+}

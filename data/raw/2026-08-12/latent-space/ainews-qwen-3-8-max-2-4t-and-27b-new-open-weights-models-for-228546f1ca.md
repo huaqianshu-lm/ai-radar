@@ -6,7 +6,7 @@ canonical_url: "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new"
 source: "Latent Space"
 source_type: "developer"
 published_at: "2026-08-04T03:49:14+00:00"
-fetched_at: "2026-08-12T14:34:18+00:00"
+fetched_at: "2026-08-12T15:13:25+00:00"
 content_type: "markdown"
 is_list_page: false
 ---

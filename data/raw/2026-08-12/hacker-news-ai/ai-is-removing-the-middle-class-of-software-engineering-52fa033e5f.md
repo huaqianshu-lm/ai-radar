@@ -6,7 +6,7 @@ canonical_url: "https://blog.florianherrengt.com/ai-removing-middle-class-softwa
 source: "Hacker News AI"
 source_type: "discovery"
 published_at: "2026-08-12T13:20:05+00:00"
-fetched_at: "2026-08-12T14:34:18+00:00"
+fetched_at: "2026-08-12T15:13:25+00:00"
 content_type: "markdown"
 is_list_page: false
 ---
@@ -14,4 +14,4 @@ is_list_page: false
 HN story: https://news.ycombinator.com/item?id=49271994
 Original URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html
 Author: florianherrengt
-Score: 49
+Score: 150

@@ -6,7 +6,7 @@ canonical_url: "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom
 source: "Simon Willison"
 source_type: "developer"
 published_at: "2026-08-11T20:35:13+00:00"
-fetched_at: "2026-08-12T14:34:18+00:00"
+fetched_at: "2026-08-12T15:13:25+00:00"
 content_type: "markdown"
 is_list_page: false
 ---

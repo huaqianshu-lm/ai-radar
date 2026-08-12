@@ -6,7 +6,7 @@ canonical_url: "https://simonwillison.net/2026/Aug/9/github-models-is-now-retire
 source: "Simon Willison"
 source_type: "developer"
 published_at: "2026-08-09T22:48:05+00:00"
-fetched_at: "2026-08-12T14:34:18+00:00"
+fetched_at: "2026-08-12T15:13:25+00:00"
 content_type: "markdown"
 is_list_page: false
 ---

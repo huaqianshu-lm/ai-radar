@@ -6,7 +6,7 @@ canonical_url: "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
 source: "Hugging Face Blog"
 source_type: "developer"
 published_at: "2026-08-11T13:37:10+00:00"
-fetched_at: "2026-08-12T14:34:18+00:00"
+fetched_at: "2026-08-12T15:13:25+00:00"
 content_type: "markdown"
 is_list_page: false
 ---

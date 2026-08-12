@@ -6,7 +6,7 @@ canonical_url: "https://huggingface.co/blog/Dharma-AI/gpu-management"
 source: "Hugging Face Blog"
 source_type: "developer"
 published_at: "2026-07-30T15:09:09+00:00"
-fetched_at: "2026-08-12T14:34:18+00:00"
+fetched_at: "2026-08-12T15:13:25+00:00"
 content_type: "markdown"
 is_list_page: false
 ---

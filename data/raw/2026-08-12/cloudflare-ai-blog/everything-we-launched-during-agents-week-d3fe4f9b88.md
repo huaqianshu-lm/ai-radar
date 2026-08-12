@@ -6,7 +6,7 @@ canonical_url: "https://blog.cloudflare.com/agents-week-review-august-2026/"
 source: "Cloudflare AI Blog"
 source_type: "developer"
 published_at: "2026-08-10T18:34:10+00:00"
-fetched_at: "2026-08-12T14:34:18+00:00"
+fetched_at: "2026-08-12T15:13:25+00:00"
 content_type: "markdown"
 is_list_page: false
 ---

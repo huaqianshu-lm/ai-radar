@@ -6,7 +6,7 @@ canonical_url: "https://www.producthunt.com/r/3KOLYFQJGZVXFL?utm_campaign=produc
 source: "Product Hunt AI"
 source_type: "community"
 published_at: "2026-08-12T07:01:00Z"
-fetched_at: "2026-08-12T14:34:18+00:00"
+fetched_at: "2026-08-12T15:13:25+00:00"
 content_type: "markdown"
 is_list_page: false
 ---
@@ -14,8 +14,8 @@ is_list_page: false
 Product Hunt page: https://www.producthunt.com/products/codeburn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29
 Product website: https://www.producthunt.com/r/3KOLYFQJGZVXFL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29
 Daily rank: #12
-Votes: 89
-Comments: 10
+Votes: 94
+Comments: 9
 
 See where your AI coding spend actually goes
 

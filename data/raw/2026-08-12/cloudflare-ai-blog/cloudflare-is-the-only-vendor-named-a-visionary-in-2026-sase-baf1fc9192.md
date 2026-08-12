@@ -6,7 +6,7 @@ canonical_url: "https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-qu
 source: "Cloudflare AI Blog"
 source_type: "developer"
 published_at: "2026-08-05T23:24:51+00:00"
-fetched_at: "2026-08-12T14:34:18+00:00"
+fetched_at: "2026-08-12T15:13:25+00:00"
 content_type: "markdown"
 is_list_page: false
 ---

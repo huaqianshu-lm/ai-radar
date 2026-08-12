@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/cactus-compute/needle",
+  "content_hash": "e25b8004fe5960615f1b1f7dac51329fe30b0c50581c99e753034e330f5cbd38",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e1739cedc6f9ead74fedb98f45537682342f7d7c03e436327227ffc1d95eadbb",
+    "title": "cactus-compute / needle：适用于手机、穿戴设备、智能家居和机器人等小型设备的14MB基础模型，使用Python编写",
+    "summary": "适用于手机、穿戴设备、智能家居和机器人等小型设备的14MB基础模型，使用Python编写。"
+  }
+}

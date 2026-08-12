@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://knownagents.com/insights",
+  "content_hash": "c8f5375334c1f46f79fe006299209e65996b3a5db07f2011e5f237abd32c72ec",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "de5acd99dd765901276f899758092eb3da9aab1d920171720caa64452d0ef11f",
+    "title": "有人正在进行大规模漏洞扫描，并伪装成 ClaudeBot 等AI机器人",
+    "summary": "HN讨论：发现有人伪装成 ClaudeBot 等AI机器人进行大规模漏洞扫描。"
+  }
+}

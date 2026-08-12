@@ -6,7 +6,7 @@ canonical_url: "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#
 source: "Simon Willison"
 source_type: "developer"
 published_at: "2026-08-10T23:56:03+00:00"
-fetched_at: "2026-08-12T14:34:18+00:00"
+fetched_at: "2026-08-12T15:13:25+00:00"
 content_type: "markdown"
 is_list_page: false
 ---

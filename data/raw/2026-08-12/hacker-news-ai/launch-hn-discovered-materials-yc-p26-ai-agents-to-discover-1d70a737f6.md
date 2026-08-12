@@ -6,7 +6,7 @@ canonical_url: "https://discoveredmaterials.com/research/"
 source: "Hacker News AI"
 source_type: "discovery"
 published_at: "2026-08-12T07:51:20+00:00"
-fetched_at: "2026-08-12T14:34:18+00:00"
+fetched_at: "2026-08-12T15:13:25+00:00"
 content_type: "markdown"
 is_list_page: false
 ---
@@ -14,7 +14,7 @@ is_list_page: false
 HN story: https://news.ycombinator.com/item?id=49269090
 Original URL: https://discoveredmaterials.com/research/
 Author: advaith08
-Score: 40
+Score: 44
 
 Hey HN, we're Advaith and Akash from Discovered Materials (
 https://discoveredmaterials.com/

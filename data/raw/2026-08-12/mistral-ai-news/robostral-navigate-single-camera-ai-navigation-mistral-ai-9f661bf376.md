@@ -6,7 +6,7 @@ canonical_url: "https://mistral.ai/news/robostral-navigate"
 source: "Mistral AI News"
 source_type: "official"
 published_at: ""
-fetched_at: "2026-08-12T14:34:18+00:00"
+fetched_at: "2026-08-12T15:13:25+00:00"
 content_type: "markdown"
 is_list_page: false
 ---

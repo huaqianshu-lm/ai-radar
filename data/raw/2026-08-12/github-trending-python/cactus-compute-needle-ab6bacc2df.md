@@ -6,7 +6,7 @@ canonical_url: "https://github.com/cactus-compute/needle"
 source: "GitHub Trending Python"
 source_type: "developer"
 published_at: ""
-fetched_at: "2026-08-12T14:34:18+00:00"
+fetched_at: "2026-08-12T15:13:25+00:00"
 content_type: "markdown"
 is_list_page: false
 ---
@@ -14,4 +14,4 @@ is_list_page: false
 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 
 - Language: Python
-- 248 stars today
+- 346 stars today
