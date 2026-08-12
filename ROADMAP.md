@@ -8,7 +8,7 @@
 - 目标链路为 GitHub Actions 每日抓取和处理数据、Gemini 自动生成中文标题摘要、前端读取 `latest.json`，并发布到 Cloudflare Pages。
 - 前端已接入动态 JSON 并部署到 Cloudflare Pages；翻译模型已切换到当前稳定版 `gemini-3.5-flash-lite`，25 条真实翻译、专有名称标题中文兜底和缓存复用均已通过。
 - 简报已增加 Memora 入库判断；符合标准且 raw 完整的候选生成 Memora note，并登记原文与 note 链接。
-- 当前线上发布平台为 Cloudflare Pages，测试地址已可正常读取首页和当日 JSON；自动发布尚未接入 GitHub Actions。
+- 当前线上发布平台为 Cloudflare Pages，Git 推送已能自动部署；每日 GitHub Actions 数据更新配置已完成本地验证，待首次手动运行验证远端完整链路。
 
 ## 已完成
 
@@ -25,18 +25,17 @@
 
 ## 进行中
 
-- 设计每日云端数据链路，保留最近 14 天历史 items 用于去重，并通过翻译缓存减少 Gemini API 调用。
-- 原远程工作流仍只发布 raw 到 `remote-news`；在用户确认 CI/CD 改动前不调整。
+- 验证每日工作流首次远端运行：恢复历史数据、生成中文前端数据、写入双分支，并触发 Cloudflare Pages 部署。
 
 ## 下一步
 
-1. 检查并提交 Gemini 翻译、25 条缓存和中文前端数据；随后推送以触发 Cloudflare Pages 发布。
-2. 单独确认后调整 GitHub Actions，使其每日恢复历史数据、处理新增内容、构建前端并准备部署产物。
-3. 单独确认后配置 Cloudflare Pages 自动发布；自定义域名和其他生产配置继续逐步确认。
+1. 提交并推送每日工作流改动，然后在 GitHub Actions 手动运行一次并检查日志。
+2. 确认 `remote-news` 保存 raw、items 和翻译缓存，`main` 只新增前端数据提交。
+3. 确认 Cloudflare Pages 接收到机器人提交并成功发布；自定义域名等其他生产配置继续逐步确认。
 
 ## 阻塞与注意事项
 
-- GitHub Actions 属于 CI/CD 配置，修改前必须单独说明改动与风险并取得确认。
+- GitHub Actions 需要配置 `GEMINI_API_KEY` 和 `PRODUCT_HUNT_TOKEN`；X 来源重新启用时再配置 `X_BEARER_TOKEN`。
 - Cloudflare Pages 已完成首次部署；后续环境变量、域名或生产发布配置仍必须逐步取得确认。
 - Gemini 免费额度和 Cloudflare 免费套餐均属于外部平台政策，实施时需重新核对；自动化失败必须保留上一版有效页面与数据。
 - 本机已配置 `GEMINI_API_KEY`；旧版 `gemini-2.5-flash-lite` 对新用户返回 404，已改用当前稳定版 `gemini-3.5-flash-lite`。纯专有名称标题不能只依赖提示词，必须保留确定性中文兜底。
@@ -45,6 +44,7 @@
 
 ## 最近验证
 
+- 2026-08-12：每日工作流已扩展为恢复历史 items 与翻译缓存、处理当日 raw、校验三份前端输出、向 `remote-news` 发布处理状态并向 `main` 发布前端数据；本地 YAML、Shell 和 Python 验证通过，远端运行待提交后验证。
 - 2026-08-12：`run_daily.py --skip-fetch --date 2026-08-12` 使用 `gemini-3.5-flash-lite` 成功翻译 25 条并生成 25 个缓存；25 条标题和摘要均含中文、字段完整，三个前端数据文件一致。再次运行为 `0 Gemini, 25 cache`，5 项翻译测试通过。
 - 2026-08-12：官方 `models.list` 返回 200；确认旧模型 404 的原因为 Google 不再向新用户开放。切换 `gemini-3.5-flash-lite` 后真实结构化响应成功，失败保护在纯仓库名标题不含中文时未写缓存、未覆盖旧前端数据。
 - 2026-08-12：Gemini 请求格式、翻译缓存、缓存复用、缺少密钥和中文字段校验共 4 项测试通过；完整 `run_daily.py --skip-fetch --date 2026-08-12` 在缺少密钥时于翻译阶段停止，已有日期归档和 `latest.json` 哈希保持不变。
@@ -54,4 +54,3 @@
 - 2026-08-11：`data/frontend/latest.json` 通过 JSON 解析、字段完整性和中文内容检查，共 35 条；22 条为 `published`，13 条为 `fetched`，全部具有稳定 ID、中文标题、中文摘要、来源、显示时间和原文链接。
 - 2026-08-11：只读审计当日 35 条 items，22 条具有真实发布时间，13 条来自普通网页或 GitHub Trending、仅有抓取时间；项目规则、前端数据任务和页面显示参考已统一对应处理方式。
 - 2026-08-11：核对 `scripts/archive_notes.py` 与 Memora `tools/finalize_ingest.py`，确认自动链路会新增 note、重建索引、补写日志、刷新知识库总览并生成关联 / wiki 建议，但不会自动改写已有 note / wiki 或写回 `related`。
-- 2026-08-11：当日简报中的「今日 GitHub Trending 候选不足」说明可被质量检查正确识别；缺少说明的反例仍会失败。简报质量检查通过，Obsidian 导出文件与项目简报内容一致。

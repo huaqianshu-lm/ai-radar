@@ -1,4 +1,4 @@
-name: Remote news fetch
+name: Daily frontend update
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: ai-radar-remote-fetch
+  group: ai-radar-daily-frontend
   cancel-in-progress: false
 
 jobs:
@@ -21,6 +21,7 @@ jobs:
       PYTHONUNBUFFERED: "1"
       X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
       PRODUCT_HUNT_TOKEN: ${{ secrets.PRODUCT_HUNT_TOKEN }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
     steps:
       - name: Check out repository
@@ -59,48 +60,122 @@ jobs:
 
           echo "Remote raw files: $raw_count"
 
-      - name: Publish raw for local sync
+      - name: Restore item history and translation cache
+        run: |
+          set -euo pipefail
+
+          state_branch="remote-news"
+          state_dir="$(mktemp -d)"
+          cleanup() {
+            git worktree remove --force "$state_dir" >/dev/null 2>&1 || true
+          }
+          trap cleanup EXIT
+
+          if git ls-remote --exit-code --heads origin "$state_branch" >/dev/null 2>&1; then
+            git fetch --no-tags origin "refs/heads/$state_branch:refs/remotes/origin/$state_branch"
+            git worktree add --detach "$state_dir" "origin/$state_branch"
+
+            if [ -d "$state_dir/data/items" ]; then
+              cp -R "$state_dir/data/items/." data/items/
+            fi
+            if [ -d "$state_dir/data/translations" ]; then
+              cp -R "$state_dir/data/translations/." data/translations/
+            fi
+          else
+            echo "No remote state branch yet; starting from the data tracked on main."
+          fi
+
+      - name: Generate translated frontend data
+        run: python scripts/run_daily.py --skip-fetch --date "${{ steps.date.outputs.date }}"
+
+      - name: Validate frontend output
+        env:
+          RUN_DATE: ${{ steps.date.outputs.date }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          run_date = os.environ["RUN_DATE"]
+          latest_path = Path("data/frontend/latest.json")
+          archive_path = Path("data/frontend") / f"{run_date}.json"
+          built_path = Path("dist/data/latest.json")
+
+          payloads = [json.loads(path.read_text(encoding="utf-8")) for path in (latest_path, archive_path, built_path)]
+          if any(payload.get("date") != run_date for payload in payloads):
+              raise SystemExit("Frontend output date does not match the workflow run date.")
+          if payloads[0] != payloads[1] or payloads[0] != payloads[2]:
+              raise SystemExit("Frontend archive, latest data, and build output are inconsistent.")
+
+          print(f"Validated frontend data: {len(payloads[0].get('items', []))} items")
+          PY
+
+      - name: Publish processing state for history and local sync
         if: success()
         env:
           RUN_DATE: ${{ steps.date.outputs.date }}
         run: |
           set -euo pipefail
 
-          sync_branch="remote-news"
-          sync_dir="$(mktemp -d)"
+          state_branch="remote-news"
+          state_dir="$(mktemp -d)"
           cleanup() {
-            git worktree remove --force "$sync_dir" >/dev/null 2>&1 || true
+            git worktree remove --force "$state_dir" >/dev/null 2>&1 || true
           }
           trap cleanup EXIT
 
-          if git ls-remote --exit-code --heads origin "$sync_branch" >/dev/null 2>&1; then
-            git fetch --no-tags origin "refs/heads/$sync_branch:refs/remotes/origin/$sync_branch"
-            git worktree add --detach "$sync_dir" "origin/$sync_branch"
+          if git ls-remote --exit-code --heads origin "$state_branch" >/dev/null 2>&1; then
+            git fetch --no-tags origin "refs/heads/$state_branch:refs/remotes/origin/$state_branch"
+            git worktree add --detach "$state_dir" "origin/$state_branch"
           else
-            git worktree add --detach "$sync_dir" HEAD
+            git worktree add --detach "$state_dir" HEAD
           fi
 
-          mkdir -p "$sync_dir/data/raw/$RUN_DATE"
-          cp -R "data/raw/$RUN_DATE/." "$sync_dir/data/raw/$RUN_DATE/"
+          mkdir -p "$state_dir/data/raw/$RUN_DATE" "$state_dir/data/items" "$state_dir/data/translations"
+          cp -R "data/raw/$RUN_DATE/." "$state_dir/data/raw/$RUN_DATE/"
+          cp "data/items/$RUN_DATE.jsonl" "$state_dir/data/items/$RUN_DATE.jsonl"
+          cp -R "data/translations/." "$state_dir/data/translations/"
 
-          git -C "$sync_dir" config user.name "github-actions[bot]"
-          git -C "$sync_dir" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git -C "$sync_dir" add -f "data/raw/$RUN_DATE"
+          git -C "$state_dir" config user.name "github-actions[bot]"
+          git -C "$state_dir" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C "$state_dir" add -f "data/raw/$RUN_DATE" "data/items/$RUN_DATE.jsonl" data/translations
 
-          if git -C "$sync_dir" diff --cached --quiet; then
-            echo "No new raw files to publish."
+          if git -C "$state_dir" diff --cached --quiet; then
+            echo "No new processing state to publish."
           else
-            git -C "$sync_dir" commit -m "chore: publish remote raw $RUN_DATE"
-            git -C "$sync_dir" push origin "HEAD:$sync_branch"
+            git -C "$state_dir" commit -m "chore: publish daily data $RUN_DATE"
+            git -C "$state_dir" push origin "HEAD:$state_branch"
+          fi
+
+      - name: Publish frontend data to main
+        if: success()
+        env:
+          RUN_DATE: ${{ steps.date.outputs.date }}
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/frontend
+
+          if git diff --cached --quiet; then
+            echo "Frontend data is unchanged; no main commit is needed."
+          else
+            git commit -m "chore: update frontend data $RUN_DATE"
+            git push origin HEAD:main
           fi
 
       - name: Upload raw backup artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: ai-radar-raw-${{ steps.date.outputs.date }}
+          name: ai-radar-daily-${{ steps.date.outputs.date }}
           if-no-files-found: warn
           retention-days: 30
           path: |
             data/raw/${{ steps.date.outputs.date }}/
+            data/items/${{ steps.date.outputs.date }}.jsonl
+            data/frontend/${{ steps.date.outputs.date }}.json
+            data/frontend/latest.json
             logs/

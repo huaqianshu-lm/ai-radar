@@ -2,7 +2,7 @@
 
 个人 AI 情报雷达 v0。
 
-当前版本实现：固定来源配置、抓取 raw、生成 items JSONL、使用 Gemini 翻译中文前端数据、构建公开静态页面、生成 brief input，并可选调用 Claude Code CLI 生成 Markdown 简报、自动判断 Memora 入库候选并生成正式 note；另提供 GitHub Actions 远程抓取工作流。不接 Claude API。重点关注视频制作、文本转音频、前端页面设计、新闻抓取、AI 产品和 AI 工具等领域。X 只支持通过显式配置的 API 来源读取数据，不做登录态抓取或泛化网页抓取。
+当前版本实现：固定来源配置、抓取 raw、生成 items JSONL、使用 Gemini 翻译中文前端数据、构建公开静态页面、生成 brief input，并可选调用 Claude Code CLI 生成 Markdown 简报、自动判断 Memora 入库候选并生成正式 note；另提供 GitHub Actions 每日数据更新工作流。不接 Claude API。重点关注视频制作、文本转音频、前端页面设计、新闻抓取、AI 产品和 AI 工具等领域。X 只支持通过显式配置的 API 来源读取数据，不做登录态抓取或泛化网页抓取。
 
 ## 安装
 
@@ -78,15 +78,16 @@ GEMINI_API_KEY="your-api-key"
 
 这个命令不会再次访问新闻来源，而是同步远程 raw 后在本地继续生成 items、brief、Obsidian 和 Memora 结果。
 
-## GitHub Actions 远程抓取与本地同步
+## GitHub Actions 每日更新与本地同步
 
-`.github/workflows/fetch-news.yml` 只负责在 GitHub Actions 中抓取 raw，不运行 items、brief、Claude Code CLI、Obsidian 或 Memora。
+`.github/workflows/fetch-news.yml` 负责在 GitHub Actions 中抓取 raw、生成 items、调用 Gemini 翻译并更新前端数据；不运行 brief、Claude Code CLI、Obsidian 或 Memora。
 
 - 每天 `23:00 UTC`（北京时间次日 `07:00`）自动运行，也可以在 GitHub Actions 页面手动运行。
-- 在仓库 `Settings → Secrets and variables → Actions` 中配置 `PRODUCT_HUNT_TOKEN`；只有重新启用 X 来源时才需要配置 `X_BEARER_TOKEN`。
-- 每次成功运行会把当天 raw 发布到独立的 `remote-news` 分支；主分支和本地 `data/` 忽略规则保持不变。
+- 在仓库 `Settings → Secrets and variables → Actions` 中配置 `GEMINI_API_KEY` 和 `PRODUCT_HUNT_TOKEN`；只有重新启用 X 来源时才需要配置 `X_BEARER_TOKEN`。
+- 每次成功运行会把当天 raw、items 和翻译缓存发布到独立的 `remote-news` 分支，用于 14 天历史去重、翻译复用和本地同步。
+- 工作流只把 `data/frontend/` 提交到 `main`；Cloudflare Pages 检测到更新后使用仓库现有构建配置发布新页面。
 - 本地 `./ai-radar --remote` 使用现有 Git 凭据同步 `remote-news` 分支，再调用本地完整处理流程。
-- 运行还会生成 `ai-radar-raw-YYYY-MM-DD` Artifact 作为排查备份，默认保留 30 天；日常同步不需要手动下载 Artifact。
+- 运行还会生成 `ai-radar-daily-YYYY-MM-DD` Artifact 作为排查备份，默认保留 30 天；日常同步不需要手动下载 Artifact。
 
 macOS 自动同步可以使用 [config/com.ai-radar.remote-daily.plist.example](config/com.ai-radar.remote-daily.plist.example)：
 
