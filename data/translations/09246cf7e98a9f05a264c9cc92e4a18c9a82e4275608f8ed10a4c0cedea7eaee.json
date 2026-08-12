@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text",
+  "content_hash": "2f6fe1219d56818b4afb5fbb579ffca63911c189de0ab66a2ec4a6751b01f357",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1f044ad3768cf707e8802d73f3a7d55ac9adbe840b3a194966c64b34069be898",
+    "title": "自然语言文本不存在无损转换",
+    "summary": "Sophie Alpert 分享了她关于“工程师对 AI 写作可接受使用的内部政策”的看法。"
+  }
+}

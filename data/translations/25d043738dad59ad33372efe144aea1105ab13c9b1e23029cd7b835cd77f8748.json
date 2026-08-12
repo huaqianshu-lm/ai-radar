@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms",
+  "content_hash": "30d3b4693bc5165287123ee37000ffc3a6aa83ff04ee29fd784dedeb00bbbc73",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "682aca50f98353f53ffcc1a4c67d16c6c951da18cea32f64f929afbe5868b8dd",
+    "title": "AlphaEvolve：由 Gemini 驱动的用于设计高级算法的编码 Agent — Google DeepMind",
+    "summary": "全新的 AI Agent 为数学及计算领域的实际应用演进算法..."
+  }
+}

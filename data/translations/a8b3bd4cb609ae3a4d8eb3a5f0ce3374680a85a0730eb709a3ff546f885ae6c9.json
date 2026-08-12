@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/HMY65PVSOJ3RX5",
+  "content_hash": "b9b0877bbac76e543c8df3112210a89bf2e3b330014f8a63cade20a65836f9f1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dd04aa2ba542d4d4443e60629fa919cf3c51db9f886d16b019b817b596c915c9",
+    "title": "Product Hunt：Kubit — 针对 Agent 和用户的产品分析工具",
+    "summary": "Product Hunt 产品收录页面，介绍如何通过用户行为优化 Agent 动作。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/3b1b/manim",
+  "content_hash": "bb415264ef950d31e132b52263fe18e19a005df9f4f6ed679c1aff3d73e12567",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "330ec54bca59ecf06f05114fc2518d2cc2756e689786255c094ec7080b076fac",
+    "title": "3b1b / manim：数学动画引擎开源库",
+    "summary": "用于制作解释性数学视频的动画引擎——编程语言：Python。"
+  }
+}

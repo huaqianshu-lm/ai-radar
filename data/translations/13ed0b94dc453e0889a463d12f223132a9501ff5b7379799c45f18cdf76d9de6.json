@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://stolen-thoughts.com/",
+  "content_hash": "0d51e632b263472ba9955e98235e5decb3c4bf7ccdfef43aa25e375fa7519ccd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5639e45f22b6bbc3efdf89cacd19436a822ecf5fb6b666eee59d9f1668bc75e5",
+    "title": "从专有大模型 API 中窃取推理轨迹",
+    "summary": "相关 Hacker News 讨论及原作者发表的文章。"
+  }
+}

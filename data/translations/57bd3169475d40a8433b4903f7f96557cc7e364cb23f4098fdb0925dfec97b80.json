@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+  "content_hash": "7d6d8012b2840e68ff303db8e333b05ada146ccd48aa252ad33825ecfad0b495",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5d3aff0aba5d0b8a3f2e93df1ad39730fb85c89988a96a7dff89f13df3bf1726",
+    "title": "Dayback 模型现已登陆 AWS",
+    "summary": "OpenAI 与 AWS 正在通过 Amazon Bedrock 提供 Dayback 网络安全功能，以支持企业安全工作流。"
+  }
+}

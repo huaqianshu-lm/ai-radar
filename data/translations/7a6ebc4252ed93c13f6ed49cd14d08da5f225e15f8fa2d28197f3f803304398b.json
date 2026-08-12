@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds",
+  "content_hash": "c480a59e0291d670761f091e2847989b60a67c67df4a9fbff29b1c81c25e81eb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3058cf74e84fa35cb52313619fc7429f251918f4905a15263784840a87aa164b",
+    "title": "SIMA 2：用于 3D 虚拟世界的 Gemini 驱动的 AI Agent — Google DeepMind",
+    "summary": "去年我们推出了通用智能 Agent SIMA（Scalable Instructable Multiworld Agent），而 SIMA 2 能够在你身处的虚拟 3D 世界中进行游玩、推理与学习。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/redeploying-fable-5",
+  "content_hash": "cf447456f7ad08f3aabec86c4cde6d35e385199327bc0a54ff6b5e2d7b2b5442",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fdd9745edc3aad4e2c44e2c4201c1a339086331f2757c65b16bcb6b59a46ca48",
+    "title": "重新部署 Claude Fable 5 — Anthropic",
+    "summary": "Claude Fable 5 和 Mythos 5 已于 2026 年 7 月 1 日重新部署，对它们的访问现已恢复。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/testing-ads-in-chatgpt",
+  "content_hash": "ba5a1fefb6bca61e593675af57ba5165ea9d9e79985c263db304682e9430f951",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b19ec562c455e753267b0e04107e2217c787cdc2a4884378a6d93cdc79d11f47",
+    "title": "ChatGPT 测试广告功能",
+    "summary": "OpenAI 开始在 ChatGPT 中测试广告以支持免费访问，具备清晰标记、答案独立性、严格隐私保护和用户控制功能。"
+  }
+}

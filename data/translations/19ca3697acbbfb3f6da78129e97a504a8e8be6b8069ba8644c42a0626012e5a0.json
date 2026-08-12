@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+  "content_hash": "364401d73953e3f33b9888b8d66780c28b777dd5536925899cb78a5942ebda7a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e637baf27472b99cac5abfa840f8208c0479525e8468c804b9b926c03396a2d3",
+    "title": "[AI新闻] Muse Glimmer 与 Spark：开源权重带回个人超级智能的承诺",
+    "summary": "美国开源模型的一小步胜利——Glimmer 可以运行在单张 RTX 3090 显卡上！"
+  }
+}

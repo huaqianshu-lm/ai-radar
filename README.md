@@ -2,7 +2,7 @@
 
 个人 AI 情报雷达 v0。
 
-当前版本实现：固定来源配置、抓取 raw、生成 items JSONL、生成 brief input，并可选调用 Claude Code CLI 生成 Markdown 简报、自动判断 Memora 入库候选并生成正式 note；另提供 GitHub Actions 远程抓取工作流。不接 Claude API。重点关注视频制作、文本转音频、前端页面设计、新闻抓取、AI 产品和 AI 工具等领域。X 只支持通过显式配置的 API 来源读取数据，不做登录态抓取或泛化网页抓取。
+当前版本实现：固定来源配置、抓取 raw、生成 items JSONL、使用 Gemini 翻译中文前端数据、构建公开静态页面、生成 brief input，并可选调用 Claude Code CLI 生成 Markdown 简报、自动判断 Memora 入库候选并生成正式 note；另提供 GitHub Actions 远程抓取工作流。不接 Claude API。重点关注视频制作、文本转音频、前端页面设计、新闻抓取、AI 产品和 AI 工具等领域。X 只支持通过显式配置的 API 来源读取数据，不做登录态抓取或泛化网页抓取。
 
 ## 安装
 
@@ -19,6 +19,14 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -e .
 ```
+
+如果尚无 `.env.local`，可复制 `.env.example`；如果文件已存在，只需在其中新增 Gemini API Key，不要覆盖原有配置：
+
+```bash
+GEMINI_API_KEY="your-api-key"
+```
+
+密钥只在本地数据处理阶段使用，不会进入前端数据或构建产物。翻译默认使用稳定版 `gemini-3.5-flash-lite`；结果缓存在 `data/translations/`，原文链接和内容未变化时不会重复调用 Gemini。
 
 ## 使用
 
@@ -38,7 +46,7 @@ pip install -e .
 
 1. 抓取固定来源到 `data/raw/`
 2. 生成当天 `data/items/YYYY-MM-DD.jsonl`
-3. 导出 `data/frontend/YYYY-MM-DD.json` 和 `data/frontend/latest.json`
+3. 使用 Gemini 翻译未缓存条目，导出中文 `data/frontend/YYYY-MM-DD.json` 和 `data/frontend/latest.json`
 4. 构建 `dist/index.html` 和 `dist/data/latest.json`
 5. 生成 `data/inbox/YYYY-MM-DD-brief-input.md`
 6. 调用 Claude Code CLI 生成 `data/briefs/YYYY-MM-DD-ai-daily-brief.md`

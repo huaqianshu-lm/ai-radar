@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "content_hash": "ee353464ca5038dba7f399b8fe43be13da554942f2315ff8ba8d70fd3ea49c3d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "077b61a0fed02bcc2a083d299a0c55e24311ad526ecaa535f96d02762c586c8f",
+    "title": "在考虑 ACE 吗？我们可以用更少的 Token 来实现",
+    "summary": "ALTK-Evolve 和 ACE 都允许 Agent 从自身的轨迹中学习，两者的区别在于它们如何处理..."
+  }
+}

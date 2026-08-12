@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering",
+  "content_hash": "067180a912ed8261798258487f1941a733ac4c66efd0b96e916ae1d78edd8c92",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4d4084e184ee42f8dada8f82a4f66d9cc359ccf8d7157a3168811d319cb270ef",
+    "title": "Go 是用于 AI 辅助软件工程的理想语言",
+    "summary": "相关 Hacker News 讨论及 Google 开发者博客发布的文章。"
+  }
+}

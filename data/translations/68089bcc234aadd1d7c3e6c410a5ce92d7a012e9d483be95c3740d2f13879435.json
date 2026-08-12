@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/anthropics/skills",
+  "content_hash": "e49ebfaa7072d337c6aa274c40575d7cbcd0d5ebd1b7dd1d9e1f9d8c4322c622",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "82a901da1b9bedec6f38670bb587455ddbcbae1f72df25bcb5a6b8c95709a39b",
+    "title": "anthropics / skills：Agent 技能开源公共仓库",
+    "summary": "Agent 技能的公共开源代码库——编程语言：Python。"
+  }
+}
