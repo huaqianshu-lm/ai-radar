@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/C6ZIEHTO6CYSGL",
+  "content_hash": "dcbfdc391572f1a5104b925243f955c2516c830aa119db6cdebcc2a894cb5e08",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d15aa7fb6027552d816e29f66e0c6ad21ca7af5f92fded2ca576456b0de99d2f",
+    "title": "Product Hunt: FluidDocs CLI：Product Hunt 上的 FluidDocs CLI 产品，用于发布能够进行回答和反馈的交互式文档",
+    "summary": "Product Hunt 上的 FluidDocs CLI 产品，用于发布能够进行回答和反馈的交互式文档。"
+  }
+}

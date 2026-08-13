@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813",
+  "content_hash": "3b5faeec111dcaf9afeb05449316db2c2320190d7cc1070cb4423e3542ae24ce",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8d31cb94ef58321a97780f7a56958e14b34406b58d61c2ea06d520e1acc9a8ed",
+    "title": "DeepSeek V4 Pro 0813 (在 OpenRouter 上)",
+    "summary": "DeepSeek V4 Pro 0813 (在 OpenRouter 上) 最新的 DeepSeek Pro 模型现已推出，仅通过 API 提供。由于 DeepSeek 自身没有提供..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/index-tts/index-tts",
+  "content_hash": "de50b2e5f5e0fa601766b4ee90ed5236c5e81e6593a4b155169c10733caa6069",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "df5dcae3b90f6666cf169ea459526f475a3c298a80715d4e6025bd53829ddbb2",
+    "title": "index-tts / index-tts 仓库",
+    "summary": "一个工业级、可控且高效的零样本文本转语音系统 - 语言：Python - 今日获得 101 个星标"
+  }
+}

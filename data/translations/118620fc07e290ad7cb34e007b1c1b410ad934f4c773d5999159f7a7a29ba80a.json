@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+  "content_hash": "271870628ee5fe396eb53179bdfa06949eaa34f1df15f4e9d1c88e1954584d04",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "51164b112edf9ddc8549820979114fd17c454802fe81c920443dd9bef718c2db",
+    "title": "组织如何使用 AI：来自 ChatGPT 的证据 [pdf]",
+    "summary": "OpenAI 发布的关于组织如何使用 ChatGPT 的 PDF 研究报告。"
+  }
+}

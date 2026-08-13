@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+  "content_hash": "b8e6e99dff861db13a73f4d52cd425338b40032c4505d8f3670f2f3269bb6eae",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "57f8b7f378e9c39afee2b695124e64c9f4d434320943b412f6cfb54e9fb0229e",
+    "title": "我们通过复现 2,200 篇 ICML 论文学到了什么",
+    "summary": "#### 复现：学习增强型分页中的最优鲁棒性。在交互式日志中探索项目日志、代码和轨迹，在这篇文章中，我们..."
+  }
+}

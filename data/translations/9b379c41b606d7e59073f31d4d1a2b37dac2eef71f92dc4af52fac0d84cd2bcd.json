@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/unslothai/unsloth",
+  "content_hash": "7c51c016af6cf42212727c21d7690ed49df481cdbb1cba5ad525ebfad0a716dd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1970f2aab6a882fb2b18d8e3305081d5b50772de6f5a2dbddd25b94cbd4d6837",
+    "title": "unslothai / unsloth 仓库",
+    "summary": "用于运行和训练 LLM 及扩散模型的本地 UI，支持 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等模型。- 语言：Python - 354 个星标..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/12/alchemy-utils",
+  "content_hash": "f6327f57f13a96b2540ebf6d2251c56c316f6088c53b70e315a412cd3cef40cd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3302bba97b91540c0e8a7c1a64a00166fe8408a067f0256cf0867f2c0ce85f36",
+    "title": "alchemy-utils 0.1a0 仓库",
+    "summary": "发布：alchemy-utils 0.1a0。作者长久以来一直在思考，不依赖特定数据库的 sqlite-utils Python 库和 CLI 工具会是什么样子..."
+  }
+}

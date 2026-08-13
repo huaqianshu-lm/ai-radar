@@ -1,0 +1,17 @@
+---
+title: "3b1b / manim"
+url: "https://github.com/3b1b/manim"
+source_url: "https://github.com/3b1b/manim"
+canonical_url: "https://github.com/3b1b/manim"
+source: "GitHub Trending Python"
+source_type: "developer"
+published_at: ""
+fetched_at: "2026-08-13T23:42:16+00:00"
+content_type: "markdown"
+is_list_page: false
+---
+
+Animation engine for explanatory math videos
+
+- Language: Python
+- 204 stars today

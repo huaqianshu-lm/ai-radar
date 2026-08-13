@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/13/alchemy-utils",
+  "content_hash": "4620931310cd2b7aa65409e38c67a6e267a96084c0fad8ddf7d8e154fd051a9f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d533dcdb090fc9d976ecf4a61fae41818c7d7e3484e158d82f7cc1f774950bef",
+    "title": "alchemy-utils 0.1a1 仓库",
+    "summary": "发布：alchemy-utils 0.1a1。提升了 DuckDB 导出和 CSV 导入的性能，详情请参见此处。"
+  }
+}

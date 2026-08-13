@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://docs.mistral.ai/models/ocr-4-1",
+  "content_hash": "635c78db039b77bd693a66fc88840ea57bc413ce849304c1f577e5b3c4722c07",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7da85c9e93ae4c01f4f8b233395798a4417960a86587165b521b4b273797ebd3",
+    "title": "Mistral OCR 4.1：来自 Hacker News 的讨论，记录了关于 Mistral OCR 4.1 模型文档的内容",
+    "summary": "来自 Hacker News 的讨论，记录了关于 Mistral OCR 4.1 模型文档的内容。"
+  }
+}
