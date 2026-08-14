@@ -3,8 +3,8 @@
   "items": [
     {
       "id": "6eaab463a55def8752bc46f2c536b71667c705dda0554f0b21cc44218f91b669",
-      "title": "OpenAI 任命 Dali Rajic 为首席营收官",
-      "summary": "OpenAI 任命 Dali Rajic 为首席营收官，负责领导其全球营收组织，并帮助企业实现 AI 的全部价值。",
+      "title": "OpenAI 任命 Dali Rajic 为首席收入官",
+      "summary": "OpenAI 任命 Dali Rajic 为首席收入官，领导其全球收入组织，并帮助企业实现 AI 的全部价值。",
       "source": "OpenAI News",
       "source_type": "official",
       "display_time": "2026-08-13T09:00:00Z",
@@ -13,8 +13,8 @@
     },
     {
       "id": "c0986f6628d189a1ac370992d714e2906f134950b6ed170922abe5ac2caf0e49",
-      "title": "预览 Ultrafast 模式：GPT-5.6 Sol 速度提升高达 14 倍",
-      "summary": "预览 Ultrafast，这是一项全新的 OpenAI API 服务层，可将 GPT-5.6 Sol 的运行速度提升高达 14 倍。它由 Cerebras 提供支持，每秒可输出高达 750 个 token。",
+      "title": "预览 Ultrafast 模式：GPT-5.6 Sol 速度最高提升 14 倍",
+      "summary": "预览 Ultrafast，这是一项全新的 OpenAI API 服务层，可将 GPT-5.6 Sol 的运行速度提升最多 14 倍。它由 Cerebras 提供支持，每秒可提供高达 750 个输出 token。",
       "source": "OpenAI News",
       "source_type": "official",
       "display_time": "2026-08-13T10:00:00Z",
@@ -24,7 +24,7 @@
     {
       "id": "6f8368ac763b73731923fdf243c388a7d207e8e71307ee44061b49625d794f6b",
       "title": "GPT-5.6 开发者指南",
-      "summary": "了解初创公司如何利用 GPT-5.6，通过更聪明的模型选择和全新的 Responses API 功能，构建更快、更具成本效益的 AI 智能体。",
+      "summary": "了解初创公司如何利用 GPT-5.6 通过更智能的模型选择和全新的 Responses API 功能，以更快、更具成本效益的方式构建 AI 智能体。",
       "source": "OpenAI News",
       "source_type": "official",
       "display_time": "2026-08-13T11:00:00Z",
@@ -33,8 +33,8 @@
     },
     {
       "id": "3302bba97b91540c0e8a7c1a64a00166fe8408a067f0256cf0867f2c0ce85f36",
-      "title": "alchemy-utils 0.1a0 版本发布",
-      "summary": "发布 alchemy-utils 0.1a0。我一直在思考我的 sqlite-utils Python 库和 CLI 工具的数据库无关版本会是什么样子。今天早上...",
+      "title": "alchemy-utils 0.1a0 仓库",
+      "summary": "发布：alchemy-utils 0.1a0。作者长久以来一直在思考，不依赖特定数据库的 sqlite-utils Python 库和 CLI 工具会是什么样子...",
       "source": "Simon Willison",
       "source_type": "developer",
       "display_time": "2026-08-12T19:51:30Z",
@@ -43,8 +43,8 @@
     },
     {
       "id": "8d31cb94ef58321a97780f7a56958e14b34406b58d61c2ea06d520e1acc9a8ed",
-      "title": "DeepSeek V4 Pro 0813（在 OpenRouter 上）",
-      "summary": "DeepSeek V4 Pro 0813（在 OpenRouter 上）最新的 DeepSeek Pro 模型现已推出，仅通过 API 提供。由于 DeepSeek 暂无...",
+      "title": "DeepSeek V4 Pro 0813 (在 OpenRouter 上)",
+      "summary": "DeepSeek V4 Pro 0813 (在 OpenRouter 上) 最新的 DeepSeek Pro 模型现已推出，仅通过 API 提供。由于 DeepSeek 自身没有提供...",
       "source": "Simon Willison",
       "source_type": "developer",
       "display_time": "2026-08-12T23:59:23Z",
@@ -53,8 +53,8 @@
     },
     {
       "id": "69afc08986e52f61b1d53a9650615f1236d8a1cff35dac9cb35414cda7072ff5",
-      "title": "Claude Chrome Cowork 🌐、Grok 4.6 🚀、DeepSeek v4-Pro-0813 🧠：TLDR AI 2026-08-13 快讯，涵盖 Claude Chrome Cowork、Grok 4.6 及 DeepSeek v4-Pro-0813 等内容，并包含降低 AI 训练成本的赞助信息",
-      "summary": "TLDR AI 2026-08-13 快讯，涵盖 Claude Chrome Cowork、Grok 4.6 及 DeepSeek v4-Pro-0813 等内容，并包含降低 AI 训练成本的赞助信息。",
+      "title": "Claude Chrome Cowork 🌐、Grok 4.6 🚀、DeepSeek v4-Pro-0813 🧠：# TLDR AI 2026-08-13 ## Claude Chrome Cowork 🌐、Grok 4.6 🚀、DeepSeek v4-Pro-0813 🧠 ### 将您的 AI 训练成本降低 25% 或更多 (赞助商) 大多数大规模 AI...",
+      "summary": "# TLDR AI 2026-08-13 ## Claude Chrome Cowork 🌐、Grok 4.6 🚀、DeepSeek v4-Pro-0813 🧠 ### 将您的 AI 训练成本降低 25% 或更多 (赞助商) 大多数大规模 AI...",
       "source": "TLDR AI",
       "source_type": "curated",
       "display_time": "2026-08-13T00:00:00Z",
@@ -63,8 +63,8 @@
     },
     {
       "id": "57f8b7f378e9c39afee2b695124e64c9f4d434320943b412f6cfb54e9fb0229e",
-      "title": "我们通过复现 ICML 的 2,200 篇论文学到了什么",
-      "summary": "复现项目：学习增强型分页中的最优鲁棒性。在此交互式日志中探索项目日志、代码和追踪记录。",
+      "title": "我们通过复现 2,200 篇 ICML 论文学到了什么",
+      "summary": "#### 复现：学习增强型分页中的最优鲁棒性。在交互式日志中探索项目日志、代码和轨迹，在这篇文章中，我们...",
       "source": "Hugging Face Blog",
       "source_type": "developer",
       "display_time": "2026-08-13T00:00:00Z",
@@ -74,7 +74,7 @@
     {
       "id": "4f97ae52728d37cafc3f9acdf7c697c5ae4cac02f61d9d68c6881e66b55a0078",
       "title": "[AINews] SpaceXAI Grok 4.6 与 Grok @Bot",
-      "summary": "AI 队友类别迎来了迄今为止最重要的新成员。",
+      "summary": "AI 队友类别迎来了迄今为止最重要的新进入者",
       "source": "Latent Space",
       "source_type": "developer",
       "display_time": "2026-08-13T01:53:47Z",
@@ -83,8 +83,8 @@
     },
     {
       "id": "d533dcdb090fc9d976ecf4a61fae41818c7d7e3484e158d82f7cc1f774950bef",
-      "title": "alchemy-utils 0.1a1 版本发布",
-      "summary": "发布 alchemy-utils 0.1a1。提升了 DuckDB 导出和 CSV 导入的性能，详情请参见此处。",
+      "title": "alchemy-utils 0.1a1 仓库",
+      "summary": "发布：alchemy-utils 0.1a1。提升了 DuckDB 导出和 CSV 导入的性能，详情请参见此处。",
       "source": "Simon Willison",
       "source_type": "developer",
       "display_time": "2026-08-13T03:03:17Z",
@@ -93,8 +93,8 @@
     },
     {
       "id": "353217afc4f706b5339de407629065a4820f98bc0f70c28c174d08c10ec6ab52",
-      "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 实现一站式录制、训练和部署",
-      "summary": "通过 Strands Agents、LeRobot 和 Hugging Face Storage Buckets，实现从单一平台录制、训练到部署的完整演示。",
+      "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 在一处记录、训练和部署",
+      "summary": "*关于 Strands R... 中流式数据循环的详细演练*",
       "source": "Hugging Face Blog",
       "source_type": "developer",
       "display_time": "2026-08-13T17:16:04Z",
@@ -104,47 +104,57 @@
     {
       "id": "e8788c2cb6cb667689afb3ba5a6011e003b0cbab0e496b4468a3f1b424848b85",
       "title": "Grok 4.6 强势进军 AI 前沿领域",
-      "summary": "早安，AI 爱好者们！欢迎 5,731 位新读者。在几年前，称 Grok 为前沿模型可能听起来有些荒谬，但...",
+      "summary": "**早安，AI 爱好者们，欢迎 5,731 位新读者。** 一年前，将 Grok 称为前沿模型听起来可能有些荒谬，但...",
       "source": "The Rundown AI",
       "source_type": "curated",
-      "display_time": "2026-08-14T00:00:02Z",
+      "display_time": "2026-08-13T23:42:16Z",
       "time_type": "fetched",
       "url": "https://www.therundown.ai/p/grok-4-6-storms-the-ai-frontier"
     },
     {
-      "id": "e1739cedc6f9ead74fedb98f45537682342f7d7c03e436327227ffc1d95eadbb",
-      "title": "cactus-compute / needle：适用于手机、穿戴设备、智能家居和机器人等微型设备的 14MB 基础模型",
-      "summary": "适用于手机、穿戴设备、智能家居和机器人等微型设备的 14MB 基础模型。使用 Python 编写，今日获得 769 个 Star。",
+      "id": "df5dcae3b90f6666cf169ea459526f475a3c298a80715d4e6025bd53829ddbb2",
+      "title": "index-tts / index-tts 仓库",
+      "summary": "一个工业级、可控且高效的零样本文本转语音系统 - 语言：Python - 今日获得 101 个星标",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-08-14T00:00:02Z",
+      "display_time": "2026-08-13T23:42:16Z",
       "time_type": "fetched",
-      "url": "https://github.com/cactus-compute/needle"
+      "url": "https://github.com/index-tts/index-tts"
     },
     {
       "id": "fa2c4f7ecac76c6b05743b5feb656f939d6a4c2b0b569e472d6cb76ce37bb05c",
-      "title": "megadose / holehe：holehe 允许你检查某个邮箱是否被注册用于 Twitter、Instagram 等不同网站，并能通过“忘记密码”功能检索相关网站的信息",
-      "summary": "holehe 允许你检查某个邮箱是否被注册用于 Twitter、Instagram 等不同网站，并能通过“忘记密码”功能检索相关网站的信息。",
+      "title": "megadose / holehe 仓库",
+      "summary": "holehe 允许您检查某个邮箱是否在 Twitter、Instagram 等不同网站上被使用，并可通过忘记密码功能检索网站上的信息...",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-08-14T00:00:02Z",
+      "display_time": "2026-08-13T23:42:16Z",
       "time_type": "fetched",
       "url": "https://github.com/megadose/holehe"
     },
     {
       "id": "1970f2aab6a882fb2b18d8e3305081d5b50772de6f5a2dbddd25b94cbd4d6837",
-      "title": "unslothai / unsloth：用于运行和训练大语言模型及扩散模型的本地 UI，支持 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等",
-      "summary": "用于运行和训练大语言模型及扩散模型的本地 UI，支持 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等。使用 Python 编写，获得 328 个 Star。",
+      "title": "unslothai / unsloth 仓库",
+      "summary": "用于运行和训练 LLM 及扩散模型的本地 UI，支持 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等模型。- 语言：Python - 354 个星标...",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-08-14T00:00:02Z",
+      "display_time": "2026-08-13T23:42:16Z",
       "time_type": "fetched",
       "url": "https://github.com/unslothai/unsloth"
     },
     {
+      "id": "1f85fc748c83fa15612682ccc3643f3252e609689b2a69d33accc453907b9234",
+      "title": "HN 新品发布：Bullet (YC S26) – 一款更快的编程智能体",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=49283063 原始网址：https://www.codewithbullet.com 作者：adi1 评分：76 嗨，HN！我们是 Adi 和 Alex，创始人...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-08-13T08:14:30Z",
+      "time_type": "published",
+      "url": "https://www.codewithbullet.com"
+    },
+    {
       "id": "cf91a2161fadae57f5870ec45e1852df2872536cddc8a73775cae529f8b61efa",
       "title": "DeepSeek Harness 开发者预览版",
-      "summary": "HN 热门故事：DeepSeek Harness 开发者预览版发布的相关链接与讨论。",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=49285244 原始网址：https://deepseek.com/harness/en/ 作者：bjin 评分：528 https://github.com/deepseek-ai/de...",
       "source": "Hacker News AI",
       "source_type": "discovery",
       "display_time": "2026-08-13T12:58:02Z",
@@ -152,9 +162,49 @@
       "url": "https://deepseek.com/harness/en/"
     },
     {
+      "id": "653e4c6d9da01ffdcec8fc46644c5c278f88db8d4a3948389502913469b00e60",
+      "title": "选择 AI 模型：一个提示词，11 个模型，不同的结果",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=49285327 原始网址：https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ 作者：toddmore...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-08-13T13:05:29Z",
+      "time_type": "published",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/"
+    },
+    {
+      "id": "b1df360e133d59586c480bfb26a52ee3d4d3a81d97f5915dc2377af543fe3470",
+      "title": "概念推理指数 (The Conceptual Reasoning Index)",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=49285909 原始网址：https://alignment.anthropic.com/2026/conceptual-reasoning-index/ 作者：optimalsolver 评分...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-08-13T13:48:14Z",
+      "time_type": "published",
+      "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/"
+    },
+    {
+      "id": "31cf910aff0f87f813727a21071a476f7101c2138fdcd2a215f268e8cb9f1ba5",
+      "title": "文本 AI 水印将永远微不足道且易于移除",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=49287153 原始网址：https://www.seangoedecke.com/text-ai-watermarks/ 作者：pseudolus 评分：79",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-08-13T15:07:10Z",
+      "time_type": "published",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/"
+    },
+    {
+      "id": "b751336a146d13c75715ed1266eea9d975406556b68b756ffb3763cee6af6864",
+      "title": "本地 AI 第一部分：一盒废料",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=49288293 原始网址：https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html 作者：timmmmmmay 评分：79",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-08-13T16:22:05Z",
+      "time_type": "published",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
+    },
+    {
       "id": "7da85c9e93ae4c01f4f8b233395798a4417960a86587165b521b4b273797ebd3",
-      "title": "Mistral OCR 4.1：HN 热门故事：关于 Mistral OCR 4.1 模型官方文档的讨论",
-      "summary": "HN 热门故事：关于 Mistral OCR 4.1 模型官方文档的讨论。",
+      "title": "Mistral OCR 4.1：来自 Hacker News 的讨论，记录了关于 Mistral OCR 4.1 模型文档的内容",
+      "summary": "来自 Hacker News 的讨论，记录了关于 Mistral OCR 4.1 模型文档的内容。",
       "source": "Hacker News AI",
       "source_type": "discovery",
       "display_time": "2026-08-13T17:05:12Z",
@@ -163,8 +213,8 @@
     },
     {
       "id": "69cbe3169a5b0bf89f73002785d14ff9231c876ae4681f43afd8ef5a375e5324",
-      "title": "Gemini 3.7 Flash：HN 热门故事：Google 官方博客介绍 Gemini 3.7 Flash 模型的发布",
-      "summary": "HN 热门故事：Google 官方博客介绍 Gemini 3.7 Flash 模型的发布。",
+      "title": "Gemini 3.7 Flash：来自 Google 官方发布的 Gemini 模型研究与创新相关内容",
+      "summary": "来自 Google 官方发布的 Gemini 模型研究与创新相关内容。",
       "source": "Hacker News AI",
       "source_type": "discovery",
       "display_time": "2026-08-13T17:23:22Z",
@@ -173,8 +223,8 @@
     },
     {
       "id": "3868a8d41a043ac91dadf3b6aa442a14e3e10500e803ab4b9d3ac4ce578c9b51",
-      "title": "加速 GPT-5.6 Sol Ultrafast",
-      "summary": "HN 热门故事：关于 Cerebras 与 OpenAI 合作加速 GPT-5.6 Sol Ultrafast 的博客文章。",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast：Cerebras 发布博客介绍了与 OpenAI 合作加速 GPT-5.6 Sol Ultrafast 的相关内容",
+      "summary": "Cerebras 发布博客介绍了与 OpenAI 合作加速 GPT-5.6 Sol Ultrafast 的相关内容。",
       "source": "Hacker News AI",
       "source_type": "discovery",
       "display_time": "2026-08-13T18:10:02Z",
@@ -184,7 +234,7 @@
     {
       "id": "51164b112edf9ddc8549820979114fd17c454802fe81c920443dd9bef718c2db",
       "title": "组织如何使用 AI：来自 ChatGPT 的证据 [pdf]",
-      "summary": "HN 热门故事：探讨组织如何使用 ChatGPT 的官方 PDF 研究报告。",
+      "summary": "OpenAI 发布的关于组织如何使用 ChatGPT 的 PDF 研究报告。",
       "source": "Hacker News AI",
       "source_type": "discovery",
       "display_time": "2026-08-13T19:25:38Z",
@@ -192,9 +242,39 @@
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf"
     },
     {
+      "id": "ba4516e24336c35f470cfc515d427ba375d5a00df3272f6d4a4cef232e988a18",
+      "title": "Product Hunt: Caveman：Product Hunt 上的 Caveman 产品，旨在优化 token 的使用效率",
+      "summary": "Product Hunt 上的 Caveman 产品，旨在优化 token 的使用效率。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-08-13T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/FRMSTVLRT7A4E3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "249d59bf0af80fc148e3528f0907a4518b22214fb1d77533506a0bb51fc2169f",
+      "title": "Product Hunt: Execlave：Product Hunt 上的 Execlave 产品，作为 AI 智能体与现实世界之间的网关",
+      "summary": "Product Hunt 上的 Execlave 产品，作为 AI 智能体与现实世界之间的网关。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-08-13T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/WASE24IHAKP2YC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "d15aa7fb6027552d816e29f66e0c6ad21ca7af5f92fded2ca576456b0de99d2f",
+      "title": "Product Hunt: FluidDocs CLI：Product Hunt 上的 FluidDocs CLI 产品，用于发布能够进行回答和反馈的交互式文档",
+      "summary": "Product Hunt 上的 FluidDocs CLI 产品，用于发布能够进行回答和反馈的交互式文档。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-08-13T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/C6ZIEHTO6CYSGL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
       "id": "1af8da9b0a85be2c38217016b586abb28a5fe7ef7ac800a08b4e387f8fd5bffc",
-      "title": "Product Hunt: Human Behavior — 产品分析告诉你发生了什么，我们来处理它。",
-      "summary": "Product Hunt 页面：关于 Human Behavior 产品的介绍与上线信息。",
+      "title": "Product Hunt: Human Behavior：Product Hunt 上的 Human Behavior 产品，专注于处理产品分析中发现的问题",
+      "summary": "Product Hunt 上的 Human Behavior 产品，专注于处理产品分析中发现的问题。",
       "source": "Product Hunt AI",
       "source_type": "community",
       "display_time": "2026-08-13T07:01:00Z",
@@ -203,8 +283,8 @@
     },
     {
       "id": "e44789bb01811e15fb3fa07d30a699171d2f976d0a144a0e2d79e5279ee30911",
-      "title": "Product Hunt: Ito — 能够运行代码的 AI 代码审查工具",
-      "summary": "Product Hunt 页面链接。",
+      "title": "Product Hunt: Ito：Product Hunt 上的 Ito 产品，提供能够运行代码的 AI 代码审查工具",
+      "summary": "Product Hunt 上的 Ito 产品，提供能够运行代码的 AI 代码审查工具。",
       "source": "Product Hunt AI",
       "source_type": "community",
       "display_time": "2026-08-13T07:01:00Z",
@@ -213,8 +293,8 @@
     },
     {
       "id": "a365d03a3134c032c0a5864c8ec416cb20b2bd42d4e4a9af619bf8d674f6d31f",
-      "title": "Product Hunt: Kane CLI — 从终端进行自然语言浏览器和移动应用测试的工具",
-      "summary": "Product Hunt 页面链接。",
+      "title": "Product Hunt: Kane CLI：Product Hunt 上的 Kane CLI 产品，支持从终端进行自然语言的浏览器与移动应用测试",
+      "summary": "Product Hunt 上的 Kane CLI 产品，支持从终端进行自然语言的浏览器与移动应用测试。",
       "source": "Product Hunt AI",
       "source_type": "community",
       "display_time": "2026-08-13T07:01:00Z",
@@ -222,9 +302,19 @@
       "url": "https://www.producthunt.com/r/3OE7IF5ZP7LPWJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
+      "id": "3464ced4a4919da14e6a270d1ba6e26a1a117abe356f152a1d084e0d6e0d28f2",
+      "title": "Product Hunt: Mem Agent：Product Hunt 上的 Mem Agent 产品，旨在帮助用户避免遗漏重要事项的 AI 工具",
+      "summary": "Product Hunt 上的 Mem Agent 产品，旨在帮助用户避免遗漏重要事项的 AI 工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-08-13T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/ABBU5P5YT2K2II?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
       "id": "ea0a3f30b3565bdb2f84c5247f7f2214839df038a4328a7696be9ad229582a78",
-      "title": "Product Hunt: Oasis — 人类与 AI 智能体共同工作的场所",
-      "summary": "Product Hunt 页面链接。",
+      "title": "Product Hunt: Oasis：Product Hunt 上的 Oasis 产品，构建一个人与 AI 智能体共同工作的协作空间",
+      "summary": "Product Hunt 上的 Oasis 产品，构建一个人与 AI 智能体共同工作的协作空间。",
       "source": "Product Hunt AI",
       "source_type": "community",
       "display_time": "2026-08-13T07:01:00Z",
@@ -233,13 +323,23 @@
     },
     {
       "id": "533cd844d2445ffbcb1901cfe5e0e7ec5d7823065c2bf6c9f7adbc76ace10361",
-      "title": "Product Hunt: Skilldocs — 类似 Markdown 版 Figma 的工具",
-      "summary": "Product Hunt 页面链接。",
+      "title": "Product Hunt: Skilldocs：Product Hunt 上的 Skilldocs 产品，被称为 markdown 的 Figma 工具",
+      "summary": "Product Hunt 上的 Skilldocs 产品，被称为 markdown 的 Figma 工具。",
       "source": "Product Hunt AI",
       "source_type": "community",
       "display_time": "2026-08-13T07:01:00Z",
       "time_type": "published",
       "url": "https://www.producthunt.com/r/SMQ4IHG6EFSAU3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "60ea971c6def585484c1425ed144035d021ad5c7d67056b67b8ff8d3d50cc51e",
+      "title": "Product Hunt: WebBrain：Product Hunt 上的 WebBrain 产品，面向普通用户的侧边栏 AI 智能体",
+      "summary": "Product Hunt 上的 WebBrain 产品，面向普通用户的侧边栏 AI 智能体。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-08-13T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/3GHDXQNQTKAGP6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     }
   ]
 }
