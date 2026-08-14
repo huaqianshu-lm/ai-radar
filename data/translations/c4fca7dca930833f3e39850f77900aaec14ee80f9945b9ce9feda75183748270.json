@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/13/llm-gemini",
+  "content_hash": "a5d8e9fd4a55c88b0a32f1883eee4cfd90aa186e5f12d681a63e42cbe6d23686",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2024bc366264733de3838baba5abed16583341f8f0ce66ad739f76123d88e80d",
+    "title": "llm-gemini 0.33：版本发布：llm-gemini 0.33",
+    "summary": "版本发布：llm-gemini 0.33。距离上一次发布已经有一段时间了，该版本的插件添加了对今天发布的 Gemini 3.7 Flash 的支持，以及..."
+  }
+}

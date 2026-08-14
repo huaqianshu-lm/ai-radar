@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2608.12700",
+  "content_hash": "f5a608a42f5cb3f4b6b3e711508abe99ea0bee88fa5a4c3cb2460725bec813aa",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1f4b5a6f6647514e22fcbde02556308bafc5792ff4c863267ca243a259b2849a",
+    "title": "用于 LLM 生成的 GPU 内核的合同级验证器",
+    "summary": "探讨针对大语言模型生成的 GPU 内核的高质量验证器技术。"
+  }
+}

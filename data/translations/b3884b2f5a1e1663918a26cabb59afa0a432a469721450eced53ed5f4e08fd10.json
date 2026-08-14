@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+  "content_hash": "81e0724aef64ec0b46baead0aff78178759fcf378512c2932d4fed57c7670657",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0356ba6ae093c3042a3cc120442e67955d9ccad5ae62f21d9528ddd4271012d1",
+    "title": "Google 正在通过同态加密使私密 AI 变得实用",
+    "summary": "HN 讨论帖：https://news.ycombinator.com/item?id=49300314 原文链接：https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-en..."
+  }
+}

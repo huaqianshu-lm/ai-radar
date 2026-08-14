@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://discoveredmaterials.com/research",
+  "content_hash": "df00389cd8fb51d73af484c028ad8563244f97f387de034aaff35a5f4d92b737",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "46e55eb64646764503b7e9a34db9e26241c413b2085578ab47b26ff8a3774f8b",
+    "title": "Launch HN: Discovered Materials (YC P26) – 用于发现新材料的 AI 智能体",
+    "summary": "来自 HN 的项目介绍，利用 AI 智能体来加速新材料的发现与研发。"
+  }
+}

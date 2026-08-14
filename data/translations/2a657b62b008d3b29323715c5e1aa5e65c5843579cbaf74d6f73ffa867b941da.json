@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://hashagent.pages.dev/",
+  "content_hash": "1450d66db9bfe36b8459073c274f70d820653267437c268791d9b121c14cc17f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "08315995f7290e31447f434788457dba651af9ccd206ca262ecf8180fcd6ffff",
+    "title": "HashAgent – 将 AI 代理分享为 URL，通过 WebGPU 本地运行",
+    "summary": "HN 讨论帖：https://news.ycombinator.com/item?id=49298088 原文链接：https://hashagent.pages.dev/ 作者：masonhsu 得分：45"
+  }
+}

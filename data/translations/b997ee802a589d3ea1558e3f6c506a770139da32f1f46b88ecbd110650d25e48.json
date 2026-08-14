@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2608.12629",
+  "content_hash": "edbefbfc843992efe74f232f470c2cdad22dbb6cfbb7294273311e8c5b147bdd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d8ddea04e6341f04e1dfa9895a0e78d4c93a3475bfbc0d468e9962e07e02e9c4",
+    "title": "CAKE: 用于前沿内核演进的编译器与智能体协同设计",
+    "summary": "提出一种编译器与智能体协同设计的方法，用于前沿内核的演进。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2",
+  "content_hash": "76352ba4e1a1f5c807aceca3268842003a645f4872425bbf5eabfde07c47f0a9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "481e2b039322f78c7856ab6bcddb19774e2a44c80d6c1696ca1f7bd456ee9bb7",
+    "title": "sqlite-utils 4.2.1：版本发布：sqlite-utils 4.2.1",
+    "summary": "版本发布：sqlite-utils 4.2.1。修复了 sqlite-utils 4.2 中的一个崩溃 Bug。引入的代码类似于：from typing_extensions import Self，结果发现..."
+  }
+}

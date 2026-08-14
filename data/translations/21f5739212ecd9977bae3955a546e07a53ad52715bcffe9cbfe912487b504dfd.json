@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/mcp-security-updates",
+  "content_hash": "dd92486be7adae547ddc6cde89581064d6bf69f5c42a038ee93c45ec6fa7103a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0c3a166931d4b57e098947af6f7120983bd19add496775b4f364490b86749f12",
+    "title": "Cloudflare 如何检测 MCP 流量并帮助保护其安全",
+    "summary": "Cloudflare Gateway 使用协议级启发式方法识别 MCP 请求。安全团队可以使用该信号来发现影子 MCP 流量并强制执行仅限 Portal 的访问等。"
+  }
+}

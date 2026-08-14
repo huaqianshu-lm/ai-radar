@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://luacad.ad-si.com/",
+  "content_hash": "01b16dd7bc9a3c75ce21a848d2b7065c520a720c9b104ae4d6256c0c3da73c00",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8f61d72420a82ae57a2b624bb4153583a1e1c4ab70bd709cf91cc2cbd4833995",
+    "title": "Show HN: LuaCAD – 使用 Lua 脚本编写的参数化 CAD",
+    "summary": "LuaCAD 是一个使用 Lua 而非传统方式来对实体进行建模的参数化 CAD 工具。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/github/spec-kit",
+  "content_hash": "7b8348cf3f0c0427c242b2acd8e221eeef1e67ce99fd7f722ab66f726980dd05",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f4e0adf84666b0c986e73ecd014507f8272b73a8f70ec02ba2be2a9423ebe5c7",
+    "title": "github / spec-kit：帮助您开始规范驱动开发（Spec-Driven Development）的工具包",
+    "summary": "帮助您开始规范驱动开发（Spec-Driven Development）的工具包。语言：Python - 今日获得 1,147 个 Star"
+  }
+}

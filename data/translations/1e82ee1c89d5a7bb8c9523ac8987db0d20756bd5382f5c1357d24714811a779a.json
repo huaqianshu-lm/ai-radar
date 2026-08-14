@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/newton-physics/newton",
+  "content_hash": "bc4943d4ee0e2ff2c9b4571819f57724f4d98885c861a057584f706fb2e2259e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2ca81acff58aff0cbc36a77b0f72462c222c103cb459adf5ed9ac66ada33baa6",
+    "title": "newton-physics / newton：一个基于 NVIDIA Warp 构建的开源、GPU 加速物理仿真引擎，专门针对机器人专家和仿真研究人员",
+    "summary": "一个基于 NVIDIA Warp 构建的开源、GPU 加速物理仿真引擎，专门针对机器人专家和仿真研究人员。语言：Python..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/github/awesome-copilot",
+  "content_hash": "0864a546fbedc6e25318502080116fef23bb26f6cdde7e94b966bdc142106a00",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f2c662a213abb1869f18f2cf46d6c5298f998b7e62b8d8366c98567940a39354",
+    "title": "github / awesome-copilot：由社区贡献的指令、代理、技能和配置，帮助您充分利用 GitHub Copilot",
+    "summary": "由社区贡献的指令、代理、技能和配置，帮助您充分利用 GitHub Copilot。语言：Python - 今日获得 47 个 Star"
+  }
+}

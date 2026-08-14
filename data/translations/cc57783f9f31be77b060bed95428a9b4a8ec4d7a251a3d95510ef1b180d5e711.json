@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/workers-protected-by-access",
+  "content_hash": "618aead0f2e5f2866d6f3613e26aa9232f4f18922e06202a6b039a6eb964d1eb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "99a5478b68b82d078b06e057a8a33526bbb3a20c5a78185b43c6d8355a25405d",
+    "title": "一键保护所有内部 vibe-coded 应用",
+    "summary": "介绍 Cloudflare Access for Workers。将访问策略直接附加到 Worker，它就会应用于该 Worker 运行的所有地方——路由、自定义域、工作流等。"
+  }
+}

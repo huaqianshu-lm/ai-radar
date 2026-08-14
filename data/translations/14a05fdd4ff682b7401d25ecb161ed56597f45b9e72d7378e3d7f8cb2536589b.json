@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/13/sqlite-utils",
+  "content_hash": "4477d7fad270db9bd06bcd24101501dc57dcb75a007fff052579448990e2d47b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "21611efaa3a8bc404ae9d069459435405b1cd546e43e3d1f006f020eeb50c4bc",
+    "title": "sqlite-utils 4.2：版本发布：sqlite-utils 4.2",
+    "summary": "版本发布：sqlite-utils 4.2。包含许多与 table.transform() 功能相关的改进，该功能增加了对复杂表修改操作的支持..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "content_hash": "1c966e0c816764543d54ccee67deab5e0dafbe93a64c75b8f422e3337758225b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bc290ba394fd0d9149bf5cc4c18c982babca081925fc413d9da2b9ba7a12002f",
+    "title": "开源模型现状：2026 夏季观察",
+    "summary": "Hugging Face 社区上的模型和数据集正在日常增长。公共模型仓库从 243 万增长到 296 万..."
+  }
+}

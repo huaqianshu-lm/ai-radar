@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/E7OUYY4VU5AEL2",
+  "content_hash": "12a9a69546c173684546a45358149d1c481981cc4943722ef36cdb11095abaf1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cf4ea44f76ddb94800f7a80925a36318ae7f1ec2f9400b2afc715dfc2f1c15da",
+    "title": "Product Hunt: DeepSeek Harness — 万物皆插件的可组合智能体框架",
+    "summary": "DeepSeek Harness 产品发布信息，提供一个完全基于插件的可组合智能体框架。"
+  }
+}

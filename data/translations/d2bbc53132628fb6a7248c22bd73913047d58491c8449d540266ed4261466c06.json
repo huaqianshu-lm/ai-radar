@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/lajosdeme/mole",
+  "content_hash": "56268b2c31dd2dac09f8313542d1799e2fb57f7574fbb8f45ce251ae715c4c45",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5a94dd163bfbe84dfb5aa6c717fee69ebc413bfaa20911d48bba58408b38e2c3",
+    "title": "Show HN: Mole – 终端深度研究智能体",
+    "summary": "一款运行在终端中的深度研究智能体工具。"
+  }
+}

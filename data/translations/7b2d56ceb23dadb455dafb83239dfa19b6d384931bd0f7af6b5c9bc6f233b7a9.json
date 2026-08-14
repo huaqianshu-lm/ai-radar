@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/CEEDFBEQBAUXU2",
+  "content_hash": "7f2b2aee5053f12fc198a8743b600e3d91fa7cc1a317374ed67d215371a39dbc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "71a614b592431b41875cfe128b8ddee5bec21c7864e9b0046ab50233fc99c897",
+    "title": "Product Hunt: Munder Difflin — 使用 Claude Code 和 Codex 创建分身来替你工作",
+    "summary": "Munder Difflin 产品发布信息，通过 Claude Code 和 Codex 生成分身以协助完成工作。"
+  }
+}

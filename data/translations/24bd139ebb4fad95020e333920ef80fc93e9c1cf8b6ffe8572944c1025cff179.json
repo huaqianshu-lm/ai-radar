@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/claude-text-watermark",
+  "content_hash": "5e4257a0d2a9b3bec76bed27b3640119db4e95e278321a4eec257bd3fd615751",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e68246067eeddf6e1d69054b26875df87dd7d6bd47ff2b0a5e4c670c0aaa6059",
+    "title": "Claude 的文本水印工作原理 Anthropic",
+    "summary": "未来的 Claude 模型将生成包含水印的文本。这是一种确定 Claude 生成内容可能性的方法..."
+  }
+}
