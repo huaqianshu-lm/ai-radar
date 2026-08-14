@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+  "content_hash": "95362a0ae769cf3e5a38ef8970d7b1cef1640fe8f4e1aa6fe8694cf070b7498c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e063daae6225e156953956818763e28a3d67a709a94829ba10d52a2df2fa945f",
+    "title": "从辅助到执行：企业如何让 AI 投入实际工作",
+    "summary": "OpenAI 研究揭示了企业如何采用智能体 AI、使用 ChatGPT 和 Codex，以及前沿公司如何在 AI 采用中领先。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/ringcentral",
+  "content_hash": "3fd47463bf33d0014f2c340feb433c1f320650fad785ff1093d4dc05126e9839",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9bafa93fe08b847d5d92140912eaaad9a7a6da1c55940aa1439e6fdd8c2d3c44",
+    "title": "RingCentral 如何从工程到运维构建 AI 原生工作流",
+    "summary": "了解 RingCentral 如何使用 ChatGPT Work 和 Codex 来加速 AI 产品开发，并在工程与运维中集中化运营智能。"
+  }
+}

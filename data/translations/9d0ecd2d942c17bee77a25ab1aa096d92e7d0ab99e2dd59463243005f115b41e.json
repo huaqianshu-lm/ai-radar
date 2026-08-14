@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+  "content_hash": "02d19562444842cf919d10223cab8ab15107197316c5c4ce941f6d1fde3e48e8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "249a5e1ede4df4c078023a6f0eb49ede54fb5bdd187586ea50eee351b3c1007c",
+    "title": "介绍 OlmoEarth embeddings：来自 OlmoEarth Studio 用于下游分析的自定义嵌入导出",
+    "summary": "OlmoEarth Studio 推出了用于地球观测平台下游分析的自定义嵌入导出功能。"
+  }
+}

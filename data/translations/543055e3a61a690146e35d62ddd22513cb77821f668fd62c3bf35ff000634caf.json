@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/megadose/holehe",
+  "content_hash": "664fa7aad6cc5516b83d1472bf6b06c4618e596059d1f35b9ebe1387a9db154a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fa2c4f7ecac76c6b05743b5feb656f939d6a4c2b0b569e472d6cb76ce37bb05c",
+    "title": "megadose / holehe：holehe 允许你检查某个邮箱是否被注册用于 Twitter、Instagram 等不同网站，并能通过“忘记密码”功能检索相关网站的信息",
+    "summary": "holehe 允许你检查某个邮箱是否被注册用于 Twitter、Instagram 等不同网站，并能通过“忘记密码”功能检索相关网站的信息。"
+  }
+}

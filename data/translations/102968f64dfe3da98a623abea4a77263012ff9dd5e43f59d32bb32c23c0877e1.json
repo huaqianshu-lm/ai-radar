@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+  "content_hash": "3c47e47e1a52f72ea16fc2378a19809cb02c76d41f75d8067862c49e2f2eb52a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6f8368ac763b73731923fdf243c388a7d207e8e71307ee44061b49625d794f6b",
+    "title": "GPT-5.6 开发者指南",
+    "summary": "了解初创公司如何利用 GPT-5.6，通过更聪明的模型选择和全新的 Responses API 功能，构建更快、更具成本效益的 AI 智能体。"
+  }
+}

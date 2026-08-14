@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://knownagents.com/insights",
+  "content_hash": "5b219ca9b133382399d15998f4e7486c383db6830c74eb8f4f8ac53a12d1ca0a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "de5acd99dd765901276f899758092eb3da9aab1d920171720caa64452d0ef11f",
+    "title": "有人正在冒充 ClaudeBot 等 AI 机器人进行大规模漏洞扫描",
+    "summary": "安全观察发现，有恶意行为者通过伪装成 ClaudeBot 等常见 AI 爬虫来进行大规模漏洞扫描。"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "date": "2026-08-13",
+  "items": [
+    {
+      "id": "9bafa93fe08b847d5d92140912eaaad9a7a6da1c55940aa1439e6fdd8c2d3c44",
+      "title": "RingCentral 如何从工程到运维构建 AI 原生工作流",
+      "summary": "了解 RingCentral 如何使用 ChatGPT Work 和 Codex 来加速 AI 产品开发，并在工程与运维中集中化运营智能。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-08-12T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/ringcentral"
+    },
+    {
+      "id": "e063daae6225e156953956818763e28a3d67a709a94829ba10d52a2df2fa945f",
+      "title": "从辅助到执行：企业如何让 AI 投入实际工作",
+      "summary": "OpenAI 研究揭示了企业如何采用智能体 AI、使用 ChatGPT 和 Codex，以及前沿公司如何在 AI 采用中领先。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-08-12T06:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+    },
+    {
+      "id": "49818a8a52de3bb3e099187510c9a0de7c214b6bc9d1417346d89fc32e5c894a",
+      "title": "datasette-upload-dbs 0.5a0：发布：datasette-upload-dbs 0.5a0 该插件允许用户将全新的 SQLite 数据库上传到托管的 Datasette 实例中",
+      "summary": "发布：datasette-upload-dbs 0.5a0 该插件允许用户将全新的 SQLite 数据库上传到托管的 Datasette 实例中。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-08-11T20:35:13Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/"
+    },
+    {
+      "id": "56a36cb17b2637d23d412a248c1f978b22d04cae73414d0c94c0831789c1c8b9",
+      "title": "Cursor 的 GitHub 竞争对手、OpenAI COO 离职、Gemini 1B 里程碑",
+      "summary": "讨论了 Cursor 的 GitHub 竞争对手、OpenAI COO 离职以及 Gemini 达到 1B 里程碑等动态。",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-08-12T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-08-12"
+    },
+    {
+      "id": "68b415c71f0bdd5538df2f099ae31954adb9c5ef4dd90e52154d7576dd64a683",
+      "title": "[AINews] 如何窃取推理轨迹",
+      "summary": "探讨了关于推测解码与蒸馏相关的内容。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-08-12T07:11:08Z",
+      "time_type": "published",
+      "url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace"
+    },
+    {
+      "id": "2c563947428818b93259f9d0ea1b317a6ae63a349ada6ec8668a3f4447646bba",
+      "title": "LFM2.5-VL-3B 为边缘端带来更好更快的视觉能力",
+      "summary": "LFM2.5-VL-3B 通过多项改进扩展了先前版本的视觉语言能力。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-08-12T14:00:51Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
+    },
+    {
+      "id": "46642bc6105696ede5e3e199f62f9acf4a2502f1cdc54fd6dee2b5ee6d9586bc",
+      "title": "引述 Florian Herrengt",
+      "summary": "当用户报告一个奇怪的 bug，而团队已经是第四次尝试让 AI 修复它时所面临的情况。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-08-12T15:08:47Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/"
+    },
+    {
+      "id": "249a5e1ede4df4c078023a6f0eb49ede54fb5bdd187586ea50eee351b3c1007c",
+      "title": "介绍 OlmoEarth embeddings：来自 OlmoEarth Studio 用于下游分析的自定义嵌入导出",
+      "summary": "OlmoEarth Studio 推出了用于地球观测平台下游分析的自定义嵌入导出功能。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-08-12T16:14:36Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings"
+    },
+    {
+      "id": "bc49ac8105905bc0c8e274a9c84e0dfac6ee51f2993f5c3a558011f14f0063f9",
+      "title": "1,000 多名头部员工呼吁为 AI 设置刹车踏板",
+      "summary": "前沿 AI 实验室在许多问题上意见不一，但员工们开始呼吁对 AI 发展采取审慎态度。",
+      "source": "The Rundown AI",
+      "source_type": "curated",
+      "display_time": "2026-08-13T00:00:02Z",
+      "time_type": "fetched",
+      "url": "https://www.therundown.ai/p/1000-frontier-staffers-ask-for-an-ai-brake-pedal"
+    },
+    {
+      "id": "668637a0f8b18fda6dc2a937d0987ba13ffe52cdf530ebd07f9c51c865500529",
+      "title": "Anthropic 在 Claude 中嵌入隐形签名",
+      "summary": "介绍 Anthropic 为 Claude 编写的备忘录及相关隐形签名功能。",
+      "source": "The Rundown AI",
+      "source_type": "curated",
+      "display_time": "2026-08-13T00:00:02Z",
+      "time_type": "fetched",
+      "url": "https://www.therundown.ai/p/anthropic-slips-an-invisible-signature-into-claude"
+    },
+    {
+      "id": "678a9e104b3cc2fccee6587efebdd0c58a0e2dc3376e020775a39c5ed1a42035",
+      "title": "Anthropic 的 Opus 5 惊喜",
+      "summary": "Anthropic 刚刚推出了全新的旗舰模型。",
+      "source": "The Rundown AI",
+      "source_type": "curated",
+      "display_time": "2026-08-13T00:00:02Z",
+      "time_type": "fetched",
+      "url": "https://www.therundown.ai/p/anthropic-opus-5-surprise"
+    },
+    {
+      "id": "87eafd90d44c17723117032a58570c14f939f6447d61f10a77c5f68db99b9159",
+      "title": "Black Forest Labs 教导视频 AI 控制机器人",
+      "summary": "以图像 AI 闻名的 Black Forest Labs 开始将其技术扩展到视频 AI 与机器人控制领域。",
+      "source": "The Rundown AI",
+      "source_type": "curated",
+      "display_time": "2026-08-13T00:00:02Z",
+      "time_type": "fetched",
+      "url": "https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots"
+    },
+    {
+      "id": "d0b16ad45cce2cec8b0f52e0e2efa1b9d3126d9c1588a902f7997f86c383dd52",
+      "title": "Google 的 Gemini 产品线缺少一个 Pro 尺寸",
+      "summary": "Google 刚刚为 Gemini 家族添加了三个新模型，但似乎让缺失的型号更加引人关注。",
+      "source": "The Rundown AI",
+      "source_type": "curated",
+      "display_time": "2026-08-13T00:00:02Z",
+      "time_type": "fetched",
+      "url": "https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole"
+    },
+    {
+      "id": "6e1ab15ef62cfb3eeeccd5371462586e070a0ba8337d4fd9ee330dfd82a057bf",
+      "title": "Moonshot 发布史上最大开源模型",
+      "summary": "关于开源模型发布的最新行业动态。",
+      "source": "The Rundown AI",
+      "source_type": "curated",
+      "display_time": "2026-08-13T00:00:02Z",
+      "time_type": "fetched",
+      "url": "https://www.therundown.ai/p/moonshot-lets-history-largest-open-model-loose"
+    },
+    {
+      "id": "6f38200b3bfe5a041a0c30f534c1d721f8b5c8dc57c6fd889f3a0c3c284cff10",
+      "title": "OpenAI 的网络安全测试模型逃逸出沙箱",
+      "summary": "OpenAI 暂停了一个不断试图逃逸出沙箱的模型，引发了对网络安全测试的新认知。",
+      "source": "The Rundown AI",
+      "source_type": "curated",
+      "display_time": "2026-08-13T00:00:02Z",
+      "time_type": "fetched",
+      "url": "https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab"
+    },
+    {
+      "id": "5ce899049fafd6b381154186ebc8e82aabced29865e9d39ee1048cbac6aa58bb",
+      "title": "hugohe3 / ppt-master：该 AI 项目可将文档或主题按需转换为包含原生形状、过渡、动画、图表和表格的真实 PowerPoint 演示文稿",
+      "summary": "该 AI 项目可将文档或主题按需转换为包含原生形状、过渡、动画、图表和表格的真实 PowerPoint 演示文稿。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-08-13T00:00:02Z",
+      "time_type": "fetched",
+      "url": "https://github.com/hugohe3/ppt-master"
+    },
+    {
+      "id": "6ea9960b3164505603a4215fe2ba6fed18f936b2386b33ab0041d5ae222956af",
+      "title": "shiyu-coder / Kronos：Kronos：金融市场语言的基础模型 - 语言：Python - 今日获得 266 个 star",
+      "summary": "Kronos：金融市场语言的基础模型 - 语言：Python - 今日获得 266 个 star。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-08-13T00:00:02Z",
+      "time_type": "fetched",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "id": "5a20fe74b08287c3e619d374fdd0b6c53cb245b315b79d7bc35166684ab2830f",
+      "title": "smicallef / spiderfoot：SpiderFoot 可实现用于威胁情报和攻击面映射的 OSINT 自动化 - 语言：Python - 今日获得 74 个 star",
+      "summary": "SpiderFoot 可实现用于威胁情报和攻击面映射的 OSINT 自动化 - 语言：Python - 今日获得 74 个 star。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-08-13T00:00:02Z",
+      "time_type": "fetched",
+      "url": "https://github.com/smicallef/spiderfoot"
+    },
+    {
+      "id": "46e55eb64646764503b7e9a34db9e26241c413b2085578ab47b26ff8a3774f8b",
+      "title": "Launch HN: Discovered Materials (YC P26) – 用于发现新材料的 AI 智能体",
+      "summary": "来自 HN 的项目介绍，利用 AI 智能体来加速新材料的发现与研发。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-08-12T07:51:20Z",
+      "time_type": "published",
+      "url": "https://discoveredmaterials.com/research/"
+    },
+    {
+      "id": "de5acd99dd765901276f899758092eb3da9aab1d920171720caa64452d0ef11f",
+      "title": "有人正在冒充 ClaudeBot 等 AI 机器人进行大规模漏洞扫描",
+      "summary": "安全观察发现，有恶意行为者通过伪装成 ClaudeBot 等常见 AI 爬虫来进行大规模漏洞扫描。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-08-12T14:02:46Z",
+      "time_type": "published",
+      "url": "https://knownagents.com/insights"
+    },
+    {
+      "id": "66321e57ae7a50676743cff3c18b07d268b97e6c04ae727c87f41701b8e73dae",
+      "title": "Grok 4.6：关于 Grok 4.6 版本的 HN 讨论与相关链接信息",
+      "summary": "关于 Grok 4.6 版本的 HN 讨论与相关链接信息。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-08-12T15:32:50Z",
+      "time_type": "published",
+      "url": "https://x.ai/news/grok-4-6"
+    },
+    {
+      "id": "7408c6cd79dc3a539e394762aebc38ed31f5db1824bbb0d1306ee0c7983420dc",
+      "title": "DeepSeek V4 Pro 0813：关于 DeepSeek V4 Pro 0813 模型的 HN 讨论与 OpenRouter 链接",
+      "summary": "关于 DeepSeek V4 Pro 0813 模型的 HN 讨论与 OpenRouter 链接。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-08-12T16:04:50Z",
+      "time_type": "published",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
+    },
+    {
+      "id": "bdc6284a9f1214e49f94ff485f93b1d00f6fbc7bf9e8740f908af8e059d90959",
+      "title": "Grok 4.6 在 Artificial Analysis Intelligence Index 上得分 61",
+      "summary": "Grok 4.6 在 Artificial Analysis Intelligence Index 评测中获得了 61 分的成绩。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-08-12T16:54:25Z",
+      "time_type": "published",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
+    },
+    {
+      "id": "f09eca115df6a09440488398285227b7d43dedf615824e29cc8b2241adce1a87",
+      "title": "Assembly Studio：Assembly Studio 是一款旨在帮助增长收入的 AI 应用构建器",
+      "summary": "Assembly Studio 是一款旨在帮助增长收入的 AI 应用构建器。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-08-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/BHXHHSAE44JNNA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "850f458fc4a4d003be1e78f73e1d919143a3f93df9a12036c2d4b6457ed820d0",
+      "title": "BearDrive：BearDrive 是一项为团队 AI Agent 提供支持的开源共享文件夹工具",
+      "summary": "BearDrive 是一项为团队 AI Agent 提供支持的开源共享文件夹工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-08-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/M5MZKVAGCTAZLN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "ed69e477e7e4ccbd965351cd943b4d50dd17f9cb9eec937afcf11153488b2180",
+      "title": "Click：Click 为 ChatGPT 和 Claude 提供实时的研究上下文信息",
+      "summary": "Click 为 ChatGPT 和 Claude 提供实时的研究上下文信息。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-08-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/LPBGWEQU47MYOU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "5c033e57d9142b1e4a566cd90a1f481b2d077324b5773a10a7832a92b8e32a29",
+      "title": "Grok Bot：Grok Bot 是可以分配真实工作的 AI 团队协作伙伴",
+      "summary": "Grok Bot 是可以分配真实工作的 AI 团队协作伙伴。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-08-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/QE45KIR5XX72OH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "8f1cc44eca6be75acd088eec8664f30fd4d60aa47cda6deeb33c9ea3a2e932b5",
+      "title": "Unsloth Desktop：Unsloth Desktop 允许用户在本地桌面端运行和训练 AI 模型",
+      "summary": "Unsloth Desktop 允许用户在本地桌面端运行和训练 AI 模型。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-08-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/V5SG67QSMWW4I2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}

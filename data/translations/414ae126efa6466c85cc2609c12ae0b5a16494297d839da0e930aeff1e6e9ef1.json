@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+  "content_hash": "1c3f4b23312e136ebb5b8f65a43fc96cace5cd91f1892591003efea68dad7990",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "353217afc4f706b5339de407629065a4820f98bc0f70c28c174d08c10ec6ab52",
+    "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 实现一站式录制、训练和部署",
+    "summary": "通过 Strands Agents、LeRobot 和 Hugging Face Storage Buckets，实现从单一平台录制、训练到部署的完整演示。"
+  }
+}

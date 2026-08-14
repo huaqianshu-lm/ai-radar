@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/3OE7IF5ZP7LPWJ",
+  "content_hash": "f383b44c3fc257576ab3921da3e95e7f3b7f0f663a972df03bbaf38e35d4b50c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a365d03a3134c032c0a5864c8ec416cb20b2bd42d4e4a9af619bf8d674f6d31f",
+    "title": "Product Hunt: Kane CLI — 从终端进行自然语言浏览器和移动应用测试的工具",
+    "summary": "Product Hunt 页面链接。"
+  }
+}

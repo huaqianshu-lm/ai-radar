@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/V5SG67QSMWW4I2",
+  "content_hash": "ccffb5a889cb603821d2cc6df4f595f3ca422c89c39796916b1c73fb2b7ee18f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8f1cc44eca6be75acd088eec8664f30fd4d60aa47cda6deeb33c9ea3a2e932b5",
+    "title": "Unsloth Desktop：Unsloth Desktop 允许用户在本地桌面端运行和训练 AI 模型",
+    "summary": "Unsloth Desktop 允许用户在本地桌面端运行和训练 AI 模型。"
+  }
+}

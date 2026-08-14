@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/unslothai/unsloth",
+  "content_hash": "1677a09251faa0920b2c8e0ffcdc41fbe5b19a0ba2bc76855b8e4f4c565a56ab",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1970f2aab6a882fb2b18d8e3305081d5b50772de6f5a2dbddd25b94cbd4d6837",
+    "title": "unslothai / unsloth：用于运行和训练大语言模型及扩散模型的本地 UI，支持 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等",
+    "summary": "用于运行和训练大语言模型及扩散模型的本地 UI，支持 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等。使用 Python 编写，获得 328 个 Star。"
+  }
+}

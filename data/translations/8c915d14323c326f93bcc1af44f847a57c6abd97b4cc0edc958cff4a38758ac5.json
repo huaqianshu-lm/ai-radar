@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/12/florian-herrengt",
+  "content_hash": "5881de5f4f139ee4383766351c3475a9a803d03542f0697d7ce0fe93acbba5c6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "46642bc6105696ede5e3e199f62f9acf4a2502f1cdc54fd6dee2b5ee6d9586bc",
+    "title": "引述 Florian Herrengt",
+    "summary": "当用户报告一个奇怪的 bug，而团队已经是第四次尝试让 AI 修复它时所面临的情况。"
+  }
+}
