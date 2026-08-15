@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/flue-2",
+  "content_hash": "98e1504ee7296f01b79d281c250b464330ad856c0d8bc064669a008b611e244b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8a940043da46a71f0edfa03e9353de52617e15cd0f10d0b41c88d3dbc5ee250a",
+    "title": "React for Agents: Astro Creator Hooks Meta-Harness Flue (面向智能体的 React：Astro 创造者为其 Meta-Harness Flue 引入 Hooks)",
+    "summary": "Flue 2 从 React 中汲取灵感。Astro 的创造者 Fred Schott 向 Latent Space 解释了他为何添加 Hooks 以及为什么智能体由其 Harness 定义。"
+  }
+}

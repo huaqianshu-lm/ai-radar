@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/MakazhanAlpamys/Soup",
+  "content_hash": "5ce61524cf926a0bbe589203986c963a2fc9f87b958e3d8273d71a29882b579b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "82f6447f851685ec19f54357c060d10fd770ed19a3534e5a5f96960bffeb5020",
+    "title": "MakazhanAlpamys / Soup：通过单个 YAML 文件微调 LLM",
+    "summary": "通过单个 YAML 文件微调 LLM。分层流式传输训练可以在 4 GB 的笔记本电脑 GPU 上训练 8B 模型。- 语言：Python - 今日获得 303 个 Star。"
+  }
+}

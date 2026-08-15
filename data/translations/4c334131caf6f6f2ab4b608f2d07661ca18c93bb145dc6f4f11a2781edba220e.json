@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://chenxiachan.github.io/thoughtdag",
+  "content_hash": "1e2d5ffee9971af589def0248ef34a2588d07185827f94736b6647d6a88a9032",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "908f986061ecc87e3870044ca6361f2d13c80117c6c0cd5ecbcf84bb1fa11b45",
+    "title": "Show HN: ThoughtDAG – 用于 LLM 对话的可编辑上下文图",
+    "summary": "HN 讨论帖：https://news.ycombinator.com/item?id=49307700，原始网址：https://chenxiachan.github.io/thoughtdag/，作者：chatchan，得分：107。"
+  }
+}

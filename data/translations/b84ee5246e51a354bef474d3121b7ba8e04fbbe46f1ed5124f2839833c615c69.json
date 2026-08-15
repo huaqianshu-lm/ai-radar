@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/GR7NKWTUDANGUS",
+  "content_hash": "efe00b12af278db10a7be7da8a3b9892efbc7620b90616f721443aecfdd4bab0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8401bba58db2db691dbea251ebb3666090b6c2dc8979f69c167c64d08b037075",
+    "title": "Product Hunt: Inferock Bench — 为每个 LLM API 调用提供独立收据",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/inferock-bench?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3..."
+  }
+}

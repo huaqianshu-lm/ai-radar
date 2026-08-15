@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/sgl-project/sglang-omni",
+  "content_hash": "dc5cd64f75b4dc61afbd02d7fb7838007fdd8c9d37bb5b864d35082b0f4d5ffa",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "56a53d59bd9c92f85bca5b46da40e1adcb766ea1242a445ad27527c4dc192fb1",
+    "title": "sgl-project / sglang-omni：SGLang-Omni 为 TTS、ASR、语音和全能模型提供高性能服务支持",
+    "summary": "SGLang-Omni 为 TTS、ASR、语音和全能模型提供高性能服务支持。- 语言：Python - 今日获得 11 个 Star。"
+  }
+}
