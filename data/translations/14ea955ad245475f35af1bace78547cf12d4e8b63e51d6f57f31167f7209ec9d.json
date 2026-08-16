@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+  "content_hash": "eb8b8cb9a8247509b79e94708c27bc9b3a1c6658a24567fa7de61ac7ac04cfee",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "79efbb054d4af9fc0fe98fd8d4b5c3ece82fe6c5c8ebc8cd86ca7158511b8b66",
+    "title": "Qwen 3.8 27B 表现优秀，但默认倾向于过度思考",
+    "summary": "周五的大发布是 Qwen 3.8 27B，这是来自 Alibaba Qwen 实验室的采用 Apache 2 许可证的 27B 参数视觉大语言模型。我一直很期待这个..."
+  }
+}

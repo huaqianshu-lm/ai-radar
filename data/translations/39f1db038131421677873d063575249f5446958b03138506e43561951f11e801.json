@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+  "content_hash": "ed3a3f425fcec747906abc1c5a021718c7b59c0885110bc8fb0e830446ce692b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1b4b1216de83a61f7b22a1344b63d608351942e7d3126e12f94d7918bd923c26",
+    "title": "Anthropic 在 Claude 中加入“水印”篡改文本是对写作的亵渎",
+    "summary": "Hacker News 讨论：https://news.ycombinator.com/item?id=49324087 原始网址：https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_p..."
+  }
+}

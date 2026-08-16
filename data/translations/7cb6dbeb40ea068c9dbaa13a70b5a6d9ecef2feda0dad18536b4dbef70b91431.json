@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://math-ai-org.github.io/mathcode",
+  "content_hash": "c3214d65513a771e286b9a1166ba7fd32d7ecda36838832c3f1e2bb457b14c0f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0851ba680ea483b51044965867ee1d8e2bf8f6b900f52645a43df4169805ce52",
+    "title": "MathCode，数学编程 Agent",
+    "summary": "Hacker News 讨论：https://news.ycombinator.com/item?id=49322330 原始网址：https://math-ai-org.github.io/mathcode/ 作者：homarp 得分：49"
+  }
+}

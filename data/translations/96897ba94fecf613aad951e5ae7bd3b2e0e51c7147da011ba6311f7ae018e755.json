@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+  "content_hash": "0d8a524486c1a2b1e72d1322e2971be6d7bf5f89d45d9225d646936e590a9e9f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eb4edca3b5b878225e89b0a51d5393bd81f605fed4bcc93d90de2996f0823ef4",
+    "title": "Claude：系统提示词",
+    "summary": "Hacker News 讨论：https://news.ycombinator.com/item?id=49319556 原始网址：https://platform.claude.com/docs/en/release-notes/system-prompts 作者：tosh 得分：486"
+  }
+}
