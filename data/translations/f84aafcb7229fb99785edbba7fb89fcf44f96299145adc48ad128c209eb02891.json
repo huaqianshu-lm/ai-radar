@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/microsoft/qlib",
+  "content_hash": "f249fd252092fc88ed413bccb22f87bdef30823551e917018a0a28b0177cb619",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c750f525fc3dfb26b9af53282fd072c83f97b208a60a7d8e910cff1e7e750a3c",
+    "title": "microsoft / qlib：Qlib 是一个面向 AI 的量化投资平台，旨在利用 AI 技术赋能量化研究，从探索创意到实现生产",
+    "summary": "Qlib 是一个面向 AI 的量化投资平台，旨在利用 AI 技术赋能量化研究，从探索创意到实现生产。Qlib 支持..."
+  }
+}

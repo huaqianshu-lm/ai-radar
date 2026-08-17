@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/MZGPMYUZMSFMYP",
+  "content_hash": "eacafbf7390d0bc2c3e4f2064f3fd4b20188f9a4878711fbeb4de9305cfdda98",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "02222ea095759fca7b6cd599b46dc0b5bb5145ef7ddb3827fa6d2388bec70e05",
+    "title": "Blender Agent Bridge：Blender Agent Bridge：面向 Blender AI 工作流的开源 MCP 桥接工具",
+    "summary": "Blender Agent Bridge：面向 Blender AI 工作流的开源 MCP 桥接工具。"
+  }
+}

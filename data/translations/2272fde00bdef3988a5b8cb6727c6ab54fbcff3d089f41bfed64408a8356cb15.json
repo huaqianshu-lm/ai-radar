@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/jundot/omlx",
+  "content_hash": "77af27ae783a51bb2fb63164b396eae86de16282248ac1c8dd7b940173a93035",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0bcb55082c56199e9008b963e7e6b33aeffa2d3dd75a863bf5a1ab723e837c6a",
+    "title": "jundot / omlx：适用于 Apple Silicon 的 LLM 推理服务器，具备连续批处理与 SSD 缓存功能，可通过 macOS 菜单栏进行管理",
+    "summary": "适用于 Apple Silicon 的 LLM 推理服务器，具备连续批处理与 SSD 缓存功能，可通过 macOS 菜单栏进行管理。使用 Python 编写，今日获 96 个 Star。"
+  }
+}

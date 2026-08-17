@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-08-17",
+  "content_hash": "024613821a9e6f6530d9e190c1e3fb640c3ca90e4fa053905702a986dbed2795",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "be97810a6f282134d10564c94aef13427269194d21bfbde426199356449bd1a7",
+    "title": "GLM-5.3、Stripe 收购 OpenRouter 交易及 AI 代理共识",
+    "summary": "AI 2026-08-17 快讯：包含 GLM-5.3 具有突发网络能力的编程前沿模型、Stripe 与 OpenRouter 的交易以及 AI 代理共识等内容。"
+  }
+}

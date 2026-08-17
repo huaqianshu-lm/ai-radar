@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+  "content_hash": "482cbd861810afa248ccc51392df01d03ad3dcec414b827cc30e042f90b33405",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bf50ec5ce617ac83f0c8191a946860d3cb0cd0d2aa8f71d8bb07d1b2c9c687ea",
+    "title": "相同集群，利用率提升 33 个百分点：改变的只有排序方式",
+    "summary": "我们构建了一个感知约束的 GPU 分配器，并在多个 FIFO 调度器之间对其进行了基准测试..."
+  }
+}

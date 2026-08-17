@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+  "content_hash": "60f49467c2f236cb921c32743353c627fcd4b3d6d6548d63c64491027ac153e8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d68239847d75e067ab5c39ab68611eced662a1728008f6f3f68f4cdcf4f11dc3",
+    "title": "[AINews] Stripe 以 70 亿美元收购 OpenRouter",
+    "summary": "没有 GPU，没有 Agent，只有真正非常、非常、非常优秀的底层基础设施与分发能力。"
+  }
+}

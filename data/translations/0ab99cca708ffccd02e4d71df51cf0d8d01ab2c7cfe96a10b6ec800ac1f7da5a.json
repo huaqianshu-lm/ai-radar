@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+  "content_hash": "6177bc0fee164a3287fd0f5f375dc2f2627403301ab35f84f07db76520ae1d74",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "25764ed5c03fca05bb51b90bb73fdb3c4f5a2695a89fe62e66865e2dcd5f6738",
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills：为 AI 代理设计的 817 项结构化网络安全技能，映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 及 MITRE F3",
+    "summary": "为 AI 代理设计的 817 项结构化网络安全技能，映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 及 MITRE F3。"
+  }
+}

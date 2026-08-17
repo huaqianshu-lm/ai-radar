@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+  "content_hash": "c9753fb5d734a24c8dee313301592ddb531889c07ce55281c8636b112cadda84",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "76963b852e28c23f9b1be3422b8479721b08b01ceba4d5d7b05c2ce8fe7e09c4",
+    "title": "AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 遭妥协",
+    "summary": "HN 讨论故事，原链接来自 Wiz 博客，作者为 galnagli，获得 299 分。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/D4Vinci/Scrapling",
+  "content_hash": "d044c48cd3e8de5134bc2c2f1a8e3c6c88d1b040448aa58adf22b1a3afac703c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "df11630e65be505cc9baca77e9dc98cf13a05cbcc44466ffa557eda1573deb91",
+    "title": "D4Vinci / Scrapling：一个自适应网页抓取框架，可处理从单个请求到大规模爬取的各种任务！使用 Python 编写，今日获 338 个 Star",
+    "summary": "一个自适应网页抓取框架，可处理从单个请求到大规模爬取的各种任务！使用 Python 编写，今日获 338 个 Star。"
+  }
+}

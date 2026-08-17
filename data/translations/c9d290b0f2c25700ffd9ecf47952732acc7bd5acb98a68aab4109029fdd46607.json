@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/volcengine/OpenViking",
+  "content_hash": "8e5400ace681d62730bfe4a0c0697002a127406364a00ffa9168d57a206c217b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "876fe6c1edb8596cc21b9007d193ed6df71ac72977f9a442eff03867b017ab89",
+    "title": "volcengine / OpenViking：用于 AI 代理的自进化上下文数据库，统一了代理记忆、知识 RAG 和技能",
+    "summary": "用于 AI 代理的自进化上下文数据库，统一了代理记忆、知识 RAG 和技能。使用 Python 编写，今日获 254 个 Star。"
+  }
+}

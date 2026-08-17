@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/VSZ2NL5GB7AXU6",
+  "content_hash": "2a0f4d785f4188a1a61671a6ec592f938ce48aa4ccddd2967df7c19614eb5521",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d459a960dc2a725bed4a657c663c7652f2c6d5a64868cde4c1eab8c29f2dd04a",
+    "title": "OpenTrade：OpenTrade：适用于 Claude Code / Codex 的开源交易套件",
+    "summary": "OpenTrade：适用于 Claude Code / Codex 的开源交易套件。"
+  }
+}

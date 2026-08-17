@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/0x4m4/hexstrike-ai",
+  "content_hash": "ea9407dbe1402960cab2a3191d0298f1d2d0a1570ce85bdea724fb28e54f22fb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0159e9e3e498433bcfea49d260c1689a16294ccb4421f502f3272f6a8249fb56",
+    "title": "0x4m4 / hexstrike-ai：HexStrike AI MCP Agents 是一个高级 MCP 服务器，允许 AI 代理（如 Claude、GPT、Copilot 等）自主运行 150 多个网络安全工具进行自动化渗透测试",
+    "summary": "HexStrike AI MCP Agents 是一个高级 MCP 服务器，允许 AI 代理（如 Claude、GPT、Copilot 等）自主运行 150 多个网络安全工具进行自动化渗透测试。"
+  }
+}

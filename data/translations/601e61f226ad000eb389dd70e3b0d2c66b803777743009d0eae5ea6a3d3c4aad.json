@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades",
+  "content_hash": "1da81ec9ca27178c7a85ce25b9b614f3598d6ac15eae8b327eef9011094b1f4c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b2b654098c8b61bdce7622b0f910be5edde4e407fd17280434093d5105d60d35",
+    "title": "markdown-svg-renderer 工具更新",
+    "summary": "作者自 5 月以来开始构建 markdown-svg-renderer 工具，并为其添加了足够多的新功能，因此值得在此再次讨论。它已经演变为..."
+  }
+}

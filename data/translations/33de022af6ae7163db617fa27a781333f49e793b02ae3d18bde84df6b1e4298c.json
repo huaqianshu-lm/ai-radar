@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.roboflow.com/roboflow-playground",
+  "content_hash": "5a7925c3d5d04bd79553863881280b90b740ad73a013a92258fd5b7b58ba0b83",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2f2c6b7aede51e0ac11100d5dd55292e679d4f14d1db5dfdd8569c6f6b7c1068",
+    "title": "Roboflow Playground：测试并对比 30 个计算机视觉模型",
+    "summary": "用户可以通过 Roboflow Playground 来测试和对比 30 个不同的计算机视觉模型。"
+  }
+}
