@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/pipeshub-ai/pipeshub-ai",
+  "content_hash": "49651c213606551ff32ee2f6b03e471b3586d075a66fb54252f24055a9acc052",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ed7796989fb07d55e573748f931791b6b70962191c328082593237b813a5bd02",
+    "title": "pipeshub-ai / pipeshub-ai：开源 AI 上下文层项目",
+    "summary": "PipesHub 是一个开源的、完全可扩展的 AI 上下文层，它统一了你的业务数据，用于可解释的企业搜索和智能体工作流自动化……"
+  }
+}

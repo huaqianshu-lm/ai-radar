@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/multi-vector-encoder",
+  "content_hash": "fdb768b5b9369e705f9af18ab307b46cbf757935c3e221feb42acf9a179cb9a7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d9524ab76177d5beaf9939ac752ba4ff34bad2c29295f021a9af357762a73ae0",
+    "title": "使用 Sentence Transformers 的多向量（后期交互）嵌入模型",
+    "summary": "# 使用 Sentence Transformers 的多向量（后期交互）嵌入模型 `MultiVectorEncoder`，用于 ColBERT 风格的后期交互检索。任何 PyLate..."
+  }
+}

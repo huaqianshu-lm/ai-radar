@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://fx.sh/",
+  "content_hash": "70f75b6ecd941e63cbfc69ea11643ad80cfce859e202a7c7370149f49b7d62ce",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "947968b0cc6126cac25bfaacb88b11fada537e1bcce17127da94e4d431bbdf68",
+    "title": "fx：轻量、开源且原生的编码智能体",
+    "summary": "Hacker News 讨论名为 fx 的轻量开源原生编码智能体工具。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/asana",
+  "content_hash": "05fd6a96c5a4224d5df885bc9defa9eaffb5c14eb5bfd71c51498c37bdb7d66c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6023038a8912cd08a228ab148d313f6cbcbb616de2e9ed683b2e7118ab009ee0",
+    "title": "Asana 借助 Codex 在两周内完成了预计需五年的人工工程量",
+    "summary": "Asana 使用 OpenAI Codex 在两 weeks 内替换了一个过时的测试系统，完成了预计需要五年才能完成的工作，成本约为 1.2 万美元。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://artificialanalysis.ai/models/glm-5-3",
+  "content_hash": "379751647259331bdd2bf45ba3fe8684e94c309744cf0960bb0213cea14200b5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "26ed078844ac8285a485b05f86065a4bfa6f8ddad18eacfda901bce4158f33f9",
+    "title": "GLM-5.3 的 Artificial Analysis 评测基准",
+    "summary": "Hacker News 分享关于 GLM-5.3 模型在 Artificial Analysis 上的评测表现页面。"
+  }
+}

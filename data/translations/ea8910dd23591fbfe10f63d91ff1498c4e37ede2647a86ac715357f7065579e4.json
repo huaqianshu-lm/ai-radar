@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "content_hash": "06bc283a1d7418a82ab2c4bca5d314b647a9592926549df8513a6063eb023029",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5ba78b757300e8cc3ff5b4c8f26a93a1cc067af59a63302997722a2b18eff29a",
+    "title": "你的智能体实际上需要多少内存？",
+    "summary": "# 你的智能体实际上需要多少内存？ **ALTK-Evolve** 结合 ACE 展示了如何交付智能体的自蒸馏指南——通过检索少量信息……"
+  }
+}

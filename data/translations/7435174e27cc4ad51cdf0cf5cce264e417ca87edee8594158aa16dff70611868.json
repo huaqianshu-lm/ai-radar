@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/EYRCRDAZWHCYXQ",
+  "content_hash": "a3ba927f5abaad5418fd1082693bc248474c1500676f7eb2d0f7cda4bc9dc7d0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fa4264c3d56e8aca2be7474b0d67d814db7011fb71b9fbddafde8cd02f1ed40d",
+    "title": "Superflow AI：在发布前对网站进行质量保证的 AI 智能体",
+    "summary": "Product Hunt 产品 Superflow AI，利用 AI 智能体在网站上线前进行质量审查测试。"
+  }
+}

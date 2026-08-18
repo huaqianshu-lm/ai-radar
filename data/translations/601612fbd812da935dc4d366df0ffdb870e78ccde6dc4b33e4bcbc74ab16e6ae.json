@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/glean-model-routing",
+  "content_hash": "6e8ee2c255639a248e97196d627d666137af59352f894c6edb55b815d608b44b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b6461cff58b0d468ae0839c09660bc58c13f01c83a6b6bd8f1064709b5bfb032",
+    "title": "前沿模型成本与开源权重流行度正在推动对模型路由的需求",
+    "summary": "Glean 首席执行官 Arvind Jain 解释了为什么模型路由有助于组织控制 AI 成本，以及大规模人类反馈循环如何改善其路由系统。"
+  }
+}

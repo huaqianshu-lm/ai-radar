@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/RHPFFJ4VVLNXCU",
+  "content_hash": "df851e50b565fb1497a6fb61bbea114acb30c512d0928d1db4db0a02c94f88e7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "719d2daa3bdfb786dad28509d8f40a7eecd84235ce60ff026603a113e5ebc368",
+    "title": "Shepherd Terminal：为 Codex 和 Claude 并排设计的持久化终端",
+    "summary": "Product Hunt 产品 Shepherd Terminal，为 Codex 和 Claude 提供并排运行的持久化终端。"
+  }
+}

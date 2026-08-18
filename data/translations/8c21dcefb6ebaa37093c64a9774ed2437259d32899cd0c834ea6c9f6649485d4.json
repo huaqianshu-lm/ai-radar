@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/EICI26S4PHTHQY",
+  "content_hash": "3f8c3d284785df54ebf87a7164c165267be6d590351ed916a621c485231efc1a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fd7fa998d19cdeb334158b473379b43a312abcfe7008748be8d46e5e421a9874",
+    "title": "Deepmark：通过内容而非标题搜索书签",
+    "summary": "Product Hunt 产品 Deepmark，允许用户根据书签的具体内容来搜索书签。"
+  }
+}

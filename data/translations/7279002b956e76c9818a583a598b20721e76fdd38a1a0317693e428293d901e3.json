@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/YTMG3O3L27QDDA",
+  "content_hash": "075ade8fff30d9e03076cea826047e66303aa2297ff5dc16069d29a01a74d7f2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5d6af55c45ac3c9f1bba3e851a85c6412dc0b683322dd0fa3d657224b0903808",
+    "title": "Gauge：智能体驱动增长，将代码写入每个客户的库中",
+    "summary": "Product Hunt 产品 Gauge，采用智能体驱动增长策略，将代码写入客户代码库。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/browser-use/video-use",
+  "content_hash": "ad4f6dc533055a9e661edf851d655f9d7fcbc42add85e0722f061ec210f25437",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ddd7486148a919583a64796ab60861b2b98b7f2669cfd0485e30edf9ccb1dfe2",
+    "title": "browser-use / video-use：基于编码智能体的视频编辑工具",
+    "summary": "使用编码智能体编辑视频 - 语言：Python - 今日获得 134 个星标"
+  }
+}

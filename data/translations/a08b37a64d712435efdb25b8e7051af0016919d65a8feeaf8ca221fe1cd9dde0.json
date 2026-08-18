@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/S4AFXH6VZIWPUB",
+  "content_hash": "fcace9c6efed55d996082565e79b56c6036ca8b54b7482eb1a3b6ae902c29716",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "69d973d5cdeb6c69a5095fee43964a15e75933899b385c1d87d3985120fca38a",
+    "title": "Hubble：检索其他 API 无法获取的医疗记录",
+    "summary": "Product Hunt 产品 Hubble，能够检索常规 API 无法获取的医疗记录。"
+  }
+}

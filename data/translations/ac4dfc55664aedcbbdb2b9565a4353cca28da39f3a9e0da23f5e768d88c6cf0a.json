@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://linear.app/data",
+  "content_hash": "0478c59377972a1ced8abeb948a56e48715cb80c07f5fe5f3249b5781acf3692",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "75bb8d6c5587bf665d9f3c2fb1fce40cea3992ed8d3323a88e6e7658dac45adb",
+    "title": "软件团队中的 AI 使用模式",
+    "summary": "Hacker News 分享关于软件开发团队中 AI 使用模式的数据报告。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52",
+  "content_hash": "ec51cfc836f51e0cc361116bbc81d3cc6c4c438efea12c0f1b3312e54d6b4aff",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e31db42fd1ba6c48ae78d7daa110a1912bb6d6ed37f219d12bbf7779f372817b",
+    "title": "Qwen 3.8 27B 在 Artificial Analysis 智能指数上获得 52 分",
+    "summary": "Qwen 3.8 27B 在 Artificial Analysis 智能指数上获得了 52 分，该分数与 GPT-5.6 Luna（max）相同，仅比 GLM-5.2（max）和 De... 低一分。"
+  }
+}

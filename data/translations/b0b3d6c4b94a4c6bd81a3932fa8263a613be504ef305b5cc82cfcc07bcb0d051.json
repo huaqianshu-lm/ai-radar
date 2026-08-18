@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/HPLPEIMEX6JS2V",
+  "content_hash": "3c136d5e53ad80e5ddff19f0081fb060f5c86f6b412159cdab121b538bfb4de3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "97f86d5bf7126cc73a7eb321aa6d66ca9ba64626b41f7a50fae9dd38accac099",
+    "title": "Claude 中的 ElevenLabs MCP：在聊天中创建和管理 ElevenLabs 语音智能体",
+    "summary": "Product Hunt 产品 ElevenLabs MCP in Claude，支持在聊天界面中创建和管理 ElevenLabs 语音智能体。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+  "content_hash": "9d03d3e41cc04a6c39f905de657febdefef29bd0568478c5c321f17402aff2d1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "abcc1f9f4bf7bef2dbe20bbd341528a919435222c4c445848c06aae8bbb66b4d",
+    "title": "RVC-Project / Retrieval-based-Voice-Conversion-WebUI：声音转换 Web 界面项目",
+    "summary": "使用小于等于 10 分钟的语音数据即可轻松训练出优秀的 VC 模型！- 语言：Python - 今日获得 71 个星标"
+  }
+}

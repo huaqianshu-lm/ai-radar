@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://machine0.io/",
+  "content_hash": "f12dec1d6730316ca8f4b8f74aed5999e762244a21f91a184e47fda133ca3dc0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "970990b3d767b409a7db06626274c00480bf2f52b74ba923a364db118a5933ff",
+    "title": "Launch HN：machine0 (YC S26) – 来自 CLI 的持久化 CPU 和 GPU 虚拟机",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49348136 原始网址：https://machine0.io 作者：bwm 得分：54 嗨 HN！我是 Barnaby，machine0 的创始人……"
+  }
+}
