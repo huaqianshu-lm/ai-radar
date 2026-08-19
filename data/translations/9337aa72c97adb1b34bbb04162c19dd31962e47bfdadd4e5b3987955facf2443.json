@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Graphify-Labs/graphify",
+  "content_hash": "bd03749245d7b521cca58e21f47458cb52f8f256bc593c5f79efb4ffafb22e8f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c290a2acf859c75ba01866cb35826aeaf1954f632d0113de95ad93b4fbaa9bb1",
+    "title": "Graphify-Labs / graphify 代码知识图谱转换工具",
+    "summary": "将任何代码库及其文档、SQL 架构、配置和 PDF 转换为可查询的知识图谱。为 Claude Code、Cursor、Codex 和 Gemini 提供 /graphify 技能..."
+  }
+}

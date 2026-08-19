@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/DrewThomasson/ebook2audiobook",
+  "content_hash": "be5006012bb33f34721fcb2652b15607dc1e2779bb15a4fa2bd6b6727973965f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7d16a85b7e307034e3066da83220b3216f17a2a63ecfc364a438db1f6ae5accf",
+    "title": "DrewThomasson / ebook2audiobook 电子书转有声书工具",
+    "summary": "从电子书生成有声书，支持声音克隆以及 1158 种以上的语言！- 语言：Python - 今日获得 141 个星标"
+  }
+}

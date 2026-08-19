@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/LiquidAI/qad",
+  "content_hash": "e7ead75445719786151451e4de20f7dd8ffccff17849dfdf1f560351eca011c5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f56fb1ee13437f3d1c1d8f00ac5022fe0f8999facb1f47e0532e714861148c87",
+    "title": "来自量化感知蒸馏的 LFM2.5 Q4_0 检查点",
+    "summary": "# 来自量化感知蒸馏的 LFM2.5 Q4_0 检查点 - **使用量化感知蒸馏 (QAD) 训练**：蒸馏自高精度教师模型..."
+  }
+}

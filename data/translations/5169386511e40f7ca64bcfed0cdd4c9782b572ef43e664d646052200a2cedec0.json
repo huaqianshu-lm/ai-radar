@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/marceloprates/prettymaps",
+  "content_hash": "6d15572c2c0cf0ee60562ee6087313391f510da97ad2bf44d2ec24b47849afaa",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0b61fad540a4819f4eb95dede2102f4ae56894c88e003cc3cafc0378ef162c21",
+    "title": "marceloprates / prettymaps 地图绘制工具",
+    "summary": "从 OpenStreetMap 数据中绘制漂亮的地图！使用 osmnx + matplotlib + shapely 构建 - 语言：Python - 今日获得 58 个星标"
+  }
+}

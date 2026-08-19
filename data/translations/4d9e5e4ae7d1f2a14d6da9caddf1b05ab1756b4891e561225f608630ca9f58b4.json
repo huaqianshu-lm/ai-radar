@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/replit",
+  "content_hash": "14f4f8fc848ddccd6b08e72af2e128f2ed2092cf289850343e7dbad51bcf411c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2f00013902a29bc1e23dd248bb0d6a75ee356bf38627fa0f8884731fbff27534",
+    "title": "Replit 借助 GPT-5.6 Luna 扩大软件创作权限",
+    "summary": "Replit 推出了由 GPT-5.6 Luna 驱动的免费模式 (Free Mode)，让任何人都可以将想法转化为可运行的软件，而不必担心 Token 成本。"
+  }
+}

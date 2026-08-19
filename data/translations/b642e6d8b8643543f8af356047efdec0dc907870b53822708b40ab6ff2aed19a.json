@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell",
+  "content_hash": "7b8c9ffa7489f566d9257cc3e1e640c298a3c1fe40176509c4d8285a8b54ea8a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "430ba0c7a24894d494679b09626cca746a295fadbc8d7d1174067e2293b7f5f4",
+    "title": "引用 Jeremy Morrell",
+    "summary": "我的假设是，网络上出现了可扩展软件的新机遇。LLM 极大地降低了编写扩展的成本，并且现代沙盒..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-08-19",
+  "content_hash": "7a2ff935e2e4b95ddf0022014eac7b673287586452296c36af2be5297db6290d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5417bbe26ca06d818636f26f610d4752abbaa66c3c1b98561593881e66735ca4",
+    "title": "GLM-5.3 API 🤖、Cerebras 新芯片 ⚡、OpenAI 网络安全放缓 🚨",
+    "summary": "# TLDR AI 2026-08-19 ## GLM-5.3 API 🤖, Cerebras’ new chip ⚡, OpenAI cyber slowdown 🚨 ### Glean 每个任务的成本比 Claude Cowork 低 4 倍。(赞助) AI 工作变得..."
+  }
+}

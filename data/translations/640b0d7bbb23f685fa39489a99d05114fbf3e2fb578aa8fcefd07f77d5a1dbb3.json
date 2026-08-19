@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+  "content_hash": "6772cfb481313d9cf7931dc17d2c9d49b7e256b62dc8c68948848219054a481d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5ce0d6f8cf61a5ba7e2c1201e2530da1136baea86bdc6911dc304a1b9d69d175",
+    "title": "[AINews] 内存价格在 12 个月内上涨 500%",
+    "summary": "内存危机仍在继续 - 摩尔定律倒退回 2007 年的水平。"
+  }
+}

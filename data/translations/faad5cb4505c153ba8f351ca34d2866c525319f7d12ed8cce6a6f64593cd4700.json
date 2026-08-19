@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+  "content_hash": "9ab2823fdb35bd1fe3dba3c107cb29790ddfb046abd04e071aa162e766350f96",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "df8f12302a5b421ac18657dd3c98b85f0bbbcdb55f27a7a2a1e94cd20d3dde6b",
+    "title": "为前沿模型提供零数据保留",
+    "summary": "OpenAI 向符合条件的 API 客户重申了零数据保留 (Zero Data Retention) 政策，并预览了私有安全处理 (Private Safety Processing) 功能，在不妥协数据隐私的前提下提供先进的 AI 安全保障。"
+  }
+}

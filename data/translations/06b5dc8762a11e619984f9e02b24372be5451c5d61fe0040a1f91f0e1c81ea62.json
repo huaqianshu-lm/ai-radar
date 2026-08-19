@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/youssofal/MTPLX",
+  "content_hash": "af07f4eb36f0581cc8a6bb6a989feae0745592d7d8642898d9eb1a249333efcb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4bbe550e236e47e0133e78ea5ca4bf9162772468106815b2edf683a2ff9bbb2d",
+    "title": "youssofal / MTPLX MLX 加速工具",
+    "summary": "在 MLX 上实现 3 倍的速度提升 | Qwen 3.8 27B | 在 Apple Silicon 上原生支持 MTP 推测解码，无需外部草稿模型。- 语言：Python - 今日获得 44 个星标"
+  }
+}

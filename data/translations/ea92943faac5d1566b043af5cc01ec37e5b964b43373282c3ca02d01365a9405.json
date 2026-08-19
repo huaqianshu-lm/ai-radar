@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/mvanhorn/last30days-skill",
+  "content_hash": "fd89b45df90f985bd0f9731569fc4a0a1c89cf8bba7327dcf329979b6454bc60",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b88590c43555a909e1ff4309ecbf7f5564518a8eeb8290dba5726961f2fe41cc",
+    "title": "mvanhorn / last30days-skill AI 研究代理技能",
+    "summary": "AI 智能体技能，可在 Reddit、X、YouTube、HN、Polymarket 和全网研究任何主题 - 然后综合生成有依据的摘要 - 语言：Python - 今日获得 130 个星标"
+  }
+}

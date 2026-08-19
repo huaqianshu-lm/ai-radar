@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code",
+  "content_hash": "2e35e9949a7b030e5672055cf444ee149f2bcfa8395433018ee75890b7c5205d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e0c0c7d06c2b5539ee0a00e98ce03695d9be4d6f28f9d57889fd4749c8e476b6",
+    "title": "概念完整性与代码行数计算",
+    "summary": "上周我与 Claire Giordano 一起录制了一期 Talking Postgres 播客节目，主题是“AI 如何改变软件开发”。我们进行了真实的..."
+  }
+}
