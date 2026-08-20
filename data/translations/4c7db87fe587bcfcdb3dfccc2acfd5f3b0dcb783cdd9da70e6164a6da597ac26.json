@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.danielvaughn.dev/posts/huzzah",
+  "content_hash": "515738ae8de925f03b8350bb954687089201c0319956adb9d587e685534eddf3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "48bb2bd11735d93bf34eb6528adb4ff264d2a99052e7000124a2e16fe3ed7052",
+    "title": "Huzzah：一种利用 AI 进行编程的新方法",
+    "summary": "来自 Hacker News 的 Show HN，由 danielvaughn 发布，得分为 184。"
+  }
+}

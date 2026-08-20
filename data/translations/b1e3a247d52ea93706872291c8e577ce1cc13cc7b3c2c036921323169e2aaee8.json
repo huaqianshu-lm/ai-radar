@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+  "content_hash": "073a304afd40abb16910b1c06c673b6e3de9398808f327f15d4ac2a904d76b7c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "acf4cd57263162cdc871398f61cedd56af2cb56108e197fd483a733501f8fb8a",
+    "title": "在 27 美元的智能手表上用 Claude 进行黑客开发",
+    "summary": "HN 社区分享的文章，讲述了如何在低成本智能手表上结合 Claude 进行相关技术实践。"
+  }
+}

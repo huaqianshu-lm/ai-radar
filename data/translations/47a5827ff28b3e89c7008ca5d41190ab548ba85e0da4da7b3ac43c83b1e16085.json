@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/YI2F675MOQJCQE",
+  "content_hash": "13f7e0c066268f3f3ec1b865576dd4b2a09b2cddd2553dce2938181e9011f5ee",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6c11c07b629732572cba5788180d477baf676e32a02ed790edd9636999c89f89",
+    "title": "Glasp for Firefox：在 Firefox 中高亮并总结任何页面、PDF 或视频",
+    "summary": "Product Hunt 产品页面，提供网页、PDF 及视频的高亮和总结功能。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api",
+  "content_hash": "971634dbad0903fffd01cd546b19ecfacb5675ea92e311480d913a3df6b94ee7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2da3f824e886c5fc007f04b54baae5d8d19db22b252cc0646e7e6de5e1b2a689",
+    "title": "基于 Bun 1.4 新增的 Bun.WebView 构建类似 shot-scraper 风格的 JSON API",
+    "summary": "研究：基于 Bun 1.4 新增的 Bun.WebView 构建类似 shot-scraper 风格的 JSON API。今日迎来了 Bun 1.4 的长期期待发布。"
+  }
+}

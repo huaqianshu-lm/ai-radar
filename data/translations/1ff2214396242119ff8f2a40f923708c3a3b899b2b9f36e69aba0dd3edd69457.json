@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/PostHog/posthog",
+  "content_hash": "1a5661846f9ca3dc0ee45fd04aa74f6fc41a6fe5087b8660cbc8c68cfe7199a4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fbfdec28cfffc04c99464761bc08b8e74a2b0f27b3d507ebd1548ca5bf8c4fbe",
+    "title": "PostHog / posthog：PostHog 是构建自主运行产品的领先平台，其开发者工具包含 AI 可观测性、分析、会话重放、功能标志、实验和错误追踪等功能",
+    "summary": "PostHog 是构建自主运行产品的领先平台，其开发者工具包含 AI 可观测性、分析、会话重放、功能标志、实验和错误追踪等功能。"
+  }
+}

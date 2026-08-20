@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+  "content_hash": "e3839997f450d167ac5985e97fadf0cf96c53d2f68bb66b3682509ad911c061e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eab5285cfdebeb65a8ef35d4bffcfc39f4434e5c4addfd2ea652e42de6b3fb15",
+    "title": "使用 LFM2.5-DSpark 实现最高 3.2 倍的推理加速",
+    "summary": "提供 LFM2.5 系列中三个模型的 DSpark 草稿模型检查点：LFM2.5-1.2B-Instruct、LFM2.5-2.6B 等。"
+  }
+}

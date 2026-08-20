@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/anthropics/claude-code",
+  "content_hash": "7630ddef75139b1459d4a4d193969d91607a90591209dd4edd62827c5c4a8258",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "13d96f6971fff698ebc53296b5f40ff14d755c304dc9f7e1b703b58e032f85a9",
+    "title": "anthropics / claude-code：Claude Code 是一款运行在终端中的智能体编码工具，能够理解你的代码库，通过执行常规任务、解释代码等方式帮你更快地进行开发",
+    "summary": "Claude Code 是一款运行在终端中的智能体编码工具，能够理解你的代码库，通过执行常规任务、解释代码等方式帮你更快地进行开发。"
+  }
+}

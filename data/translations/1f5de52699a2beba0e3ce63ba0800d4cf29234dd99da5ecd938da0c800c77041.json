@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/zachahn/vomit",
+  "content_hash": "58e671c5829b3f362c6fc7158d44598668a76d734bfb58a4959068fbb3e26a76",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "09523f683853cee9bea6d54d2e9d4b30c60ede5c01d348f3f8655a4a2bc40baa",
+    "title": "Vomit：使用独立的 LLM 清理 Claude 5 的 token 输出",
+    "summary": "来自 Hacker News 的讨论，项目开源于 GitHub，作者为 Bluestein，得分为 164。"
+  }
+}

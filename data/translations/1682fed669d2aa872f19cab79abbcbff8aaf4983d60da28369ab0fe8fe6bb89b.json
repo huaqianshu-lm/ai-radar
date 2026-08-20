@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/UG2LC5QUB4IBYY",
+  "content_hash": "52b73eea5fa9ed5445095cc08332ad5b97e03f13763a8c93be0e1ff9d5feb826",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fce18324ba24f777a9f5f899f9b3c0d3bc3be1f0fabf955351c40eccb7954516",
+    "title": "bitdrift.ai：全球首个 Agent 式移动端可观测性平台",
+    "summary": "Product Hunt 产品页面，提供移动端可观测性平台的 Agent 解决方案。"
+  }
+}

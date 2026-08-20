@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox",
+  "content_hash": "949f16a62bba86bfeed5ae9fb6481153a2e09560bd42e93f4351818a94b8d822",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "606747c020460cc909a8c53ec6e33b5fe1b43e92ed2e97d0e27fef6cc0ab6337",
+    "title": "smolmachines / smolvm 作为不受信任的 Python 与 JavaScript 沙箱",
+    "summary": "研究：smolmachines / smolvm 作为不受信任的 Python 与 JavaScript 沙箱，使用在 Claude Code 网页端运行的 Claude Fable 5 开展了相关研究。"
+  }
+}

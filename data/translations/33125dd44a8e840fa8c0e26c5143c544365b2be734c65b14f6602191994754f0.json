@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-08-20",
+  "content_hash": "e0ebaf3bb6dd49d9706d8e536cb20c4aaba00a49cbcf9c3f0c7b0594ff68bc7e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7fa31d1e182a67633ce76221fc18e7e45d4b309dc315da7409892acfd336a598",
+    "title": "Muse Video 泄露、Ramp Router 发布以及 Stripe 收购 OpenRouter 的原因",
+    "summary": "包含 Meta 的 Muse Video 模型早期输出成果预览等内容。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/AOIGYVQTYHCPRE",
+  "content_hash": "a32ee7f33285d9b84e48cfddaf45010e06f657eadae49f2bb5acbc5a8901c6e8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f26127ceff923c25d3bdaa8acfa2337a21fc2e31906419eff40e1d803c4e0bbc",
+    "title": "Aloud：将语音反馈转化为编码 Agent 可以执行的任务",
+    "summary": "Product Hunt 产品页面，旨在通过语音反馈生成可执行的编码任务。"
+  }
+}

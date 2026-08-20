@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Tencent/AI-Infra-Guard",
+  "content_hash": "43b36419282c301d0c4bddba33cc4812f114c1129988b19871ebe8b81a1907e9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eb81c8747fb1d5810da6005e295e7fb36aa8ce0c20e3f9c72007c8bf123d3f00",
+    "title": "Tencent / AI-Infra-Guard：一个全栈 AI 红队平台，通过智能体扫描、技能扫描、MCP 扫描、AI 基础设施扫描以及 LLM 越狱评估来保护 AI 生态系统，使用 Python 编写",
+    "summary": "一个全栈 AI 红队平台，通过智能体扫描、技能扫描、MCP 扫描、AI 基础设施扫描以及 LLM 越狱评估来保护 AI 生态系统，使用 Python 编写。"
+  }
+}

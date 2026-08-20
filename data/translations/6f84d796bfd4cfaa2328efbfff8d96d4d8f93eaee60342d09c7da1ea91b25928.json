@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/FNS5GNY3Y6LMYC",
+  "content_hash": "711c2aa034e42cf552a38b42cfc6a4b69c76956028207f8b7424c5a7c3d1f328",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fa4b1ea8bbff5bd0630c0cc8820bf7da3d5d728145acdc6ea04f4942ff1d2bd4",
+    "title": "NobodyWho：在任何设备上运行 AI 模型",
+    "summary": "Product Hunt 产品页面，支持跨设备运行 AI 模型。"
+  }
+}

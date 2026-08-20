@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/6UXTVDQE4GWO3U",
+  "content_hash": "a517bf5a40fcf44dbd8c90298f1aba9f0a799643d74682e77478e104e435ad14",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3a15ea524136f7e1166a29a9bef6335bc61662107fe5c55d619d6bb3bcdf1b22",
+    "title": "Checksum AI：你的编码 Agent 的测试助手",
+    "summary": "Product Hunt 产品页面，为编码 Agent 提供测试支持。"
+  }
+}

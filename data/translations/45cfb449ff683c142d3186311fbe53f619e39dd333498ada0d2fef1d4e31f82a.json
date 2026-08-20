@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/agentic-search",
+  "content_hash": "06b8a6fb80e13d0e3884c3176953e22f6b0d9f91bc933ab9fad50089a202372f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "afd54bbe19c44fc2e616fa805e0fa788f08fdafd3f923e81779864556c01fdd7",
+    "title": "Mistral 推出 Agentic Search",
+    "summary": "Mistral Agentic Search 在 FinanceBench 和 OfficeQA Pro 评测中提供了更准确的搜索结果，同时减少了交互轮次、Token 消耗和延迟。"
+  }
+}

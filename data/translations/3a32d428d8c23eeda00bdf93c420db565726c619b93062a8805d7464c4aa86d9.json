@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simedw.com/2026/08/20/midi-autocomplete",
+  "content_hash": "ede291630d2c5cfc0a78eff2fa64fb48a7c40e4833e0741da7bf5ec2fb799a2c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cba58727ea88e064aba5d3e17d40ecf05b2478ea67f245031589c585e0afc5b3",
+    "title": "Show HN: 我训练了一个 125M 参数的模型用于端侧钢琴自动补全",
+    "summary": "HN 社区分享的一个开源项目，作者训练了一个 125M 的模型来实现端侧钢琴自动补全。"
+  }
+}

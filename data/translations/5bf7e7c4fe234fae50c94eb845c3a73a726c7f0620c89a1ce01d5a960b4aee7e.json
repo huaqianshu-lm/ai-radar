@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/VCZNOGHAWYUJEU",
+  "content_hash": "b5a449a72d06ab22b29ac108983488546236c01f77c3e53c63e7030aed30aa79",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "370bf621502f4ea42a7c2ae9022eef57724b386c876acfb64f06f45b59b88173",
+    "title": "Shape：专为设计人员和程序员打造的 Agent 式 IDE",
+    "summary": "Product Hunt 产品页面，面向设计人员和程序员的 Agent 集成开发环境。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/microsoft/agent-framework",
+  "content_hash": "a6ac5d98ffc18c162fab662f9246b7137b8c66f7bd3af37e2faffc5e42a67df5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b6a803a2c827c895d288913bd91bb7dc69b5014ab31d2cb86a2b439b6cb96be4",
+    "title": "microsoft / agent-framework：一个用于构建、编排和部署 AI 智能体及多智能体工作流的框架，支持 Python 和 .NET，今日获得 85 个 Star",
+    "summary": "一个用于构建、编排和部署 AI 智能体及多智能体工作流的框架，支持 Python 和 .NET，今日获得 85 个 Star。"
+  }
+}

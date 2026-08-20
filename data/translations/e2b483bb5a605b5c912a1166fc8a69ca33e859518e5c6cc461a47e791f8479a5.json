@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/stampli",
+  "content_hash": "53f325c491dfa0f88c5ac2bb4f52c40f490de9ed8603108b4288d80f5706d6dc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ad89fb510e3c78c26282cfd40541dc61653b3d8c142b323e38b2c22c1766bfa5",
+    "title": "Stampli 使用 ChatGPT Work 将发布耗时缩减 68%",
+    "summary": "面对固定的截止日期且设计资源紧张的情况，Stampli 借助 Codex 和 ChatGPT Work 将原本需要数周的发布制作时间压缩到了几天。"
+  }
+}

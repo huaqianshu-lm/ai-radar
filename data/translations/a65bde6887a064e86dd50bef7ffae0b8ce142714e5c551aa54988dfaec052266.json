@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/3ZDKIA2BDBRV7U",
+  "content_hash": "a6244a2c403c3dc1752f032ba77b4d02a7858b8659e4ca5abadb8bb570c5e4fc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5ffb644f8437ef590092f5ec8edee4952e9da9224291b67b2356f701e3daa26d",
+    "title": "MiniMax Design：用于开放式创作的专属 Agent 团队",
+    "summary": "Product Hunt 产品页面，提供面向开放式创作的 Agent 团队支持。"
+  }
+}
