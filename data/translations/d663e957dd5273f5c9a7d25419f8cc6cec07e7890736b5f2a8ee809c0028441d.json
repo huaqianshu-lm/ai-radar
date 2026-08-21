@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale",
+  "content_hash": "27b8ebf3705f93687701ab70eeaf8ac7de1203559d9ae6cca43e78efe34e432c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c8cbe369112d07d9a0a2c3143f4d67dc5fcb417808a801f3af2709b459afc09c",
+    "title": "ChatGPT search 现在大规模使用 site:operator",
+    "summary": "ChatGPT search 现在大规模使用 site:operator。Promptwatch 是新兴的“GEO”（生成引擎优化）领域的一部分，也就是聊天机器人版本的..."
+  }
+}

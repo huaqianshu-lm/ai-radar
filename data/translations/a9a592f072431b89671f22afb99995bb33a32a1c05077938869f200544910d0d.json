@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/21/llm-openrouter",
+  "content_hash": "9b7256a18c715e5d45d729cf2fd00990e76035dbb4b1aa0179bf0fecb2239a01",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "866d80edbe878622449e5d2b6bb048ef45184310faf2569cb139b90b56aead34",
+    "title": "llm-openrouter 0.7：发布：llm-openrouter 0.7",
+    "summary": "发布：llm-openrouter 0.7。既然此插件与 LLM 0.32 兼容，它就能与通过 OpenRouter 提供的推理 LLM 更好地配合工作。更新内容..."
+  }
+}

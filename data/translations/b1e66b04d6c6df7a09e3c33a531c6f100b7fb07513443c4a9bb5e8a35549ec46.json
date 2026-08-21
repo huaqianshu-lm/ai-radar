@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/MadsLorentzen/ai-job-search",
+  "content_hash": "150265669c87709f10587db735969c58fe825cd1b365d533dfe1b0f27491910d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7af184c03e7ab7a7c6b05966bba4fbeb89b58287e2c623c315829a4bcd20d1b3",
+    "title": "MadsLorentzen / ai-job-search：在你的机器上运行的求职工具",
+    "summary": "在你的机器上运行的求职工具。基于 Claude Code 构建的 AI 求职应用框架：评估招聘信息、定制简历、撰写求职信、准备面试..."
+  }
+}

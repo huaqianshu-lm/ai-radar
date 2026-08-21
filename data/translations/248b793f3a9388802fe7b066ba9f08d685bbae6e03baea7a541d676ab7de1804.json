@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+  "content_hash": "22c661cd64718ed390521939d51037af6b6353eb7870c1696d010d5d294bb3bf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "76900827bd8bbfff398d6c8f0aa43bfe18128f59d845a59bc4f3689b51e7e07d",
+    "title": "探索 AI 与游戏研究的新前沿 — Google DeepMind",
+    "summary": "从 Atari 到 EVE Online：基于 15 年的游戏 AI 研究积累。从 Atari 到 Go 再到 StarCraft，游戏推动了人工智能领域一些最大的突破..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+  "content_hash": "4bc689058e6cae68779cbafc6ea92778a10d86c6e14bc9b33b1cf3b963b2c641",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fd654dd805583d2c6fd44a3d0d4f8f552618bd680ca2c5b7ed1947f7b98cef41",
+    "title": "Claudette：让 Claude 不再像 BuzzFeed 文章那样说话",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49388752 原文链接：https://github.com/adnanakil/nobuzz/blob/main/README.md 作者：aakil 得分：169"
+  }
+}

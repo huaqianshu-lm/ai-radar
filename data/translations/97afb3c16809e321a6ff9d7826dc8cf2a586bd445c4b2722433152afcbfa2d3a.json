@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/forcedotcom/sf-skills",
+  "content_hash": "89a94edb8d3b8b9eb1706e3db24fbc3f0f8b990dd66cb733e4c85a6ca66b9604",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8ca8ef399e3a6d5d942c97cf5bcda1da80a8c2f92962028779e7dffb490ee59e",
+    "title": "forcedotcom / sf-skills：Salesforce 精选的用于构建应用程序的代理技能集合",
+    "summary": "Salesforce 精选的用于构建应用程序的代理技能集合。针对 Agentforce Vibes 进行优化，兼容所有 AI 工具。- 语言：Python - 今日获得 44 个标星"
+  }
+}

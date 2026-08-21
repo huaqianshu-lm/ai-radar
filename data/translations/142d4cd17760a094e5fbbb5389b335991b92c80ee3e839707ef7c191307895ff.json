@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/21/matt-webb",
+  "content_hash": "4598b5c8402b7647283a7b2b26eac6bdab9fb2e7400eaf29719747d4e88b5306",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "21b220d0ec1ebd806958b531f9635d3f15545db429e5cf86d29cb4abe9b974cb",
+    "title": "引用 Matt Webb 的话",
+    "summary": "在我发布 1.0 版本后，我以为我必须自己处理旋转。所以我坐在 ChatGPT 面前，我没有让它写代码，而是让它..."
+  }
+}

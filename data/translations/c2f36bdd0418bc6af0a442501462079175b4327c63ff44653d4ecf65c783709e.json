@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier",
+  "content_hash": "6e7226f3c1649067ec8ef11070228eb5678331d30beabd5a93bc09f403465dbb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4a69b9adf92e074e28a0dbbdaf1a7e3229de45daa17db5c24318b2ab135001cf",
+    "title": "我们如何使文本转语音模型在 50 毫秒内响应",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49389952 原文链接：https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/ 作者：toebee 得分：91"
+  }
+}

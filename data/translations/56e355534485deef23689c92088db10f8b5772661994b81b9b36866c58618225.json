@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/21/llm",
+  "content_hash": "4bd06f3308efad599b024d03480f8e8fa6912c994708335e6b93a90076e55566",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cf6af109a0ee1fd27ded8001f3d88d96b3db11fdb401331dc0c15bbefc3421e0",
+    "title": "llm 0.32.1：发布：llm 0.32.1",
+    "summary": "发布：llm 0.32.1。LLM 的全新安装前几天停止工作，因为 OpenAI Python 库停止使用 httpx，结果发现 LLM 依赖于..."
+  }
+}

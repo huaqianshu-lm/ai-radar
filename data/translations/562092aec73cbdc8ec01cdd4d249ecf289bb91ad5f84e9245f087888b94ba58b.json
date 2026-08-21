@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+  "content_hash": "713bc19ad6a423e633be929714eb349970bd1941a336c575029f6960019bffd8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6adf65cf3d6659d517f259cf05d0c3578e5ada3129ea76052e0155d390ca6033",
+    "title": "GPU 读取内存时会发生什么",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49390308 原文链接：https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory 作者：ibobev 得分：91"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis",
+  "content_hash": "6d289bbd1667fe195ab788c14a0c9f3756db0fe855397d20ed191fa68cb55f9f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "51b0cf062317357a915ff0cf35896ce36dd5e156a87120ae605df48072a0e597",
+    "title": "停止制作 TUI",
+    "summary": "停止制作 TUI。Thomas Ptacek 主张即使是最小的个人工具也要构建真正的原生用户界面，因为编码代理已经减少了..."
+  }
+}

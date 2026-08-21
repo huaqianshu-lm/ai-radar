@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/asr-benchmark-optimization",
+  "content_hash": "1f3772010d98971a493f5bf0b3928fde86509945ec0cc31e39c4a72d890e42c7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e3ddd7a65cd3a566e91c60250d01ee8b4672eaf661344d99931e4cbb3eebb307",
+    "title": "衡量语音识别中的基准优化",
+    "summary": "衡量语音识别中的基准优化。原因之一是传统基准忽视了许多使语音具备特定条件和特性的因素..."
+  }
+}
