@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/anthropics/claude-plugins-community",
+  "content_hash": "124903c40bcd522bef59e3735e5c09695620aa18aff41688c3cb4477a3bfe946",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c45b44d53914aea37e4cf6b144346ad5fc3c72769255407f938a27c10c77bd2e",
+    "title": "anthropics / claude-plugins-community：Claude Cowork 和 Claude Code 的社区插件市场",
+    "summary": "Claude Cowork 和 Claude Code 的社区插件市场。只读镜像 — 请在 clau.de/plugin-directory-submission 提交插件。- 语言：Python"
+  }
+}

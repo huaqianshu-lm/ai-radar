@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+  "content_hash": "ee0bd4a7e66cc820e7edebd7e3dd61b4cc5611f85b73b1d668ac85458bef4880",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "07d19bb9a7b34d164f51a3e18b4847454fcac62833be271f8e746caa9159171c",
+    "title": "[AINews] 性能下降 10%，成本降低 100 倍，速度提升 10000 倍：为什么仿真正在接管一切",
+    "summary": "你以为 RSI 在模型训练阶段就停止了吗？"
+  }
+}

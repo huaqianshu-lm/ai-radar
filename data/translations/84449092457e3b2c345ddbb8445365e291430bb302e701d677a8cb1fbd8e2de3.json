@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/attention-interface",
+  "content_hash": "455cf336454be6f84e21dd349434707dd51013224183636f923a8a2061dbdeca",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "df63102a57f71f085d8b9dbe7056b2d1b805bd6c719be0b04c95c0aae862e661",
+    "title": "Agent Harness 的演进",
+    "summary": "模型不断将 harness 吸收进其权重中——不久的将来，它将成为人类注意力的 harness，而不是模型的 harness。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/22/llm",
+  "content_hash": "7965a0172e57e83c41f88fcbccf3c29779fb089797b0443000e2d691f5bee5d0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2948ba53feffa8c3172556764b9a74f5c3a3fc45fa3eb966d2e546d695cd9dcf",
+    "title": "llm 0.33 发布",
+    "summary": "llm 0.33 版本发布。我个人的亮点包括：升级到 OpenAI Python library 3.x，并将 HTTP 客户端依赖从 httpx 切换为 httpx2 等。"
+  }
+}

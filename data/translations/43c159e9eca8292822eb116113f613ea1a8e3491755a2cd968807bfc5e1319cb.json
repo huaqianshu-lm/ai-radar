@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://ozbrain.com/",
+  "content_hash": "249af51a6a6b8a7d65060d6bceb69e4f46f4502e68f79d902f854ffb0e101f03",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a43da710f31ccf4d08d880e6020b9f09dac7d078bc613ba4aac8181b9090ac88",
+    "title": "Show HN：OzBrain，一个在 agent 与团队之间共享知识的大脑",
+    "summary": "HN 讨论帖：https://news.ycombinator.com/item?id=49394827 原文链接：https://ozbrain.com 作者：dariusmonsef 分数：75 我认为以 agent 为先的聊天界面将会..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/shy3130/tickflow-stock-panel",
+  "content_hash": "68b60a8db1dcf623d258361b547ce06a841ec179bb127cecae7b7aedee215f03",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "53a7b8f9e891d4b78fda592bfb43a584cc3fab46657108207e461a33ff15310c",
+    "title": "shy3130 / tickflow-stock-panel：TSP 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM 能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源，非 TickFlow 官方项目 - 语言：Python - 今日获得 90 个 star",
+    "summary": "TSP 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM 能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源，非 TickFlow 官方项目 - 语言：Python - 今日获得 90 个 star"
+  }
+}

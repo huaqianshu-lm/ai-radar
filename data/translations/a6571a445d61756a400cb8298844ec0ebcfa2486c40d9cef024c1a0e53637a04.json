@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/22/linus-torvalds",
+  "content_hash": "7b70498df9db179479bd270194833d3bee39ff717420e6142ff990a7bab1b227",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0eccfa5da2ee777fc089fd3ab1e9526314275fa8ffe4c5fa4b76ad350a15719a",
+    "title": "引用 Linus Torvalds",
+    "summary": "这是一场来自地狱的调试会话，好在有 AI 做了大量的基础繁重工作，给予了巨大的帮助。我愿意称它为不知疲倦的帮手，但 AI 也曾多次..."
+  }
+}

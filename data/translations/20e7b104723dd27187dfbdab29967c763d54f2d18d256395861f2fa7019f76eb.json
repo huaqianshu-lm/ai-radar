@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/JPL2L2XFP7HO77",
+  "content_hash": "7f408702ae7fe57624e1142b26c2cf35e40e53f361fe9f5a6c2fd4a5af4812bc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0de9a184398218131372597b267893fccb854bd69017af495f1ca87d6778a9c7",
+    "title": "Product Hunt：KerasFormers — 包含预训练模型的 Keras 3 集合",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/kerasformers"
+  }
+}

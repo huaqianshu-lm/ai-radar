@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/debpalash/VoiceStudio",
+  "content_hash": "8b29c12c44abd1f1317a1e38fd2ce02f27af3ec86a9095ebb0469b5f55313467",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "da8ac24508773f981b8dc46415d547291f5f262d66f4b472b8efbe0f9668e211",
+    "title": "debpalash / VoiceStudio：VoiceStudio 是一个开源、完全本地化的 ElevenLabs 替代方案——集成了声音克隆、声音设计、视频配音、听写、转录和有声书创作等功能...",
+    "summary": "VoiceStudio 是一个开源、完全本地化的 ElevenLabs 替代方案——集成了声音克隆、声音设计、视频配音、听写、转录和有声书创作等功能..."
+  }
+}

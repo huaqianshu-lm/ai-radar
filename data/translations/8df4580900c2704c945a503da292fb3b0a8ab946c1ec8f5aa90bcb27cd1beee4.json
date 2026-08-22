@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review",
+  "content_hash": "7519015c6f2230c266db593bd631023764b63b7ed197ecc2550a2e2eb1ab1467",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d548c978bd4efd1395ec84538a00ea55e1a90ad27bcf286ac7abdc2b22617527",
+    "title": "不仅仅是代码审查",
+    "summary": "高效使用编码 agent 的核心技能是能够自信地向它们指示如何进行更改，然后充满信心地验证这些更改..."
+  }
+}
