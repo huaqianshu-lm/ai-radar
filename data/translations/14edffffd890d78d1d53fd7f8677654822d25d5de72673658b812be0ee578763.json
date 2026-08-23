@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+  "content_hash": "914f1ab41a371bd1167acc5f1542a03238cb290c4e88a977529190e9876e4b23",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "149a75083aa9a72b4c6c37f80486e8b32f4cc1001a63888f65a1fd42c0fc9c76",
+    "title": "Anthropic 顶级 AI 模型在廉价工具盛行的背景下难以吸引用户",
+    "summary": "Hacker News 讨论帖，原文来自《金融时报》，报道了 Anthropic 的顶尖 AI 模型在更便宜的竞争工具大受欢迎之际，在吸引用户方面面临的挑战。"
+  }
+}

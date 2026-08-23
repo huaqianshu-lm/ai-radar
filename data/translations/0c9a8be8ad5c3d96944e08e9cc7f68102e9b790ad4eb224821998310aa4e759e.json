@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
+  "content_hash": "5c70b89409bbf34430ca30bf6f8dfb19e56164fda80e951dba5e25a39c8f0f23",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fb3fb0769a12f04fdf66d6dfee2e851368d9ebf7573225bcea3ca9553824d70f",
+    "title": "Etched Sohu 对比 Nvidia：Transformer ASIC 与 GPU 对决（2026）",
+    "summary": "Hacker News 讨论帖，原文对比了 Etched AI 的 Sohu 芯片与英伟达 GPU 在 Transformer 推理方面的性能表现。"
+  }
+}

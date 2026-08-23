@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/23/drew-breunig",
+  "content_hash": "6452183d064b1e0beb78d2e1d23decbb9bda9d255340b0b9613aaa12a05d59b2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "71343321c7660b7a530a46a7758aa99ec030e0f973f6be76131df0f460c5dc41",
+    "title": "引用 Drew Breunig",
+    "summary": "在 Fable 出现之前，花太多时间优化编程套件或上下文策略似乎毫无意义，因为新模型总会以相同（或更低）的价格推出。"
+  }
+}

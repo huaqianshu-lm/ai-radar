@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/NVIDIA-NeMo/Speech",
+  "content_hash": "da9698bcec32fb1ff93e46a0be229d04e774e7bbf5dc9c1341c0c3b9821f3583",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "248c571e4aa6053d46d087affc154bd9fe09e66fc90a26630a20581e526bd844",
+    "title": "NVIDIA-NeMo / Speech 仓库",
+    "summary": "一个可扩展的生成式 AI 框架，专为从事大语言模型、多模态和语音 AI（如自动语音识别）的研究人员和开发者构建。"
+  }
+}

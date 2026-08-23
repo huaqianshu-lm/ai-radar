@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://fabiensanglard.net/agent.md/index.html",
+  "content_hash": "21f57a8db680da24f892e1e73ece7f9397a5ce38b76185a7c231c9269288ac47",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d9678b8041f918c45d4a6fd3e3a23e24dd15c9812d5f084c8d3760d7b1762f77",
+    "title": "我的 agent.md 用于提升 LLM 辅助代码的质量",
+    "summary": "Hacker News 讨论帖，原文作者为 ibobev，探讨了如何通过 agent.md 来改善大语言模型辅助编程的代码质量，获得了 113 分。"
+  }
+}

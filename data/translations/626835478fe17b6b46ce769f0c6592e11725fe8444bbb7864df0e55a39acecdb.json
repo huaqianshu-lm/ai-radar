@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/WOUOLDN26NYVUI",
+  "content_hash": "d172a86d66fbdba4c21b1e07532e29fa20a369db86c7ad970323a2b3b41ed64d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6b1d9e425b8dae8646d64f9af0462d5062e27c76e4e4a6bd81f9578c88990798",
+    "title": "Product Hunt：FetchSandbox MCP —— 验证你的 AI 集成修复是否有效的 MCP 工具",
+    "summary": "Product Hunt 产品页面，介绍了 FetchSandbox MCP，这是一个能够证明 AI 的集成修复工作是否切实有效的模型上下文协议工具。"
+  }
+}

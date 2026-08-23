@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai",
+  "content_hash": "28c9e479775c082965431e2eae67779d00bbdaf10ba7291574cbd0aeeccc66cd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "766f6e70fc48581946e55fd0e6f24bd730970df6a7c77556c1339c0f35d4e187",
+    "title": "我把 1983 年的 Unix talk 变成了我的 AI 交互界面",
+    "summary": "Hacker News 讨论帖，原文记录了作者将上世纪 80 年代的 Unix talk 工具转化为 AI 界面接口的实践。"
+  }
+}

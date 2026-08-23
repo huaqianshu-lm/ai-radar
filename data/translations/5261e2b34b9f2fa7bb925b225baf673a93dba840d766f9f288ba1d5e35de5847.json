@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Comfy-Org/ComfyUI",
+  "content_hash": "5c5cd911afc43e4ad83778be836a3e9e477323107924790dfa00b80b30d712c1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "32faae70661994ba1796ad95e82528ca1b7110cfa13cf530cd8b2ca150fb181d",
+    "title": "Comfy-Org / ComfyUI 仓库",
+    "summary": "采用图/节点界面的功能最强大且模块化的扩散模型图形用户界面、API 及后端。使用 Python 编写，今日收获 179 个 Star。"
+  }
+}

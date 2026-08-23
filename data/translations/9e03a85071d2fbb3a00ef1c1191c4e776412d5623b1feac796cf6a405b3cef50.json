@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://surya.website/rling-qwen-to-paint-with-code",
+  "content_hash": "8059df26d93d6c44e012d17d6183dbb66e17de8dabf3f9d2bcbb7efaa1fd9433",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "468df97caa657078a18369f320c1b840375d6add0af1f1dce6dc28d4a2d1a77d",
+    "title": "训练 AI 用代码进行绘画",
+    "summary": "Hacker News 讨论帖，原文探讨了如何通过训练让 Qwen 模型学会使用代码来生成和绘制图像。"
+  }
+}

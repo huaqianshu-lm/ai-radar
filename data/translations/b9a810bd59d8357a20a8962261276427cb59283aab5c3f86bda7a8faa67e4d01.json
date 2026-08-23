@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model",
+  "content_hash": "c1839bb131558d5c3c3fdd66c1e1e76ffd7fb537afe4db6e87f54d42fcda7f91",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8558d02589ff502be648f44e08ced920ac1331c78a7b1e0f9d15e52e9e331d57",
+    "title": "我让 Qwen 3.8 27B 进行逆向工程工作，它在 30 分钟内完成了",
+    "summary": "Hacker News 讨论帖，原文来自 XDA-Developers，讲述了使用 Qwen 3.8 27B 进行前沿模型逆向工程任务的经历。"
+  }
+}

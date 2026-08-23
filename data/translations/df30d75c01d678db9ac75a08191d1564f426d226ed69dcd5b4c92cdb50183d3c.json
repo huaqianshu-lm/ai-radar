@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "content_hash": "2d3f573f2d5edcca6ffd067e238d25718f69d704913f521b1ab378b838d7d81b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7fc08de27bce1b0c7e7a8143093b769d261f651c2bca76fe7b35df9f3db087f4",
+    "title": "Significant-Gravitas / AutoGPT 仓库",
+    "summary": "AutoGPT 旨在让每个人都能轻松使用和构建可访问的 AI。其使命是提供工具，让用户专注于重要的事情。使用 Python 编写。"
+  }
+}
