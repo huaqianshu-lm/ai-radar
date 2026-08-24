@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+  "content_hash": "f20d15f3ab9d10bfb5d4dbe581fbf5296d717b01a8cbddaeb164f123bd5cabe1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "113584368e849150c9203b353459a728cb52a758735c66306d3c28fadbc30801",
+    "title": "LLM 可能会通过漏洞利用推理引擎来控制其宿主机",
+    "summary": "HN 讨论帖，由 boydkane 发布。"
+  }
+}

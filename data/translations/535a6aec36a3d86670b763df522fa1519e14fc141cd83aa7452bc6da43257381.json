@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/AgriciDaniel/claude-obsidian",
+  "content_hash": "3ff2c109f01903c612b53bd5ce98e314a39df049d695a7c2327ad36ca67dbe20",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dc9094c987231bcf5a926424c430b4c2c26a802054aa41b6af83360a519ea57c",
+    "title": "AgriciDaniel / claude-obsidian：适用于 Obsidian + Claude Code 的自组织 AI 第二大脑",
+    "summary": "适用于 Obsidian + Claude Code 的自组织 AI 第二大脑。放入任何来源的内容，Claude 就会对其进行阅读、链接并将其归档到一个连接的纯 Markdown 知识图谱中。"
+  }
+}

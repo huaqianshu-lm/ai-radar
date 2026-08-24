@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/calesthio/OpenMontage",
+  "content_hash": "c745c24b5396703fb1d680d8a97775118149251e054b811627bacc67526c3d1f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6d3bd03b499863301fb73ea1a72dc2547622e7fb9eec3d9bc389454009cf250b",
+    "title": "calesthio / OpenMontage：全球首个开源的智能体视频制作系统",
+    "summary": "全球首个开源的智能体视频制作系统。包含 12 个生产管道、100 多个工具、700 多个智能体技能和生产知识文件。将你的 AI 创意转化为现实。"
+  }
+}

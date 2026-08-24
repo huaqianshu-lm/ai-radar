@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database",
+  "content_hash": "076ecfdfa0c55250ee364c7681c8701f6150b99be8592c17dffb343f684d79fe",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8ccf6a718866a13d7ba974b8c0df3ca4e4b34489a8835020e0b6b5ea167dcac1",
+    "title": "你的可执行文件就是一个 SQLite 数据库",
+    "summary": "Farid Zakaria 描述了一种精妙的 Linux 模式，用于创建一个可直接用作可执行文件的 SQLite 数据库文件。"
+  }
+}

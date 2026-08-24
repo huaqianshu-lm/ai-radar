@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/24/llm-anthropic",
+  "content_hash": "7dd07b7c599d36c11235aa20a547d3e6042974efb48df01632a4856938b94e3b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "49fca70a70651d4f29104c1438c04f6186dca09cd5a38df7913ef3663b66f7c0",
+    "title": "llm-anthropic 0.27：发布 llm-anthropic 0.27 版本",
+    "summary": "发布 llm-anthropic 0.27 版本。LLM 的 Anthropic 插件的此版本主要提供了与最近发布的 anthropic v1.0.0 Python 库的兼容性。"
+  }
+}

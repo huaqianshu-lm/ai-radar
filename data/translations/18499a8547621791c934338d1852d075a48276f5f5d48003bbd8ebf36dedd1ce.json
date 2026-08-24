@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://pantel.is/projects/ai-gaming-companion",
+  "content_hash": "302e1431f29fd742bfdb42de113ae8a1649742f63e3beab23b0f4c733aefbaf6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "993a2942122a7a99d64f24cce065331dccad55e558fd9e4d7fcd1ad118748fb7",
+    "title": "我构建了一个低延迟的 AI 伴侣陪我玩 Skyrim",
+    "summary": "HN 讨论帖，由 pantelisk 发布，分数 333。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/l3a0/claude-plugins",
+  "content_hash": "98a569789e4a6abb96ea5b2ac03f7a3c98f2f20d41808f68bee905f6ddde2792",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "89b2d0cc5dc8b0d14764a1ae42f0c696a1b19d4db6e84c910e36e50d0a22d0fd",
+    "title": "一个可恢复被阻止导出的 Kindle 标注的 Claude Code 技能",
+    "summary": "HN 讨论帖，由 l3a0 发布，分数 43。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-08-24",
+  "content_hash": "49022aef92cce0c30f7beec8c95ac76c039be2b1499e20e6aae852e613fda657",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d80bd87f56025f83a10a976e80f65093c5a0b5ca0c63f9e986e6ff84d0363f30",
+    "title": "DeepSeek Flash Vision、Claude Mythos 安全性与 Grok Bot 内幕",
+    "summary": "TLDR AI 2026-08-24 期内容，涵盖 DeepSeek Flash Vision、Claude Mythos 安全性以及 Grok Bot 的相关内部消息。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/getkern/kern",
+  "content_hash": "8340acbc3378c72c42ef4aedc2de5b0a1bcd572328a66ea6ae457f616db742eb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "028d5cd17cb0362b0a9eb3fd9b7e1865d5bc0824d5a65b37af290fa8aad3b709",
+    "title": "Show HN：Kern – 体积为 1.5 MB 且无守护进程的容器与资源运行时",
+    "summary": "HN 讨论帖，由 realexweb 发布，分数 45。作者构建 kern 是因为其有此需求。"
+  }
+}

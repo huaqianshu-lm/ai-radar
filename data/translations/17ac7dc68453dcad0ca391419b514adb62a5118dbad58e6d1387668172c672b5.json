@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Panniantong/Agent-Reach",
+  "content_hash": "a327629868d8cbcf983e4a120adbb365aa36ee2d6bd3131b48465455c1ba9162",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b6bb9341088f095442de1a74399cf3b7f18543efbdba973ae61774083f821ac5",
+    "title": "Panniantong / Agent-Reach：赋予你的 AI 智能体观察整个互联网的眼睛",
+    "summary": "赋予你的 AI 智能体观察整个互联网的眼睛。阅读并搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用 - 编程语言未知。"
+  }
+}

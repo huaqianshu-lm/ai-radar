@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+  "content_hash": "5e8bf9931f836e35aa316c9071f2a76f3950a74febfcd67d1caea410cec04d98",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a66075dc0af41a686afede1c5419e8bcfa7d5dcd01f45ff6f177d12c89781cea",
+    "title": "Anthropic Economic Index 连接器 | Anthropic",
+    "summary": "向 Claude 询问 Anthropic Economic Index 的相关内容。人们对 AI 与工作有着许多棘手的问题：哪些工作会改变、哪些任务正在被自动化以及其他内容。"
+  }
+}
