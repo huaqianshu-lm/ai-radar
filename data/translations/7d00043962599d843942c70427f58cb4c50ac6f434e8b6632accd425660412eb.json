@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+  "content_hash": "e14cd8de40f2237e4c13b42c402e48f54825506bc8c7d62e393de5a3aecd87ce",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "51cfe3db04ed0bd3efb5e0e3e4cae24a73d01c55252ca81f5edad4c7faa7f89b",
+    "title": "丰富智能背后的完整技术栈",
+    "summary": "OpenAI 首席财务官 Sarah Friar 解释了芯片、算力、模型和产品方面的进展如何复合，以更大规模和更低成本提供更有用的智能..."
+  }
+}

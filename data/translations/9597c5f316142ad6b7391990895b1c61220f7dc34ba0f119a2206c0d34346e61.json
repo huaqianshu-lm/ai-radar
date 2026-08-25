@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "content_hash": "60e70939a5dd2de49b11c0256b297b544b73d7c7c11370f16eb8e1dc5113337e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d21068479952e40383665c65fe6b8de94dbcd998c34b8b8d4618ffe8cce61e93",
+    "title": "Granite 4.2 大语言模型：构建方式解析",
+    "summary": "技术演练：我们是如何构建 Granite 4.2 推理模型家族的。作者：IBM Granite 团队..."
+  }
+}

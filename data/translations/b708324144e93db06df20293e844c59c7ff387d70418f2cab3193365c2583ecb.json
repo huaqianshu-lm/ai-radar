@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
+  "content_hash": "db40d04b025fe61ac3937be5b0601a0e776c67b8ea32bc6909ea457414662fa8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cf16d57109c5b6fa3fa322dfbefdad67d2b3f35fd6587f76ba585945de4919b3",
+    "title": "对 Ox Alpha 的来源进行行为指纹识别",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49435641 原始网址：https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance 作者：cgor..."
+  }
+}

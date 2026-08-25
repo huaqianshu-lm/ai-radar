@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "content_hash": "db09f61b4d02d6515e4df33fce40c514cf2ef6079ec34df6733fe9b89e460324",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f1c76f23a788b6884a2877cd63f8a9bdec3da0e05f2a60f5b1fd57979e05c843",
+    "title": "量化感知修复：性能优于全精度原型的压缩 4 位模型",
+    "summary": "我们的最新论文《量化感知修复：一种实用方法》介绍了这一压缩的 4 位模型..."
+  }
+}

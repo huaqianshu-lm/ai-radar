@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/XZKGFALU5JJJ4O",
+  "content_hash": "16ca10d59be03337cbf18fdfbdfe93df4182aec8c2840d431fd36c3264332ee5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "306f9b5532a3c2b847741b1470979eb883796d785f7a2b6556e2a2710b8ae24d",
+    "title": "Product Hunt: Purchase API by Agentcard — 只需一次 API 调用，即可让你的 Agent 在线购买任何东西",
+    "summary": "Product Hunt 产品页面，通过一个 API 调用使 Agent 能够在网上购买任意物品。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/5OOMHTQENABQUM",
+  "content_hash": "6857becc035a206133c474d648de0bed963708e93cc70a68bce71aa30f0039fd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "af3b35caf2e98cebf7894921f085c4c4886cd3eca271113bd17f089c36894b5c",
+    "title": "Product Hunt: Ninjō AI — 在任何通过 Claude Code 运行的渠道上提供 AI 销售 Agent",
+    "summary": "Product Hunt 产品页面，提供可在任意渠道上运行的 Claude Code 驱动的 AI 销售 Agent。"
+  }
+}

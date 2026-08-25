@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+  "content_hash": "b612357c53f22c89d56e8016d9151fc4863c9e8c5f50a2447eb3a7d212e85847",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "62003111f3b592c56acd9673289136816214f0ea1151bdbce20616ed93526390",
+    "title": "打击来自俄罗斯的新型隐蔽影响力行动",
+    "summary": "OpenAI 封禁了源自俄罗斯的账户，这些账户利用 AI 宣传一个虚假的以色列智库以及一个赞美俄罗斯并批评西方的“主权”指数。"
+  }
+}

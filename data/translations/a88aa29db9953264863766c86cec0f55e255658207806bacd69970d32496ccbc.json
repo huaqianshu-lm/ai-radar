@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/introducing-admin-plugin",
+  "content_hash": "7191415bb271cde446859124ffd0313687e265ccf4ce0e61d0eadda63062da44",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "33eae878317d27dcc0386f35e9a677d698ea074de44e94f879168ed6c243016a",
+    "title": "推出适用于 ChatGPT Work 和 Codex 的 Admin 插件",
+    "summary": "使用适用于 ChatGPT Work 和 Codex 的 Admin 插件来分析工作区使用情况、管理成员和权限、调整限制以及处理管理员请求。"
+  }
+}

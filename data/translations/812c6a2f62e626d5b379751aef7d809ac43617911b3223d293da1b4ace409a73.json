@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/RTXOM7N7BNMKCO",
+  "content_hash": "e96526e37b3d3a2fed3194178721281a94f4c2278e67d946c96f160ad7f8ab87",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b28c81226d18e3f47e428ffb1c0d0199a507b8b11b381ef48fe868ffa8bb3060",
+    "title": "Product Hunt: Marble MCP — 从 Claude、Cursor 和 Codex 管理你的 CMS 内容",
+    "summary": "Product Hunt 产品页面，支持从 Claude、Cursor 和 Codex 管理 CMS 内容。"
+  }
+}

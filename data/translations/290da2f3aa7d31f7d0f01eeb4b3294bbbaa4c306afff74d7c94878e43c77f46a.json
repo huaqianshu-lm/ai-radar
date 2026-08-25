@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/ThinkOffApp/CarWatch",
+  "content_hash": "bc898d096edd8d667d2e6553c32b2d8510ba06c51cae41194e39cd9abbc33581",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "93551b217a1b53181f45a4be223e383937e9d5768dcd61c715497a43aa74e9db",
+    "title": "Show HN: 我用 Raspberry 和 Qwen 制作了本地车载 AI",
+    "summary": "HN 讨论帖，项目源码位于 GitHub 的 CarWatch，作者为 petruspennanen，得分为 81。"
+  }
+}

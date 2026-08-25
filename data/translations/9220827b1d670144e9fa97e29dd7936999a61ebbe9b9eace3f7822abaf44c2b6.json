@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://zenodo.org/records/19882078",
+  "content_hash": "c681bdc0c21e0a7d65f7f6f341466ea59a090e7a3d37041faa1d15658fe524d8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ae3817eba108944799672610ba485c4367f29dd8714ccdc11edccc9d464740dd",
+    "title": "72B LLM 的跨厂商字节一致推理（AMD MI300X 对比 Nvidia H100）",
+    "summary": "HN 讨论帖，原始链接指向 Zenodo 记录，作者为 ashsyngh，得分为 3。"
+  }
+}

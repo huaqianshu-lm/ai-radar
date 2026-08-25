@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/2IXJ3KDUVPWSJK",
+  "content_hash": "8c0bb373621115b8cb5c7f72228298979a9bca6010fd2f7335d12bc20a1a6ead",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "25d0f0d0201c120b65b95f2a4f6923d5de362734191a0e228fe7ca78ea9b4b02",
+    "title": "Product Hunt: Jotform AI Data Assistant — 用 AI 将表单数据转化为洞察与行动",
+    "summary": "Product Hunt 产品页面，利用 AI 将表单数据转化为可操作的洞察。"
+  }
+}

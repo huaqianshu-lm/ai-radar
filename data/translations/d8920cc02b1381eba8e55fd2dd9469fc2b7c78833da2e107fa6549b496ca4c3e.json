@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/7VLENQJQZQK4EG",
+  "content_hash": "9128edfe68d04a31050413fdbd7398975cda3f4e85b8980e02700e381856d7e8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a1665f84efce33b32382b6364543f9e8cf8524233030e29b1e2e981bfb4b90f6",
+    "title": "Product Hunt: akta.pro — 针对 Agent 经济的私有公司数据和信号 API",
+    "summary": "Product Hunt 产品页面，为 Agent 经济提供私有公司数据和信号 API。"
+  }
+}

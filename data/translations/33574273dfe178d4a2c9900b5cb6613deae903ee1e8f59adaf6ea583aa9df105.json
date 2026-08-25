@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/marin-community/marin",
+  "content_hash": "566eef19b701a96df6406beb13475730e25c6e895e428f0193ed8f4edca4fa88",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d4875aa3c06286d5e9e04bf3563a538d1e7c4cc4651208279ed028777d676162",
+    "title": "marin-community / marin：用于基础模型研究和开发的开源框架",
+    "summary": "用于基础模型研究和开发的开源框架。- 使用 Python 编写，今日获得 277 个 Star。"
+  }
+}

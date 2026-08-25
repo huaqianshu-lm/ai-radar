@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/swimmingbrain/texbrain",
+  "content_hash": "0f36f8162efb6e094c186bf57e78d8c90e9d2be6cf8a73bd00e0397ba58382f9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4806861b94d077f9193d76632f5e6db4e116fa90d309b0481e8d781e0f5e3762",
+    "title": "Show HN: TeXbrain，一个通过 WASM 在浏览器中运行 pdfTeX 的 LaTeX 编辑器",
+    "summary": "HN 讨论帖，项目源码位于 GitHub 的 texbrain，作者为 swimmingbrain（一名硕士生），得分为 16。"
+  }
+}

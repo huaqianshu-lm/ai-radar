@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/gradio-workflow-guide",
+  "content_hash": "3da67471be953edabe657adda39bbcbf066dacd932e43f34fbd1e3bbf6c9354e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9b54a38fa1b1a3f1fc1fd60d911784f4064b31ff199e66bfc392aa7f95235b93",
+    "title": "连接、运行、部署：Gradio 中的 AI 工作流",
+    "summary": "`gr.Workflow` 直接内置于 Gradio 中，使管道成为界面。您可以将步骤描述为类型化无代码的图..."
+  }
+}

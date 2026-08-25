@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/jalapeno-first-results",
+  "content_hash": "b844867cfd639429ee6b3f0a62f4c1605f97c3b20d5cda0b33ba43e2a43318d5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b9406ae170bd91336ab3bb25f8a481be998406cd07a127a0b7b7880fe2ac0b53",
+    "title": "Jalapeño 的首批结果显示出 AI 推理领域领先的速度和效率",
+    "summary": "Jalapeño 是 OpenAI 的一款定制推理芯片，可提供更快、更节能的 AI 推理，为现代模型带来更高的吞吐量和更低的延迟..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3",
+  "content_hash": "747792dd72da09ec402f82e61bcfd9ca4b5094fa69db1ebc5fa82292db5dfeef",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "34211482db4916fea284d0878c20760387fe3ca2b331657b835990c260ca79fd",
+    "title": "EVE Online：向 Python 3 的迁移正式开始！",
+    "summary": "EVE Online：向 Python 3 的迁移正式开始！二十多年来，EVE Online 一直是大规模应用 Python 的最具趣味性的案例研究之一。他们一直在..."
+  }
+}

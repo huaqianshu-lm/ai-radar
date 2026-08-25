@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://fdeploy.com/",
+  "content_hash": "d6543cb28e97f99aec2b83eecb44ef802ca926a0fce8a87829271ca90340d7b6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7f39178d8121a4d66da1bde9c25c127c71d08a442a4f3393e6419d2a68e3e921",
+    "title": "Show HN: 我为 Windows 和 IIS 构建了自托管部署自动化工具",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49430259 原始网址：https://fdeploy.com/ 作者：dt3ft 评分：8 历时七年打造..."
+  }
+}

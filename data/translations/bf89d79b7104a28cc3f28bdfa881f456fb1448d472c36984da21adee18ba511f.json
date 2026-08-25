@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/anthropics/claude-plugins-official",
+  "content_hash": "e4c51b4d7af72100a9f186a4b5e2fa24111ef2689ab0e33b043b36b0b6c278bc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "02eab667df4489976a499bf550e4fab233b0ccde136fd84ec95a0f9994fd83af",
+    "title": "anthropics / claude-plugins-official：官方且由 Anthropic 管理的高质量 Claude Code 插件目录",
+    "summary": "官方且由 Anthropic 管理的高质量 Claude Code 插件目录。- 使用 Python 编写，今日获得 47 个 Star。"
+  }
+}

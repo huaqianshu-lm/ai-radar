@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/2LUVN6DSPZLZVG",
+  "content_hash": "0f382072119551260d61e20c25fd6d990c6e9d46dc73f23b742daf7fff95bc0b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1ff9416cb62c2e6645b12f023f20955db3f4087e9d192ee1b0e53ac3b4b04487",
+    "title": "Product Hunt: Memoria — 通过文本、语音、物体和人脸搜索照片，100% 离线",
+    "summary": "Product Hunt 产品页面，支持通过文本、语音、物体和人脸进行 100% 离线的照片搜索。"
+  }
+}

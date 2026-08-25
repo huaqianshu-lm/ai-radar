@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+  "content_hash": "c9c7c6d0a20c9d6966092d1b5a17416b46f585bff1194c65c436971deae21b0e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0c6b106ff3944d57453e810f2a64d499b06e1fe9c49d640f30705320df7f1447",
+    "title": "Apple 推出 M6 和 M5 Ultra",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49433292 原始网址：https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-..."
+  }
+}
