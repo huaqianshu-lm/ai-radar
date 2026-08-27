@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/J3QOL7SBC4ULA5",
+  "content_hash": "afe745e515fa1658487d53e3d9830612c0aae002cfa0a66b54f21c267433abc8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9345d68b6fa95e4e4d084ccf730cb9bcbac17e04fb5b4632b13863d14a2b2500",
+    "title": "Product Hunt: ChatCut Desktop — 为人类与 AI 构建的视频编辑器",
+    "summary": "Product Hunt 产品页面，支持使用 GPT 和 Claude 进行视频编辑。"
+  }
+}

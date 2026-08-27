@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/browser-use/browser-use",
+  "content_hash": "5672f6f3d5e610ea70e4f7ff260c58d500bf4d528fd48ca912ada7168e872e07",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c1af6b58492f9bf434d283140c089cd8bec568302933f45108ba7657de9dd41a",
+    "title": "browser-use / browser-use 浏览器自动化工具",
+    "summary": "为 AI Agent 让网站变得可访问。轻松实现在线任务自动化。语言：Python。"
+  }
+}

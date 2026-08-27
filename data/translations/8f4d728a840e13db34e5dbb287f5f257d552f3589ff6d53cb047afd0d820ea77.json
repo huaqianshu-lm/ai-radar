@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+  "content_hash": "8d31c9287f1422920321baa5e8df6c9f0a0dcd50fc00deb1c5fd4e15bb5c3901",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b90ce025dc5cb9815d0d1a1788415778d524013256798b94b70ff5ebd23a20f0",
+    "title": "Qwen3.8-Flash-Next 模型",
+    "summary": "HN 讨论帖，介绍 Qwen3.8-Flash-Next 相关内容。"
+  }
+}

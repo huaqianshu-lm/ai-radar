@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/FTJRFZECEOQRMV",
+  "content_hash": "dc3c86d4c959e425bc114f70b765b743d1dbe300f06772c24841ce6c9d7d8048",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "36bda4aaec149bb6995696e7e844f1e9382dc22260d7790a228536aeb0882894",
+    "title": "Product Hunt: Screenify Studio — 由 AI Agent 在 Mac 上录制的精致产品演示",
+    "summary": "Product Hunt 产品页面，支持由 AI 代理在 Mac 上录制高质量的产品演示。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/loveholidays",
+  "content_hash": "b4cfbaeb4b2a53241d87b3e2bed3cc61b3712bb7776c58cb90fad6126d49bbd2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "76c95cd852987031f9d74cac0c4196a0b720408dd9b0815aa14b07f6ec6f1b45",
+    "title": "loveholidays 如何借助 Codex 让每个人都成为开发者",
+    "summary": "了解 loveholidays 如何使用 OpenAI Codex 让企业内部的软件开发变得更加普及，帮助团队更快地将创意转化为产品。"
+  }
+}

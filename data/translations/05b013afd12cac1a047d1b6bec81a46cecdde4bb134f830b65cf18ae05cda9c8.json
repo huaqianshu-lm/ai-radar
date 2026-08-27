@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/2RW3QOUU4OK7XB",
+  "content_hash": "fc7e394bb569cc60c01d5b0a7c19d078123027e27a5f07cfd6edabbcaac7e385",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d6b1cc7e6a7972b4b95472b6e55f52d7b0867e61e935ae0495a96e897e578fc6",
+    "title": "Product Hunt: PostHog Desktop — 面向产品构建者的产品编辑器",
+    "summary": "Product Hunt 产品页面，专为产品构建者打造的桌面端产品编辑器。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/netbox-community/netbox",
+  "content_hash": "b9f7458ec295f0c3579c8690f23b71732f303244a4aacebda171727b9ba35cc1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f6453024bea5168068b850ae0b75aa7feed48190cdb05b5545d33592801e383a",
+    "title": "netbox-community / netbox 网络自动化来源管理工具",
+    "summary": "驱动网络自动化的首要真实数据源。采用 Apache 2 开源许可证，可免费试用 NetBox Cloud。"
+  }
+}

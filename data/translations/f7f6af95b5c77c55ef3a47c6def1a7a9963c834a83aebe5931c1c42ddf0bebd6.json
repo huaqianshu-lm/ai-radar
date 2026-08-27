@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/train-multi-vector-encoder",
+  "content_hash": "baa34aabadd08158b25de37e599ff59492883bab3c817ca3a26d02f57f1568b7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "17177c100c9150295f9a783a1f42c5ab7f67d636429664b84dc83f06cd3f4a18",
+    "title": "使用 Sentence Transformers 训练和微调多向量嵌入模型",
+    "summary": "探讨使用 `MultiVectorEncoder` 进行 ColBERT 风格的后期交互检索等相关内容。"
+  }
+}

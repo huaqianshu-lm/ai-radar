@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+  "content_hash": "0f717a960375dfa4e6e9d0755ea6d0be213bccb1b308add269bf49ce4ef01503",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2f87eebd2c1f09efa5dc464f966460ed3159ae8960708fec8d551a7d740c3e72",
+    "title": "帮助视频模型学得更好、更快",
+    "summary": "来自 Hacker News 的讨论，探讨了关于生成式视频模型的数据过滤与学习效率。"
+  }
+}

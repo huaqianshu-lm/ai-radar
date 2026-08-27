@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://projects.laion.ai/bvd",
+  "content_hash": "00cd29582c607cefdc1826ced5218197ff8e04228c479ea361595e444e37af03",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e85cf5658048fc549c567791fbccb2a3e50e69389c0a366261b583b557769fec",
+    "title": "Laion Big Video Dataset：来自 Hacker News 的讨论，包含相关项目链接与作者评分",
+    "summary": "来自 Hacker News 的讨论，包含相关项目链接与作者评分。"
+  }
+}

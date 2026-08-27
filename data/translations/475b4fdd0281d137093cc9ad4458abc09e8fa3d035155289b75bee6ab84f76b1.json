@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/anima",
+  "content_hash": "973475b7789e4871f332fca4355e3feffed5e42d7edbb3a4eb96c435719dfa3f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "774c92e393ebe03e59fafd95581535942992ea6cfa193782fdcad6952ae81861",
+    "title": "“我们拥有语言的基础模型，但没有物理的基础模型”——计算系教授 Anima Anandkumar",
+    "summary": "Anima Anandkumar 在 AI 领域深耕二十年，她正利用 AI 对从天气到聚变等物理世界进行建模。"
+  }
+}

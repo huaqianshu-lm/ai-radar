@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/26/paul-dix",
+  "content_hash": "b5627ca171653c96ff39119a159f7c37e95410085a8be9f83765e947dd6959c4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "69963c113d8fc5e8a4de21035a6d3064d858eae8cc5100f4b085cbe442913fd8",
+    "title": "引用 Paul Dix 的观点",
+    "summary": "讨论了 AI 编写了 100 万行代码并在接下来的几个月中对其进行精炼，最终产出目前正在运行的可靠软件。"
+  }
+}

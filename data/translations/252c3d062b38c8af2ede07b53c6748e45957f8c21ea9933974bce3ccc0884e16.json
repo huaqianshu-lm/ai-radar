@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-08-26",
+  "content_hash": "59fb4aafd9491bac27fa200524b8ba1cdfd8f04c26201239acaec9fa97f19ecf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d71f01295af42d4672e4f2169e0fe86e1b7fa455d06b27a9f1b371f16afe68f3",
+    "title": "OpenAI Jalapeño、Perplexity 便携式电脑、Claude 结合记忆功能",
+    "summary": "AI 2026-08-26 简报摘要，涵盖 OpenAI Jalapeño、Perplexity 便携式电脑、Claude 记忆功能以及 Jira 赞助内容等。"
+  }
+}

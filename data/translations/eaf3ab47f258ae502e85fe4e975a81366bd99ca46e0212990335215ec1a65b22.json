@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/VVHZVEVKSQXPBO",
+  "content_hash": "a82d97892e09cbbd10e2b365290cdd5498900a12db4b89bbd0453aa12a92ceb3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "187c640011ac67291457aa87c6452a74389a94523b5ceaf5115c69309ed006e0",
+    "title": "Product Hunt: OpenComputer — 针对 Agent 的 Firebase",
+    "summary": "Product Hunt 产品页面，被定位为 Agent 专用的 Firebase 服务。"
+  }
+}

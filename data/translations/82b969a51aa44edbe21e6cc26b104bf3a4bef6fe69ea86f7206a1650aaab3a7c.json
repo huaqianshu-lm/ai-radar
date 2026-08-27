@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://acceptmarkdown.com/",
+  "content_hash": "2c2806ec451be31cd8270255708b0bea68ee6c61baa4bd9e809673f7cace0f1e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4e7e86b3e6c32480ee963a230f8e76d97ef3e29077842697b53ab8f87d3ee761",
+    "title": "通过 Accept 标头向 AI Agent 提供 Markdown 格式内容",
+    "summary": "HN 讨论帖，介绍通过 Accept 标头服务于 AI Agent 的相关技术。"
+  }
+}

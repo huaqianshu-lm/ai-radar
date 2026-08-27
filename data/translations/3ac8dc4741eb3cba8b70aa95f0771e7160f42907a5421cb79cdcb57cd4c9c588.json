@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/KS5JFRUHBLE2PP",
+  "content_hash": "d75ff5f76c0c5f3ff12fb511e00db907f69d9a256351aec18ddda80b56777cea",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b3910f5a57cdc57231e4acd686087ee7b7d373b54d15742a94a579f1a002a04c",
+    "title": "Product Hunt: Tellie Prompter 1.5 — 知道你还没说完什么的提词器",
+    "summary": "Product Hunt 产品页面，一款能够理解并适应演讲者未尽之言的智能提词器 1.5 版本。"
+  }
+}
