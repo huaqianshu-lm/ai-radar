@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/perixtar/Tech-OA-Interview-Questions",
+  "content_hash": "2f1e85d90b1ec4618aae6c7fe09d34c2916ab602c84b188cdeb71b82aaba4e22",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "651a9c7996852903fc2ef32f34a431d904d7ebac8dba7d2a7f42b835095ab117",
+    "title": "perixtar / Tech-OA-Interview-Questions 开源项目",
+    "summary": "每日更新的技术公司在线笔试（OA）和面试题列表，使用 Python 编写。"
+  }
+}

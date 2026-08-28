@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/calmrocks/ai-engineer-notebooks",
+  "content_hash": "02c488afaac989e65dca2b904b8371f12ba19b6f55521cfbb7137d70cef9b245",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b34ca6dfe4254569618eb412de916a340297ab7329cc8c9f5668102b8782ee79",
+    "title": "AI 工程师 Notebooks：在 Colab 上免费、无框架的 RAG、代理与评估",
+    "summary": "来自 Hacker News 的分享，提供基于 Google Colab 的免费、无框架的 RAG、AI 代理和评估资源。"
+  }
+}

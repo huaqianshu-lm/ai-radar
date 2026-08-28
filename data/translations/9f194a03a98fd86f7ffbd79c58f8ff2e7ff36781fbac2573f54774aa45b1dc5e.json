@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/andrewyng/aisuite",
+  "content_hash": "6d7fc03ff1666f3862b458c77a8867d5870997faa74e98b2ee2677901b0e6846",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a7a73112040f91fa72f8cea0a745da6b5b5475a4de91fc5942ee51fade68ae12",
+    "title": "andrewyng / aisuite 开源项目",
+    "summary": "为多个生成式 AI 提供商提供简单、统一的接口，使用 Python 编写。"
+  }
+}

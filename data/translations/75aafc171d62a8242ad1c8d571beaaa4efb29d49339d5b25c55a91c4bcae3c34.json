@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+  "content_hash": "e47cfee892e5ed1f6364e4150e78e3e5cfb0f7c44003f89e6c11547bb32e5f62",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "35305757066a6f711440489b52eb6596053277764468fc729848626d973d5835",
+    "title": "Anthropic 预览模型硬件标准",
+    "summary": "Anthropic 正在推出模型硬件标准 (MHS) 的研究预览版，这是一个供 AI 代理安全运行的共享规范。"
+  }
+}

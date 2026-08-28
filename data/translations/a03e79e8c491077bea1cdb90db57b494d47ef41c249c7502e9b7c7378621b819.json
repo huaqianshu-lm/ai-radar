@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.terminal-bench-science.ai/announcement",
+  "content_hash": "f208dcdf0f54d9fa5b0cf8ea0cc02d28223e9d4b30fdc8ad1fe03aaaeed2bd04",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6f8f0395b3313ab9c59876e1a7c85875c35f92625f1601e5aa12d514d0ba77c1",
+    "title": "Terminal-Bench-Science：在科学研究工作流程中评估 AI 代理",
+    "summary": "来自 Hacker News 的讨论，介绍用于评估 AI 代理在科学研究工作流程中表现的基准测试。"
+  }
+}

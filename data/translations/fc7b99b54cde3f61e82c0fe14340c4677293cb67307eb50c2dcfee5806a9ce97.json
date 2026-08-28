@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+  "content_hash": "a98c358da278a3af2d3bb836724b7df3859bd2be01c05d37a246ba7118133369",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f0dc85dcc6d3444f6482829995f5a83e6fdb56513a353598d7cfc58189cd6756",
+    "title": "Google DeepMind 试点全球首个双盲 AI 评估",
+    "summary": "利用密码学安全环境建立对专有模型基准测试的信任，开展全球首个双盲 AI 评估试点。"
+  }
+}

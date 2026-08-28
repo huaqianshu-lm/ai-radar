@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode",
+  "content_hash": "0b3396fd7f720b6bd256f235d12dcadee59caf0880ae23c6a8c1f71a2a3f86ce",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bc6639b3f24621f691203854f3e5ec83163aad0f63526088228fa17707b456c7",
+    "title": "破解 Claude Code Opus 5 自动模式",
+    "summary": "Anthropic 高度信赖 Claude Code 的自动模式，以保护其编码代理用户免受潜在风险影响。"
+  }
+}

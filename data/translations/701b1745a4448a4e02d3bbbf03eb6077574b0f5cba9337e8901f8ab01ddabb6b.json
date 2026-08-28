@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/experientiallabs/experiential",
+  "content_hash": "a4cf44ab1a15bcb955e9dd86e625883015b39e68878c2888fdcee827dbd42fd0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "23693f7b66c2e7cccd6ed4af5e600b68485aaa9b5da2148c8b6ba754c5aa1ece",
+    "title": "HN 展示：我们构建了一个开放的 OpenRouter，将使用情况转化为更好的模型",
+    "summary": "来自 Hacker News 的展示，介绍了一种将用户交互与使用数据转化为更好模型的新开源平台。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
+  "content_hash": "2b173051c33623a602cbac58b460bc40e2a38575ef1c1b054748edb672fdc0b3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "95b7ebc1937a7b61cc282ee60c1440226b80b9a7632c5ea835aa768e9fb93119",
+    "title": "Gemini-3.5-Transcribe 项目",
+    "summary": "来自 Hacker News 的讨论，涉及 Google 推出的语音转文本模型 Gemini-3.5-Transcribe。"
+  }
+}

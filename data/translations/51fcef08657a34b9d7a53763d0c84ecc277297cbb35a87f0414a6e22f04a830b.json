@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+  "content_hash": "c6b2e4d49aa106b6c65635a59ff63da3a8a52338a4b428f8604faff5bb2767de",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "721cd4a83c28fb5edb11dcf08f6a0c356d059333816b05569883218e6efd888d",
+    "title": "请停止为了充实简历而用 AI 垃圾信息轰炸开源项目",
+    "summary": "来自 Hacker News 的讨论，批评了部分开发者为刷简历而向开源项目大量提交低质量 AI 生成代码的现象。"
+  }
+}
