@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+  "content_hash": "ba60d0e18b9e512d1afcd8c4cf3211ebefbb19219079451f01c143e0da4e3778",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "04411ad809f1e4cfb475e72c2bca859e1d6b523d1084f3e3bd664a6de11d7701",
+    "title": "迁移至 HTTPX2",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49477212 原始网址：https://github.com/openai/openai-python/blob/main/httpx2.md 作者：tosh 得分：188"
+  }
+}

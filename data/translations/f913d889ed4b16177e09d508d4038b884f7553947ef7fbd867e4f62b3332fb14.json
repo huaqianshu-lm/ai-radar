@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+  "content_hash": "86dbd2aa64115b33f0b0c1d36b8365aa101351774d28f3b6166ea7e7303e5714",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4d3b17a749f42c957e926aa5ecda3aa5c4eeeaa5ba6fc6a0122239385ec004be",
+    "title": "开源 ASR 排行榜添加其首个全球南方语言",
+    "summary": "# 开源 ASR 排行榜添加首个全球南方语言 *Voice Arena 与 Hugging Face 合作推出针对印地语和印度英语的开源 ASR 评估..."
+  }
+}

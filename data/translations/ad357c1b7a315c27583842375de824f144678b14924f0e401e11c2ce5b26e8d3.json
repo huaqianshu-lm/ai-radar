@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-08-28",
+  "content_hash": "b263befb550ab9e5cf3693e46a912b580f2ce4d61ab741a810156147a71e051c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c1f1d703bfd392aefae083a367978bd00c0c86e5936ab066ec0cf72b564fc840",
+    "title": "Gemini Omni 1.1 🎬、Cohere Parse 📄、Codex 持久模式 👨‍💻",
+    "summary": "# TLDR AI 2026-08-28 ## Gemini Omni 1.1 🎬、Cohere Parse 📄、Codex 持久模式 👨💻 ### 一个 API 访问所有模型（赞助）通过 80 多个提供商访问 500 多个模型..."
+  }
+}

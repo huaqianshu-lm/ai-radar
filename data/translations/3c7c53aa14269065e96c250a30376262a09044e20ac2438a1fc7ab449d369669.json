@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/stemdeckapp/stemdeck",
+  "content_hash": "1bbbe782acd6cb9e5d353cdb92e3ff744d94c639aa5fb4c82a1d9f46e81b1917",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f067a4ae268cdf65160c49b3d56f61d9db46be141203e3f35d601287c8f2d32b",
+    "title": "StemDeck，一个免费、开源且本地运行的 AI 音轨分离工具",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49486081 原始网址：https://github.com/stemdeckapp/stemdeck 作者：thclpr 得分：39"
+  }
+}

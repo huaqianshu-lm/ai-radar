@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug",
+  "content_hash": "8eff574e385a7951b4204db3da5bcabbcd46b951458862c5c5e9c1589786ab1a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "983102b3ea3b434051ffd5a865d623328fba21a53804a67afeea575676bff07b",
+    "title": "如今，仅仅是关于漏洞的传言就足以发现安全漏洞",
+    "summary": "如今，仅仅是关于漏洞的传言就足以发现安全漏洞。Anil Madhavapeddy 是剑桥大学的计算机科学教授，也是核心维护者之一..."
+  }
+}
