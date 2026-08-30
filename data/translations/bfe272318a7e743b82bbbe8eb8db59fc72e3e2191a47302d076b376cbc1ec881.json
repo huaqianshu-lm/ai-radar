@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://coldtake.dev/blog/domain-driven-agents",
+  "content_hash": "3f80c5a34fc0e655e99cf2fbd59efab98bd1d315bbe7db43db2e513bb3418b95",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b3ea611c2245f40b79b2dd245531c97aebd5c8ff7df3bffc59a591fb4deb360e",
+    "title": "领域驱动 Agents",
+    "summary": "HN 讨论帖，探讨面向特定领域的 Agent 架构与应用。"
+  }
+}

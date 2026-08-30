@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/kaifcodec/user-scanner",
+  "content_hash": "5ae0a25b86ad75e169d2be7c3d6aab7c8aaaeffb207266975b5c03e31c575ada",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1d55b4cad34f154042bff7da91494bea2c12ac5ec6708ad5dd0e5fd2858c7380",
+    "title": "kaifcodec / user-scanner：一个二合一的电子邮箱与用户名 OSINT 套件，仅凭单个电子邮箱或用户名即可进行深度数据提取",
+    "summary": "一个二合一的电子邮箱与用户名 OSINT 套件，仅凭单个电子邮箱或用户名即可进行深度数据提取。分析超过 455 个活跃维护的扫描向量。"
+  }
+}

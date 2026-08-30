@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/google/skills",
+  "content_hash": "d506940761b930f6869cda5fa6627ddc4c7749cff644b1a4210ee27a148372b3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ad904a51b17698545e1f9452b2e8893f7d715786e5e5ed8175f8d76ac6a47693",
+    "title": "google / skills：针对 Google 产品和技术的 Agent Skills，使用 Python 开发，今日获 57 个星标",
+    "summary": "针对 Google 产品和技术的 Agent Skills，使用 Python 开发，今日获 57 个星标。"
+  }
+}

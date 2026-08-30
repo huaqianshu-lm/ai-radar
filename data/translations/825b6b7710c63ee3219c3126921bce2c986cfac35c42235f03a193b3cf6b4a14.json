@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/p-e-w/heretic",
+  "content_hash": "1bea5e3e2c6d81ec7d7cfc90d8648a5ea29e36eab31b1f01e28b90f66c5886b2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3db40af345d5afa2a2657bdd86712a3441b19b5471de92fd9a3d68e7d8c3defa",
+    "title": "p-e-w / heretic：语言模型全自动审查移除工具，使用 Python 开发，今日获 150 个星标",
+    "summary": "语言模型全自动审查移除工具，使用 Python 开发，今日获 150 个星标。"
+  }
+}

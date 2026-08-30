@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/29/hy4",
+  "content_hash": "743bf19e5d20104dfb265d118fd61ec48a6cb84b884f3cecad9209d68ca60770",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6ef15d8f5d40cbba42e362a96551e13825ccf924792ae57fcfd2e8e58ed52d0a",
+    "title": "Hy4 Preview 发布",
+    "summary": "中国公司腾讯推出全新的开源文本输入（无视觉能力）LLM：总参数量达 770B，激活参数量为 49B，支持 1M token 上下文。"
+  }
+}

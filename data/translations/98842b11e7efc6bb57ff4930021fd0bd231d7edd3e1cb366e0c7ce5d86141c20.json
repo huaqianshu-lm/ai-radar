@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/5TF6TUVXTV72WX",
+  "content_hash": "b0a15f9f86984c9e1e3736497b2da1ab077977f02d937c880a79b9457b5e2252",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b9683ef0bacb35e6434eb2c013d4e29edbbead563132ecec9ba6eb8319444a76",
+    "title": "Product Hunt：Staats — 询问你的编码 agent 你的网站表现如何",
+    "summary": "Product Hunt 产品页面，介绍一款连接网站状态与编码 Agent 的工具。"
+  }
+}

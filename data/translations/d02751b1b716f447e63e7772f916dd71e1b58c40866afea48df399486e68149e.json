@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/MO6FCOZWR6JECM",
+  "content_hash": "76d84226833ed87537ca562ffbad3c2bcc2189ae68778a85f1f6b87b159aed38",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dfc20cfd86de765581065f010f25297f0d4e412c7fde31ac3c4b4fe59668cc56",
+    "title": "Product Hunt：Hy4 preview — 腾讯面向长周期工作的 770B 开源模型",
+    "summary": "Product Hunt 产品页面，介绍腾讯推出的 Hy4 预览版大模型。"
+  }
+}

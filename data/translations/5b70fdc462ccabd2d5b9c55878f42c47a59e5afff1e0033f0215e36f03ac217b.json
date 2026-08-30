@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/LFCJ26EGCCWVWE",
+  "content_hash": "af670a2e6e24c23b35d1cc6ba7cf6e279e3a70ee9bea01649639b3156f260d6b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "61b9ed42655799470b7ed8ce48765476c7e4617a2bbd770f48394a7357fb1cc2",
+    "title": "Product Hunt：Cohere Parse 5 — 将复杂文档、表格和图像转换为 AI 就绪的数据",
+    "summary": "Product Hunt 产品页面，介绍 Cohere Parse 5 的文档解析与转换能力。"
+  }
+}

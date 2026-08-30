@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "content_hash": "3f9fd28340b2ae99cac1ecf61337924023da9a5d4e1c93dbb3a6e5211fa18ccb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c8f3d928a400ca537089aa1df4abc7bff8aee005b3e7485b783e7769ac8c3a58",
+    "title": "K-Dense-AI / scientific-agent-skills：将任意 AI agent 转化为 AI 科学家",
+    "summary": "将任意 AI agent 转化为 AI 科学家。这是排名第一的科学 Agent Skills 库，被全球 190,000 多名科学家使用，包含 165 个经过验证的即用型技能等。"
+  }
+}
