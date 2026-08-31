@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/handsomestWei/patent-disclosure-skill",
+  "content_hash": "17a157903d24e259c5ffb2fe73fa0cbfef208e4990bad9edbeb9537a23b27044",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5ec05b2a3ba2aae70c8545806569c5ec1a6673054fc63116e233c733cbafefab",
+    "title": "handsomestWei / patent-disclosure-skill：中国专利 .skill：用于专利点挖掘与交底书编写（涵盖发明、实用新型、外观设计），通俗解读专利、嗅探政策动向并辅助审查答复",
+    "summary": "中国专利 .skill：用于专利点挖掘与交底书编写（涵盖发明、实用新型、外观设计），通俗解读专利、嗅探政策动向并辅助审查答复。使用 Python 编写，今日获得 62 个 star。"
+  }
+}

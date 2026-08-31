@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/pollen-robotics/microduck_rl",
+  "content_hash": "9ddfedfddbaa6678fa8cfe3cb27bef220a36818c07a3dcac9f09c5056eb08de0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e55244f18ef5829b4034be32708141e022911e96bf8e2dddb6264d956ab72653",
+    "title": "pollen-robotics / microduck_rl：为 Microduck (mjlab) 提供强化学习（RL）训练环境",
+    "summary": "为 Microduck (mjlab) 提供强化学习（RL）训练环境。使用 Python 编写，今日获得 168 个 star。"
+  }
+}

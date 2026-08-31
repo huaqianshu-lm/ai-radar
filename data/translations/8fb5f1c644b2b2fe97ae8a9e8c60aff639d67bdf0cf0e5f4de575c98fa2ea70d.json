@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/anthropics/claude-code/issues/66504",
+  "content_hash": "f15bc29a4c5a424ff53e546dd3079bdf7909f515b8610ad72b964535700666bc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d671abf37cb509d36a7b2871a71910a5dd09c95a2d35d537520418812e182d65",
+    "title": "Claude 会话 URL 默认附加到提交信息和 PR 描述中",
+    "summary": "来自 Hacker News 的讨论，源自 anthropic/claude-code 的 Issue #66504，作者为 sparsesignal，得分为 183 分。"
+  }
+}

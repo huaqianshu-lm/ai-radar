@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.whatwetellai.com/",
+  "content_hash": "1b3019b70ab2fafa56343f47aacdbe42efa29b6bfa6c183c8d0a30311687f4b1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "aba86c060d17a87cced122bed96f371d1f21d4737d1f94ac3aaaa75f7af74330",
+    "title": "我们对 AI 说了什么",
+    "summary": "来自 Hacker News 的讨论，源自 whatwetellai.com 的文章，作者为 thm，得分为 34 分。"
+  }
+}

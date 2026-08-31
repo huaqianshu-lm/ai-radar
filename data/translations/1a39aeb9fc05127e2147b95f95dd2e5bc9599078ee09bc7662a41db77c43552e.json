@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/2ABHAOG4SSOU7B",
+  "content_hash": "0d9700c8377785ff16d45295e596767195843c876da27149094ed95a6fe4027e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2926d84de0fa9540e71e6257083ed44ec5d6a5b3fd292d5fbfe2f85e80b99e9f",
+    "title": "Product Hunt: oMLX：Product Hunt 产品介绍：Mac 本地 LLM 服务器，可将 Agent 的等待时间从 90 秒缩短至 5 秒",
+    "summary": "Product Hunt 产品介绍：Mac 本地 LLM 服务器，可将 Agent 的等待时间从 90 秒缩短至 5 秒。"
+  }
+}

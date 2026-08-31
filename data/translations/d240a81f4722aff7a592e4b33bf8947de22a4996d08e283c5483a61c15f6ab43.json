@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/666ghj/MiroFish",
+  "content_hash": "77de54c898adb1521f01bf1a8198ca0605571af1f51466d3536b92af751cf598",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d1c18d784547228652fa732d5a8a8eda1d8009ab0daec9234e13de4c6432666a",
+    "title": "666ghj / MiroFish：一个简单且通用的群体智能引擎，用于预测万物",
+    "summary": "一个简单且通用的群体智能引擎，用于预测万物。使用 Python 编写，今日获得 53 个 star。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+  "content_hash": "9deaae9573557e4e4d9aa7c5a476e626a3f44fbf0e4d41651834470a64528357",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ac6e7e3c37d7027f73be144725271ec93518275890f1acf5a8e2c7cc2f2461b4",
+    "title": "理解 ChatGPT Work",
+    "summary": "OpenAI 于 7 月 9 日发布了 ChatGPT Work，此后一直在持续快速迭代。这是一个非常令人困惑且功能强大的产品。"
+  }
+}
