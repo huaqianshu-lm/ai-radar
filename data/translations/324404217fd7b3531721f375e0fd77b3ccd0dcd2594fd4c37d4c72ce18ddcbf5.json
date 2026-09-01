@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture",
+  "content_hash": "0c97450802ebe09c2ffb31201e56714efa62340eb98cd8fa7d3f19e6ab238d85",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bf3e1e0703c073050f7a4c7cdf243f1947864bcac797ffdfb82efcfed3e795e5",
+    "title": "介绍 wrapture",
+    "summary": "Graham Dumpleton 推出了 Wrapture，他将其描述为将 monkeypatching 理念引入 Python 的新工具。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/jingyaogong/minimind",
+  "content_hash": "0456ba5bf23aaa517eb1756349c31488233cadd825d100eda9c2073d4e060980",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b03e856411c0697d16197b2f4a0ae82209cac26de8d5709a9f44bd4978f524ec",
+    "title": "jingyaogong / minimind：使用 Python 从零开始在仅 2 小时内训练一个 6400 万参数的 LLM！当日获得 495 个 star",
+    "summary": "使用 Python 从零开始在仅 2 小时内训练一个 6400 万参数的 LLM！当日获得 495 个 star。"
+  }
+}

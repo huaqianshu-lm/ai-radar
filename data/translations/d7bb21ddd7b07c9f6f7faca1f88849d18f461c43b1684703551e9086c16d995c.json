@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/smicallef/spiderfoot",
+  "content_hash": "87c011326f8ec6426a0dee51eb4c727b7a7bcd363d3912873c86bfc6232f2a01",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5a20fe74b08287c3e619d374fdd0b6c53cb245b315b79d7bc35166684ab2830f",
+    "title": "smicallef / spiderfoot：SpiderFoot 使用 Python 自动化执行开源情报（OSINT），用于威胁情报和攻击面测绘，当日获得 77 个 star",
+    "summary": "SpiderFoot 使用 Python 自动化执行开源情报（OSINT），用于威胁情报和攻击面测绘，当日获得 77 个 star。"
+  }
+}

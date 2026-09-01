@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Hebbian-Robotics/hflow",
+  "content_hash": "949faeead19eeb33bc6162ce6e0b9abaa7be531baad64b94c96fed599520e427",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c5d31b731e2b133d383a5498c764100733719950a337a944a878ffbb034c21a3",
+    "title": "Launch HN: Hebbian Robotics (YC S26) - 构建可扩展的机器人数据管道",
+    "summary": "来自 YC S26 的 Hebbian Robotics 在 Hacker News 发布，旨在构建可扩展的机器人数据管道。"
+  }
+}

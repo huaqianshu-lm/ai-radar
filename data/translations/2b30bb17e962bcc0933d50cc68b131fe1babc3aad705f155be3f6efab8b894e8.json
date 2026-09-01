@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://usealmanac.com/",
+  "content_hash": "b455623e5f25baeb0106f1673323f534164829286a11970d8d2f47dcbd3c3441",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dc4741c62467685f218fe7b2b811adf42a7a072f8f7a0f0000ac3f50f847e3ec",
+    "title": "Launch HN: Almanac (YC S26) - 了解你公司的 AI",
+    "summary": "来自 YC S26 的 Almanac 在 Hacker News 发布，是一个能够深入了解你所在公司的 AI 工具。"
+  }
+}

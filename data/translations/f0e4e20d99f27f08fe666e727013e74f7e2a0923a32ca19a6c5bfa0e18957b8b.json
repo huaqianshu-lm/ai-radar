@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/polimill",
+  "content_hash": "2f3f9d9d4db4f13805f4ed73e3d14404c2e0c0d75e81f2d298a781513eb3bf16",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0b5a688ac44522d6851141a82925ed4d52e8227256bd0c561c149a506cd396f8",
+    "title": "Polimill 构建日本下一代公共 AI 基础设施",
+    "summary": "Polimill 使用 OpenAI GPT 模型和 Codex 帮助各市长效搜索和使用行政知识，同时加速开发。"
+  }
+}
