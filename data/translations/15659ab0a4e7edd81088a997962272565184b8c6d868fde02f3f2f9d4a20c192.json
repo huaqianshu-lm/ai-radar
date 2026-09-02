@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/webgpu-kernels",
+  "content_hash": "3c9ab6a66266b24c814cd8302c8dba5f3a88fc9e9c960937075570e49e8867b7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "91dad0068ec24e5bcea7adc0e407700bb8999e1b3de1e0bfc9b0e6a4ed61b3fe",
+    "title": "介绍 @huggingface/kernels：用于本地 AI 的 200 多个 WebGPU 内核",
+    "summary": "今天我们发布了该努力的第一层成果：@huggingface/kernels，这是一个极简的...用于本地 AI 的 WebGPU 内核库。"
+  }
+}

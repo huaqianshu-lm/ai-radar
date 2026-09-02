@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
+  "content_hash": "ce43179374a240ee23b724dc577092b0f654e40b2ef6384419b700ee93db74ad",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f30ff19dd7ec348d7ab951af735889125c7735991342ff7a2f18d11cf11e175f",
+    "title": "The efficient frontier of LLM inference：原文摘要",
+    "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=49529898 Original URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Author: philipkiely S..."
+  }
+}

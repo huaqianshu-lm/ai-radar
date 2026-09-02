@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/MakazhanAlpamys/Soup",
+  "content_hash": "9dbc103705a7030a7d4160f3cf22bc8279a3ae1bae5b7029fd7eaf640bea1572",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "82f6447f851685ec19f54357c060d10fd770ed19a3534e5a5f96960bffeb5020",
+    "title": "MakazhanAlpamys / Soup：原文摘要",
+    "summary": "原文摘要：Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. - Language: Python - 280 stars today"
+  }
+}

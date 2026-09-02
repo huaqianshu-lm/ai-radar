@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/benchmirt",
+  "content_hash": "68803cf80e20b988109decd2d5df3105db6f3c6522aa9c3508ce14852e3a6173",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ad90e6779ea3045b3b9ff330e4c9d1c6cd82a44459fb7cba10b171e8ac596ec8",
+    "title": "BenchMIRT：大模型基准测试究竟在衡量什么？",
+    "summary": "BenchMIRT：大模型基准测试究竟在衡量什么？今天我们介绍了 BenchMIRT，这是一种用于在个体层面审计 LLM 基准测试的新方法..."
+  }
+}

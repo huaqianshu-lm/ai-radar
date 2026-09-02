@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice",
+  "content_hash": "5914b3dfe127ac2bf4706f155d04255308a5cd4b28f7df8c8ae5910901d99ca9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "86d3bc7092b6e9c6c3e7c5218aef42a6bfe25af7bea38e10c778c1dab08b7c09",
+    "title": "Codex 集成了 LibreOffice",
+    "summary": "作者在使用 OmniDiskSweeper 查看 ~/.cache/ 文件夹时发现了一些有趣的东西。OpenAI Codex 桌面应用（后更名为 Cha...）中包含了 LibreOffice。"
+  }
+}

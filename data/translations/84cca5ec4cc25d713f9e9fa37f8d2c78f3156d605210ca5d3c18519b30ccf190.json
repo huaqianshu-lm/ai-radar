@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/pr-not-welcome",
+  "content_hash": "cabd682daeeba6df585063d80dc474fab071f928dcf52e4246019288cc18ea6a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "593cccee766b48b2b7b1a4bb0a106ce8c13c0bc8bfcac39d2e23638b6243a324",
+    "title": "拒绝PR：顶级AI开源项目如何管理数千名贡献者",
+    "summary": "Vercel的AI SDK、Astro、Flue和tldraw正用软件工厂取代随意的社区PR，由Agent团队来应用修复和功能开发。"
+  }
+}

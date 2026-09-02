@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/3b1b/manim",
+  "content_hash": "a7fab83d4a3fb4b7c6d8fd92b9f4e57d10281475e11db2ca31d7f980ed101e78",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "330ec54bca59ecf06f05114fc2518d2cc2756e689786255c094ec7080b076fac",
+    "title": "3b1b / manim 动画引擎",
+    "summary": "用于制作解释性数学视频的动画引擎，使用 Python 语言开发，今日新增 86 枚 Star。"
+  }
+}

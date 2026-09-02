@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/carloslfu/slotstream",
+  "content_hash": "267e7cbadd02f07550ebfeb7eb0ddc66f6cda9d4adb61a2b1cca4d55739acc8a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fb0827c68cc0b5d0c681382b6339e6c103d7e80fb3f56fb1b43b23b578571206",
+    "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s：原文摘要",
+    "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=49524447 Original URL: https://github.com/carloslfu/slotstream Author: carloslfu Score: 138 I built slotstream, a..."
+  }
+}

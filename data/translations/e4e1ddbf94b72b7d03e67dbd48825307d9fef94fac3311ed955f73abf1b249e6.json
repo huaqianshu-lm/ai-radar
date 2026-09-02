@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2",
+  "content_hash": "3d7b71f9a943f23a301fd57920e53e9df2f996c46dad97868f895b791e70d1ba",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b79951c45667a324c9fbc8872a1abf6f216b22b7915ecfb8721cc867471cd986",
+    "title": "Python 3.15.0 candidate 2 is here!：原文摘要",
+    "summary": "原文摘要：Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled..."
+  }
+}

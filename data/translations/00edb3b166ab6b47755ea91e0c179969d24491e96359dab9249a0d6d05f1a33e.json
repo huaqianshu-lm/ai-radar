@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+  "content_hash": "a247330a1c51c4056779fcffbd81a21ff18087c2d3e1fc1f70b2a85a9692c46f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b085c7f1762bfee8ae1c10fd6eb0d48760444eca14bc13ebebf0694a2daec5e9",
+    "title": "Anthropic：与客户共同开发企业前沿安全保障",
+    "summary": "Anthropic宣布推出Enterprise Frontier Safeguards（EFS），这是一个结合了隐私保护等功能的解决方案。"
+  }
+}

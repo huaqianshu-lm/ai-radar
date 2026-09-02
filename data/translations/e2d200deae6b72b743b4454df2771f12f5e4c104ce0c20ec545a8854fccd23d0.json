@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://lws.io/blog/my-local-model-setup",
+  "content_hash": "795796372f2109c54a9d135d3075df57c60bce5ea24549673becc6c252e8e229",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "401e6bb8407c67a2db669df485c695d63e50b6296de9cd3bc18d33f479d4edac",
+    "title": "My local model setup on an M4 Pro Mac Mini：原文摘要",
+    "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=49529132 Original URL: https://lws.io/blog/my-local-model-setup/ Author: raybb Score: 44"
+  }
+}

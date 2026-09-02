@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/1/geojson",
+  "content_hash": "fd8e0397aaa61c91650cea74159ab508231df4d0c0997bf3c9c8b155e6575af1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "92dade5d3d44ebeb11306d4e8c013475024fcb76b35b574065393f2d08612c5e",
+    "title": "GeoJSON Map Viewer 地图查看工具",
+    "summary": "工具：GeoJSON Map Viewer。作者此前曾协助 Natalie 收集当地政治边界的地图（针对 Granada 社区服务区和 Midcoast Comm...）"
+  }
+}

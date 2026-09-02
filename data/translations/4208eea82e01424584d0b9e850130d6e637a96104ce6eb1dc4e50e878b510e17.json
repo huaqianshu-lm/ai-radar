@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+  "content_hash": "0d3e0670c41b2bc27a21612b1bf2a1c66c76e7c06c4150e7a09a3c386ae77366",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c0364833b41073ca7c0ea92e6ee2f69465ad17ef62fa3529c77a9a8d4c268e7b",
+    "title": "医疗机构现在可以将 EHR 和其他行业数据连接到 ChatGPT",
+    "summary": "ChatGPT 现在可以连接到可信的医疗数据，帮助临床医生安全地获取患者背景信息、医学研究等内容。"
+  }
+}
