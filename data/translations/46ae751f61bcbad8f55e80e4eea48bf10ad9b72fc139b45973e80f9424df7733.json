@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+  "content_hash": "a6870c79a0e011672c8028f9343c4ecd4dace308d5cb13698e54b2ec51af3bf7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b9a7dc4a09e4b4e431522be58e30622ed92ea150181380a6d9c8c81e7925a3b8",
+    "title": "在 OpenAI 和 Anthropic 提交零漏洞后，Aisle 发现了 6 个 curl CVE",
+    "summary": "HN 讨论帖：讲述 Aisle 在 OpenAI 和 Anthropic 未发现漏洞后，独立发现了 6 个 curl CVE 漏洞。"
+  }
+}

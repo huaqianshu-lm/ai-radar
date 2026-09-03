@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/PO7HOUJQ5VPHGC",
+  "content_hash": "29a68b0c038ef164075943c53b1c99525d5f1cad6e8332e76c08369e7f1218e8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a5d7ef6dfcde027470451a0e88b4b767183ae04ef9a7b8434c384478efa762bb",
+    "title": "Product Hunt: deepeye by deepidv — 随您浏览网页而行的深度伪造检测工具",
+    "summary": "Product Hunt 产品展示：deepeye 由 deepidv 开发，是一款能在您浏览网页时进行深度伪造（Deepfake）检测的工具。"
+  }
+}

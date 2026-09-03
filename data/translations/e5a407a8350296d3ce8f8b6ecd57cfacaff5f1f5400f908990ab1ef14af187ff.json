@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/blader/humanizer",
+  "content_hash": "97ec4ec425c51f41733f9c9fdf1e61ad9dbe81f0f9b9c14b28019e728a4079b7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2db4f7d2d7de0ea292a7b64c56d98bdfb63f65a4983bba42f4a77aff19c0445c",
+    "title": "blader / humanizer：一个 Agent 技能，用于从文本中去除 AI 生成写作的痕迹 - 语言：Python - 今日获得 374 个 star",
+    "summary": "一个 Agent 技能，用于从文本中去除 AI 生成写作的痕迹 - 语言：Python - 今日获得 374 个 star"
+  }
+}

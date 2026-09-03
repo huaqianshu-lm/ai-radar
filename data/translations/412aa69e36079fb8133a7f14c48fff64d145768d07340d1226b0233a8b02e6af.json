@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+  "content_hash": "d6cbd7ec1f4a5f8e9f7e80787fee9244220cda605a8841de89fd51e67b22950e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8c10bd00da2e478d246d8a5ed5ef6c67574eeadd8eaf7af8addbaf53aeec5060",
+    "title": "在 Confluent 上使用 IBM 时间序列模型实现实时智能",
+    "summary": "IBM 时间序列模型在 Confluent Cloud 上提供抢先体验（Early Access），直接在数据流动的地方运行，并结合了 Confluent Platform..."
+  }
+}

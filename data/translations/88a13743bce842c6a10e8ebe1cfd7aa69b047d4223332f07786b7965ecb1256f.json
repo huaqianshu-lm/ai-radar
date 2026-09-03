@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/google-research/timesfm",
+  "content_hash": "9fe80a68c591ac31ce1454e67383869005a199fbc8e453e4c9a2b9c7dce0212f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "52a49b8215a214a6c2a2b89a30061410e06dd292516a3860bb1435db8620fe60",
+    "title": "google-research / timesfm：TimesFM（时间序列基础模型）是 Google Research 开发用于时间序列预测的预训练时间序列基础模型",
+    "summary": "TimesFM（时间序列基础模型）是 Google Research 开发用于时间序列预测的预训练时间序列基础模型。- 语言：Python..."
+  }
+}

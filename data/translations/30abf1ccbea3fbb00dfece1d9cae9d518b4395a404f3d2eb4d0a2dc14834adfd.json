@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/2/llm-gemini",
+  "content_hash": "ade53db2acb716a7c07d453b4fc089d5ee0715ec53947523248e33cf47c175f5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "18c439efc6c9e049e8bc0844a228e8e2e00510249b33583b47de9c91d00356b5",
+    "title": "llm-gemini 0.34：发布 llm-gemini 0.34 版本",
+    "summary": "发布 llm-gemini 0.34 版本。引入了适用于 Gemini 3.8 Flash 的新模型 gemini-3.8-flash，支持低、中、高三种思考级别。修复了异步响应未能识别的问题 (#146)..."
+  }
+}

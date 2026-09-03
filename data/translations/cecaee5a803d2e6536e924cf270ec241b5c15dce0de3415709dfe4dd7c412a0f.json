@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/BF4YYRJGDZZ236",
+  "content_hash": "bab651b4a69cd86132aa620fc92473622f2e9dbdc47b0e23e8d52c9a6e7572e6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "42e241c2928bc3e132cc582a8232b2916b2478cc6a8fb6a1e4806965b7cb68c4",
+    "title": "Product Hunt: Monid — 智能体工具的 OpenRouter",
+    "summary": "Product Hunt 产品展示：Monid 为 AI 智能体工具提供类似 OpenRouter 的聚合服务。"
+  }
+}

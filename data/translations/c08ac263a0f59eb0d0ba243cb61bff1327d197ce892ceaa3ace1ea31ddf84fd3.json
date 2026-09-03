@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
+  "content_hash": "3ed93a4e5750bd28d504224ddb0b29ea323af37abe91c7d30dd93ee0e1d15ca6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2557b479477d51f3155f71aa0240ca218575f6f00a4c76f09049d283a3b11c6b",
+    "title": "Claude 的新系统提示词非常抗拒再现歌曲歌词",
+    "summary": "Anthropic 为其 Claude 消费级应用程序（Claude.ai 和 Claude 移动端应用——遗憾的是不包括 Claude Cowork 或 Claude Code）发布了系统提示词..."
+  }
+}

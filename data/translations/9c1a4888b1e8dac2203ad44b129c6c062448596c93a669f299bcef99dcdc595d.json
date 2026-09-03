@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+  "content_hash": "057db8586986e799dfd46b5832705dbc848b8d11847c8512e4aede9c7ee9339f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d88dfbb9d82a9afbf8e5b0bad5b5cc621ae9e7e2d302f091059d2a984bb59f34",
+    "title": "METR 关于 OpenAI 与 Hugging Face 黑客事件的报告",
+    "summary": "METR 发布了关于 OpenAI 和 Hugging Face 遭受黑客攻击事件的调查报告。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+  "content_hash": "c75851da9234cb3471c5cdf9487a540a89477940cef066787f9f572d3fc5be4a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6da48b386c4af04e7e9890e5db03b17defec9415061a9f3f41ca360051eeec7f",
+    "title": "我能否选择不让我的输入或输出数据被用于训练？",
+    "summary": "HN 讨论帖：来自 Mistral AI 帮助文档的文章，解答了关于是否可以退出将输入或输出数据用于训练的问题。"
+  }
+}

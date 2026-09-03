@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/mlc-ai/web-llm",
+  "content_hash": "94c65d99091d8098e6f9cf9ef40a32f1747551b55495647508aa83171027b5d0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e21378f22db2cf2557909666ade5eec393b3c706679e975980ea513b95054da3",
+    "title": "WebLLM：高性能的浏览器内 LLM 推理引擎",
+    "summary": "HN 讨论帖：来自 mlc-ai/web-llm 的开源项目，用于在浏览器中实现高性能大语言模型推理。"
+  }
+}

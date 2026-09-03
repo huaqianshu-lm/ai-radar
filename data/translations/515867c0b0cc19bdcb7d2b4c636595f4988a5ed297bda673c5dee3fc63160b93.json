@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/2/rick-brewster",
+  "content_hash": "0844743815a9138c41d018e91348a52d7764f20a97555be93bd3b7be14adc56a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b6e93fadaf7ee8025017029cb011051107422eef9da5e85fea393f74e4cd2d39",
+    "title": "引用 Rick Brewster 的观点",
+    "summary": "Direct2D 一直是 Paint.NET 在 WINE 上运行的最大障碍，显然它永远无法完善到足以满足 Paint.NET 的使用需求..."
+  }
+}
