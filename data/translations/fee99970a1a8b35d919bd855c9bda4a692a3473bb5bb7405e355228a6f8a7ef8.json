@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/train-to-paint-with-code",
+  "content_hash": "7350bc633e7d311f39003a701e3da9cc96c7649c34bbe081384075419220baf5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b5500bc6503561c622e234c790899474b8b24e1670dad4cceb0dbc466610f3db",
+    "title": "使用 TRL 和 OpenEnv 训练编程模型绘制水彩画",
+    "summary": "8 月 23 日，Surya Narreddi 发布了一段由语言模型绘制的水彩画的美丽视频……"
+  }
+}

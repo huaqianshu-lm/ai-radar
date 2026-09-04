@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://ifm.ai/blog/k2",
+  "content_hash": "0c94c86e2cce0015a312fd031d6f732d9d40e5d6e1c8fac0d788f7a853f152fa",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "519991c639b3b5bf9a80a81ded6b050d6696ba5f70cb0e2cc261097b39f8753d",
+    "title": "K2 Horizon：一个由六个开源模型组成的联网机群",
+    "summary": "Hacker News 讨论故事，原文来自 ifm.ai 博客。"
+  }
+}

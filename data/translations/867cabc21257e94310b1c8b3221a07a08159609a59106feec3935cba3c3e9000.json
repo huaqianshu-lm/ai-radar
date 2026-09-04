@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+  "content_hash": "ddf87c21b68252b8e3c7c974b2714ebf1efdca0da6edbde43e669bbfefbe86df",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9281d6906e8350b6fb5c6bd18ae05f4165747246556cded5f72137db99dfe912",
+    "title": "Legora 使用 GPT-6 Astra 在几分钟内审阅了 41 份文档",
+    "summary": "Legora 使用 GPT-6 Astra 在几分钟内审阅了 41 份文档，找出了所有 4 个埋设的错误，并在该财务审阅工作流中将性能提升了近 40%。"
+  }
+}

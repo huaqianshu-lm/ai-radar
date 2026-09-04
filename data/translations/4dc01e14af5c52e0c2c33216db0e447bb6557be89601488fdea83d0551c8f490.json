@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/gpt-6-astra",
+  "content_hash": "3001412a042f57a417390e060ff7e36f11f8320ae5f0fee33c8e4d3dff3caf34",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ea74e2fffbc502106773e8514634f3129a7fc89f2078d668db2a5ce486ea4510",
+    "title": "GPT-6 Astra：Hacker News 讨论故事，原文来自 OpenAI 官方博客及系统卡片",
+    "summary": "Hacker News 讨论故事，原文来自 OpenAI 官方博客及系统卡片。"
+  }
+}

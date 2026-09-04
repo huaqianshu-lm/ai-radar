@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/funes",
+  "content_hash": "2a982b27326a844ae2cb2c70ad95d6c379d0e9e05bc1a81068b48fb13d1dd9cb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cdd1118267ee925c63286ac83c83df800f6195e85e821a17d4745982cb7ef8b5",
+    "title": "为你的编程智能体赋予你专属的记忆",
+    "summary": "今年早些时候，《软件会遗忘：智能体轨迹即记忆》一文提出，编程智能体已经产生了……"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/anthropics/skills",
+  "content_hash": "105d0e1aa95685d202b5a14173b63a2edfaddba00ab9e3a3d0024ab7d90295a6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "82a901da1b9bedec6f38670bb587455ddbcbae1f72df25bcb5a6b8c95709a39b",
+    "title": "anthropics / skills：Agent 技能的公共代码仓库",
+    "summary": "Agent 技能的公共代码仓库。语言：Python。今日获得 281 个标星。"
+  }
+}

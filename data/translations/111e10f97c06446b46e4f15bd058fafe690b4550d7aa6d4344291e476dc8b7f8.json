@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/safety-overview-gpt-6-astra",
+  "content_hash": "775721f78aacb292132188bcc1e29e642a71f68e992b8d4f7640da4fc666932a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "39210f987919e80e66f6bbb1aa542144273fd98d678c04dcbe26ae133654195a",
+    "title": "安全概览：GPT-6 Astra",
+    "summary": "GPT-6 Astra 是我们能力最强、广泛部署的模型，也是首个在准备框架下达到网络安全能力临界水平的模型。"
+  }
+}

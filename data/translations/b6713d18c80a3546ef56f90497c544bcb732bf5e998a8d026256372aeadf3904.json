@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-09-03",
+  "content_hash": "8d846e60ac1dde343c159d0db772b2b2db2bb85f6fe76e43439ec80091643f54",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fb15e059e286cfab06df5ced2e30437cb4510d5c45b6217ac4268e60c917bb9e",
+    "title": "Muse Spark 1.3、Gemini 3.8 Flash，智能与成本对比",
+    "summary": "2026-09-03 AI 简报：包含来自 Meta 的 Muse 超级应用以及具备计算机使用能力的 Ava 模型（2 分钟阅读）……"
+  }
+}

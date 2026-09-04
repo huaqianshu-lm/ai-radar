@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arcprize.org/blog/astra",
+  "content_hash": "34cbaeeab37ea33b475f2bbb567c1892d8ed0f25a876e05b8b98d5fe53867c32",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e3da911f76180810efb2ff00625e0df2e7ec4fc2d6683d7a404fade67c3709a7",
+    "title": "OpenAI 的 GPT-6 Astra 亮相 ARC-AGI-3",
+    "summary": "Hacker News 讨论故事，原文来自 ARC Prize 博客。"
+  }
+}

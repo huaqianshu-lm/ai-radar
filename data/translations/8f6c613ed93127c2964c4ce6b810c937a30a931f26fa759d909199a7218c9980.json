@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://inference-docs.cerebras.ai/models/overview",
+  "content_hash": "c6c4f6a37051af03da72e4bc507dfbac9bd89e7b3bd45f512ef39e3df57e6d04",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "45a86641ba677818c6954669d5532e3a9ec463c98b0f045b61d9c93ef2fef58c",
+    "title": "Qwen 3.8 27B 在 Cerebras 上线，运行速度达 1500 tokens/s",
+    "summary": "Hacker News 讨论故事，原文来自 Cerebras 推理文档。"
+  }
+}

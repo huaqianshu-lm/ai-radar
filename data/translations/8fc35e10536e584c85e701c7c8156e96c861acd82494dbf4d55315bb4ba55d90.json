@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://armature.tech/blog/which-tools-coding-agents-install",
+  "content_hash": "5e488138f27bb7104455f38ef7230e36be6055f7c8238e428998d5b4f50c78bc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6379e22bcefbb3cdb0a5ea62e5d0db6657fadacdf2e08961c2f7357d973dd769",
+    "title": "Claude、Codex 和 Cursor 会选择哪些工具？我们测量了 1.7 万次运行来寻找答案",
+    "summary": "HN 讨论：https://news.ycombinator.com/item?id=49557206 原文网址：https://armature.tech/blog/which-tools-coding-agents-install 作者：screm 评分：79"
+  }
+}

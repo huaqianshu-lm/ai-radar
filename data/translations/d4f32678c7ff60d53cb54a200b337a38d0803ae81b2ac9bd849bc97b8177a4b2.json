@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+  "content_hash": "aed44ff161b4fded68317ef165c7bc3bde830650ceae8c5b394545fad1d2731c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "402f92c33c556ff4b4316b5b827ac47d56cf9392ff37284faa613bdae986c166",
+    "title": "使用 LLM 读取 68000 汇编代码，将我的 1993 年 Amiga 游戏移植到 Godot",
+    "summary": "Hacker News 讨论故事，原文来自 Babylonian Twins 博客。"
+  }
+}

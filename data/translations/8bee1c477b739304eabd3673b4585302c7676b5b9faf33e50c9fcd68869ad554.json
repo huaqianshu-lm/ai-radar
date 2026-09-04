@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=49551096",
+  "content_hash": "37d1651a04337b47eb1e65edf5690b5fad1b5582c4147df36cf72144f768c92f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "929c67df92b47164bb2ebc720c5e4e773206d13c75d1c7f22afa08bbc662e596",
+    "title": "Hacker News 问答：为什么 OpenAI、Claude 和 Grok 同时宕机？",
+    "summary": "Hacker News 讨论故事，引用了 OpenAI、Claude 和 X.ai 的状态页面。"
+  }
+}

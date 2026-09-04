@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/playco-game-prototyping-with-astra",
+  "content_hash": "7ce9ebb062eab3a00168aac1e2b44850d6a9a0349b7387749c380b2726028fd9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "325e9dcd840a97e90ffb7c6d895af29ce36aa93bd90d00c36b3bf0be1def577e",
+    "title": "Playco 使用 GPT-6 Astra 原型制作游戏，将人工修复工作减少了 50%",
+    "summary": "通过使用 GPT-6 Astra，Playco 从一个灰盒基础构建了三个主题游戏原型，据报告，与之前的模型相比，人工修复工作减少了 50%。"
+  }
+}

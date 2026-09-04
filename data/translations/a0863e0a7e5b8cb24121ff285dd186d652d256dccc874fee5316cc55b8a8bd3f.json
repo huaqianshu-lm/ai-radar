@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/Hcompany/neomme",
+  "content_hash": "8985d4ab334cf506a59e98aef16e6df80a890696181d84e4e318ffd00d999ef6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fffbcba03b0b217e48932bf108f9544d9d15dfe90cc71dd430d68dae9df9e2d9",
+    "title": "NeoMME：一个高效的多模态原生和多语言编码器",
+    "summary": "我们推出了 NeoMME，这是一系列 2.6 亿和 8 亿参数的多语言多模态编码器……"
+  }
+}

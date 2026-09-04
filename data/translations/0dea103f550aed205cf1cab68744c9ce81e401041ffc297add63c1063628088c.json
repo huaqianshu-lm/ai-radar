@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "content_hash": "6bd38a0cb73f4f25d97d24b87d7cf48351e790397db69ab1b07f0c23bd2899b3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a139f80b159295ada71d0ef039c73160eae68aeaf5d134012254faf54b7cc66b",
+    "title": "在 100 个 GRPO 步骤中微调 3.5 亿参数模型以获得更好的结构化输出",
+    "summary": "在 IFStruct 基准测试中，从 22.6% 提升至 29.7%。结构化输出是最重要的方向之一……"
+  }
+}
