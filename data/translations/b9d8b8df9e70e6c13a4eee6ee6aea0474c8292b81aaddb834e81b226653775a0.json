@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/datawhalechina/hello-agents",
+  "content_hash": "3dc24566e89de08fcb07a33ee39ca3f8802ded2dd4cc0c2a15a3e5393bc9560a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ee7e0e584b2626a327b173616b2c3ee13175affa6c818aff2164baed66b0b72f",
+    "title": "datawhalechina / hello-agents：📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "summary": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程。使用 Python 编写，今日获得 209 个星标。"
+  }
+}

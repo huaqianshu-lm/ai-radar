@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+  "content_hash": "0bfa8e5448be1f7be52407097357d7593d79ca8fba013d232fa0f689dafc7cbd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9c82c07570c3e559975ffb882fab4ee4e9702040ac0447b9bbf37c9430b87e61",
+    "title": "“下一个 Token 预测器”是针对大语言模型的错误心智模型",
+    "summary": "Hacker News 讨论故事，原文链接探讨了关于大语言模型心智模型的观点，作者为 garrinm。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+  "content_hash": "2129b275fae9d6d9e8e370bdc9f58134288ab709b016c651337b4f80b0085ad9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e870d219d769fc5a2055dc39ebe8ecabb4407ab63faf0073cb6ca71b0cb05e35",
+    "title": "Spotify 的 Portal 将我的 Claude Code Token 消耗量降低了 90%",
+    "summary": "Hacker News 讨论故事，原文链接为 Spotify 工程博客，介绍了 Portal 如何大幅减少 Claude Code 的 Token 使用量。"
+  }
+}

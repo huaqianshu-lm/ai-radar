@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+  "content_hash": "06703f33c36cb173b14b36dda8909a07784a47c0bbff0e58b35d8417387c6870",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e94fc2f0f03f56919cc939f7144edb3c0e89f5cdc2a59702ac4a99ca77e8cddd",
+    "title": "形式化费马大定理",
+    "summary": "Hacker News 讨论故事，原文由 Anthropic 发布，探讨了形式化费马大定理的相关研究，作者为 jlebar。"
+  }
+}

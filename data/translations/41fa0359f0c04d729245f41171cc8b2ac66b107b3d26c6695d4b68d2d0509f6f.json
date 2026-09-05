@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/radixark/miles",
+  "content_hash": "b5e559ca5541050b089b1cce02f9c9297f8091b18775a991987669eb52bbbe7f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "afde0bd7c695721227cfb107412ac81ffa25122a4e96dda5b28b386e6dcb58a3",
+    "title": "radixark / miles：Miles 是一个面向企业的强化学习框架，用于大语言模型和视觉语言模型的后训练，由 slime 派生并共同演进",
+    "summary": "Miles 是一个面向企业的强化学习框架，用于大语言模型和视觉语言模型的后训练，由 slime 派生并共同演进。使用 Python 编写，今日获得 64 个星标。"
+  }
+}

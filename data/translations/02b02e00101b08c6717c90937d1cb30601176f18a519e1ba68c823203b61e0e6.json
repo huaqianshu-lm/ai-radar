@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/bikini/exploitarium",
+  "content_hash": "933fca8d89297be94d4bbb60a02ef1b81bfbaed83fab5e870669fcbe5d105ba1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b2cf1ddaebde42be2ccccf5e646380ec0a3e6dfcb3da766346c2c7ee1a32632a",
+    "title": "bikini / exploitarium：一个包含公开漏洞利用 PoC 和漏洞研究文章的单一存档",
+    "summary": "一个包含公开漏洞利用 PoC 和漏洞研究文章的单一存档。发布时这些漏洞均未被报告，用户也可以自行报告。"
+  }
+}

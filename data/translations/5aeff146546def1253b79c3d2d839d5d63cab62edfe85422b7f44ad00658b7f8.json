@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+  "content_hash": "877d8025c3b91ec1a832c349c88e335046a4940af1c314b194053bd9e364aecb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "49bf67e78155156d80def20f74309dbcfe5f056bff6dae3303077cb471d88cc4",
+    "title": "[AINews] GPT-6 Astra：OpenAI 迄今为止最大规模的大语言模型发布",
+    "summary": "带来了全新的 SOTA 计算机使用与编程能力，每个 Token 的价格提升了 2.5 倍，但每个任务的总成本大幅降低，且更难被监控。总体而言，OpenAI 的这一全新前沿模型发布非常成功。"
+  }
+}

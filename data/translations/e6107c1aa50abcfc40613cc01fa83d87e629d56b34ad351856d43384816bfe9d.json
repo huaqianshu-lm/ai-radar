@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/4/astra-pelicans",
+  "content_hash": "ed2b726865d5ff1807c5ec54728432d85734043b84f37158ddb736fd40f695b4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1cfa4c2a073edcd892b3e8177005c61bb3dde094030cc7467862efa528ce102e",
+    "title": "关于 Astra 的 Pelican 对比网格非常有趣",
+    "summary": "作者在下午获得了 GPT-6 Astra 的访问权限，并自然地使用它生成了鹈鹕骑自行车的 SVG 图像，分别采用了低、中、高、超高和最大推理级别。"
+  }
+}

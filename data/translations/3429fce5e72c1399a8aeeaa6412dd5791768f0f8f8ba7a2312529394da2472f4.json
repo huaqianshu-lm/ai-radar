@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://moadim.io/",
+  "content_hash": "b27023dcdb4f01d345202ddac8ae6f476bd757f6e221116982c7c2556b3734e6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5753b16fc047d26a9bd3b01ffa4e05031a04aae762985b455f8dea7a24d90a60",
+    "title": "HN 展示：Moadim.io —— 一个智能体调度器",
+    "summary": "Hacker News 展示项目，原文链接为 moadim.io，作者为 tupe12334，得分为 3，探讨了为什么我们需要一个支持特定功能的智能体调度器。"
+  }
+}

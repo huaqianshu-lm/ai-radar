@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
+  "content_hash": "7541576593b3f8a375f2e7de33adf8da052d0276c3d51f0806b8cdd9420a44c5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fc8b777bd49557418e111cbb8104be3b0b0cb887885af24328afbca585ca574c",
+    "title": "AI 现在能设计电路板了吗？",
+    "summary": "Hacker News 讨论故事，原文链接为 eebench.org 的博客，探讨了当前人工智能设计电路板的能力，作者为 iopapa，得分为 147。"
+  }
+}
