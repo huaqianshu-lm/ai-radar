@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/grok-bot",
+  "content_hash": "4b8673f625bbcb26ba798cdc71e195275b9e833ab79c99958746bf5a0511005f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8a5d315f88fac511ee672507cf53da60c88e297c0ea6ef925c2c7a7f595d041b",
+    "title": "OpenClaw 强劲性能，MacBook 极致轻简：体验 Grok Bot 五天有感",
+    "summary": "SpaceXAI 的 Grok Bot 具备与 OpenClaw 相当的编程能力，但其在不同的抽象层级上支持可编程性。"
+  }
+}

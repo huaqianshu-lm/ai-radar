@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/okf-memory/okf-agent-memory",
+  "content_hash": "b688cec94c9b7f69329796c1efac029828a58e5e4bf546c29441d87716a779b5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "44a795850e3c5a06ab68e1ed9a961bd2e79176c66c282f475d1d3279a9df90ba",
+    "title": "OKF Agent Memory – 为 AI 编程智能体提供 Git 原生的持久化内存",
+    "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=49581240 原文链接：https://github.com/okf-memory/okf-agent-memory 作者：okf_memory 得分：21"
+  }
+}

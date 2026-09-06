@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/sgl-project/sglang",
+  "content_hash": "2ccea3e0272c164cd22f3b78ba2636ca5c8121e6482f5ce7c919cef715a7cc7b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d831938b547e28348ca6525fa2f020e38ec017127512a688a41da72637448d55",
+    "title": "sgl-project / sglang：SGLang 是一款针对大语言模型和多模态模型的高性能推理服务框架",
+    "summary": "SGLang 是一款针对大语言模型和多模态模型的高性能推理服务框架。- 编程语言：Python - 今日获得 708 星"
+  }
+}

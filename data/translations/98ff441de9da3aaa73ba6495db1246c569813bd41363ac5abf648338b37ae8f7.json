@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/NVIDIA/SkillSpector",
+  "content_hash": "dfc12a82fa6c6cb90579f2ce1017dd8b3721af885da065d65359f4b808e50f41",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "98255810d4c42dd8fd407b9e83937fc7b31f7dd13b1c79e5a9e3ff7ba2758937",
+    "title": "NVIDIA / SkillSpector：用于 AI 智能体技能的安全扫描器",
+    "summary": "用于 AI 智能体技能的安全扫描器。可检测其中的漏洞、恶意模式、安全风险、提示词注入、数据外泄以及供应链风险..."
+  }
+}

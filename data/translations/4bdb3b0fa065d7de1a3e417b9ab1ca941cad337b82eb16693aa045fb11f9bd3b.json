@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
+  "content_hash": "61bcfed5cd28c89497cffb3003fdb89707123820a72a00de3b3d6c2468a0226f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1a7ad445c458128bdb7b954a2afad9537bf0a794d50123eb96c88c99ea756c57",
+    "title": "在 macOS 上结合使用 Blender 与编程智能体",
+    "summary": "记录今日所学：最近我在 Mac 上使用 ChatGPT Codex 体验 Blender，并尝试让它与编程智能体协同工作..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+  "content_hash": "9dfde816e21c37c5af4fbcd7ce8aedbfbaf4e546d7e28b0df91bdc7cfc5e4c55",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3d056644792d44a8940d6a958324eb992c820368bc42cad297e67618a1137964",
+    "title": "AI 处理故障事件，工程师逐渐与系统失去联系",
+    "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=49574167 原文链接：https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-s..."
+  }
+}
