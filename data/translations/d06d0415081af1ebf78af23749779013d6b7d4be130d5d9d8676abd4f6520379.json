@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/6/zach-kehs",
+  "content_hash": "d28108efcbe233d6e59ea9d435bd44d65b26928fe6d1917847d7c653bc7d48c6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "014cb684b895db4d2044effa39109fcd2d684dac7402e1eedc2492bb7bfe1d93",
+    "title": "引用 Zach Kehs",
+    "summary": "如果你不断给一栋建筑添加楼层和房间，它最终会坍塌。软件却没有这种限制。代码总是会变得更糟糕..."
+  }
+}

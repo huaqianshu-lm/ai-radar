@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get",
+  "content_hash": "e27100b8027e9936967e6a291fa524d30aeee6f2a8b9b25307d5e4be1d500ce1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "734edf4919a9506f0112c60306b8efa966a86160d803b7ed383f506ac7828040",
+    "title": "烂代码是没有下限的",
+    "summary": "我对 Lobste.rs 上关于“烂代码是没有下限的”的评论。（回应关于技术债务累积时将其推倒重来的评论……）"
+  }
+}

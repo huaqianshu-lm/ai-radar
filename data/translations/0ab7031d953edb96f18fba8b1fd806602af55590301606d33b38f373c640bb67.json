@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/home-assistant/core",
+  "content_hash": "dd066a471aa97207e422be16d781735438847c5d8b9cb7d3ed6fbff058b62376",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "348f2da76de8b9a08f19b63dbd0630ae6c1f18841cfd64b57ee0bc241be3a38a",
+    "title": "home-assistant / core：🏡 将本地控制和隐私放在首位的开源家庭自动化系统",
+    "summary": "🏡 将本地控制和隐私放在首位的开源家庭自动化系统。- 编程语言：Python - 今日获得 35 个 Star"
+  }
+}

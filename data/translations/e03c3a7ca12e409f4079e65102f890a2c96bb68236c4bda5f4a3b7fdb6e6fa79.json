@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/maziyarpanahi/openmed",
+  "content_hash": "f0cb03826c4d6fb1e8241389fed9716180580500210d474e8c13c706ea8f6db6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "93fd8aa5cbfd4434295f28a1d4bfbc6f4a9f69e780b96513ba59cd8561fab084",
+    "title": "maziyarpanahi / openmed：本地优先的医疗 AI：100% 在设备端运行的临床命名实体识别（NER）与 HIPAA PII 去标识化工具",
+    "summary": "本地优先的医疗 AI：100% 在设备端运行的临床命名实体识别（NER）与 HIPAA PII 去标识化工具。拥有 2200 多个医疗模型、21 种语言，支持 Apple MLX + Python，无云端依赖..."
+  }
+}

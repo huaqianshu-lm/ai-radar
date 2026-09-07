@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+  "content_hash": "1df56f458de6540205b2c71a3be1bbb72daae0fc84bf0adc799acad7d5286bda",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c1ca66b2cea143abfac562edcc90f465d4e831e36d8e873c7c033a851cd99099",
+    "title": "The-Swarm-Corporation / AutoHedge：几分钟内构建你的自主对冲基金",
+    "summary": "几分钟内构建你的自主对冲基金。AutoHedge 利用群体智能和 AI 智能体来自动化市场分析、风险管理等..."
+  }
+}
