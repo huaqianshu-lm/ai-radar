@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies",
+  "content_hash": "9baee059b4f53bffb30db75087ca67198f93bfa967235b5a5d0dcab9be0dfe70",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dc08bf6b0254e5b19a717ee2d1070799acd8d445659242181a6f33f6d999b9f4",
+    "title": "Creepy crawlies 恶意爬虫",
+    "summary": "Konstantin Ryabitsev 从 git.kernel.org（官方...）的角度讨论了滥用性爬虫的“背景辐射”变得多么严重。"
+  }
+}

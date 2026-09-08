@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/bytedance/deer-flow",
+  "content_hash": "78dd4f4e1694e1b34814ee6aba5bc77fba33d6878bb91665e816dc3baf4122cc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "16389f32495280ea98c7dc97d94e58609236d0b9919875016bc9d018f60ef5bf",
+    "title": "bytedance / deer-flow 字节跳动开源的长周期超级智能体",
+    "summary": "一个开源的长周期 SuperAgent 框架，可进行研究、编码和创作。借助沙盒、记忆、工具、技能、子智能体和消息网关..."
+  }
+}

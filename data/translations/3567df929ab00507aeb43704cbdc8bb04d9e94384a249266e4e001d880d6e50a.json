@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/mukul975/cve-mcp-server",
+  "content_hash": "dd7f5f74dc6771a1d6d80b8685e4eaf30c08ebda58426af32148fc77a6237864",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "83660ce2f43a7497686825b04cffce123a0022feea9d185de4520013f7fbd931",
+    "title": "mukul975 / cve-mcp-server 安全情报 MCP 服务",
+    "summary": "生产级 MCP 服务器，为 Claude 提供横跨 21 个 API 的 27 个安全情报工具——CVE 查询、EPSS 评分、CISA KEV、MITRE ATT&CK、Shodan、VirusTotal 等。"
+  }
+}

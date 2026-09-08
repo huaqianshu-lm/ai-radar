@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Comfy-Org/ComfyUI",
+  "content_hash": "5a443e3250b10f10854c7719cfdaa20519074ccb6adcb367c514f9fa8940a9ee",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "32faae70661994ba1796ad95e82528ca1b7110cfa13cf530cd8b2ca150fb181d",
+    "title": "Comfy-Org / ComfyUI 图形化节点界面扩散模型工具",
+    "summary": "功能最强大且模块化的扩散模型 GUI、API 和后端，采用图/节点接口。- 语言：Python - 今日获得 181 个 star"
+  }
+}

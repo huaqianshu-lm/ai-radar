@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+  "content_hash": "c0d5b420d50c537fdf7eb19c008c52eb3b5d8cd489e55f651382a80fed0adef1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "72019d0fe354a3ea5acf0840c79c04806d85e84a91f135f79dbb4fb467b50b11",
+    "title": "重新审视数据流模型",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49589190 原文 URL：https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited 作者：sco..."
+  }
+}

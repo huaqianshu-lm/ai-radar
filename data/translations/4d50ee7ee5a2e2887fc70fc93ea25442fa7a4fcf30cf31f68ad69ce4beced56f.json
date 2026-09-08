@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/AgriciDaniel/claude-ads",
+  "content_hash": "c49202b6b58c78b6cb6d85e207ac849ee53b5eefe787c1dec1c7185bbf3fae89",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "19683f8c755f58a6bd78bb85282aa9a322d3057df54048d482927fb680ca11b3",
+    "title": "AgriciDaniel / claude-ads Claude 广告工具",
+    "summary": "针对 Claude Code 的 Claude 优先付费媒体运营技能，横跨 12 个广告平台（Google、Meta、YouTube、LinkedIn、TikTok、Microsoft、Apple、Amazon、Reddit、Pinterest...）。"
+  }
+}

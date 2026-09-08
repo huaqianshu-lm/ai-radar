@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+  "content_hash": "be6eb619343957514b16670668372dfd9024686dee7683b747a2fceb6fa8b76c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b4fa4d7778a6247d96781cfa3e1c581cab0fbd71e0020762b3fa290d8be58f14",
+    "title": "AMD GPU 上 vLLM 的投机解码",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49596054 原文 URL：https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus 作者：ankitg12 得分：127"
+  }
+}

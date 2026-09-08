@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/trailofbits/coop",
+  "content_hash": "aeb86b3a6716825022937e5c96e4c4e12a5011581acee36f36362f3547499326",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dade75e109c2e84413b498fd475c411529f8e2cf6f4620b011c3a2121dde592d",
+    "title": "Coop – 用于运行 Claude Code 和 Codex 的隔离虚拟机环境",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49593842 原文 URL：https://github.com/trailofbits/coop 作者：aggrrrh 得分：51"
+  }
+}

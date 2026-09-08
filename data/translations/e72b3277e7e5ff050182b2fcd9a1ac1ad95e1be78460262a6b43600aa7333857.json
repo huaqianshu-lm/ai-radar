@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/pytorch/pytorch",
+  "content_hash": "a596b1aa314d1ee9cadbd147b8def7f523e27a064a98887a5ad8db6a9928956e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6ee2c2a30826817daec2ab993130cf8b401e1465678b6888ba2d490c30e20cc9",
+    "title": "pytorch / pytorch 深度学习框架",
+    "summary": "Python 中的张量和动态神经网络，具有强大的 GPU 加速功能 - 语言：Python - 今日获得 36 个 star"
+  }
+}

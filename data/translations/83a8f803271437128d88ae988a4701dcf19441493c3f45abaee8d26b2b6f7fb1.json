@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/7/equal-earth",
+  "content_hash": "28e0d7770c9a5a545dd9e9e23776fdc8d1eb96a59a80efe4ec62c78f4798ad58",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "960f861c32aa60642722157f3bdf2b3981d272a879a7776c3a85aca2975ff6fb",
+    "title": "Mercator ↔ Equal Earth 投影转换工具",
+    "summary": "工具：Mercator ↔ Equal Earth。我出于对最近在联合国投票表决的 Equal Earth 地图投影的好奇，在 ChatGPT 中使用 GPT-6 Astra (medium)..."
+  }
+}

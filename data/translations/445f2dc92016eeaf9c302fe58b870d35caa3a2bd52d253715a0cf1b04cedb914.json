@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/7/video-compressor",
+  "content_hash": "db91e7f4a1eb5e85e9ea5d7102fe4159d462ff632b2f658bad78a0122c243d1d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "656c3dbba15803a880115d3d9dbef136e545e3df46222abc20f138fc2bce2c98",
+    "title": "Video compressor 视频压缩工具",
+    "summary": "工具：Video compressor。我在手机上录制了 Equal Earth 动画的简短演示视频，并希望使用 FFM... 发布该视频的优化版本。"
+  }
+}

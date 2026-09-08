@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/aispace-sh/aispace-client",
+  "content_hash": "94acc4461a52f080080c5efdf84f9cfcb8d1d9a01830cc3255888eae42a59248",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a1cd0dbcc23102533168342ab2eebc9543d5ebbce27d9991c7743646e1d542f2",
+    "title": "为 AI 代理和人类提供安全的临时文件共享",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49604280 原文 URL：https://github.com/aispace-sh/aispace-client 作者：tengio 得分：7"
+  }
+}
