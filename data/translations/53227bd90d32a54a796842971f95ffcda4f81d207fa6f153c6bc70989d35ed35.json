@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/codex-quantum-computing-experiments",
+  "content_hash": "12a4b27edbc93489982b70d5fc0308c9e12711fa06d7029e862993c293d96b34",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "503e9c2326e78f3e54698b505fc7f3dd73547fa559154576a0082b0cd2cdb79c",
+    "title": "GPT-5.6 Sol 如何帮助运行量子计算实验",
+    "summary": "了解 MIT 研究人员如何使用 GPT-5.6 Sol 配合 Codex 自主运行量子计算实验、分析结果并校准量子比特。"
+  }
+}

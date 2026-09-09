@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/4PUMMDMWUCEB6E",
+  "content_hash": "cf2a6e130d8902e49fc248ce57a4b1dedd47ec72214414521ebe5cfd02ae055b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6d2614fde953985992fc9903eb048115eb5388e9bb49e70c23e8a864a3846f38",
+    "title": "Product Hunt：Knockin' — 将静态个人简介变为会回复的 AI 商业名片",
+    "summary": "Knockin' 可以将静态的个人简介转变为具备回复功能的 AI 商业名片。"
+  }
+}

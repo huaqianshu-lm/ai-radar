@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+  "content_hash": "6c79b580a517d060ab910e1f89d6331cfbf4056da931b05de34bf2636daed109",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ec5e2fd630258bdf3485c4b3a6d9a38aea8706f87294fc489c9344107c8f1fe1",
+    "title": "大语言模型通过自适应探索发展出新颖的社会偏见",
+    "summary": "研究表明大语言模型在自适应探索过程中会产生新的社会偏见。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://ishamf.dev/p/llm-attention-visualizer",
+  "content_hash": "fe398533c3af65903d5463f8ee6f225501749a3ed2ad5bed0d1d03323393b545",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ab100b8a617b11b8ee23a58984da81881c7a7547c6f495f747009db267f3dc7f",
+    "title": "Show HN：LLM 注意力可视化工具",
+    "summary": "HN 讨论：https://news.ycombinator.com/item?id=49613068 原始网址：https://ishamf.dev/p/llm-attention-visualizer/ 作者：ifz 得分：118"
+  }
+}

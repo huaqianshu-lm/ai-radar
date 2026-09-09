@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/MBVOOJKZXSJKZV",
+  "content_hash": "641b4ea469cb19bc4a71aa303fb879f902fd9a59b70de8d4cd588b998f3f0c8d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "59ef043f05d3d73b4ed7ef7de91a3edf51a62772fe8335a0076755783a3b5864",
+    "title": "Product Hunt：Relaticle — 带有审批门控 AI 写入功能的开源 CRM",
+    "summary": "Relaticle 是一款开源 CRM 系统，具备需要审批把关的 AI 写入功能。"
+  }
+}

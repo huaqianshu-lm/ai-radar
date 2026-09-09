@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+  "content_hash": "5d4c38500a8169e1f9f06e41371e7cd18cefbd1ac568b0a1e5ce13970c43e773",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "825546b9e9e150a70467a533edaf9570d45ce6f5d4a72a0aade47ee2011a3015",
+    "title": "AlphaGenome Atlas：针对 90 亿人类 DNA 变异的分子预测 — Google DeepMind",
+    "summary": "AlphaGenome Atlas：人类基因组中每个可能 DNA 字母改变的预测图谱。预测每个可能的单字母变异的分子影响..."
+  }
+}

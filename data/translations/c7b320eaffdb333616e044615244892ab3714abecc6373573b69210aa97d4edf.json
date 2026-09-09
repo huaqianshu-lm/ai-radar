@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/EAQYN6B2W3MDVB",
+  "content_hash": "61930fbbe6ce8eca2d8354bceab36f81c7f184d5b7c88ce35f7597cd89e77f7b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7a8870fae961460de0a1f0abd0db0b9c59322da1be7ee3b2feaeebe03711be91",
+    "title": "Product Hunt：Switch — 将任意 AI Agent 引入 Slack、Teams 和 Discord",
+    "summary": "Switch 允许用户将各种 AI Agent 接入到 Slack、Teams 和 Discord 等协作平台中。"
+  }
+}

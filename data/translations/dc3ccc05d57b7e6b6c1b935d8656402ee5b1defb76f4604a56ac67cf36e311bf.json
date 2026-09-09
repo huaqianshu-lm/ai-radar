@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/ayghri/i-have-adhd",
+  "content_hash": "58a468e11f1cf513b75579a7e9af3d20a5569d5dc43dfd0387f2797df2530fd2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "46f3c1d6124190bd41b81397d3ce3ed570d55a8c1b8799befb69f78070ce6b43",
+    "title": "ayghri / i-have-adhd：一个阻止你的编码代理掩盖答案的技能",
+    "summary": "一个阻止你的编码代理掩盖答案的技能。对 ADHD（注意力缺陷多动障碍）友好的输出 - 编程语言：Python - 今日获得 656 个标星"
+  }
+}

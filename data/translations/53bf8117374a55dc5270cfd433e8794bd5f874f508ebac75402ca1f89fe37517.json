@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/MFJR2TQDFWCXQB",
+  "content_hash": "d8f12b2a8e7e76cecba7a296b000193b7fc8517bf98835c150cecfd3781793d6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "30babfd40717ffcf4ce81713e84e7dc2bd93468b9e87943b3e98ff08ff296739",
+    "title": "Product Hunt：OpenMarket — 以证明决定胜负的多 Agent 市场",
+    "summary": "OpenMarket 是一个多 Agent 市场平台，通过证明机制来决定胜负。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/LZNMWYZ4JH5FKQ",
+  "content_hash": "c481118eb8324ad6ed5ca6f5e1a344e5d4e2a253fcdec2f822d7ec86161e25ca",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a88e9f9a8f7d882e93d1eb81ab91b94d1458596002c10529ac079e3bda2d0a79",
+    "title": "Product Hunt：bonds — 在群聊中构建共享应用的 AI 聊天工具",
+    "summary": "bonds 是一款 AI 聊天工具，能够在群聊内部直接构建共享应用程序。"
+  }
+}

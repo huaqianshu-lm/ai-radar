@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+  "content_hash": "65e11c9b98ebc3ad0e2649498b43d28d9633baefb049de01b75c6d2bbeab7299",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fa323a8be685f2f1485aa33c3aec00635c03f79b6c6868eac2fb3f11243f2cbd",
+    "title": "Mercury 2.5：介绍 Mercury 2.5 的发布与相关讨论",
+    "summary": "介绍 Mercury 2.5 的发布与相关讨论。"
+  }
+}

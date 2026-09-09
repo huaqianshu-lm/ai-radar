@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/7/llm",
+  "content_hash": "69f846ec44466e3153f60cef33b8881a68bbb17bc0e4dde30c1ede6831a588de",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "af3eb01e61119dd301c5dc21c6cfb6f105e6698286bbea1fad525a7fe983c3a6",
+    "title": "llm 0.35：版本发布：llm 0.35",
+    "summary": "版本发布：llm 0.35。新的 OpenAI 模型：用于 GPT-6 Astra 的 gpt-6-astra。标签：openai, llm, gpt-6-astra"
+  }
+}

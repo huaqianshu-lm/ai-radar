@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+  "content_hash": "ea645f1ec53f5865b861f5809747f9e87ccefe1bf6ea9284ed35b6530e1eb62d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5cbcf08e288841ac31de1b5b3153da3ea3539df7d3ee35168c9c6d5f6a1c686c",
+    "title": "为了谁的安全？拒绝主题的正确子集，而不是整个主题",
+    "summary": "实际部署很少符合主题级别的全貌。同一个基础模型可能会进行调整..."
+  }
+}

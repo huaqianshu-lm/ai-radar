@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/BRKA6HBEJN72C7",
+  "content_hash": "ee92b8ca9024bf22e7b7347f0997e1ceba4389e47d427772c52ed75bd9abcd4f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0f49fdcecb5b4e4ebcde0d1744f91192ffd604c19a4adbc1dfa451c4db13a929",
+    "title": "Product Hunt：AppGacha — 将一句话转化为小型桌面应用",
+    "summary": "AppGacha 是一款能够将用户输入的一句话转化为小型桌面应用的工具。"
+  }
+}

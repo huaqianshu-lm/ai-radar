@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/1password",
+  "content_hash": "47d7829a47678b9b021cdf779c67adafcf03fbeadc19bff299fc6b15c7a681d3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a1b72811dd254b5043b516f3ea7a8da4d179aec7a12b38de59f64e80e43d4193",
+    "title": "1Password 借助 Codex 将工程生产力提升 21%",
+    "summary": "1Password 的工程师使用 Codex 快速构建新功能和内部工具，在保持严格安全策略的同时达到生产就绪状态。"
+  }
+}
