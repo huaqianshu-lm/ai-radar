@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/legacy-code-modernization",
+  "content_hash": "01ff4f75b4b00acf83dc3a3ab25aa28924cff7b22b7482f498652e356643bf9d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "56bfec926244076beb99d79b294acced29a6c3e3551d80cd931e00b960b3116f",
+    "title": "使用 AI Agent 对复杂的传统代码进行现代化改造 | Mistral",
+    "summary": "Mistral 帮助一家欧洲能源运营商将 4,000 行 Fortran 77 代码迁移到 C++。了解这一过程的实现方式以及可以借鉴的经验。"
+  }
+}

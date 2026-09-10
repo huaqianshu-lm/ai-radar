@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/9/blender-viewer",
+  "content_hash": "4d15f9a27b7001afc3a24e7fbb98f4c278fb0ea124606fbd18cc283166f33b2c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "46bc2da24ce54d4e93060863fe3f9afb9fecad0fb59424587ac3dbc27d2bd927",
+    "title": ".blend URL 查看器",
+    "summary": ".blend URL 查看器工具。作者继续体验 GPT-6 Astra 和 Blender 的结合，作为帝国法贝热复活节彩蛋的超级粉丝..."
+  }
+}

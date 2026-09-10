@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/institute/econ-scenarios",
+  "content_hash": "74132e057f73e717c1a2a3ef04ab6c91df558a6ffb8062112cb69431a9b07317",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eaff98a3f9771085882255451e8556ceb1404f7aa263d5fa17c868272350b69a",
+    "title": "我们的经济未来会是什么样？",
+    "summary": "HN 讨论帖，链接至 Anthropic 关于经济场景预测的研究内容。"
+  }
+}

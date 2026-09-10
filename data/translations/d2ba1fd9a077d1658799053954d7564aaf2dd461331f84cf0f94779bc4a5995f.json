@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+  "content_hash": "ec3e20df59c5cfa74d22529b74406c607d68fb52ffbe5a02a65c0fcda3a95b96",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "46660cb2ea4362f69cbd737e0a8565a577f057222260acb4673428a053564622",
+    "title": "IBM 发布具有商业友好许可的 SOTA Granite Time Series PatchTST-FM-r2 模型",
+    "summary": "IBM 发布了具备商业友好开源许可的高性能零样本（zero-shot）预测模型 Granite Time Series PatchTST-FM-r2。"
+  }
+}

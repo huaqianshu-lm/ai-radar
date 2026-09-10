@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+  "content_hash": "c3826767fbd60f1613a38edec5b33a3e21064a7bab89671b4574986d5734e1fb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3f9d96e979702fa8adb4aa9ddc4876d021abcc16b76025a939e161cd4a943ee8",
+    "title": "[AINews] OpenAI 报告使用 Astra-next 在 88 小时内发现纳维-斯托克斯奇点",
+    "summary": "使用了约 10,000 个 Agent 和 1300 亿个 Token（花费超 4000 万美元），有望成为历史上第二个颁发的千禧年大奖难题成果。其风头盖过了 Cognition 的 480 亿美元 E 轮融资、Mistral 的 240 亿美元 D 轮融资、Meta 的 Muse agent 以及 GPT Image 2.5。"
+  }
+}

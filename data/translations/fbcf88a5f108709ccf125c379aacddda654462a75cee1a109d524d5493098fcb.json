@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://desertant.com/blog/introducing-desert-ant-labs",
+  "content_hash": "e573717d55864760d67cbc3d07e4d6de621e251e157f58d2f4dba99e48d843cc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0a27670444c9f7284a364da134050e6795b95f2545324b5ba0de5a63fc207986",
+    "title": "Desert Ant Labs：在本地设备上运行的快速轻量模型",
+    "summary": "HN 讨论帖，介绍 Desert Ant Labs 推出可在本地设备上运行的快速模型。"
+  }
+}

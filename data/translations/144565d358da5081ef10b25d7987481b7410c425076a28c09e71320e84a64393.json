@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/OtoDock/oto-dock",
+  "content_hash": "e7fec9a0ca70383f8d6def587fbf2c9aa15fe4ae95c71868ba3017c98b8a3490",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5821ed47a8049e2f8a32932697f05c722ec56955a0084489ec6eed3fcc925ea1",
+    "title": "Show HN：自托管公司操作系统，各部门配备 Claude Code 和 Codex 智能体",
+    "summary": "HN 展示项目，作者 Dimitris 推出了 OtoDock，一个自托管的企业级操作系统，在各个部门中集成 Claude Code 和 Codex 智能体。"
+  }
+}

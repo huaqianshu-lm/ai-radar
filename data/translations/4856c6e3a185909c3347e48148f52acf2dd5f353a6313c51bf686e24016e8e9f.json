@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+  "content_hash": "beac96307b42a47db647641bfffe2214237631ca9034705285ccc3d48665164e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "333ccaae81484d3a4e17f3d07427086a4f15c586f13019420a43c3e347dda8d9",
+    "title": "GPT-6 Astra: 面向工作场景的下一代智能模型",
+    "summary": "介绍 GPT-6 Astra，这是 OpenAI 针对商业场景推出的功能最强大的模型，具备先进的推理能力、计算机使用能力，以及更强的写作和设计判断力。"
+  }
+}

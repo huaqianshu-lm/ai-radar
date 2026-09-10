@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/TauricResearch/TradingAgents",
+  "content_hash": "b7fd42856e558157e091c6f4b3f71d9d6fd38c788c9629d4fa2ccfcb2f26803e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "626a5e4fcb233d8d7ffe545e87dad1f9433e0f43b19e1e12b059e2092dcc5147",
+    "title": "TauricResearch / TradingAgents：TradingAgents：多智能体大语言模型金融交易框架",
+    "summary": "TradingAgents：多智能体大语言模型金融交易框架。使用 Python 开发，今日获得 367 个 Star。"
+  }
+}

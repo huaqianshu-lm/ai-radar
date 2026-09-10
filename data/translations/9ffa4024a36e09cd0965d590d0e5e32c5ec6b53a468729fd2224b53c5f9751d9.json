@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://entropicthoughts.com/better-ai-comment-classifier",
+  "content_hash": "a0b68aec5a445eb9ba6c71cb21605781b01dd1caea296d02534bcc958696b6d8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5a2b2b0a84018ddb8eb61cccc254985c1a9aa2a5c601dda1c50423a4d1d9cb00",
+    "title": "更好的 AI 代码注释检测器",
+    "summary": "HN 讨论帖，介绍用于更好分类和检测 AI 生成代码注释的方法。"
+  }
+}

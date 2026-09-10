@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2609.09153",
+  "content_hash": "6b1a3ebb449d3e9fb47cae4b7afb86755ea67867da4b16b6ce94cccc52dcf985",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f80d2912a9a47a314202e3b2d2b588181d34ee192c0aabc5bec897ab246416d9",
+    "title": "程序化图：大模型 Agent 的自进化执行结构",
+    "summary": "HN 讨论帖，分享了一篇关于 LLM Agent 自进化执行结构的 arXiv 论文。"
+  }
+}
