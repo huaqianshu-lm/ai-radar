@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution",
+  "content_hash": "87f4bd68465c71b14b3d6a76cf467a0433a0bd47616d30195beb82105fc31018",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0c423cdb6ebab28ce651f3cdcec64fce7c558de71bb67a7d0ab2014d2eebc6e9",
+    "title": "OpenAI 发布 Navier-Stokes 相关成果包含 Lean 4 形式化证明",
+    "summary": "OpenAI 关于纳维-斯托克斯方程（Navier-Stokes）的发布成果中包含了一项 Lean 4 形式化证明。"
+  }
+}

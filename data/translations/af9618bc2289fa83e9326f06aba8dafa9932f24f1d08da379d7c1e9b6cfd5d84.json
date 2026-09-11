@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+  "content_hash": "449dac7b5daebdeb928272930b94f5aaa2592ff03f1bfab09408c0e5c9905e04",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3dffb20e2b3c17eabe90eadb26923fd01ef01fc88b1602c3707eba800a95a5f0",
+    "title": "OpenAI Agents API：OpenAI 官方推出的 Agents API 接口及其相关使用指南概览",
+    "summary": "OpenAI 官方推出的 Agents API 接口及其相关使用指南概览。"
+  }
+}

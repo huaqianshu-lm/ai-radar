@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+  "content_hash": "1770b3e6d742ef8b3e7aad69795682de5b6da0fde481dd960b52c95e522748a8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cdd8d819f4855db7d80d6e91055e04761e43d9f685a924d2416e7ffd36b3193d",
+    "title": "改进 Fable 5 的安全防护 Anthropic",
+    "summary": "我们正在对 Claude Fable 5 的生物学安全防护进行更新，以大幅减少误报。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+  "content_hash": "6be3d56b7c7e6769e539a3a39190e871dc53ef747f2acd30b4f3c2d4abb25a14",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "39842fa0b34b37cbe3f74a631eb53c7b3f91d6f6e5ad7b93c66d1420605c9599",
+    "title": "研究人员如何使用 Codex 和 ChatGPT 搜寻新型抗菌分子",
+    "summary": "César de la Fuente 的实验室使用 Codex 和 ChatGPT 在现存和已灭绝的基因组中搜索抗菌候选物，以对抗耐药菌感染。"
+  }
+}

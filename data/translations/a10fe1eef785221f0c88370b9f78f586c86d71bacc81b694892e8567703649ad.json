@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/10/shopify-react-native",
+  "content_hash": "66bb9573d9a15ad29fa6dc4cc59b2b36c15b103c39e986d3b58c50b8cf5597ed",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f498dec7f81a4f85771aebfb805cf15bc4b2f4bd358022ae00b55867ab69c47e",
+    "title": "Native 现在是 Shopify 移动端的未来",
+    "summary": "Shopify 正在从 React Native 转向为原生应用分别采用 Swift 和 Kotlin 代码库..."
+  }
+}

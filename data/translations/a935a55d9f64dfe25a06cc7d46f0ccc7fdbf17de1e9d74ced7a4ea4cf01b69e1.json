@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/7CZ37SQNNJQEV2",
+  "content_hash": "976a0b34e30c3456f9ebb0855067b71f8af758cbdfae6aa6bff0e485aa2baa20",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "16ec0b2a4d0a4778ae695c6949c57af855138302445ac3dbd37300e1f231eb0a",
+    "title": "Product Hunt: OpenObserve 的 AI Observability",
+    "summary": "基于 OpenTelemetry 原生的 AI 可观测性工具，专为智能体（Agents）和大语言模型（LLMs）设计。"
+  }
+}

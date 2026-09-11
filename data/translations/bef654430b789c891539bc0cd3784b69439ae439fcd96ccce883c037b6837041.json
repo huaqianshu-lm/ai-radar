@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/ultralytics/ultralytics",
+  "content_hash": "a37365500ea39240c2461fddafb5f57bd20c7260a00e42480fdbddf5a7ad342b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "112ba4283cccf5b1465f8a2f24dd8e8210ff8d2aad49aa04acdae5ac93ebe6cb",
+    "title": "ultralytics / ultralytics：Ultralytics YOLO26、YOLO11、YOLOv8 — 提供目标检测、实例分割、语义分割、图像分类、姿态估计和目标跟踪 - 语言：Python",
+    "summary": "Ultralytics YOLO26、YOLO11、YOLOv8 — 提供目标检测、实例分割、语义分割、图像分类、姿态估计和目标跟踪 - 语言：Python"
+  }
+}

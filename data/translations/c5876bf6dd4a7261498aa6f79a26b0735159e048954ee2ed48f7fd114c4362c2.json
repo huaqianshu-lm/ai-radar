@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+  "content_hash": "c6a30142669661c569d18ad34ae25ce5dd8343a2fa57166fa3c37cf4bd52cb89",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b8a75fb67d8179220690902f52a5b2dfa14a706eaeb8e0fe3d9794b58800e16b",
+    "title": "使用 API 中的 GPT-Live-1 构建更自然的语音体验",
+    "summary": "GPT-Live-1 为 API 带来了自然、全双工的语音对话功能，具有更强的指令遵循能力、自定义语音和电话支持。"
+  }
+}

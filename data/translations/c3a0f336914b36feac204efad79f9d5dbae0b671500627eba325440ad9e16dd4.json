@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/10/trynix",
+  "content_hash": "6fff566757337f299d7fb12bf9315370dcaf1564885aa284ca6d05a851392a9c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a2c293f2ef6d41e4395231148babf9737de6f4eed00fcc69735abe5319185974",
+    "title": "任意 Nix 软件包，直接在浏览器中运行",
+    "summary": "Farid Zakaria 将此称为他的 Nix 工作“巅峰之作”。trynix.dev 提供了基于 qemu-wasm 驱动的 x86_64 环境..."
+  }
+}

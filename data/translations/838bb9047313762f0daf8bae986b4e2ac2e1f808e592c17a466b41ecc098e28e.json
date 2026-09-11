@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/introducing-the-agents-api",
+  "content_hash": "b95575f8c048b592a58feeedd184fcf29ab52553e1ededd27e9e258a815a92b9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b32e9b847135398762b9f07d35cf91524321a4ec5b7684b5ff2392213918b73a",
+    "title": "推出 Agents API",
+    "summary": "使用 Agents API 构建和启动云端 Agent，这是一项由 Codex 编排框架驱动的托管服务，支持长时间运行的会话和工具使用。"
+  }
+}

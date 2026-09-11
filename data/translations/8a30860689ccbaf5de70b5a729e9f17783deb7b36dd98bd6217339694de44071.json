@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+  "content_hash": "6b91717d9edd971aa64ba55e81965b6de6d83f91ec9f5b584b303be6f575483e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8b96329aed14643e23bf39fb9aa7b5e56dc3afb98185d1d312a86b20fb5b2146",
+    "title": "调查我们网络安全评估中的三起事件 Anthropic",
+    "summary": "在审查我们的网络安全评估记录时，我们发现了三起事件..."
+  }
+}

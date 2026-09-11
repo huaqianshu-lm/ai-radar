@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/gradio-workflow-1111",
+  "content_hash": "5a6ae248b30a582dd61e1fe7a29790556ca2829a799b41e089685ce7b7f7970d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "075fed980e67c694db46cedaac3bb03714e2e805b3a4b8d5ecbdb92fb4704bd4",
+    "title": "使用 Gradio 工作流重建 AUTOMATIC1111",
+    "summary": "探讨了 gr.Workflow 图表，以及构建像 AUTOMATIC1111 的 stable-diffusion 那样复杂的内容所需要的工作。"
+  }
+}

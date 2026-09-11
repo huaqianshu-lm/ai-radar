@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/put-data-to-work",
+  "content_hash": "172e33233af4435b64131f0bef77dfe5ec6fc3bd3aeb656c7598556f07140698",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6a886414536a09e3da65022e4b81fb0e9329e1e8f8d489895f13b523de737c68",
+    "title": "现在每个人都可以让数据发挥作用",
+    "summary": "认识 ChatGPT Work 中的 Data agent。连接公司数据，利用自然语言通过 AI 揭示洞察并构建交互式仪表盘。"
+  }
+}

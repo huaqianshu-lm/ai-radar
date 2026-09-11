@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/google-deepmind/alphagenome",
+  "content_hash": "a49549b04409d0243fe7d1bcdb0d3febec26f65dd7ad62372e1c4e079534d0e3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "01cdafccc794deed0d48734c81eec15328ab0ecdbf8099386853a3dc35256fa7",
+    "title": "google-deepmind / alphagenome：该 API 提供对 Google DeepMind 开发的 AlphaGenome 模型的程序化访问，使用 Python 编写",
+    "summary": "该 API 提供对 Google DeepMind 开发的 AlphaGenome 模型的程序化访问，使用 Python 编写。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+  "content_hash": "c0bdd9059a8029e7bc4b23e6515b458fbaa6dec192df625250748dc1c8c2f680",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d957d6c999575906f6dc4142f8a1e2fd96217aa937e7b8492944b6fd86966d3a",
+    "title": "检测与打击 AI 滥用：2026年9月",
+    "summary": "Anthropic 发布了关于 2026 年 9 月检测和防范 AI 滥用的威胁情报报告。"
+  }
+}

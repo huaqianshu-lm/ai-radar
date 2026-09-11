@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/NVIDIA/Megatron-LM",
+  "content_hash": "975768924422c00d802dbcb16aedd7005fca7149669e9f7983ed7a340a5dacd0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "97b126ef802080f2ae679446cbd960ae3ec0d10914eace09bdbe669b0d395c35",
+    "title": "NVIDIA / Megatron-LM：这是一个大规模训练 Transformer 模型的持续研究项目，使用 Python 编写",
+    "summary": "这是一个大规模训练 Transformer 模型的持续研究项目，使用 Python 编写。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/huggingface/speech-to-speech",
+  "content_hash": "35d7bb13650bcedeb578b82842923065a15411189cc6abf34114e945caf5b5ba",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9207e699adc3a415c8375dbe1ba789df19433c3a6ec749ee4707ca981eaa502b",
+    "title": "huggingface / speech-to-speech：使用开源模型构建语音代理 - 语言：Python - 今日星标：27",
+    "summary": "使用开源模型构建语音代理 - 语言：Python - 今日星标：27"
+  }
+}

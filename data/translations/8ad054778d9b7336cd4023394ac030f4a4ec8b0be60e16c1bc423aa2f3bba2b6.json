@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tokenstead.ai/models/swe-2",
+  "content_hash": "d37271e81e835a79a56eb89b832050b9e0fdc78fb2bb0493e7e25526330597b1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "579e626a254093ef77420a05b1f95b051e33a535847db337ec4130e0cd7236a2",
+    "title": "Cognition 的 SWE-2 在 Terminal-Bench 2.1 上取得 92.8 分",
+    "summary": "Cognition 发布的 SWE-2 模型在 Terminal-Bench 2.1 测试中获得了 92.8 的评分。"
+  }
+}

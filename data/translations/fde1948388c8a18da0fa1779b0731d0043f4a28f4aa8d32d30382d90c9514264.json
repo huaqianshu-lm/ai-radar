@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/introducing-chatgpt-financial-services",
+  "content_hash": "1ab8293db4671f3dc6a40912074e0ac8c5029c6b5919584a5b38de629ad54647",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0bb946f0c421538942e425649beb92ebcc573674a0f10cbfe699bb79671506eb",
+    "title": "推出面向金融服务的 ChatGPT",
+    "summary": "推出面向金融服务的 ChatGPT，结合了内置的金融数据和 GPT-6 Astra，用于研究、建模和客户准备就绪的材料。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/10/calif-research",
+  "content_hash": "5d257116f82107cf01a32adf39c8d70fa02117c401e2d126397b238193ad738b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8bb8a5d2f8afb2a832e571452b41380772a91fdf3edc4e0ab75d00e1f13057d2",
+    "title": "引用加州研究",
+    "summary": "今天，我们发布了 WeWorm 的演示，这是第一个通过 iOS 和 Android 上的微信通话传播的零点击蠕虫病毒。受害者无需接听..."
+  }
+}

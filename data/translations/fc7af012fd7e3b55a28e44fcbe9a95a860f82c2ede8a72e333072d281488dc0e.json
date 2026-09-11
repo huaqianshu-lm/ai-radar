@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/jiji262/douyin-downloader",
+  "content_hash": "ca481357ce98ced8706dbb25eb4ed5fd961444a11adc32e7f24702423b6d34b2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8c0706f75b85bf25c7943125d335a9c28882a8b02a450a66ebe6aea78d97b59a",
+    "title": "jiji262 / douyin-downloader：一个实用的抖音下载器，支持单视频和主页批量下载，具备进度显示、重试、SQLite 去重以及浏览器回退支持",
+    "summary": "一个实用的抖音下载器，支持单视频和主页批量下载，具备进度显示、重试、SQLite 去重以及浏览器回退支持。"
+  }
+}

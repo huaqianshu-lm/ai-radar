@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://cognition.com/blog/swe-2",
+  "content_hash": "a0b2395871b66df948d20b82c79530bb986b30efc6fb75f3cbb43593b880f6c5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "403f674bcee8f9ccc517614366eaf750f1784cbad08bad08befbae2201c56e89",
+    "title": "Cognition 发布全新 SWE-2 模型，对标 Fable 5.1 与 GPT-Astra",
+    "summary": "Cognition 推出全新的 SWE-2 模型，其性能可与 Fable 5.1 和 GPT-Astra 相媲美。"
+  }
+}
