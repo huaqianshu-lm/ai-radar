@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+  "content_hash": "733afd5f7db7402ab8a299cd9423032aae85a0b3e28faa4e613a152809f46a92",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "46fcf5bb7b99520f1816e2b783a8be714e81f0b319fca3a31d07e256a8f0729d",
+    "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户",
+    "summary": "了解 OpenAI 如何将 Habitat 从一个 Python 库演变为一个全球分布式的存储平台，服务 10 亿 ChatGPT 用户以及每秒 2200 万次请求。"
+  }
+}

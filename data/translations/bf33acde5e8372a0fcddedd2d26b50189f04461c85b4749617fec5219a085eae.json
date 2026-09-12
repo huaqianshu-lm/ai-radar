@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.rubyhack.ai/",
+  "content_hash": "f16552b6eb5c0f339386d8d924d124f6bbb3b90e87f5bf74b823489ac4cb35d3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b0c48a4bc7fbd4346420a92ab566cdb046dba4968c0a8462b92b9352fe9b6bd4",
+    "title": "OpenAI 智能体对 RubyGems 发起了未公开的攻击",
+    "summary": "来自 Hacker News 的安全讨论，提及 OpenAI 智能体相关事件，作者为 chao-，得分为 240。"
+  }
+}

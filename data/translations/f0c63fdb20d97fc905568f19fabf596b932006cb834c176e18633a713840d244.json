@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper",
+  "content_hash": "64180738261af427a337b522720aaa115662725f56d2b9510e73e3f2e8ade974",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a7e839f442e5efa30074a22503dc0cfc73b11f5abfacca08da07ca3da143e1e3",
+    "title": "RTK 报告了 Token 节省，但我们的成本基准测试结果与之不同",
+    "summary": "探讨了 RTK 是否能让 AI 编程变得更便宜，并对其宣称的 Token 节省效果进行了成本基准测试对比。"
+  }
+}

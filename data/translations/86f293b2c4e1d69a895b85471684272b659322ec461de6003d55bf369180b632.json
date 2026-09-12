@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+  "content_hash": "d323db5fb24a0f70b2bf3c56e046d5045d6f9381e4b109b0c4b1a2cd65d089cc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "214c86f57b820be1487c714bbb2a7e2ccd80d9c230e4b685eabefb3d1adabdb5",
+    "title": "Claude 仅对 18 岁以上的人群开放",
+    "summary": "来自 Hacker News 的讨论，探讨了 Claude 关于年龄验证及限制仅对 18 岁以上用户开放的相关政策。"
+  }
+}

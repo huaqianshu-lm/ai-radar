@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/11/boris-cherny",
+  "content_hash": "b17d715a2a0537d42e4cbbebfbcd8d89709cb64567610478c3c7dcb285f3da06",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a747e45677404a77ff5ea62f8f74b7b3ffe82be7040055c17f44e582a2dd2898",
+    "title": "引用 Boris Cherny 的观点",
+    "summary": "由 Claude 编写的生产代码应该比人类编写的代码设定更高的标准。Anthropic 采取了许多防护措施来确保这一点。"
+  }
+}

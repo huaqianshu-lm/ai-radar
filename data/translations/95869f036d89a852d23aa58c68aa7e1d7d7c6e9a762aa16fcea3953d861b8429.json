@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter",
+  "content_hash": "fa225578d9a4e40102527b6f9edd792a88e82e338e84a08e8ca6fc3a4e814124",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "28569c3c31a0d771f81724ece884ae863d9f3efe9e99960740658e4f3253bf65",
+    "title": "所以你想使用 OpenRouter？",
+    "summary": "OpenRouter 的卖点之一是它“能够自动处理回退，并为每个请求挑选最具成本效益的选项”。"
+  }
+}

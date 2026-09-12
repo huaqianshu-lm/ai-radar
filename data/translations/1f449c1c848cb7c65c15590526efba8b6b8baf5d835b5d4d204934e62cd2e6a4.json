@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/11/github-to-sqlite",
+  "content_hash": "b7f2c5059292de3bcefddda40cd33e2a382caad916c9cb20428613b65b49727c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e0c6726e7c17d3b1d5ac9c3637680c0976a5fea27bf7aa18fa369e9021f12a76",
+    "title": "github-to-sqlite 2.9.1：发布 github-to-sqlite 2.9.1 版本，修复了与 sqlite-utils 4.x 的兼容性问题",
+    "summary": "发布 github-to-sqlite 2.9.1 版本，修复了与 sqlite-utils 4.x 的兼容性问题。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/bojieli/ai-agent-book",
+  "content_hash": "6b2b8df613a5884d577da6fe7360383ad0070a511ec685d734cf069938fb4973",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2e2562d0bda4e0975ef6dccb655cb0ea5357e31f7ece8f5ebf913f51a2009bac",
+    "title": "bojieli / ai-agent-book：《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库，包含全书正文、编译版 PDF 与按章配套代码，使用 Python 语言",
+    "summary": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库，包含全书正文、编译版 PDF 与按章配套代码，使用 Python 语言。"
+  }
+}

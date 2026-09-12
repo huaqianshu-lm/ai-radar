@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly",
+  "content_hash": "8211dad641c73d0bf6ff0ee1e393bb465b4cd10feda99cbb6ac0623e53ba0a8d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "90c940affe028fc03ccdbdb661841d98e60258c5e32d38dd2dfcb5e2010239f6",
+    "title": "datasette-publish-fly 1.4：发布 datasette-publish-fly 1.4 版本，在 fly.toml 中设置了 force_https=true，并修复了找不到 Volume 的 Bug，同时兼容应用级部署令牌",
+    "summary": "发布 datasette-publish-fly 1.4 版本，在 fly.toml 中设置了 force_https=true，并修复了找不到 Volume 的 Bug，同时兼容应用级部署令牌。"
+  }
+}

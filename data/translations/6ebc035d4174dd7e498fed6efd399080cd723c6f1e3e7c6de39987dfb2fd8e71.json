@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match",
+  "content_hash": "f3bc43a6109e95486f95d0a4e23cde2207ca9f4a55c46fa8ae4a8ad0e61589c8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f86330f6327ebf55a5c8ef937ac45d74ba01d5857bc2a9079a3b9a7a369c2877",
+    "title": "对 re.match() 进行软弃用",
+    "summary": "Python 引入了软弃用的概念，即标记 API “不应再用于编写新代码”，但并没有做出绝对废弃的承诺。"
+  }
+}

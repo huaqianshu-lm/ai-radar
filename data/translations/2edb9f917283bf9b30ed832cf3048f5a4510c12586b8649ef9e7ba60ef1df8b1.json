@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/godot-pty/gpty",
+  "content_hash": "6d10ea60ae4419c2bc502fb86c9be042daf8d16088d6d64bb6463be464197550",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c9ebc6e443b6871fc0209902ab1406a9403f16c92f1beeb0b2932b4be58ebe8f",
+    "title": "基于 Godot 和 Rust 的多路复用器",
+    "summary": "来自 Hacker News 的开源项目分享，这是一个基于 Godot 和 Rust 构建的终端多路复用器等工具，作者为 1nv1n，得分为 78。"
+  }
+}

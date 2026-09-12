@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://hcker.news/?ai=exclude",
+  "content_hash": "87d3e7b01f7fb9ab302341888b858ac7aeef7a69b98b26eaf78ba94b861a9e9a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e5d9f05ec1fff73fe40c290ca17cd16bb264abd9ba197ec83368513b1ea600c3",
+    "title": "Hacker News 无 AI 版本",
+    "summary": "来自 Hacker News 的讨论，讨论了一个不包含 AI 内容的版本，作者为 postalcoder，得分为 169。"
+  }
+}

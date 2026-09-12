@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/11/datasette-security",
+  "content_hash": "c39958081acad93fc31b59da74fe44009db609a195ed40a644b99e23cc23d5c4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1e206d769558c6a9e842d7ddec4f7c8c974bac6ff1ecc69e19740ac89082b43c",
+    "title": "Datasette 1.0a39 和 0.65.4 安全版本发布",
+    "summary": "发布了两个 Datasette 的新安全补丁版本：1.0a39 和 0.65.4，其中一个是针对当前 alpha 版本的更新。"
+  }
+}

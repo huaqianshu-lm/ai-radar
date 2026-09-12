@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/jordan-gibbs/hyperresearch",
+  "content_hash": "ab2ff05f1fa52d927852d674e1da72c002f01cc977ef6b0a87f90cfea4014d2f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6943fdef38504300b8172be7bb725d0b9b8e72798a0f2c7671f8e66c5cdcd921",
+    "title": "jordan-gibbs / hyperresearch：基于 Agent 驱动的研究知识库",
+    "summary": "基于 Agent 驱动的研究知识库。Agent 可以收集、搜索网络研究并将其综合成持久且可搜索的 Wiki，使用 Python 语言开发。"
+  }
+}

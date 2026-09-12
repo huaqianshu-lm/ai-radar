@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-09-11",
+  "content_hash": "1601c34fc8584b0e39ae0ee593201f660f5b128d0a67184fdc1c005c948e2dc8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "79157104d000832c225b3164efc2dc3e76bf18a7f0fa0c60990cf0892af28cd7",
+    "title": "Agents API 🤖、Cognition SWE-2 👨‍💻、Muse Shared Agents 🧑‍🤝‍🧑：AI 行业简报",
+    "summary": "AI 行业简报。包含 Agents API、Cognition SWE-2 以及 Muse Shared Agents 等内容，同时提及 Forge 会议。"
+  }
+}

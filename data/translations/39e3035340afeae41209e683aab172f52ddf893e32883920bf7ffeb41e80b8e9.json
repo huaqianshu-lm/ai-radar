@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/11/wrapture",
+  "content_hash": "af4a6c2674385e88c76f2598251360b7aa1eccf78db1fdd1afabbc7cabcf3914",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3e146149ec29d0e1cbc3688cd48a37431e12fab13047ed10565064698b95eae9",
+    "title": "不要忽视 wrapture",
+    "summary": "Graham Dumpleton 的全新猴子补丁包 wrapture 正在成为 Python 开发者不可或缺的工具。"
+  }
+}

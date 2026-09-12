@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.firecrawl.dev/blog/ai-software-factory",
+  "content_hash": "20e02bfb65077a2a22b7c079d57ea8af7f445d91996e1bca1c9241f05ff49b4d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fc63b2341e475ebaf44ebb9226135559a0a8cff6c005dc377c6abce2d6a39ee5",
+    "title": "如何构建 AI 软件工厂：能够自动开启、审查和合并 PR 的智能体",
+    "summary": "来自 Hacker News 的文章分享，探讨如何通过 AI 智能体自动化软件开发流程，作者为 makaimc，得分为 9。"
+  }
+}

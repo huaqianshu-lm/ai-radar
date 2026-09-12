@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/jihe520/MathModelAgent",
+  "content_hash": "4328ea46a8279c1f8adcbdcaa79be998bb687e337f727a1ecd1cd78f4c294d14",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d2c75eda6557ff176ae1ec1114399d063190e8a0c8ea8cc9e9b94dea87a50e86",
+    "title": "jihe520 / MathModelAgent：专为数学建模设计的 Agent 及相关技能，可自动完成数学建模并生成一份可以直接提交的完整论文",
+    "summary": "专为数学建模设计的 Agent 及相关技能，可自动完成数学建模并生成一份可以直接提交的完整论文。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/cognition-devin-testing-with-astra",
+  "content_hash": "557b17e92e8c5bc5c23976f651c720b7ef10957ef6ec652fd01d4195ae43d57b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4aeb82da9975e2f5f564fba46674441b8ef455135ac302c60f8f7eb501572ba0",
+    "title": "Cognition 借助 GPT‑6 Astra 帮助 Devin 测试其自身的工作",
+    "summary": "GPT‑6 Astra 提升了 Devin 测试软件并验证其有效性的能力，旨在帮助工程师减少代码审查量并交付更多成果。"
+  }
+}
