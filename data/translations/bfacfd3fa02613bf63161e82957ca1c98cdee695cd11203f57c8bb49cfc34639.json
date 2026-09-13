@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/petergyang/no-ai-slop",
+  "content_hash": "ecbec942473bcc9977203ba1c05faa82518ec95b59cb8795bf94a1b7c5c6b979",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "41f6242d664ec3fcc5c9a147c268fb0b91acefe0b7ecfc10423f4fd34916dbb8",
+    "title": "petergyang / no-ai-slop：从任何文本文档中移除 20 多种模式的 AI 冗余/平庸文本",
+    "summary": "从任何文本文档中移除 20 多种模式的 AI 冗余/平庸文本。使用语言：Python - 今日获得 178 个 star"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://withspecific.com/benchmarks/real-swe",
+  "content_hash": "c07960836e3a75fdb1e9ee80f9d28369a4e970d9074a37091fbc3dfc005562f1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9c531c254f4ca75a7e502c3329d5406070effd136db2f724f4d8e7f592dcf1db",
+    "title": "Real-SWE：在私有、真实的现实世界企业代码库上对 AI 模型进行基准测试",
+    "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=49676820 原始内容网址：https://withspecific.com/benchmarks/real-swe 作者：theanonymousone 得分：89"
+  }
+}

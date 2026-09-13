@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+  "content_hash": "b833eb1e840341e64bd91308ddd40b271c3342983eb829f63e5476f868eb8f35",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b01f2ad61bd017c9f37a1a617c68ae6c479c68ebbe2216a4d51ffc2367073745",
+    "title": "前置部署工程师的崛起及如何做好该职位",
+    "summary": "在联合创立 Kepler 之前，Vinoo Ganesh 曾在 Palantir 领导 Spark 团队，并构建了前置部署工程师的先驱项目 Project Frontline。他带领我们深入了解..."
+  }
+}

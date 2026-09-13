@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/multimodal-art-projection/YuE",
+  "content_hash": "78e3140bc6be3025ef20fe6784f4324b5faf0af0cd9075842ce9399166b7107c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "38ae21f689972ffe11e4599513b719c00d0c2652fac21f5bf97b6288ad21d548",
+    "title": "multimodal-art-projection / YuE：YuE2：具备符号规划、零样本翻唱以及 Agent 化音乐编辑的前沿音乐生成项目",
+    "summary": "YuE2：具备符号规划、零样本翻唱以及 Agent 化音乐编辑的前沿音乐生成项目。使用语言：Python - 今日获得 210 个 star"
+  }
+}

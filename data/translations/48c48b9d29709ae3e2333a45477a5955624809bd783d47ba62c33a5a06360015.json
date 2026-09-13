@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+  "content_hash": "d3c2892307a31a6f61d8d5314c78b8ec5aca3761eb41a6ab587ff1b61120ba35",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d1d28ac13afc9a2440ec7617cdb40d2605964fc2717139c659c5df522ce97a7c",
+    "title": "DeepSeek v4.1-Flash：采用新型因果编码器-解码器架构并带有视觉标记",
+    "summary": "我们赞同 Sebastian 的观点：这本来应该叫 DeepSeek v5。"
+  }
+}

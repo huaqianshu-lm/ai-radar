@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/SnailSploit/Claude-Red",
+  "content_hash": "da34b3bf3d9f4703652c5d543b7d5a7a9027a0d42d5c8c59e922993159ead413",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "260a41dc64951ed41f62ad025cf810c6a11a8818cef0279faa533aa52dff3091",
+    "title": "SnailSploit / Claude-Red：claude-red 是一个为 Claude 技能系统设计的精选红蓝对抗（攻击性安全）技能库",
+    "summary": "claude-red 是一个为 Claude 技能系统设计的精选红蓝对抗（攻击性安全）技能库。每个技能都是一个结构化的 SKILL.md 文件，用于引导 Claude..."
+  }
+}

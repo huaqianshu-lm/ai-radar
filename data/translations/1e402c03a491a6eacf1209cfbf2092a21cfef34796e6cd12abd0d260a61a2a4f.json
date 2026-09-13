@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/GPBP6USTE4A6RV",
+  "content_hash": "0debaa63c882c6228a4075f1345e2c270a7cc8efb395e7ac76f08f820f088200",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "95dffb5b3559cbfc467de06f52ab34bed0a266121b3cc9f53a38739c3a064005",
+    "title": "Product Hunt：Pascal’s Pager — 将 Webhook JSON 转换为可读的 iPhone 推送通知",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/pascal-s-pager"
+  }
+}
