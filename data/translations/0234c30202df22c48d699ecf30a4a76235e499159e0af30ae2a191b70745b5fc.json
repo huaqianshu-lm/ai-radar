@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+  "content_hash": "7e8583c356249553cdbd57bda8256d13cb6a9cefe5b2587c1edef7484de9d7e0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "798b4a264698a3ff5aba81c21bcc214d4b6d5e121548ae71d3a8c2d46c0a62e9",
+    "title": "AI 的递归自我完善或许并不会那么快到来",
+    "summary": "探讨人工智能实现递归自我完善的技术进展与实际瓶颈，认为这一节点可能不会像预期那样迅速降临。"
+  }
+}

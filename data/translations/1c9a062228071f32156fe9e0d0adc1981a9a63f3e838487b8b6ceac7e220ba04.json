@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+  "content_hash": "1710cf9f8f6c29f50cdb6c2b7eb157c60a88ca191801bce42ce65562b0b43aff",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "968c32634dc2a1cb83f007064d0bd309276c504696b107928b2bc3d51ba9601b",
+    "title": "Perplexity 信任 GPT-6 Astra 用于端到端系统",
+    "summary": "Perplexity 使用 Astra 来编写通信内容、修改软件以及监控生产系统，并且检查的频率远低于使用早期模型时。"
+  }
+}

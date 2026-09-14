@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/davila7/claude-code-templates",
+  "content_hash": "e697dbf089004b92530b0f8668f9bddfa855466fd170635c6d7c7d68fea1f344",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "25bff0b4a0ece6bc72b2c2ab688fa3ae9985c30ec323867c92db748975e01cc8",
+    "title": "davila7 / claude-code-templates：这是一个用于配置和监控 Claude Code 的命令行（CLI）工具，使用 Python 编写，在今日获得了 40 个 Star",
+    "summary": "这是一个用于配置和监控 Claude Code 的命令行（CLI）工具，使用 Python 编写，在今日获得了 40 个 Star。"
+  }
+}

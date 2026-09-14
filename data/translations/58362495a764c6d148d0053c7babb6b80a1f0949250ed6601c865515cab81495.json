@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/better-language-models",
+  "content_hash": "1a97f999b2d9a442e78a1e574c016d088c67253d1a377c0d81cd33c8afd8464b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "44e4c6fb45b7489043c116b5fe53c8896e3b9f650e48179d3de86e93a5677508",
+    "title": "出于对恶意应用的担忧，GPT-2 将不会被发布（2019）",
+    "summary": "回顾 2019 年 OpenAI 因担心恶意应用风险而最初决定不发布 GPT-2 完整模型的历史事件。"
+  }
+}

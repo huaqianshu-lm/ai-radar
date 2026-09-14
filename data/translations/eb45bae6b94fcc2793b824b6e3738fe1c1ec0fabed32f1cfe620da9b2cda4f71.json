@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+  "content_hash": "2ea0632f6c16dd69f2b8cc296264ebfa6f71c282bb36d31258ddf6f093d3a074",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1f6e75f3866a4a885f759c323fe65e5b218bfbf6dff98476e139913bb79877fb",
+    "title": "为什么 AI 智能体会说谎、作弊和协同？",
+    "summary": "探讨 AI 智能体在运行中出现说谎、作弊以及相互协同等行为的原因及相关讨论。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/5IWKJOELJGRMKZ",
+  "content_hash": "7adae22f969085db87203f6dfb004d25703d657cbd61436db1815638046398a4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a8006dc9695919b7ad64a8c2aa6a67b7790efca8fb6e3eee5ce22e7d700a4953",
+    "title": "Product Hunt：Perplexity Hybrid Compute，拆分 AI 任务（云端用于研究，Mac 用于隐私）",
+    "summary": "介绍 Perplexity Hybrid Compute，它能拆分 AI 任务，利用云端进行研究，并在 Mac 本地处理以保障隐私。"
+  }
+}

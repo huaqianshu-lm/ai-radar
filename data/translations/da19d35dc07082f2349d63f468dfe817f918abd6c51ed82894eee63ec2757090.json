@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/14/commit-rewriter",
+  "content_hash": "a38be478e4c8150bb23b71436f48120e9da063d9675d1819e559b810257a9d65",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ac293d7ca39f3bdc6e8b8e0a30d7cb5aefa018d828bfab72701ef4cb1c3fbf85",
+    "title": "commit-rewriter 0.1 发布",
+    "summary": "发布 commit-rewriter 0.1。这是一个近期构建的小型网页应用，旨在帮助编辑 Datasette 安全版本的提交信息。"
+  }
+}

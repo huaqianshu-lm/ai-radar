@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/FCGUK3GAKZ3BLA",
+  "content_hash": "954f750a039451cb08ff8e78f17dce205a6f407bd46c047232924c3b7822b252",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2abee3797694effb9cf088cdda4a6f1a762e3139e6a29185fececdbbaf0c8fdb",
+    "title": "Product Hunt：Cognition 的 SWE-2 编程模型比 Fable 5.1 便宜 64%",
+    "summary": "介绍 Cognition 推出的编码模型 SWE-2，其价格比 Fable 5.1 便宜 64%。"
+  }
+}

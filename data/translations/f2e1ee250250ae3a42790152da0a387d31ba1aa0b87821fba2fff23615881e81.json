@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+  "content_hash": "e27f614724bc6b85a3afa56e40bae02d91627cc5e5a22622e6a0d6890456f4db",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3ea606d07abfdfe6acd0a1ef14fc051dffcbf65fb12b943386acf8feaba32708",
+    "title": "Fable 5.1 破解了历时 370 年的密码 Cyphral Distich",
+    "summary": "Fable 5.1 成功破解了困扰了长达 370 年的古典密码 Cyphral Distich。"
+  }
+}

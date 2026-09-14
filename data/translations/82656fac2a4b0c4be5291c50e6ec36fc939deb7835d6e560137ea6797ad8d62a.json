@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/13/shot-scraper",
+  "content_hash": "56013a14a835098c920bf61a45899dafc8ad1014148a37d73e05dd3afa095b92",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3c2f6dcb128bccafc5e5d64f6ce7b4c2e11335a291a840cb9578a7744795a2fd",
+    "title": "shot-scraper 1.12 发布",
+    "summary": "发布 shot-scraper 1.12。作者为其截图自动化工具添加了 WebP 支持，现在可以使用它来拍摄网页的 WebP 格式截图。"
+  }
+}

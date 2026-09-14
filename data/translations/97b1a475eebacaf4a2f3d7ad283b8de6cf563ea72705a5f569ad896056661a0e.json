@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+  "content_hash": "d74fbedc4578a4baabee7432f5f1b4815d5c9d3040757825216a18324e823754",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a061c44f7783dde2c2d605809cfbfc21508b59eba1164962c7474601ea9405aa",
+    "title": "Garry Tan 希望美国的开源权重 AI 实验室也“蒸馏”前沿模型",
+    "summary": "Y Combinator 的 Garry Tan 表达了希望美国开源权重 AI 实验室同样对其前沿模型进行蒸馏的观点。"
+  }
+}

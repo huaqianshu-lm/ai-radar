@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/huggingface/transformers",
+  "content_hash": "8fd89ec8c8148ed0ed03be770c5bbf911faf704d1a2110bfb3506a13dcaaa805",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "53d940334a2a5afd27d78fb59bceaf01f5f0ea79a980039f18952e6ca7208d56",
+    "title": "huggingface / transformers：Transformers：用于文本、视觉、音频和多模态等最新机器学习模型的模型定义框架，支持推理等功能",
+    "summary": "Transformers：用于文本、视觉、音频和多模态等最新机器学习模型的模型定义框架，支持推理等功能。"
+  }
+}

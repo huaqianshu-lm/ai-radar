@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/BF5SIJICZW37PQ",
+  "content_hash": "5e4b2f16964756812412e866401101e312d76bbfeb371be85d14db10db41dfde",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "594a6abffa5bc5824fd1d0790b5b8c104946f12d3a854c0b4ce71941a8141688",
+    "title": "Product Hunt：由 MyHandler 开发的 GhostWriter，只需两次点击即可完成写作",
+    "summary": "介绍 GhostWriter 工具，声称只需点击两次即可快速生成编写内容。"
+  }
+}
