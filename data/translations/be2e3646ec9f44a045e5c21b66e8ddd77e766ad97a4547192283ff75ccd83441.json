@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear",
+  "content_hash": "c0e9ef048ab52827eff694f902ef313e821ca9f800273f7a30ab566e8c2d5a69",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "64f040316f79ac59d87eb477d1ea4599c1fef465492ed0f1bc07aae950da93e5",
+    "title": "恐惧的传染",
+    "summary": "Bryan Cantrill 回应了前 Anthropic 员工 Jacob Coxon 的推文，后者证实许多 Anthropic 研究人员认为 AI“可能会毁了一切”并对安全性表示担忧。"
+  }
+}

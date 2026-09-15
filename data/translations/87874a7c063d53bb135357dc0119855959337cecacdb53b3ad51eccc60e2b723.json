@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://spectrum.ieee.org/adversarial-fashion",
+  "content_hash": "6f69e0016e2e0c124d8e8643ac28a87fbfc75b9be93b583817220c0fd79d9190",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ced71250b837c6c2f13e9e2c8df9659024e0a363399d6649e9279cd414d5f861",
+    "title": "对抗性时尚对 AI 全景监控表态",
+    "summary": "Hacker News 分享文章，探讨时尚设计如何通过对抗性手段来应对日益普及的 AI 监控技术。"
+  }
+}

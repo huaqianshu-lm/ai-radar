@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+  "content_hash": "6a78293c24f5535604ecfbc0d789c83168673190443d248463becf422fe426d2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "712c25db4c998bf956bb96866b0bdbd263d00f65aa76f4ead036dfc018331926",
+    "title": "为什么机器学习研究智能体不会过拟合？",
+    "summary": "亚马逊科学博客文章，探讨了机器学习研究智能体在运行过程中避免过拟合的原因。"
+  }
+}

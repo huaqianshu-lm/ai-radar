@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-09-14",
+  "content_hash": "d45b2a35cd3623134652b97fce0ab0e5fddcec43e176e5bb038c6e2545cc6200",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8e270a59fb5706423f3e8bb3899d4fe269805cd1eff5aea5f515a12651b0441d",
+    "title": "Amodei 放缓前沿进展 🛑、ARC-AGI-4 🧠、Cursor Projects 👨‍💻",
+    "summary": "TLDR AI 2026-09-14 简报，内容涵盖 Amodei 放缓前沿开发、ARC-AGI-4 及 Cursor Projects 的推出。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://pub.sakana.ai/pc-alm",
+  "content_hash": "94681602343772f03d067dafcf661015a0e001b1b09ce2b1a096d6bc5c2a9b00",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a25b2880e57d54857b252047fc2a8598062e00281f889c66dea8bd713fa3fa0d",
+    "title": "反向传播的替代方案：增强拉格朗日预测编码",
+    "summary": "Sakana.ai 发布的最新研究，提出了一种名为增强拉格朗日预测编码的神经网络训练方法作为反向传播的替代。"
+  }
+}

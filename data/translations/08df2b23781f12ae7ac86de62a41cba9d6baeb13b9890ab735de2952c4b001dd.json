@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90",
+  "content_hash": "40d1479f8994782505939f3beb0cef1a1a0878b8afe2bf8684502cd77dd75367",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ea803dfd17bfd0bbce68a7f82df99c2d2255fbdbe8215e0fed94941c7711e2da",
+    "title": "利用备忘录化将 eBPF CPU 成本降低约 90%（非 AI 生成）",
+    "summary": "Hacker News 讨论了一项通过备忘录化技术显著降低 eBPF CPU 运行成本的工程实践。"
+  }
+}

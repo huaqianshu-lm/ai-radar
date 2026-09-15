@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://andonlabs.com/blog/why-we-built-pion",
+  "content_hash": "77f5b2b8061f6f4ab4286f0b06ad7d5f8e729bba4bc7287c51c53a813c2dc7fe",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b54bfac470e15413bc3b66a7050fd806dd70198b5512200e1b4e25ecc201c992",
+    "title": "Pion：一款旨在自主运行任何公司的智能体",
+    "summary": "介绍 Andon Labs 开发的 Pion 智能体，其设计初衷是实现企业的全自动化自主运营。"
+  }
+}

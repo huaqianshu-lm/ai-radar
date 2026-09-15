@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks",
+  "content_hash": "1ae8c46c6e4f9168d07fa0400d5fe440abaa8bc340eddd96c4aa403dc3ec6528",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f15a217cae8d891c2c2d298a88db33d98d721a3d93b1e0dd79f62137577ef207",
+    "title": "Show HN: Nari Qwen3-TTS 与 Qwen3-ASR —— 高精度、低延迟与低成本",
+    "summary": "HN 展示帖，介绍 Nari Labs 在 Coval 语音 AI 基准测试中领先的 Qwen3 语音识别与合成技术。"
+  }
+}

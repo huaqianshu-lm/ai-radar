@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/fyxer",
+  "content_hash": "e21838416ff679817e63f68e51bbde6f9e0cdadf31a1d402de75867fae2d9ea6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7f82d995c515e5ba429e7e06d184bac39c4f16f7fff73a80b082fdc2812fc58f",
+    "title": "Fyxer 如何打造备受用户信赖的 AI 高管助理",
+    "summary": "Fyxer 结合 OpenAI 模型、微调、记忆功能以及真实用户反馈，帮助用户管理收件箱并以各自的语音风格起草邮件。"
+  }
+}

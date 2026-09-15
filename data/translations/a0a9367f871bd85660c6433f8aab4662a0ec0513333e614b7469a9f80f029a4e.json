@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/rlaope/oh-my-hermes",
+  "content_hash": "08c12ba08dda8ab38c7501397528df5017ef7a67dcf9b4313160ae66c96d7057",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "be80ae1bec07939fd6bf87931ff33e611ce0f1a8496ebde2892fb3167caf9144",
+    "title": "rlaope / oh-my-hermes：Hermes Agent 的一体化插件",
+    "summary": "为编程智能体 Hermes Agent 开发的多合一插件，集成长期记忆系统和优化工作流包，基于 Python 开发，今日获得 77 个 Star。"
+  }
+}

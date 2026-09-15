@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms",
+  "content_hash": "2078b52295be61546ef7eefd7939e40e3f8e008c3a0e718da549ae247716f26c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "80c2f34d29a9d3daecede831f915f56edfeb3fe70320858725caca8c8a136633",
+    "title": "将 35kb 预提示词从 Opus 迁移至自托管 Ollama 的踩坑笔记",
+    "summary": "Hacker News 讨论了从 Anthropic/OpenAI 将大型提示词迁移至自托管模型时遇到的问题与注意事项。"
+  }
+}

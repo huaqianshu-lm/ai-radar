@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/OpenBMB/VoxCPM",
+  "content_hash": "971b07d58013caad8fb918e011982708e64405a96ddcd2d46ca0d9120cf17308",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8cf5140931d8ef20d81a9080b060fc35f0dbbf63a4853329b72d52615e171599",
+    "title": "OpenBMB / VoxCPM：支持多语言与声音克隆的无 Tokenizer 语音生成模型",
+    "summary": "VoxCPM2 是一款用于多语言语音生成、创意声音设计和高保真声音克隆的无 Tokenizer 语音合成（TTS）项目，基于 Python 开发，今日获得 216 个 Star。"
+  }
+}

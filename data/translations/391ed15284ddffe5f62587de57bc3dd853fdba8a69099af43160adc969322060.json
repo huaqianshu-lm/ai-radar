@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/14/laurie-voss",
+  "content_hash": "76ccfedb0bbd776d155fbc1856e2b6e7373520ab97f647a0e297482af7c5eba7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "72f4aaebdca9e500cdd2477e4c42a1178548f16e1041e1cfeb45a4e95e4ae4b1",
+    "title": "引用 Laurie Voss 的观点",
+    "summary": "编写代码的成本已经暴跌，审查、修复和运行代码的成本也正随之下降，作者推测这一趋势将持续下去。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+  "content_hash": "f4c502c5b0de442b9a8d3dff60843b784d3f494ce1e0232adac79dba075089c8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "baf3658e1d9c87c8b494d3b18d8716d1a38e89f9db15a6cbdba08c5990fb61ef",
+    "title": "GPT-5.6 Luna 对比 GPT-6 Astra：1.20 美元的模型足以胜任代码审查吗？",
+    "summary": "Entelligence.ai 博客文章，探讨低成本模型在代码审查任务中的实际表现与适用性。"
+  }
+}
