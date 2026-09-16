@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+  "content_hash": "09c0d8eaf9f634e33efeb8b6c4ddfffb9f7590a7d87225b3c510969c62f13480",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a1d018f16fad79f97456f75bff3df416e35d9a73410b1735dcbcc9bb4c30fb83",
+    "title": "你的 Agent 圆满完成了任务，它还能再做到一次吗？",
+    "summary": "在舞台上表现尴尬，而在生产环境中则是可靠性问题：曾经成功一次的工作流可能会失败。"
+  }
+}

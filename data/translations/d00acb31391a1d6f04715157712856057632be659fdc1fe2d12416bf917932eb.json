@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers",
+  "content_hash": "1e19ff005bfdb7f38fde9bb2c6fc39bf7f3e1a6b237af89eead0134e140a5a3c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a7565059b22e4fb454431b6bd56e57a7b55bb04a759fbb4d5fff7939bcf7d9f9",
+    "title": "兼得之法：在搜索中保持可被发现，同时拒绝 AI 训练",
+    "summary": "Cloudflare 为网站所有者提供了一种在保持可被发现的同时拒绝 AI 训练的方法，通过新控件与 Accountable 称号建立共享模型。"
+  }
+}

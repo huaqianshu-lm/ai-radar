@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+  "content_hash": "110821bad230e70589e06914ce28fba5c950cd47e1de37dea641b80475060b1a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "45e988c726e7178ce3c2283c3d2b9cda10fcfa58b5eb3f5fa35d1f811a2531c5",
+    "title": "我们在 25 分钟内获得了 Baseten 生产环境 GitHub 的管理员访问权限",
+    "summary": "HN 讨论帖，原文来自 strix.ai，作者为 bearsyankees。"
+  }
+}

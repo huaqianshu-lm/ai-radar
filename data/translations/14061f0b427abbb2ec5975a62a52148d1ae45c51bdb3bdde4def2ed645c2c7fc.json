@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "content_hash": "3b5ecb2c1a6217a4894e0d5bb961cfa5365f891b29e7990202e9658399cfc44a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "438a9b54b319a0a7884669f663b965681a23f4d118d227596b55e93c5c858e81",
+    "title": "ComposioHQ / awesome-claude-skills：一个精选的 Claude Skills、资源和工具列表，用于自定义 Claude AI 工作流",
+    "summary": "一个精选的 Claude Skills、资源和工具列表，用于自定义 Claude AI 工作流。使用 Python 编写。"
+  }
+}

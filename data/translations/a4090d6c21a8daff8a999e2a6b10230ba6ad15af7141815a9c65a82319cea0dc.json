@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/15/gemini-live",
+  "content_hash": "e1fbdd80199932ce806c843366ff50d93be45c3951c43f5a215dc75ccd3bf473",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "219c439494be37cebb6964fa3834a95ea197e4e9d295cba00501b6264509fd65",
+    "title": "Gemini Live 音频",
+    "summary": "工具：Gemini Live 音频。Google 今天发布了 Gemini 3.8 Live 和 3.8 Live Extended Thinking，这两款语音到语音模型形状与 OpenAI 类似。"
+  }
+}

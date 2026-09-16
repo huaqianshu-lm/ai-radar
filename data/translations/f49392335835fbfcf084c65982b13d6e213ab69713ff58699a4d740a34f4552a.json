@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/H64MIDHBQWCEAM",
+  "content_hash": "3a8d403042a90ebd92ccb9b6aab26a4b0bc7b1b8bdc06e1e5aecb96f447a1906",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8740dcaad1db1d0c0eca4c98f672c9b2fe11b9b1a5c45631a44a7516294b53ac",
+    "title": "Product Hunt: OpenAI Agents API — 在 OpenAI Codex 框架上运行的云端 Agent",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/openai"
+  }
+}

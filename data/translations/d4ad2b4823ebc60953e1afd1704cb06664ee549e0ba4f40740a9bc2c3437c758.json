@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-09-15",
+  "content_hash": "bc467af75e54143637ad7d496d63be9ae8e70c398264440877135dab319469f7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1dfcd8e5831aaae95bc6f93b4ae1f954a36afaa5ffe2e0ee0ca06e4e855270ac",
+    "title": "Siri 模型切换 🔄、Claude Money 💰、Hugging Face Tau 👨‍💻",
+    "summary": "Anthropic 正在为个人财务准备 Claude Money 等相关内容。"
+  }
+}

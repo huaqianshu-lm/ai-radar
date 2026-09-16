@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+  "content_hash": "579ee53212a3177f2f968aaeef0de886a79a1f29c3289ba30a870d15129af796",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0605bcba6b5c77399fdaf77885c39da92c3863c23b42be21557bb8a9e269ef5d",
+    "title": "介绍 System One Models 和 Jev",
+    "summary": "HN 讨论帖，原文来自 typesafe.ai，作者为 albelfio。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://withcapsule.app/",
+  "content_hash": "e0ee3ecc31a321fa5e2fedc5def5f92274de956ca87b6199d8ed756edf6ba606",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0157005b9d1f296a502364c93fb5782ff5512404597bbc61689a29129dc93814",
+    "title": "Show HN: Capsule – 将数据保存到 SQLite 的单文件网页应用",
+    "summary": "HN 讨论帖，原文来自 withcapsule.app，作者为 bashtian。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/rommapp/romm",
+  "content_hash": "8eacb5b5d1ae6d64560d252c79cfa5c3f068c8f63f429ecb632ab0c31fff791d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "284e48f1299b2b8dfcc59f5db3f2efd09aba33c464db23f1e98cabea74f2b26d",
+    "title": "rommapp / romm：一个美观、强大、可自托管的 ROM 管理器和播放器，使用 Python 编写",
+    "summary": "一个美观、强大、可自托管的 ROM 管理器和播放器，使用 Python 编写。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/good-start-labs",
+  "content_hash": "1579e800b11512a53d6bea4c0d30280b73106c303f310e6f249278f73a3e36a4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eb64bf46642bd1686947e043c83b8981b93207aa9ec69f9380d39bc041e88ac0",
+    "title": "游戏中学习到的技能能迁移到现实世界的实际工作中吗？",
+    "summary": "Good Start Labs 在铁路游戏上训练了一个 AI，其中一个版本在金融研究方面有所提升，两者的区别在于训练设计。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/MG1937/ASC",
+  "content_hash": "2134e8a1e40fa2072757b762600b039073271ad66b1544b8c6eb89fbc7c0f908",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6d784a389d8351d96bfb770fc94b8f4d4a0f5b83cfc64660849a7a97b9705490",
+    "title": "MG1937 / ASC：ASC 是一个专为 Agent 和移动端研究人员设计的超级快速的 Android 反编译前端工具，使用 Python 编写",
+    "summary": "ASC 是一个专为 Agent 和移动端研究人员设计的超级快速的 Android 反编译前端工具，使用 Python 编写。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/unclecode/crawl4ai",
+  "content_hash": "f53a657f7e58799927d726615b4b6dda12d5de0710da179a441e18730314632b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d46d1480c37c463a902b46f40a5c143c9afb818a9d333051783a4cdd4764b292",
+    "title": "unclecode / crawl4ai：🚀🤖 Crawl4AI：开源的、对 LLM 友好的网页爬虫与抓取工具，使用 Python 编写",
+    "summary": "🚀🤖 Crawl4AI：开源的、对 LLM 友好的网页爬虫与抓取工具，使用 Python 编写。"
+  }
+}
