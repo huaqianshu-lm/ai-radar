@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/16/datasette-2",
+  "content_hash": "039196048af1decee4012466e5b99740d4c2bae0168049d527b092477b06c339",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4e32c351abd8d17df0b2260154851059c6c39ddb1235402a92eded894c7b9222",
+    "title": "datasette 0.65.5：发布：datasette 0.65.5",
+    "summary": "发布：datasette 0.65.5。针对请求的表名中的尾随换行符可以绕过表权限并暴露私有行的问题的安全修复..."
+  }
+}

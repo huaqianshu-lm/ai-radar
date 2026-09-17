@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2609.14845",
+  "content_hash": "f0b9591185e0b867365e500e40f4f82c674c542532a544ac45203e57bf6f4085",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "498c9033f65b5d79b0d6ade32eb5bbd7fe1fd88b6391dc55b466cf048f729a60",
+    "title": "AMD Matrix Cores 的精确模型",
+    "summary": "来自 Hacker News 的讨论，源地址为 arxiv.org/abs/2609.14845，作者为 matt_d，得分为 59。"
+  }
+}

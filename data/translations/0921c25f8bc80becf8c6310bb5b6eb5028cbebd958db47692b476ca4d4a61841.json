@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/16/datasette",
+  "content_hash": "90f3eb2c75328ff49591f9ae297498a6f19b539ee5a61c6f8d42658f11b131e9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3fb5c069cb2ad112b416a6a3538fd3dbb9dabe70205c2157f7b46bab421b4e8b",
+    "title": "datasette 1.0a40：发布：datasette 1.0a40",
+    "summary": "发布：datasette 1.0a40。包含与 0.65.5 相同的安全修复，以及一些整洁的新功能和错误修复：插件现在可以使用该功能启动和管理后台任务..."
+  }
+}

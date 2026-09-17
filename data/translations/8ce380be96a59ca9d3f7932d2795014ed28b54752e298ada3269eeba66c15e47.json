@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/model-misalignment-reporting-framework",
+  "content_hash": "6b2766e81c8d22835290a747338e93e00c016b564dd82e5982cd144fa29caccb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f3899afd4d6a0a2de4790fb5c615ac53b070686d5705d2fd135b1814acc6d5b3",
+    "title": "我们的模型错位报告框架",
+    "summary": "OpenAI 分享了一个用于跟踪、调查和披露模型错位的框架，并附带了六份关于意外或令人担忧的模型行为的报告。"
+  }
+}

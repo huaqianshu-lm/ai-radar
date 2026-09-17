@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/16/one-claude",
+  "content_hash": "b40c42c28c04f72fb9ccc672a96cf42ba7f339c81998d7ad1e71ebaca28633e4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bc4ce9d50d9b33de55f2155003830554f99f3d6528bc60cb5a427280f6257ea7",
+    "title": "Claude Cowork 与聊天现在合为一体",
+    "summary": "Claude Cowork 和聊天现在合为一个 Claude。对于像我这样越来越混淆 Cowork、Claude 和 Claude Code 之间区别的人来说，这无疑是个好消息..."
+  }
+}

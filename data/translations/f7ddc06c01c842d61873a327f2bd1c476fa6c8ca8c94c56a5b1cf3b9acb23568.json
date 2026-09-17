@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.linum.ai/field-notes/jit-ddt",
+  "content_hash": "8a74f8013437290b60fda3e0814b66578d63ff86bd55fccaa01f1fad99e0a798",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b3d4f607ad20605e094571a603f797370f2df14979bf91b66552ca962a70dea3",
+    "title": "文生图模型训练速度提升 3.6 倍",
+    "summary": "HN 讨论：https://news.ycombinator.com/item?id=49729816 原始网址：https://www.linum.ai/field-notes/jit-ddt 作者：schopra909 得分：34"
+  }
+}

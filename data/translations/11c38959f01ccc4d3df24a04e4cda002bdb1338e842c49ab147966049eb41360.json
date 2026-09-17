@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns",
+  "content_hash": "66855a5a75e43d7de8a1f39d575e8b52ed2d56865210f474f5cf8636ce8834af",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "896933b41785afa3ba4c45e53ac15ae176c147765388ac34f45a2dbb1c6b7671",
+    "title": "当扫描器漏掉攻击时：Cloudflare Client-Side Security 如何保护店面",
+    "summary": "现代店面看起来可能很健康，但恶意的 JavaScript 却在悄悄吸走收入、劫持点击或重写分析数据。了解 Cloudflare 的机器学习..."
+  }
+}

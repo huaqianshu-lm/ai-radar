@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/roboflow/supervision",
+  "content_hash": "1f8809e2c327e97f26d0f7e11403c0feea1daeacd0941683e9b7b4aba25f3fde",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "04aa3744e1ae44cec67f46f0db42c37e499732a7527e1d0295e9f29118bd93f3",
+    "title": "roboflow / supervision：我们为您编写可复用的计算机视觉工具",
+    "summary": "我们为您编写可复用的计算机视觉工具。💜 - 语言：Python - 今日获得 260 个 star"
+  }
+}

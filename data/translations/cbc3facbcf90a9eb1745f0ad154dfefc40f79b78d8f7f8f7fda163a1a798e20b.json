@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+  "content_hash": "49952038877f455362c2921c95b88c3d3e39e3c65d4aa4d91024949ebe597184",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "487ee06b84c7feddf771ec82fc962edeff7c6dc2a30b4756a3780e7ee7fe11d1",
+    "title": "[AINews] Jev：一个仅负责决策/分类/路由/评分的“系统一模型”",
+    "summary": "速度比小型前沿 LLM 快 100 倍以上，成本低 200 倍以上。恭喜 TypeSafe！"
+  }
+}

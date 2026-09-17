@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2609.13009",
+  "content_hash": "df41f0427606cde21ee6a3374b2ff5f291a3b78f6c703a99db4ecd625d162f3c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b27850c9f4110c81f2d36ba74494b309cd10f6047edbf937c14d9757a3140478",
+    "title": "前沿模型在物理学方面的表现如何？",
+    "summary": "来自 Hacker News 的讨论，源地址为 arxiv.org/abs/2609.13009，作者为 qt31415926，得分为 79。"
+  }
+}

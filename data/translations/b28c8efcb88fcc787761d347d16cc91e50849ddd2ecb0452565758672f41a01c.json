@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://rohanbansal.com/qorl",
+  "content_hash": "35793d0bb901b7b728a786f41e7e3101aa5f77a1c992248938abd6ac437e4414",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4b99a853d3afdbe8b64f2b036fbd7294e109d34e0dac21f17b0aa5801a8bf391",
+    "title": "训练一个 4B 模型，生成比 Postgres 快 81% 的查询计划",
+    "summary": "来自 Hacker News 的讨论，源地址为 rohanbansal.com/qorl，作者为 polyphilz，得分为 384。"
+  }
+}
