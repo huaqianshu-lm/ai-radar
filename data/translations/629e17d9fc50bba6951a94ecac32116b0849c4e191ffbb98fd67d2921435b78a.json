@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/onyx-dot-app/onyx",
+  "content_hash": "cbe89fa50ee632984d724996a7796faa93d3124dadd686c1946252766b0eb4b3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "de3e2955aed3e9311d71950acadf861760d0ab086988f5d4674e4f1dfb74344e",
+    "title": "onyx-dot-app / onyx：开源 AI 平台，提供支持所有 LLM 且具备高级功能的 AI 聊天",
+    "summary": "开源 AI 平台，提供支持所有 LLM 且具备高级功能的 AI 聊天。使用 Python 开发。"
+  }
+}

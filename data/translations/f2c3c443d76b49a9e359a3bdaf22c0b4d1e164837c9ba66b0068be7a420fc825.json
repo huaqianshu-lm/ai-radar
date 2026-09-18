@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans",
+  "content_hash": "eba04780a445507494758a5cb7e9b5249c7d01400be139df31585e3e103f9fa1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c40a1cd0e489d7260baeb1d432bf2236d69ebb03893acf4d8560cd920a46b990",
+    "title": "保持警惕：针对知名 Rust 语言开发者的定向攻击",
+    "summary": "Adam Harvey 和 crates 安全团队发出重要警告：他们认为目前存在针对知名 Rust 社区成员的持续攻击活动。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/OYMV6EL4HSY2Y4",
+  "content_hash": "766bfde0c55edc2d7424b30a97ba9729a2df7288f6d14c4ffe984da571625dce",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9fac71073414e2cfc1c2138bd77f1570ece811e94d18ba16bc463a241316466a",
+    "title": "Product Hunt: QAgent — 针对 AI 代理的自动化 QA",
+    "summary": "Product Hunt 新品介绍：QAgent，为 AI 代理提供自动化质量保证（QA）测试工具。"
+  }
+}

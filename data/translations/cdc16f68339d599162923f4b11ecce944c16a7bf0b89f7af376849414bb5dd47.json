@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/54PZMHSLFDXMCN",
+  "content_hash": "3a40b237156aaa6b1227abca4992c104ba65c1fe3d3d54ffc123dfe26b11ee11",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ad5ca6554f2c550a6aedf3b4342b52153d04642ae2ef8aafb7979dafadb75f88",
+    "title": "Product Hunt: Compute:Arena — 社区提交的本地 AI 基准测试",
+    "summary": "Product Hunt 新品介绍：Compute:Arena，用于本地 AI 的社区提交基准测试平台。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/life-sciences-verification-program",
+  "content_hash": "c9a9eb8a3cfd180ece66908b14bdd854ef775d7ad13598e64a79247c4213c2f9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a3c8e138d995ff558ec9129cf2e7144dfc460cd06d3711b6bd0255312e3155e4",
+    "title": "Anthropic 推出生命科学验证计划",
+    "summary": "Anthropic 推出了生命科学验证计划 (LSVP)，旨在为生命科学专业人员提供支持。"
+  }
+}

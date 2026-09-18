@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/7K74F5COEZRHLG",
+  "content_hash": "1cfd535244742a23f3c9123b604ae04254c7522ad1d619a7389ae8ecb5cd9c62",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8bdb02a024b4d6c76d0f4bf8e801d475d5beda2fed44587f61c8a122381ef2b8",
+    "title": "Product Hunt: Higgsfield API — 适用于 50 多个生成式媒体模型的单一异步 API",
+    "summary": "Product Hunt 新品介绍：Higgsfield API，为 50 多个生成式媒体模型提供统一的异步 API。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=49743049",
+  "content_hash": "efbc96fabcd2ffd47f418da053e0c73ebdee195ae98e7640d5605e5c16820ffc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "98a698085fb1fa80319290a2dfffdd52950a2d0f074b0c533936c3852d3470a7",
+    "title": "Launch HN: Skillsync (YC W26) – 使 AI 聊天会话能够在不同代理之间跨平台迁移",
+    "summary": "由 Nars 与 Nishant 创立的 Skillsync 项目，旨在解决 AI 聊天会话在不同代理间便携迁移的需求。"
+  }
+}

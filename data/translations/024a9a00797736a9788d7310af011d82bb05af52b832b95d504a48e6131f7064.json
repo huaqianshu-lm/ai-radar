@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://bend-lang.com/",
+  "content_hash": "cb1a540feead6d3b0fade52496fbd3e52095fc93627f70b014eee0989084e34e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2529c4416d7268f8c69f64e423a9e4c52c93507080aee283a9e9b90eb8043f4f",
+    "title": "Bend – 一种通过证明在 CPU 和 GPU 上阻止 AI 错误的编程语言",
+    "summary": "介绍 Bend 语言及其通过形式化证明在底层硬件上拦截错误的特性。"
+  }
+}

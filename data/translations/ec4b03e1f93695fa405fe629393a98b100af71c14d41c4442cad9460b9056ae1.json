@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/DMOVWAJZUXDH4M",
+  "content_hash": "60d22adee2a5e866773732071eccaf687b5b053b5da88fa010c92947026d4431",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e66c9ed8d5ca0496f8e14397b554ca161f7ed8ec9a063f189c14e78d2f2a1fc1",
+    "title": "Product Hunt: Text Agent Store — 一个可通过短信交互的 AI 代理市场",
+    "summary": "Product Hunt 新品介绍：Text Agent Store，可以发送短信与之交互的 AI 代理应用市场。"
+  }
+}

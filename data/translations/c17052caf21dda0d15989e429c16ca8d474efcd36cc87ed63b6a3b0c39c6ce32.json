@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm",
+  "content_hash": "b48c8bf5e9834f3093ba91c59671e916b2f2ad347a3a1ceb755f375352653976",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0c114974aa55eb9d722241ea6cbcdd0edf5b9fc1d08b50ac14c331aa9b3a71d4",
+    "title": "如何与 LLM 一起写作",
+    "summary": "Thomas Ptacek 探讨了如何将 LLM 用作文案编辑而非写作助手，核心规则是：绝不使用 LLM 建议的单个词汇。"
+  }
+}

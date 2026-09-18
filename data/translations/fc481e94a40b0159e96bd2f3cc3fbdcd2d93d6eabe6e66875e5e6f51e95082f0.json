@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/wilbowes/EchoMuse",
+  "content_hash": "3305f3b34d1d241cc2417c8db9eda40346a96b7d93ca5eecc3489d0b0e227afa",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "098240b18c5438488e2d239886ac1564206dd3ff7f97f407ff4ceb3262c15dea",
+    "title": "wilbowes / EchoMuse：针对第二代 Echo Dot 设备的 Alexa 替代品与控制器",
+    "summary": "针对第二代 Echo Dot 设备的 Alexa 替代品与控制器。使用 Python 开发。"
+  }
+}

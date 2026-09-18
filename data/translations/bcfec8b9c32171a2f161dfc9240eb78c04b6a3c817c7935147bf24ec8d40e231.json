@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.air.security/blog-posts/plugin4shell",
+  "content_hash": "ed84fdf7c3e5ee446ee765e5f981837c8dbdedcb8314c3955575dada5198debc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b03ff3a961d9ff92f7c7be109941d5674256a75bcf306a96e29e4da2cd929f74",
+    "title": "Plugin4Shell – 在前四大编码代理中发现的零点击 RCE 漏洞",
+    "summary": "安全研究员披露了影响主流代码生成 AI 代理的零点击远程代码执行（RCE）漏洞。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/LLMQuant/quant-mind",
+  "content_hash": "9823331f2a05713dd54369debddfc18dbbbc1e6e4f904c1bfe5bd85cef550b36",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "11d5965286cd87ec902abbb11cbdb69c90c98150b599dd8c4d43fc4ce2c385d0",
+    "title": "LLMQuant / quant-mind：QuantMind 是一个用于量化金融的开源、原生代理知识提取与检索框架",
+    "summary": "QuantMind 是一个用于量化金融的开源、原生代理知识提取与检索框架。使用 Python 开发。"
+  }
+}

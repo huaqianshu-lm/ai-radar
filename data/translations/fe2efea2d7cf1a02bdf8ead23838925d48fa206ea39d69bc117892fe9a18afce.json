@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-09-17",
+  "content_hash": "459afb6fec428ca65c508b123d9942ca8ae6c4befcf0680a02f8cb88cab0d582",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d463ee7cb9fd3cc9e226524b01b4b1cfa7756c80545752ed6f9a98fc0d346e23",
+    "title": "Claude 与 Cowork 合并、ChatGPT 赞助代理及其他 AI 动态",
+    "summary": "Claude Cowork 与聊天功能现已合为一体；介绍了相关 AI 新闻摘要。"
+  }
+}

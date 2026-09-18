@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/strands-agents/harness-sdk",
+  "content_hash": "f51f69feaf7e9dde756d7136d011c7dfd96544bab9d3a5357f402b91d9dcc41d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "aee9f0d16c69308f63e7c00f28fda2127ecd8bf111e263e32286e49807cfe44a",
+    "title": "strands-agents / harness-sdk：构建并端到端控制代理封装 harness 的开源 SDK，适用于 Python 和 TypeScript 中的生产级 AI 代理，支持任意模型和云端",
+    "summary": "构建并端到端控制代理封装 harness 的开源 SDK，适用于 Python 和 TypeScript 中的生产级 AI 代理，支持任意模型和云端。"
+  }
+}

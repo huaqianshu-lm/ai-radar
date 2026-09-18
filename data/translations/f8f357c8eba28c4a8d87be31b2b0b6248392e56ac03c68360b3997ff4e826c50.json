@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/17/compaction-summaries",
+  "content_hash": "bf11213b5b93cf00ca51052fc6524323578ab2c8f18cfb80d13e933c965a8f83",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6533bdcc0f6c39c58db72a36dcc4ea5f47fb71c83f0de0ec9d56c7dabd14a369",
+    "title": "压缩摘要中的自生成提示词注入",
+    "summary": "在关于模型错位报告的框架中，OpenAI 提供了关于意外或令人担忧情况的报告。"
+  }
+}

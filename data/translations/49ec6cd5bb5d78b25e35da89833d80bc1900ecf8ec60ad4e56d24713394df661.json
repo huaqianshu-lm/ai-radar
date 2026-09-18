@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/667RUK6AWQ3HIZ",
+  "content_hash": "fb1903a8ebcaf990269cc022771427574f1f8f500758255b543ad5006e2a0f18",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "24cf595d85cf1d41d06176d28e00768e367c3571345ba5bd7b5cadbaec84d547",
+    "title": "Product Hunt: Bitrise Remote Dev Environments — 真正适合编码代理构建的云端 Mac 环境",
+    "summary": "Product Hunt 新品介绍：Bitrise 远程开发环境，为 AI 编码代理提供可构建的云端 Mac。"
+  }
+}

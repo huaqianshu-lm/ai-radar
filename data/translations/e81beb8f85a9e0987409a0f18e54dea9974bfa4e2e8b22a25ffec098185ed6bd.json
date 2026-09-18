@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/cooley-gopublic",
+  "content_hash": "c785f12b3f9706f04e1941b3d0a8c982aa1570c519056a8433cae0aa81b2544c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d22acfa5d0cc1d093c4a65f65bd5a5e37fe40593680fa261c56e48d108a9e1af",
+    "title": "Cooley 如何使用 ChatGPT 加速 IPO 工作",
+    "summary": "Cooley 借助 ChatGPT Work 构建了 GO Public，为 IPO 流程引入智能化，帮助律师更早地发现问题，并将判断力集中在最需要的地方。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens",
+  "content_hash": "64743d897dd17b8dff827cbee8dc8e0bb9ea40fc29f20273f2971cf7c4defce1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "121453230d1b3fc0b430937a35d4d38bc93450c14442b4f3c07b6effeea1a2e0",
+    "title": "CCC 邀请所有模范公民参加 40C3",
+    "summary": "关于黑客大会相关活动的 Hacker News 讨论故事。"
+  }
+}

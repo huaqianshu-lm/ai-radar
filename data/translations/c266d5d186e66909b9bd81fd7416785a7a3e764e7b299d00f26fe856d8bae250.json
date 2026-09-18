@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction",
+  "content_hash": "a33150e8e10992bf260018a169e80326e5e7d00ee0dfad2184ce1b5ee07fba2a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3af3dbfde98de28b427535216bf33f9b791cc6e34204a1ee9b1c21d52f21be55",
+    "title": "LLM 分类就是特征工程",
+    "summary": "探讨将大型语言模型分类应用于特征提取的相关技术文章。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+  "content_hash": "912cf65bc7d0df44fcf6fb02cd8c60c539bc8c2ca637511828810f4876eb3205",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3efbd9eb24461e518f19a08dbf025c5e3e80ec678a661f6dad964b6bdefa6a2e",
+    "title": "GLM 如何构建自己的推理基础设施",
+    "summary": "探讨 GLM 团队构建自有 AI 推理基础设施的技术文章。"
+  }
+}

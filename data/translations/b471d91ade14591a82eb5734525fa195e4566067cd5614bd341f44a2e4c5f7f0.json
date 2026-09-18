@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+  "content_hash": "f1f39d25fd3ca6817ab889447d2ae78bb0a1d3a405445678ea3474fa493445c9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e47aee430f77a8f70fa17aa5e38c2b0ca60a62fda66ba226bc2b66a8f4a158ee",
+    "title": "FAA 修复空中交通的计划：价值 8.75 亿美元的 AI",
+    "summary": "美国联邦航空管理局（FAA）计划投入 8.75 亿美元的 AI 来改善空中交通系统。"
+  }
+}

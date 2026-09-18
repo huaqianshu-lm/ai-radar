@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/PKIB7T2AMFBP43",
+  "content_hash": "c06eda24771ae3840b8ccba5506ee18c4a087c1f8397443b896f2727c92f40e2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9a1b776ce56cdadde75ea50fadf37617af191f336e0b1e9ec2c384c549d0cf25",
+    "title": "Product Hunt: AskDeck — 呼叫 AI 生成 PowerPoint 和带解说的视频",
+    "summary": "Product Hunt 新品介绍：AskDeck，可通过 AI 调用生成幻灯片和配音视频。"
+  }
+}

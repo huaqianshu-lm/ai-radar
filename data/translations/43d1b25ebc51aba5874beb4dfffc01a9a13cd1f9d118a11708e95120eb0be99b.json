@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/arnegiacomo/fugleramme",
+  "content_hash": "4b7ed0f1466ead7796516b5ad2293cbe52f24932f87340bf302d6e563111b56e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a72a8c8d784d0f35616e14adc3953b02227ed31a0eace5a3acf22e0496f68457",
+    "title": "arnegiacomo / fugleramme：适用于 Raspberry Pi 的电子墨水鸟类相框，通过音频进行实时鸟类检测，完全本地运行 AI，并呈现为 19th 世纪手工切割的鸟类插图风格",
+    "summary": "适用于 Raspberry Pi 的电子墨水鸟类相框，通过音频进行实时鸟类检测，完全本地运行 AI，并呈现为 19th 世纪手工切割的鸟类插图风格。使用 Python 开发。"
+  }
+}
