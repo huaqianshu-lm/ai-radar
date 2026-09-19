@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/unslothai/unsloth",
+  "content_hash": "ef3b4bca00adfbb8bfe0491d217ac83ff1c764fe1adef88013be05de05a44f55",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1970f2aab6a882fb2b18d8e3305081d5b50772de6f5a2dbddd25b94cbd4d6837",
+    "title": "unslothai / unsloth：用于运行和训练 LLM 及扩散模型的本地 UI",
+    "summary": "用于运行和训练 LLM 及扩散模型的本地 UI。支持 GGUF、MLX、Qwen3.8、DeepSeek-V4、MiniMax-H3、Gemma 4、FLUX 等，使用 Python 编写。"
+  }
+}

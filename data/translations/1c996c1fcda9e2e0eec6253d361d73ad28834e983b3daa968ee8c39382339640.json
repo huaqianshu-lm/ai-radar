@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://spectrum.ieee.org/llms-for-chip-design",
+  "content_hash": "d1b1f10b65db7cb36d27d63d2f1e60fe6077fa07a9c9819e7945c2ec31d24593",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3e1dd1f8d6770e09e44a6f4f6f307206d0cbed0989c87a966d406b35916be517",
+    "title": "OpenAI 如何使用自己的 LLM 设计其 Jalapeño 芯片",
+    "summary": "IEEE Spectrum 报道了 OpenAI 如何利用自身的大语言模型来设计芯片。"
+  }
+}

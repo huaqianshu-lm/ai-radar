@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2609.02852",
+  "content_hash": "e2fb09610c8cf7275e190360e08c032314da1a24eee909ee297098908dd0339a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d35c7bfffe978d42aca6a196fcb78f0fbdde4d6e6054c3b5c52ad30381c9184c",
+    "title": "语言难以辨认性对 LLM 安全的影响",
+    "summary": "一篇关于大语言模型安全性的 arXiv 论文讨论。"
+  }
+}

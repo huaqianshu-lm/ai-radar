@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/tirth8205/code-review-graph",
+  "content_hash": "d4e9be8f28b3e170fbc9bb56a8f681baba3ace1f041d64272a51df4c38f4e16a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "344d46b0f790a3ec4e82f84067fda068e6f48f068ee696aeb6b319035d95134e",
+    "title": "tirth8205 / code-review-graph：用于 MCP 和 CLI 的本地优先代码智能图谱",
+    "summary": "用于 MCP 和 CLI 的本地优先代码智能图谱。为代码库构建持久映射，使 AI 编码工具只读取重要内容。"
+  }
+}

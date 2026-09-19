@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar",
+  "content_hash": "3adc51fa479cdeba2836dde8dd1438f5312f39ab7091e6e806a9a0f2112d258e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b4eea27689aebcc6e98768c626e425873778ba2a6a31dc28b1f854e9ea04cc01",
+    "title": "引用 Thariq Shihipar 关于 Claude Code 的发言",
+    "summary": "我们在 Claude Code 中添加了对 AGENTS.md 的支持。从 2.1.277 版本开始，如果文件夹中没有 CLAUDE.md，Claude 将检查并使用 AGENTS.md。"
+  }
+}

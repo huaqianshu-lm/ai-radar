@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/pjialin/py12306",
+  "content_hash": "547141710dd347504a0f6e789c05bd35a7679526857faf3cb8d0086bc790a148",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c919660aa473292d8702c7686b1d288a21a1611a70b846bcc3519d27ab856071",
+    "title": "pjialin / py12306：12306 购票助手，支持集群、多账号、多任务购票以及 Web 页面管理，使用 Python 编写",
+    "summary": "12306 购票助手，支持集群、多账号、多任务购票以及 Web 页面管理，使用 Python 编写。"
+  }
+}

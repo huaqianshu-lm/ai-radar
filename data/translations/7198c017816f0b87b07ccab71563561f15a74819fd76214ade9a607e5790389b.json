@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+  "content_hash": "e208f23cf7bc127334e510415f06869c302f01e80484865c4522c583893c0a34",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e23fae26ca174658c119cd467cd5f5834b5098661c753feadab4a8292cdbeccf",
+    "title": "美军在使用 AI 生成虚假情报报告后险些酿成大祸",
+    "summary": "报道了美军因使用 AI 产生虚假情报（涉及中国舰船）而引发的险情。"
+  }
+}

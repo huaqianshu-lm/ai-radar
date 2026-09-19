@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/jinchenma94/bazi-skill",
+  "content_hash": "cf5b93ec4343718d99d02223351bcd6f08c3d7f9a98403f4dc981da008edaaf7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7ba332ff27fb0476ed82a91f05578fba695de2e2d904b7257d58131de24f698b",
+    "title": "jinchenma94 / bazi-skill：四柱八字命理分析工具，使用 Python 编写",
+    "summary": "四柱八字命理分析工具，使用 Python 编写。"
+  }
+}

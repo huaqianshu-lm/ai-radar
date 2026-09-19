@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+  "content_hash": "e1b6becedd56d6dcb6e4914e7c1f16de31c38aed331de5fc5bc95f8251ee7adf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b4a94615cb64fa6b2c18a80cefce4a38e81d4c634316fc36df2bcbe261aad127",
+    "title": "AI 聊天机器人正成为改变人们观点的专家",
+    "summary": "科学杂志相关文章探讨了 AI 聊天机器人在改变人类观点方面的能力。"
+  }
+}

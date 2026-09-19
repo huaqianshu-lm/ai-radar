@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+  "content_hash": "6280eb893ec5436ffcb4904ed76cabb054074036c3ad25215f22960ac0a091e9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5ec4e61a2a5169ebbf2e4ee08dac2281185ad73ad1169c3035a9c4aa6624eba7",
+    "title": "与 Accenture 合作开展嵌入式评估 - Anthropic",
+    "summary": "我们正与 Accenture 合作，对前沿 AI 进行独立评估。这是迈向重要一步..."
+  }
+}

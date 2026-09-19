@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/fastino-ai/GLiNER2",
+  "content_hash": "cb8d8eb15135af8fd0cad62d5cefb85dd944e829ece6da3a04eb6e10963df606",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "69f2c6e014f5c88c128b73c13ef8f73e696165ca7ae0c9bb919f5f9e3d244cf8",
+    "title": "fastino-ai / GLiNER2：基于统一架构的信息提取工具，使用 Python 编写",
+    "summary": "基于统一架构的信息提取工具，使用 Python 编写。"
+  }
+}

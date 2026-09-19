@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://scry.io/",
+  "content_hash": "86c1098cd5a7306a90e4163c059285e410a690785ce1ec1aed518d9f379c2bbd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8caf905bf681196c0e6862dda95e49e5a1a0e7d0becc6236e8949bbba1d217a8",
+    "title": "Show HN: Scry，采用拥堵定价的可编程互联网搜索",
+    "summary": "介绍 Scry，一个构建在 ClickHouse 上的 500 TB NVMe 互联网索引。"
+  }
+}

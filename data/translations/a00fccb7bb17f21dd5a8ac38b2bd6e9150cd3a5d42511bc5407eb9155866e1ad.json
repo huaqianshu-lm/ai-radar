@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://code.claude.com/docs/en/changelog",
+  "content_hash": "8f6301f9f85c3f03d92f94c21b1cbd072dc377691baca36805f0d8a8761b211c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3d68ad8e1324eb33b763f82183f512fc6276fa6e33aa56b7b51a994d2a3e9fb9",
+    "title": "Claude Code 现在会在没有 Claude.md 时读取 AGENTS.md",
+    "summary": "Claude Code 文档更新日志，指出在没有 Claude.md 的情况下将读取 AGENTS.md。"
+  }
+}
