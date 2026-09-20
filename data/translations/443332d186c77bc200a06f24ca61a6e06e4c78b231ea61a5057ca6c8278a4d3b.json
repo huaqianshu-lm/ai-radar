@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/NVIDIA/TensorRT-LLM",
+  "content_hash": "8767cd924d0547763f19353ac19b8354f66a5ac4d54454e4a16b90482cff2443",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "754595d3bef49bf4fcdf6e047dfae9540ce81370d37b67c5f8f947fcea559437",
+    "title": "NVIDIA / TensorRT-LLM：TensorRT-LLM 为用户提供易于使用的 Python API 来定义大语言模型（LLMs），并支持最先进的优化技术以执行推理",
+    "summary": "TensorRT-LLM 为用户提供易于使用的 Python API 来定义大语言模型（LLMs），并支持最先进的优化技术以执行推理。"
+  }
+}

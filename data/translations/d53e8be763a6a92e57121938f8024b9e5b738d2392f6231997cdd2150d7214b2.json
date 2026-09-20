@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github",
+  "content_hash": "7cff3d28e1ca8d8929f8f7bfaab03f005a2af43d12e0e495445cae349f2d50e4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fb0112d2438294fff4fdc37bdefe0178979f64c2799627b7666c7f3e64b605ea",
+    "title": "datasette-auth-github 1.0：发布 datasette-auth-github 1.0",
+    "summary": "发布 datasette-auth-github 1.0。我在 agent.datasette.io 演示网站上运行了这个 GitHub 登录插件，并注意到我的身份验证会话无法持久保持……"
+  }
+}

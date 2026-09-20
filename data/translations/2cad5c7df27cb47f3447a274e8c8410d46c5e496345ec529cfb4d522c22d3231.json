@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/SFOK7JG377PPZN",
+  "content_hash": "bca6519f770d0375e5d7dede75f48804537b49c0d40fb3687e309debd2e6bc63",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fca239408c9c93865484330cb8f65d22b60f44b5322272396b4634aea9081582",
+    "title": "Product Hunt: Ruby UTCP — 用于工具调用的可扩展、安全的 MCP 替代方案",
+    "summary": "Product Hunt 页面: https://www.producthunt.com/products/utcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%2..."
+  }
+}

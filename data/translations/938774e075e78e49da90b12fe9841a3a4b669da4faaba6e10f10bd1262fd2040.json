@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/cactus-compute/needle",
+  "content_hash": "777d9f579ec3e6cbcf34ca6afc9829dab59c3a7381137c4142af955da9d610b5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e1739cedc6f9ead74fedb98f45537682342f7d7c03e436327227ffc1d95eadbb",
+    "title": "cactus-compute / needle：针对微型设备的自动化基础模型：2-bit，8-29 MB，可在手机、可穿戴设备、智能家居、机器人、汽车等设备上实现工具调用、结构化提取和嵌入",
+    "summary": "针对微型设备的自动化基础模型：2-bit，8-29 MB，可在手机、可穿戴设备、智能家居、机器人、汽车等设备上实现工具调用、结构化提取和嵌入。"
+  }
+}
