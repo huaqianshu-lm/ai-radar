@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/2IXIUKVNLWEOHZ",
+  "content_hash": "5fa7b0033002bb6d106287d2800ba294ca9a1be3e0a324ceb301ac62c9f7fcb5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "605e98622eb1266661401eceba75a83fe257bfd6c240b9cbccfe464b1490fd51",
+    "title": "Answers by Context.dev：Product Hunt 产品：为 Context.dev 提供支持的 Answers，允许用户输入研究任务和期望的 JSON 格式来获取结果",
+    "summary": "Product Hunt 产品：为 Context.dev 提供支持的 Answers，允许用户输入研究任务和期望的 JSON 格式来获取结果。"
+  }
+}

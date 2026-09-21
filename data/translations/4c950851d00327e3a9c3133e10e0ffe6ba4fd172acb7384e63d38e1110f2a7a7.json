@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui",
+  "content_hash": "58c9ec666d7a67aecd7b09fe9183d8487dd3b4a63458c0111dc292e2294beeb3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f9d4182cc1e12525793a2e6df4a6fc596305e33bb2344fc2087744c3f134c0e8",
+    "title": "llm-keys-ui 0.1 更新",
+    "summary": "发布 llm-keys-ui 0.1 版本。该插件旨在解决一个特定问题，用于在使用 Codex Remote 在不同机器上运行编码代理时进行控制。"
+  }
+}

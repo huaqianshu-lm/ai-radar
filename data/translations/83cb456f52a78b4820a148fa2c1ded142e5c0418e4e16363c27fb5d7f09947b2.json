@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://pirateface.co/",
+  "content_hash": "a9085f398851be5baf58c378e4b2f85472afa5a3a388918a6e4c1f07c75ee212",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3f5d6f808ce7c8f29aa903eb70346a9acc65206f93c4608c63e8c044064d6dfe",
+    "title": "Pirate Face 将 LLM 模型从删除边缘拯救回来",
+    "summary": "Hacker News 讨论文章，介绍了 Pirate Face 如何帮助保护大语言模型免遭删除。"
+  }
+}

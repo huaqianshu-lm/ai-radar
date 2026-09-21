@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/20/datasette-explain",
+  "content_hash": "4a0fbd12f38ad5028b48f7325c7ee710275cbb698088561abb2574a7446902c0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "33879f77e1536c694c4309b0b81bc2440b17e76071a133e3b0da5280359e0e23",
+    "title": "datasette-explain 0.2.2 更新",
+    "summary": "发布 datasette-explain 0.2.2 版本。解释计划现在可以在只读存储查询页面上工作，并将 datasette.simonwillison.net 升级到了 Datasette 1.0a40。"
+  }
+}

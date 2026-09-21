@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+  "content_hash": "9f5d1d3ce4ae0aaabaf24cd2560429b610a22b7008f2a75f01b5d276c9bfbfda",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1db9a84868454ec56ecefa22eb2ae1de2d803b230ef614da9e1d485de2d29715",
+    "title": "FareedKhan-dev / train-llm-from-scratch：提供了一种从头训练大语言模型的直接方法，涵盖从下载数据到生成文本的全过程，使用 Python 语言",
+    "summary": "提供了一种从头训练大语言模型的直接方法，涵盖从下载数据到生成文本的全过程，使用 Python 语言。"
+  }
+}

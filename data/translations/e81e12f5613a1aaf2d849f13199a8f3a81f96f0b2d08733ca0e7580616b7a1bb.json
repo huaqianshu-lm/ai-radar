@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/browser-use/browser-harness",
+  "content_hash": "93fe1a5ae0e58f614d26474b43c8df09afe15619e95eea6d0fe802938439d1ef",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6a72bf5f4e5ac6d80a548a19f291d66d41e6f158f927a30252ef46d14c868df3",
+    "title": "browser-use / browser-harness：Browser Harness：一个具备自我修复能力的浏览器工具套件，可使大语言模型完成各种任务，使用 Python 语言",
+    "summary": "Browser Harness：一个具备自我修复能力的浏览器工具套件，可使大语言模型完成各种任务，使用 Python 语言。"
+  }
+}

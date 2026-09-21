@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/harvard-edge/cs249r_book",
+  "content_hash": "c446bb634505dc14731b1e991449a16db98f46ec43bfe45814d1cba0f7d372cb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f9fc592ad5493e6831b2681d662c8a828c0412246fb6182e7ea293d064457aa4",
+    "title": "harvard-edge / cs249r_book：机器学习系统书籍：涵盖基础、扩展、智能体 AI 和物理 AI（第一至四卷），哈佛大学 CS249r 课程内容",
+    "summary": "机器学习系统书籍：涵盖基础、扩展、智能体 AI 和物理 AI（第一至四卷），哈佛大学 CS249r 课程内容。"
+  }
+}

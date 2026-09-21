@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://softwarecrisis.dev/letters/llmentalist",
+  "content_hash": "9bf280bd75fe82aa5c8444f9370a0b595e59480aae3a3a4c59e8aa65f152f718",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b728d4142f80e9423b4a64c619bd9082b8fab8379cc542110163fef36c82bcb9",
+    "title": "聊天式大语言模型复制了灵媒骗局的机制",
+    "summary": "Hacker News 讨论文章，分析了对话式大语言模型在交互中类似于心理灵媒骗局的心理机制。"
+  }
+}

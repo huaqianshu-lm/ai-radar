@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/20/voxium",
+  "content_hash": "ed67597604816f4cdced19cab9fcf806ef3ba0879aa1af83529a3d419be45772",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c8aee9fb8db23a5bf41294f1de65fa5c4379f15bc7f174fc957e857ee4ef2e2e",
+    "title": "关于 voxium 的引用",
+    "summary": "作者在大公司开始新角色已经半个月，发现这里没有人了解任何事情，包括规格、代码、测试、PRD、工单以及这些工单的解决进展等。"
+  }
+}

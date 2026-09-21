@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
+  "content_hash": "e377b8c03b3c2a04f9f7bd222c179ac538ba669fba057a8fa9a6f6b7afac3125",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c9cd0c64bfe1a34be117f9f6b40db8179c3af25d23a223ba7297e870eb097019",
+    "title": "并非所有从事 AI 的人都认为这项技术会消灭人类",
+    "summary": "Hacker News 讨论文章，报道了并非所有 AI 从业者都持有技术末日论观点。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/anthropics/financial-services",
+  "content_hash": "12664c97b091609624728f5cd396a9fb120c9e9ef629182a688713ae84cdd128",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eb2c237bde8f919473b671f64a1839a69bcb0420b29974ac5f829da4a7fe5c09",
+    "title": "anthropics / financial-services：Anthropic 相关的金融服务项目仓库，使用 Python 语言开发，目前没有详细描述",
+    "summary": "Anthropic 相关的金融服务项目仓库，使用 Python 语言开发，目前没有详细描述。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/zhouxiaoka/autoclip",
+  "content_hash": "278368242886578bbaa4ca19613ef2211c810579a8f3c0c8b3f5444a64596884",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ce3bf530c35576de8f3585f0c008a13eecb48d3729ccd3c339bc0c332a41ca34",
+    "title": "zhouxiaoka / autoclip：AutoClip：一款由 AI 驱动的视频高光提取与剪辑二次创作工具，使用 Python 语言",
+    "summary": "AutoClip：一款由 AI 驱动的视频高光提取与剪辑二次创作工具，使用 Python 语言。"
+  }
+}
