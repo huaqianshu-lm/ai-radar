@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/tokenizers-v1",
+  "content_hash": "80523835b9b007309c2c110d54acd5c68bf39f1ae4f559541282af30feaf8bf3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "693b3130e25cc8808f585a694f7201006d36e37cb71c7b8ae2099287d6befd80",
+    "title": "tokenizers v1: 编码、解码与扩展性能实测",
+    "summary": "随着模型速度加快和工作负载规模扩大，这种平衡开始发生变化。在海量数据集上进行训练等内容。"
+  }
+}

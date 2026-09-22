@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-09-21",
+  "content_hash": "9ac05195c0cc502d20e017d9384523b694f5c16c2402449e2fdc45c0c86c5036",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ae51de259ec74d8895446cc5fca8c77cb022332cb3f694e9675adca6c6fb83b6",
+    "title": "Muse 连接器 🤖、Meta SAM 3.1 🖼️、Gemini 漏洞入侵企业 🔓",
+    "summary": "OpenAI 预计的算力账单已攀升至 8560 亿美元。"
+  }
+}

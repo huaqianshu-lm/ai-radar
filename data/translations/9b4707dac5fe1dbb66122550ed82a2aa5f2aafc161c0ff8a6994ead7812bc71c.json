@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/volotat/mini-AGI",
+  "content_hash": "7b72ab1c78df173b29e68103101587eb2241bf4a09d1e9c7a3b85c1b413338f7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3548d7f6cf97dad98e9c987483e45acb86d47f6dd1ea889afaa56a540e365499",
+    "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM：原文摘要",
+    "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=49783133 Original URL: https://github.com/volotat/mini-AGI/ Author: volotat Score: 249 Sorry for the pretentious..."
+  }
+}

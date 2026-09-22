@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/jaredpalmer/kev/tree/main",
+  "content_hash": "698c533355f9984ba7ea90b18d12fc71829a4706250cbf4eaa2102bd676b21f9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "67d17b89a42e9d7801523e6e1a5ebef6f04f36ac90d3447bf5a02ad6825f0210",
+    "title": "Kev：基于 Qwen3.5 构建的小型类 Jev 决策模型系列",
+    "summary": "基于 Qwen3.5 构建的小型类 Jev 决策模型系列，相关讨论发布在 Hacker News。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "content_hash": "227a28dbd4c2901ee1743b99db276a88050325020e489eab734e4bb4ff0f1613",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8703b76429c37137e259340cc13bd1cf7f8ffa00c2d5e13a92a121023509922e",
+    "title": "ZhuLinsen / daily_stock_analysis：原文摘要",
+    "summary": "原文摘要：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboa..."
+  }
+}

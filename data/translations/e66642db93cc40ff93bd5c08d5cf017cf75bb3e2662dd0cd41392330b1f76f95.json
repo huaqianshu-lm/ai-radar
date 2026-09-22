@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "content_hash": "d3b2cae11c0f5057dffe9a1defb5515693791f61450cc0e21af87c4dcd1cb8b8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ae2a66f3c360fd1788ea542ecd106283297aa5851d8fa012405023e8db53a75a",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem：原文摘要",
+    "summary": "原文摘要：https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
+  }
+}

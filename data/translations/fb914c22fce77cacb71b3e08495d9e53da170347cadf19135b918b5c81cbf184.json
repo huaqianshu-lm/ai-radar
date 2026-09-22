@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/21/jev",
+  "content_hash": "6e989293ecd85038ed0cddd8c9971c2838bc07af44540eeb55bab63562c8eafc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b3e5263fa8976c3c350c33df9ec421c41cbdbbd165fe3bb42967f80527fc4e74",
+    "title": "Jev 推出了一种新型 LLM：System One，即 Decision Models",
+    "summary": "上周 TypeSafe AI 推出了 Jev，这是他们全新模型类别中的首款产品，被称为“System One models”"
+  }
+}

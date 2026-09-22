@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/python-workers-ga",
+  "content_hash": "c99b994318a459ed9a0d23afb6119453804024c3c6eb80c8da3026e09f80f367",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f07239c5823ee40ec1a0b25c4bd8d8e83cd093e722900cace77c9e67a47ff4a0",
+    "title": "Python Workers 现已正式可用",
+    "summary": "Python Workers 允许开发者在 Cloudflare Workers 运行时中原生运行 Python Web 框架和 AI 编排库，您可以无缝进行集成……"
+  }
+}

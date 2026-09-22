@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/v7",
+  "content_hash": "54934082897239bbfb4e0c39d28286ce06d6c9a7de668cdc1221e36198d68221",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d2871d486c61275aa18316221b2aa4fe0c0c7a730e7f24a395d9c1672c5c3fc3",
+    "title": "V7 如何为 AI agents 提供机构记忆",
+    "summary": "V7 使用 GPT-5.6 将零散的公司文件转化为上下文，供 agents 用于完成复杂且附带来源链接的工作。"
+  }
+}

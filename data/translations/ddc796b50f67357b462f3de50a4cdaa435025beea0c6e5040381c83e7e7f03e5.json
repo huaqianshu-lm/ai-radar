@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker",
+  "content_hash": "491d5d611307c7fd6dcbb2b8bddffb65f5f8f7dafbd97d8b644e96334c94d19c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b3a971b72e2de3b7e5ee181a7d2a05d041c795e06db077c6f9d279e3fd54aa32",
+    "title": "Cloudflare Python Workers 现已正式发布",
+    "summary": "经过两年的预览期，Cloudflare 在其服务端 Workers 平台上对运行 Python 代码的支持现已正式可用。"
+  }
+}

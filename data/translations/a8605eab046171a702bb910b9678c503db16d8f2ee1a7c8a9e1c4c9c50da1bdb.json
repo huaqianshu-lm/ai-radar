@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+  "content_hash": "7ad69b6a470081b065289446f5236bcccb2dac96345b544b48ebeb7cd8b135b9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dba07340de7f5be442dec4062f5bfd03ede0fd9927e7d21c1ced0236acde03ff",
+    "title": "Claude Status – Elevated errors for multiple models：原文摘要",
+    "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=49795579 Original URL: https://status.claude.com/incidents/7g1qpkyz5gxh Author: corvad Score: 26"
+  }
+}

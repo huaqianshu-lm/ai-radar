@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+  "content_hash": "bb1c8d6b01f23b70d7befa318064cf245a70f9922a249ff5770b902f4d596a29",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "08ffdb24bebd9aa2ffda2f849b7e7af9dba92daa36ecb3bc96d64f49fd7ead95",
+    "title": "数学与人工智能咨询小组",
+    "summary": "OpenAI 正在与一个独立的数学与人工智能咨询小组合作，以指导新兴 AI 成果的审查与沟通。"
+  }
+}

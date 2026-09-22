@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/TNT-Likely/PanWatch",
+  "content_hash": "3c5d48bfdc185d82ee1dc38e8825a48717faca8685c6e570b35d4a018802ae93",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "377ade1aa2fc908787e19172f8a97204fe01da87ba04b00027269df97783dd8a",
+    "title": "TNT-Likely / PanWatch：盯盘侠 PanWatch 是一个自托管的 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策，支持 A股、港股和美股的实时监控、持仓管理、智能分析以及全渠道推送",
+    "summary": "盯盘侠 PanWatch 是一个自托管的 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策，支持 A股、港股和美股的实时监控、持仓管理、智能分析以及全渠道推送。"
+  }
+}

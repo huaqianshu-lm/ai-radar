@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://linear.app/now/ci-bottleneck-reworked",
+  "content_hash": "b11808dadcdb60ed75e2d34dc57bff3a6d4414bcefc6ecd189846370a280ca30",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "680b009e86cf9817bb71de62d4ded7d153383e0ed79825c1ee260a130a206da0",
+    "title": "AI 编程让 CI 成为瓶颈，我们重新构建了 CI 以跟上进度",
+    "summary": "HN 故事链接：https://news.ycombinator.com/item?id=49792067，原始网址：https://linear.app/now/ci-bottleneck-reworked，作者：julian_digital，得分：137。"
+  }
+}

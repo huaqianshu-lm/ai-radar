@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/mvt-project/mvt",
+  "content_hash": "6ed5b82952be2c7452d8b03d6e4c204543e4c06883b4b9d3b8ec18b52a518998",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8314ef7303d703cf7dc6d03c1a18db409329f559f935273653cebc8a64444893",
+    "title": "mvt-project / mvt 移动设备取证工具",
+    "summary": "MVT (Mobile Verification Toolkit) 用于对移动设备进行取证，以查找潜在受攻击的迹象。开发语言为 Python。"
+  }
+}
