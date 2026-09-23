@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://benchmarkheaven.com/jev-models",
+  "content_hash": "ba53e04597b0ed3f708e293653f1e066ed21e16632db893a615b7e448d1b29c0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c8901fa7de950728f6f2a7314d568f8638a28949fa68683f17a72c00d602c578",
+    "title": "Show HN：JevBench，用于类型化决策模型的开源可复现基准测试",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49800574，作者：florianstandhar，分数：60，我构建了 JevBench..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/omlx",
+  "content_hash": "e61b59b6fd6117fd1b09f2cc1a4cf8a7c01f947c6bdbd4bd05f9124d06e0b65b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6b3083011aeb49b1cc1d670c7a6b978a0e574dd3aa04f209e3cfec07c825f88d",
+    "title": "oMLX 创作者兼维护者 Jun Kim 加入 Hugging Face 以支持 MLX 社区",
+    "summary": "MLX 是苹果用于本地 AI 的框架，针对 Apple Silicon 进行了特别优化..."
+  }
+}

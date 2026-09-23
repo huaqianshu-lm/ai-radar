@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+  "content_hash": "c94ba3a4658a7f45663ddae99755ae2717b2017294a208f836ca9f0b941d2458",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a5b36cacee49813fb9bb038a897ad61c8a89eb28ff9830442e1602a318b0a948",
+    "title": "五角大楼称过度依赖 AI 导致了对伊朗学校的导弹袭击",
+    "summary": "彭博社报道称，五角大楼表示过度依赖人工智能是导致袭击伊朗学校的因素之一。"
+  }
+}

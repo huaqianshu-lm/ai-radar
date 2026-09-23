@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/john-platt",
+  "content_hash": "7d2ae4e09f04cba507e8ff7c90c917c4a9a43bfc8caec1d49f083687bf630df0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "709f0ba0cc6c91a33f3c44e186bbe1262e3f8448e34d7d12f6d37902856efe77",
+    "title": "🔬 一个奥斯卡奖、两颗小行星以及 sklearn 中的算法：John Platt 谈科学 AI",
+    "summary": "我们与谷歌获得奥斯卡奖的“超级书呆子”讨论了自动化科学、解决气候变化问题，以及在人工智能时代新一代如何为科学做出贡献。"
+  }
+}

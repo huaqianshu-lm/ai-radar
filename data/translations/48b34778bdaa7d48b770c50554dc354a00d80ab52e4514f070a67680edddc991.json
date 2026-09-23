@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "content_hash": "8537b49fe6aae78e12a00eb803a5d5524e3f81219638903f2225becca645b42b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "689d78c6e007ab8e2c4f1996bb4d798c0801548871029acd469c087e5a6afc90",
+    "title": "Transformers 现在可以运行 llama.cpp 量化模型",
+    "summary": "我们正在添加对在 transformers 中高效运行 GGUF 模型支持，以便你可以使用适合你设备大小的检查点。"
+  }
+}

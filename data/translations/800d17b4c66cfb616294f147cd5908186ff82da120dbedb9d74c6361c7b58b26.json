@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/22/llm-anthropic",
+  "content_hash": "b3122c97b815e51ff48e8d17e48d645818365e5c49ebd07c18b3165e42ab4309",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8f820c2b26f6994aca7606233df23ee20770a9fa98ce92d099dc3f765615eb5a",
+    "title": "llm-anthropic 0.29：发布：llm-anthropic 0.29，添加了对 Claude Opus 5.5 的支持：llm -m claude-opus-5.5 \"prompt goes here\"",
+    "summary": "发布：llm-anthropic 0.29，添加了对 Claude Opus 5.5 的支持：llm -m claude-opus-5.5 \"prompt goes here\"。标签：llm，anthropic"
+  }
+}

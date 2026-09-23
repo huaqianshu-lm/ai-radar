@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/22/llm-typesafe",
+  "content_hash": "b60482302aee960750b1dd19e9bec86cd7399e6ce1a6a3562a7ae4006882e39b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0d7b498b4e4acf53536241240c81a8486edc16debe4534e0908265746ac63924",
+    "title": "llm-typesafe 0.1a0：发布：llm-typesafe 0.1a0，我为 LLM 构建了这个新插件，以增加对 TypeSafe AI 的新 Jev 模型的支持",
+    "summary": "发布：llm-typesafe 0.1a0，我为 LLM 构建了这个新插件，以增加对 TypeSafe AI 的新 Jev 模型的支持。安装方式：llm install llm-typesafe..."
+  }
+}

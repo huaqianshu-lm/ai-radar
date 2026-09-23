@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+  "content_hash": "de3ecfba36e5b2a33050b3252150e085c4c4bdc58c33b3dc96ccc15bb33b3749",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f9027d80e820682e90d7e8a7deab6fe99d243c44073836087c19a4dccdea5fb4",
+    "title": "GPT-6 的更好提示词缓存",
+    "summary": "了解 GPT-6 如何通过更高的缓存命中率、新诊断、显式断点以及减少延迟和成本的控制来改进提示词缓存。"
+  }
+}

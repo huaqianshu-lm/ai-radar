@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/22/llm",
+  "content_hash": "4a95f85fd949d7216d420952b29ca21c01d9699e2c0e9432888b7fab1efe2910",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2e8a5e66791ed5074d009359fcc09ca327b7a3f2fc03d1c0a4e95d5767d68e5d",
+    "title": "llm 0.36：发布：llm 0.36，包含新的 OpenAI 模型：用于 GPT-6 Sol 的 gpt-6-sol 和用于 GPT-6 Luna 的 gpt-6-luna",
+    "summary": "发布：llm 0.36，包含新的 OpenAI 模型：用于 GPT-6 Sol 的 gpt-6-sol 和用于 GPT-6 Luna 的 gpt-6-luna。模型插件现在可以声明 supports_conversation = False..."
+  }
+}

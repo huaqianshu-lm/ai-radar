@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/priorities-principles-third-party-assessments",
+  "content_hash": "13a93d9c5bd00443102da693020f4327fd78828952378bbcb7de7949800b2e26",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "60efaf744a4d6c2c20e9e8f1dc0a4ae280a89a1d1a7f55c198827b62cda36b8e",
+    "title": "有效第三方评估的优先级与原则",
+    "summary": "OpenAI 概述了针对前沿模型和安全防护网进行严谨、安全且独立的第三方 AI 安全评估的优先级与原则。"
+  }
+}

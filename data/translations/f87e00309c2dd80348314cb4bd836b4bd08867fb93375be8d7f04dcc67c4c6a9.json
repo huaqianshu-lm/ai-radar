@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+  "content_hash": "a3fad766b854c27c259fe66be9a71c1fb3269e95646d446efee7c23e9d6cb2a5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6d6d661c684a6428063e4ff4d67a6abb31e79a247ffef8fc0ef6bfe2c80c834b",
+    "title": "Claude Opus 5.5、GPT-6 Sol、GPT-6 Luna 与新价格战",
+    "summary": "昨天发布了 Grok 4.7 和 MiMo v2.6 Flash/Pro。今天 Anthropic 发布了 Claude Opus 5.5，大约一小时后 OpenAI 发布了..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+  "content_hash": "0c666845701f07ff98f21695f903a4eb5dd38c2a0abf89ecca4717ea4a196136",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3fcefd9c665fb2c2484965cf43548bc94be5c40db4dc345287024e6c77f2703e",
+    "title": "使用 GPT-6 Astra 将研究时间和成本减半",
+    "summary": "与先前模型相比，GPT-6 Astra 使 Parallel 的智能体能够以一半的时间和一半的成本研究并综合劳动力市场数据。"
+  }
+}

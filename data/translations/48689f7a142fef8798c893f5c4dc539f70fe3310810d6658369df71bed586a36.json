@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-09-22",
+  "content_hash": "c257fc9d76cc3e21691c3610a21ef75204af782745ed74b8da138a75a0645348",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cac5469b40efe3de124b604c9813197f649294e1f30421e422a926f4face216a",
+    "title": "Opus 5.5 即将推出 ⏳，Grok 4.7 🚀，MiMo v2.6 🤖",
+    "summary": "AI 安全关乎是否担心将数据发送到不受控制的 AI..."
+  }
+}

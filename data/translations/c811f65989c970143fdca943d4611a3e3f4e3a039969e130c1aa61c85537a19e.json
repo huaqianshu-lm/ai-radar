@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/evaleval-aisi",
+  "content_hash": "478a3f80eea652d50870e77f7a2d6857da91d081e4102a0ff3ad1ff3a6e28c12",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e9f63aa1f7aaa02f4024a14154a47668586b26d73f72e5b77e702319146aa96f",
+    "title": "英国 AISI 和 EvalEval 如何实现基准测试结果的可重复性",
+    "summary": "AISI 和 EvalEval 此前曾在联合研讨会上开始的研究进行过合作..."
+  }
+}
