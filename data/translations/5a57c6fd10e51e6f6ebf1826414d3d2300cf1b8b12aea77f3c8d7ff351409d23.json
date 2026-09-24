@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Comfy-Org/ComfyUI",
+  "content_hash": "272c5db43d16d9b7aa5a0c2547707c8a61eb070536a9254f0abb9532f1fc9626",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "32faae70661994ba1796ad95e82528ca1b7110cfa13cf530cd8b2ca150fb181d",
+    "title": "Comfy-Org / ComfyUI：模块化扩散模型图形用户界面",
+    "summary": "功能最强大且模块化的扩散模型图形界面、API 和后端，采用图/节点接口，使用 Python 编写。"
+  }
+}

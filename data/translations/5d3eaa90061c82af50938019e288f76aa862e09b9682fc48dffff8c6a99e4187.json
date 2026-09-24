@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/HKUDS/CLI-Anything",
+  "content_hash": "1c7cbcd7d61f66613ccc8c9de213d1975d8d7a75d7f5ee1799e4377bde3a1ba7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5dd922e14c0ccf9b5c66ad63951d5dcf462757fcde6001d6834f45d0be1446d2",
+    "title": "HKUDS / CLI-Anything：CLI-Anything：让所有软件原生支持 Agent",
+    "summary": "CLI-Anything：让所有软件原生支持 Agent。使用 Python 开发，获得了较高关注。"
+  }
+}

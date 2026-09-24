@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/ULKVWDG6Q7YTOK",
+  "content_hash": "a69bae865b7c975bfabae393501f601087b8190dc532995e43c0ab1c45d29ba0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4591299c35445c990e8f52fd4b10bef0cf8e3c673c88dd594af6820be4f89386",
+    "title": "Product Hunt: Jev State — 将 AI 对话转化为测试与可运行代码",
+    "summary": "一个能够把 AI 对话内容转化为自动化测试和可执行代码的工具。"
+  }
+}

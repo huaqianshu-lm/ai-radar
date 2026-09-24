@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-09-23",
+  "content_hash": "f39a03bde16a5adb071661f33c2091deb376f296bd7578e5bb8e367a5d4873f7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "25d57595bd1dd7f1ddbc794a333d0d5cd66be0d0a34c376e99f2aec980f82d2d",
+    "title": "GPT-6、Opus 5.5 以及联合国 AI 领导人动态",
+    "summary": "OpenAI 推出了速度更快、更经济的 GPT-6 Sol 和 Luna 模型。"
+  }
+}

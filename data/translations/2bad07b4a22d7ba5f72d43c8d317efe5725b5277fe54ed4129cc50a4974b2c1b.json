@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+  "content_hash": "360558d5f6a280c0204a6984da1b86c3877b05f40eb43018ceb118a161dceb4c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3336633e70bcfc638778b58cf5ee15cbab244db728e773d64679e793d00713ab",
+    "title": "Linux 支持即将登陆 Snapdragon X2 系列",
+    "summary": "高通在骁龙峰会上宣布 Linux 系统支持即将登陆 Snapdragon X2 系列面向 Agentic AI 的 PC 产品。"
+  }
+}

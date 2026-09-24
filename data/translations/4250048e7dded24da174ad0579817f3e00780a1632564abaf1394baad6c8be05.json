@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/HM6M2YVM5UHR65",
+  "content_hash": "d0fe038b5ae1038e04b4db75f4232fbf9a44d1e8b5459ca0a579b79d3209531d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7845a89b22b673563a811e953c99620b0c6901020d99214cde6f16c1996051a0",
+    "title": "Product Hunt: Claude Opus 5.5 — Anthropic 全新 Claude 5.5 系列的首个模型",
+    "summary": "Anthropic 推出的全新 Claude 5.5 产品系列中的首个模型 Claude Opus 5.5。"
+  }
+}

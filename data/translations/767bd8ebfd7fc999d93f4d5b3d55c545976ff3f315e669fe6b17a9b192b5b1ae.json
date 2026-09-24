@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground",
+  "content_hash": "ea03d6b4c24a444872fb3f237c7e20d8bd9fbad6b8b34b666666c5401ca51222",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e47986333e4f676639222cbdad9fb004c38dc6b4f9cebf9b27c199034c2d9cdf",
+    "title": "Gemini 3.8 TTS 演练场",
+    "summary": "谷歌今日发布了两个新的 Gemini 文本转语音模型：gemini-3.8-flash-tts 和 gemini-3.8-flash-lite-tts。"
+  }
+}

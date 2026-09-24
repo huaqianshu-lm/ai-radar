@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/IGFJIPCFXEAE6A",
+  "content_hash": "3950701afa4d3d5425a7ca1ac3a0393d5a2d29e4f5ccefad8ae394494ded9a87",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7044469fe120e1b04afb65a8b3d68cfdac7f5968b04c89827b6f50a56f1cbf87",
+    "title": "Product Hunt: Solid — 拥有自己的计算机、账户和预算的 Agent",
+    "summary": "具备独立计算机、账户和资金预算的自主 AI Agent 系统。"
+  }
+}

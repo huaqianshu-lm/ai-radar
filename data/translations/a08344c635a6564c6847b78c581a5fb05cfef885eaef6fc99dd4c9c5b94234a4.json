@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/F3CWRHCXYN5RTR",
+  "content_hash": "b661b778df4f0df88a9d2daf6602b71d45d56906f8776c1818195e76cf03dcbe",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c57b3b0a7910696eb63a062f3da1f3d52fad8adaaf473a191fc6125872f6a0f5",
+    "title": "Product Hunt: RankControl — 被 ChatGPT 引用并在 Google 上获得排名",
+    "summary": "帮助产品在 ChatGPT 中被引用并在 Google 搜索中获得更高排名的工具。"
+  }
+}

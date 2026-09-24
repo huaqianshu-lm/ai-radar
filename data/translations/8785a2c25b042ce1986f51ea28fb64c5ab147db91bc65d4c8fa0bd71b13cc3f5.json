@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech",
+  "content_hash": "06550427e67d7014f4ee09847a6e768d9d945ae02d886ba1a4b91605aa724f60",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b1f9c7a504c77281d3101d70c5b9ddb7431b9a9bebe0d5ff2d0d4593de75930c",
+    "title": "Gemini 3.8 文本转语音",
+    "summary": "Google 发布了关于 Gemini 3.8 文本转语音模型与研究的相关内容。"
+  }
+}

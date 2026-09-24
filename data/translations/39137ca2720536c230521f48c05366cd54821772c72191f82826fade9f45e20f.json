@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+  "content_hash": "0ec12ba4dc0e2b63c44ffd1f004dd3c6b1d8d77fc2cf77ee1a514b37b91cdf00",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f2ff7f76056120414cf01f1bb6ef7b8e983d9d91ccfa0c5266573b74a0f9d93f",
+    "title": "invideo 如何借助 GPT-6 Astra 将调色效率提升 3 倍",
+    "summary": "借助 GPT-6 Astra，invideo 能够以更高的精度规划编辑、将色彩校正与调色效率提升三倍，并在一天内制作出 50 种自定义效果。"
+  }
+}

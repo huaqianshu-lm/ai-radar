@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/introducing-mentalhealthbench",
+  "content_hash": "283585ca05daa19006f878279ebe9d96b7b493a5547cff208820e686b6a44ec4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3d7b9aab56c8f4fe22c00cc0057db0cb0a00b0a30d0d99d476abe36917bfac64",
+    "title": "MentalHealthBench：评估心理健康对话中 AI 表现的基准",
+    "summary": "MentalHealthBench 是一个由专家提供的基准，用于在现实的心理健康对话中评估 AI 回答的有用性和安全性。"
+  }
+}

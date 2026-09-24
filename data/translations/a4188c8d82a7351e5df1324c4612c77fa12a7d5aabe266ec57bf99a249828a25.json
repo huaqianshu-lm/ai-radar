@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+  "content_hash": "ba8c0c6948d40b8a3d3121b982b708ed77822f958806f28f8b6b8bcaba41b8c0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "30aa7c0acfe7f3809f1c0c2e3d8197e23f507daa6c3cae8fb2a05da2a018d4df",
+    "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流",
+    "summary": "基于 NVIDIA Warp 构建的 MuJoCo Warp (MJWarp) 可接入兼容的 MuJoCo 模型。"
+  }
+}

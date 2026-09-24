@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/23/shadow-roots",
+  "content_hash": "cd209be175acc1a99a6bced1c10419845945e3ecbe6551b879d0e286b836f6e1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c81040207630f754b0fb72cfbc05945b188ecfd46926ac193c66ad2994400cc4",
+    "title": "Shadow roots（影子根）及其动态示例详解",
+    "summary": "构建一个工件，通过互动示例来解释 CSS 中的 shadow roots。"
+  }
+}

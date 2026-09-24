@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+  "content_hash": "ddbfbab8126e091a5edd05805e7e715354f26f0af1eba4311e7cce27080826bd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "19163c30f0a4c92555051d9a95875a42a5136c8cdeed8dd604a02883f528cc53",
+    "title": "[AI 新闻] Claude Opus 5.5 成为 AINews 的新默认模型，各家普遍降价 40-50%",
+    "summary": "此举盖过了 OpenAI 更高效的 GPT-6 模型的风头。"
+  }
+}

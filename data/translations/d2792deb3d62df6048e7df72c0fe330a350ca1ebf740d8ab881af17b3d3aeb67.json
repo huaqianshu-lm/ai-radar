@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+  "content_hash": "d1314c43bb51b35cad42eaff3f43f86a2629fd10bfc52c4a27796bef3f9f5e50",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "347b65ce144a221e189c1995b6f8e902fff172db7617e6d8030d51c8740ce826",
+    "title": "Sam Altman 在联合国安理会上的发言",
+    "summary": "OpenAI 首席执行官 Sam Altman 在联合国安理会的发言中讨论了 AI 安全、人类控制以及国际合作。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/airbnb-gpt-6-astra",
+  "content_hash": "59800438dd04fe1b2bf557a973acc73e03eea4aade6b6ab284356adfeb4456c2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0765deb144589280c16b6c389f4ff0fb7d519b5edcb7c4cad6d5247ca7a27572",
+    "title": "Airbnb 扩大 GPT-6 Astra 及 OpenAI 前沿模型的应用范围",
+    "summary": "Airbnb 正扩大对 GPT-6 Astra 和 OpenAI 前沿模型的访问权限，以帮助工程团队解决漏洞、设计系统并更快地交付产品。"
+  }
+}

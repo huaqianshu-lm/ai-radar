@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+  "content_hash": "6c423891fa82cbde9936396522dc4b9f606fe0c520ec0dbf12f101a7b77d1004",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "52b80abd4e046c041ffbe2a48399ded2b227e51686189386944c8dd9b0045fd6",
+    "title": "Harvey 利用 GPT-6 Astra 将法律背景转化为更高质量的初稿",
+    "summary": "GPT-6 Astra 生成结构更清晰、更具上下文感知的法律文件，从而让律师能够专注于策略。"
+  }
+}

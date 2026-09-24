@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/mistral-x-humain",
+  "content_hash": "294a08448d1c6b628d8ee9ebe6ed3bbfe9f97c5a7463db821cd09bc37bf8025b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cb7928ba1a13a260a9b5b33777912b232664293c964c4974a9c6bf8ececed27c",
+    "title": "Mistral 与 HUMAIN 合作 —— Mistral",
+    "summary": "过去几周里，我们宣布了多项重要举措，通过增加本地基础设施容量的访问权限来扩展主权 AI。"
+  }
+}

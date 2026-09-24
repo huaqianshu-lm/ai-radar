@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://artificialanalysis.ai/models/mercury-2-5",
+  "content_hash": "c385d166a26a84118e750046985dadee1a88cd7211fceae4f748b9769b44ddc8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "097dfe5b1a77c69d8c8b98c14cb2a00f6eb4350e2cf37638d72c380d71741495",
+    "title": "Mercury 2.5 LLM 达到每秒 770 个 Token 的速度",
+    "summary": "Artificial Analysis 数据显示，Mercury 2.5 大语言模型的运行速度达到了每秒 770 个 Token。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
+  "content_hash": "f07b17634b4415977a99e780b7603f4db251cb7e3c8a493ac652cfa633c50bcf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b63975ba8e12264db65276843693b3ab44ab88163f185a2eef1fefc0f92983d4",
+    "title": "Claude Code 仅在开启遥测时读取 AGENTS.md（已修复）",
+    "summary": "相关讨论指出 Claude Code 仅在开启遥测功能时才会读取 AGENTS.md 文件，目前该问题已被修复。"
+  }
+}

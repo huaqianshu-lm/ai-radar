@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+  "content_hash": "189b7e22d3e0aa9a1593e04ce944e7554d57dd2b5adb066b116638ddff15c033",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "49491069707aafe8da99e0ff81f543a234ce71c953ec13da1d0e0254c80749f2",
+    "title": "一旦 Claude 能够进行测量，它就能变得更快",
+    "summary": "Claude 官方博客介绍了团队是如何通过测量和优化来让 Claude AI 运行得更快的。"
+  }
+}

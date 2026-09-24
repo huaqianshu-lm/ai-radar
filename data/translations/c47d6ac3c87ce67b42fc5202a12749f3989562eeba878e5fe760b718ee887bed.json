@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/ringg",
+  "content_hash": "b1fad385fc9066924463fe5616f15a85c48a502f13335a433365052588dabd5c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4e56c7312349a760a0edf744bd151f1352583693dfaa6156b9b09ca8e15ad634",
+    "title": "Ringg 的 AI 智能体通过 OpenAI 解决高达 65% 的客户呼叫",
+    "summary": "借助 GPT-5.6，Ringg 能够以比 GPT-4.1 低 90% 的成本，在语音、聊天、WhatsApp 和网页端为多语言智能体提供动力。"
+  }
+}

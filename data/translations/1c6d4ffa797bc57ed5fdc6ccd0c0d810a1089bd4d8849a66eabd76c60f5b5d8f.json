@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+  "content_hash": "5248de663c41ea46e7c2fc5ebcab54c3d65e4a01f176af15aff80261ad9604a8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1043d9fe80283e6f409b90e0f5f76b98d960cc337ee42f5d79ea8cfadd9a93c0",
+    "title": "谷歌深度思维：利用安全的服务器端内存推进私有 AI 计算",
+    "summary": "关于私有 AI 计算架构的技术更新，该架构将支持持久、跨设备的特性。"
+  }
+}

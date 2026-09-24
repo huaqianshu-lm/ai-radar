@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+  "content_hash": "72f27aa37a6e1644a9b3781730e961467a57076e643e72d1b0713930162f9544",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "69839069a6e7ae5407272ecf5890a3b183ec11d56da81c97af0d512f0c87f033",
+    "title": "Stripe 的知识 AI 平台",
+    "summary": "Stripe 推出了其知识 AI 平台，相关博客介绍了该平台的详细信息。"
+  }
+}

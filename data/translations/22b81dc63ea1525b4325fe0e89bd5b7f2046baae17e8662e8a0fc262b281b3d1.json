@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/NKDWMVCB4522FB",
+  "content_hash": "fd1703b47606d4f207229db24a30436c27eb241f3a5a3549d04e85017c495a87",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8747200f7b9796fda7dcd47375f3cdf3782ff75dd3749c48504a40d4dc4f68e8",
+    "title": "Product Hunt: Speechka — 听起来就像你本人的实时语音翻译",
+    "summary": "能够保持个人音色特征的实时语音翻译 AI 工具。"
+  }
+}
