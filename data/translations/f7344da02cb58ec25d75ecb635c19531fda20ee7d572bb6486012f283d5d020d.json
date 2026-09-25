@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Parcha-ai/agentrun",
+  "content_hash": "f12f26d225f3984c05dc99f31b0350f492185ee939d392cb734fe4bb798c689e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8bf440f9048ed7d6ed5a3b35838ca62c606c46d7441d2e8b43033c7e78a3b8d5",
+    "title": "Show HN：AgentRun：将代理转化为工作流的 DSL",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49821438。原链接：https://github.com/Parcha-ai/agentrun。作者：miguelrios。得分：39。大家好，我刚开源了..."
+  }
+}

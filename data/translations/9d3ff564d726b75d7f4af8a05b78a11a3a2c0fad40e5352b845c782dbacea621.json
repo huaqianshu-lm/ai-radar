@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/op7418/Humanizer-zh",
+  "content_hash": "51fc1f890daaa70c60bb84b963a5f83c42ef702db43688bf5cb478d5aac400bc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "22177f3fb2c1730209c283551212195338e2da0dd2e8130fb4a88b72fe852049",
+    "title": "op7418 / Humanizer-zh：Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹",
+    "summary": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。使用 Python 编写，今日获得 249 个 star。"
+  }
+}

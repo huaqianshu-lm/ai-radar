@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/vectorize-io/hindsight",
+  "content_hash": "3c7710ff491838b086d669e1734957c4055cca0ef65c261a879159d53eca0ad3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ef1d62b18b98cdd0e33916389230631750b2d64017d12c6f3569729f48d72ccc",
+    "title": "vectorize-io / hindsight：Hindsight：能学习的代理内存",
+    "summary": "Hindsight：能学习的代理内存。使用 Python 编写，拥有 1,668 个 star。"
+  }
+}

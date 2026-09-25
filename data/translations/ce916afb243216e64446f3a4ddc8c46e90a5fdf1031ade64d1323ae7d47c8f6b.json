@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/NVIDIA/Model-Optimizer",
+  "content_hash": "e09b18539e8513f86411ede181033a6f6533cfd5a4dc81d88ce1f13630c45bb2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a7d71b83b1ba51baa236ae23f6386cf3a808a678868281064eeeedf148788fd9",
+    "title": "NVIDIA / Model-Optimizer：一个统一的 SOTA 模型优化技术库，包含量化、蒸馏、剪枝、神经架构搜索、投机解码等",
+    "summary": "一个统一的 SOTA 模型优化技术库，包含量化、蒸馏、剪枝、神经架构搜索、投机解码等。它汇集了..."
+  }
+}

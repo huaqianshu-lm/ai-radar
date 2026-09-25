@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/24/datasette",
+  "content_hash": "c3a50a696d62dc98c3dda5fa70ff29fa6ce2f3be54af18980cba1c454619f7d1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0fc7c0f362de8929a220430d0a0a3f3db010e53dc9ebd9592bf08fb6217427cd",
+    "title": "datasette 1.0a41：发布：datasette 1.0a41",
+    "summary": "发布：datasette 1.0a41。Alec Garcia 在此版本中为 Datasette 添加了对 OpenTelemetry 的支持。我还将 Datasette 的所有模态对话框重构为..."
+  }
+}

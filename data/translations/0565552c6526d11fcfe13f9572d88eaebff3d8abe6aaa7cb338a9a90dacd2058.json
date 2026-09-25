@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
+  "content_hash": "1a5fd8354e6e9b6b0142faf30084af7d97c82da324ca1c183572572ff37cca31",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5e4e2324e77ceb852b04998fb2ec95cb742104ddb13ae9feb3e78bdfd788a38e",
+    "title": "谷歌的 Suncatcher 项目计划将机器学习基础设施部署到太空",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49830606。原链接：https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-s..."
+  }
+}

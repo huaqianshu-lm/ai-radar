@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.critic.run/",
+  "content_hash": "2d142e505bccabf2c4b5d2cb2615888eb7dff00207a247e044e5ae3d3eff301f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5a1b3133476ae48775d4f45f7bca6236ae6b92195bd03d6d1f44768865e718db",
+    "title": "Show HN：Critic – 用编写代码的代理来审查代码",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49834098。原链接：https://www.critic.run/。作者：snyy。得分：7。嗨，HN，我是来自 Feyn 的 Shreyash。我们帮助公司..."
+  }
+}

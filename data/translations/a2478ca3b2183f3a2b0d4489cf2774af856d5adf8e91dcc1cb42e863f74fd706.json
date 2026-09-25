@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://transluce.org/agent-activity",
+  "content_hash": "bafd3e589c852dc6298cc088a653c04de0fcec1dd8142b308abf7351ffdb78ef",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e5a8f0f458eaba583740ce10c1d2f79aeb23a63b9633f12fb0df9a86f08811ae",
+    "title": "在 urlquery.net 上发现早期恶意 AI 代理活动和黑客尝试",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49826565。原链接：https://transluce.org/agent-activity。作者：snikolaev。得分：242。"
+  }
+}

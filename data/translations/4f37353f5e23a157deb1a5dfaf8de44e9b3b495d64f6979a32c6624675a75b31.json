@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/24/commit-rewriter",
+  "content_hash": "e4aaf488e52481a16227d4c76a52135602ef8cb693f69accccece6076ab05455",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5159a3d492b232993c37a54ba7e78171c571e7754ea6f8a98fe90ee85062fb01",
+    "title": "commit-rewriter 0.2：发布：commit-rewriter 0.2",
+    "summary": "发布：commit-rewriter 0.2。支持默认分支以外的分支。使用 uvx commit-rewriter --branch other 在其他分支上运行。#3 标签：..."
+  }
+}

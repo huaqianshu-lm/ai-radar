@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/legacy-code-modernization",
+  "content_hash": "1f150d4e8a2bd64895e0048664a6c26ed2f969a38b70fdf05d794ec69ff3621b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "56bfec926244076beb99d79b294acced29a6c3e3551d80cd931e00b960b3116f",
+    "title": "使用 AI 代理现代化复杂的遗留代码 | Mistral",
+    "summary": "遗留代码现代化极具挑战性，尤其是将复杂的 Fortran 77 系统迁移到现代 C++ 时。Mistral 成功迁移了 40 个代码系统。"
+  }
+}

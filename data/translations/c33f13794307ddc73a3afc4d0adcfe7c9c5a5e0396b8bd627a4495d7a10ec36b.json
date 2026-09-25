@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-09-24",
+  "content_hash": "c4ed8c68582772b564bd0c589595e368ebd3a1698afc0f3b125cb213f48c83e8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c2f6222747c841fbe252a84d50ec1ab23893f1c68ba1bb245b750de3635677c6",
+    "title": "Gemini TTS、Claude 的新型酶以及 Google 私有内存",
+    "summary": "战斗机器人、F1、AI 代理实验室和辣翅有什么共同点？它们都将在 FC26 上上演。9 月 29 日至 10 月，在旧金山加入 3000 多名 AI 工程师和领导者的行列。"
+  }
+}
