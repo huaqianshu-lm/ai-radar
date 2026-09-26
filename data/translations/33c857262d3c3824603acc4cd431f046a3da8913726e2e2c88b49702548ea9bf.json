@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://swarmtraces.org/",
+  "content_hash": "e74813b0046c18d66616849e2c4dccf5fa5934e4867457566010c7800d0388a5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9973f8e7ebb5939a587ed163958ef7e7449742952df845b8c3a44cf31053d9aa",
+    "title": "揭秘 OpenAI 智能体如何黑客攻击 Hugging Face 的细节",
+    "summary": "Hacker News 讨论帖，披露 OpenAI 智能体相关安全测试与攻击细节的来源文章。"
+  }
+}

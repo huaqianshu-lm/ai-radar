@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/turnstile-spin",
+  "content_hash": "56dd38ca2de77d775560d7d7c7d85b8a06f3e96bc86a7009c348e509f18e52ca",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "25e1a4781366d77decd127b992f2812314d0b4f48210b066f03ae740e6c1aae2",
+    "title": "智能体现在可以使用 Turnstile Spin 设置您的网站安全",
+    "summary": "由于跳过后端验证而错误配置 Turnstile 会使网站面临机器人攻击风险。Turnstile Spin 通过使用您首选的 AI 编码智能体来修复不完整的配置。"
+  }
+}

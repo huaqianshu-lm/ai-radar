@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25",
+  "content_hash": "9fbe90c2ef6ee9a4e892c5d391887c305413122df201edbe3812512ef88aac00",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "47c113ba5cf018ce74fa113d4694bd45e05f164abeba64d395f7bcb77ad06a6e",
+    "title": "FTC 主席建议 AI 开发者应对 Agent 的行为承担责任",
+    "summary": "FTC 主席对将 AI agent 视为独立行动主体的做法提出异议，认为 AI 开发者应当为其行为负责。"
+  }
+}

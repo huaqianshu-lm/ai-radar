@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/GC7XEAGTIX7MVU",
+  "content_hash": "5970ae40012ffb21f3812f110debe077fc87acc45482af366624fdc542821bf6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "93ce6444e70649c915900924638c2a1992df7a3cb53bdc122a96d21fb42d0417",
+    "title": "Product Hunt: Jango — 用模仿真实用户的 AI 代理测试多用户应用",
+    "summary": "Jango 利用表现得如同真实用户一般的 AI agent 来测试多用户应用程序。"
+  }
+}

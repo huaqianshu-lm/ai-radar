@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/runway",
+  "content_hash": "97913d4d2a1f67bfa092797a916b08b71cea088c46883b42d8c309debda81d42",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "80e2b78c480da5f78673eeff8643226187486fae7ce2e0cb63238140c7940653",
+    "title": "Runway 的 WorldPrompt 与实时世界的工程实现",
+    "summary": "GWM Worlds 2 利用持久上下文和定时动作来引导实时生成视频和音频的世界模型。"
+  }
+}

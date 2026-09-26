@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/Z57Z5UBW56PV67",
+  "content_hash": "7803d73656201f79dd5d767fe920a6d703b01a787f1acc2a1b80c8463a356ef5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "70686133d1129cc3b277ada3e481e36814659c8c49f5d2dc7581435a80b2a3f4",
+    "title": "Product Hunt: SocialGPT — 通过与时间轴对话来剪辑视频",
+    "summary": "SocialGPT 允许用户通过直接与视频时间轴进行对话聊天来编辑视频内容。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+  "content_hash": "414f3ca7853ef0c81ad3d698ac18a8f9ef47b70110dcb2600011b8274a6e0385",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0bd00b780691216b175b03a1d944d0424d0beb72b8eaf0927b59b5e1b0532d3d",
+    "title": "微软通过重构 Copilot 放弃个人 AI 聊天机器人竞赛",
+    "summary": "Hacker News 讨论帖，报道微软相关战略调整。"
+  }
+}

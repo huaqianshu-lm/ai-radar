@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/25/john-gruber",
+  "content_hash": "e0d873d80f17915640fb661a7e5ee3848d6e75b54b7259ffa5ce0bdb8641ce7f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b467d6accdc2d682505c315d17a3af0f8069145bd101a62d37c1a6066a98f86e",
+    "title": "引用 John Gruber",
+    "summary": "Muse 正在获得大量关注（包括我），因为它在技术上具有突破性（每个用户都运行自己的整个持久 Linux 虚拟机...）。"
+  }
+}

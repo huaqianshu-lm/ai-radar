@@ -1,0 +1,17 @@
+---
+title: "NVIDIA / Model-Optimizer"
+url: "https://github.com/NVIDIA/Model-Optimizer"
+source_url: "https://github.com/NVIDIA/Model-Optimizer"
+canonical_url: "https://github.com/NVIDIA/Model-Optimizer"
+source: "GitHub Trending Python"
+source_type: "developer"
+published_at: ""
+fetched_at: "2026-09-26T01:14:49+00:00"
+content_type: "markdown"
+is_list_page: false
+---
+
+A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
+
+- Language: Python
+- 359 stars today

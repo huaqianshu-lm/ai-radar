@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon",
+  "content_hash": "db48c1ad5116edef6fb4b07435247706af18ec0d3e546122690c7a708d4ae92f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dbe88f134770f7e243cc12c57744d53d01b6e09fb508f69e3971cf29bdd782d7",
+    "title": "教导世界模型玩宝可梦",
+    "summary": "Hacker News 讨论帖，介绍如何训练世界模型来游玩宝可梦游戏。"
+  }
+}

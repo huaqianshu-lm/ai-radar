@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/openrouter",
+  "content_hash": "43c2b88d7d81953d2b2bbdf9e3b0da41191036076c5097ec981f8a98d6c95afe",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bfe1ce9ba4eb0335eda4f309e53f2d1c8370e4ac54d59254b0cfe195a5f6c4a7",
+    "title": "OpenRouter：从种子轮到 Stripe——对话 OpenRouter 的 Alex Atallah 与 AMP 的 Anjney Midha",
+    "summary": "在 2023 年，大多数人怀疑前沿模型实验室能否超过 1 或 2 家。现在有几十家……而 Stripe 刚刚以 70 亿美元收购了其中最知名的一家……"
+  }
+}

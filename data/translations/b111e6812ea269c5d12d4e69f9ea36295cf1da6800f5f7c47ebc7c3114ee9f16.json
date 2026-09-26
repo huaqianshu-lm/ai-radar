@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+  "content_hash": "0e1643678032362314150abdfc2da8891fa8098e13b9b0fd0f8b03804f0ee906",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4bfa8e77beb059840ac2a84b95c69e6c17f35d1d49a38d3534721e1a680edee1",
+    "title": "美国上诉法院维持将 Anthropic 列为供应链风险的决定",
+    "summary": "Hacker News 讨论帖，关于美国上诉法院对 Anthropic 相关风险认定的裁决。"
+  }
+}

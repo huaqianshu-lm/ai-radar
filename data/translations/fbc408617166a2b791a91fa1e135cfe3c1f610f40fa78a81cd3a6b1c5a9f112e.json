@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://ollaya.dev/",
+  "content_hash": "3beeb7913344f8f6aac2ec48cee3acdd59b40c310177ea9e5b386ccd2529cc97",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "325d3ee537dadcef4283f02a68f5e0972051b8f1ff985540f2bc623ecc8f7172",
+    "title": "Ollaya – 针对开源、Jev 风格决策模型的 Ollama",
+    "summary": "Hacker News 讨论帖，介绍面向开源及 Jev 风格决策模型的 Ollaya 工具。"
+  }
+}

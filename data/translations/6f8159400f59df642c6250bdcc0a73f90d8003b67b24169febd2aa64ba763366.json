@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/rss",
+  "content_hash": "8591442876de7b14492e98661b3103088c1e67cf50c1bff49d0df25ba0e9629d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6c99bcc6780c370d7ea29bb011fd4438d9cf23ffebf09517509823747d11088b",
+    "title": "Mistral 博客",
+    "summary": "Mistral 博客的最新新闻与更新。Mistral 与 Mozilla 正将开放、私密且多语言的 AI 带入您的网页浏览器。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=49851032",
+  "content_hash": "5c1164448fd4b5ed6cdf75f83473d9f554d5aaccceea166f0cda74aad14beceb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b6eb20d172c5a3ba723eeadfc3319ab1dd2fe2c86d003c75ba00f43a833325d1",
+    "title": "Tell HN: Codex 出现故障（已修复）",
+    "summary": "用户反馈 Codex 出现异常的“API Key 错误”提示，而状态页面显示正常，目前问题已修复。"
+  }
+}

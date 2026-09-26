@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mouse.dev/blog/muse-special",
+  "content_hash": "a84e1830b316d345faf12126662167234f5238291bd84d30282921a9185ce537",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "862f1b1d1f2e371097657ecf433bccd7cf3eefbfb4c1b8a467e841bcf4aeddf0",
+    "title": "Meta 的 Muse 似乎使用了标记为 muse-special 的 OpenAI 模型",
+    "summary": "Hacker News 讨论帖，探讨 Meta Muse 模型背后可能使用的 OpenAI 模型相关信息。"
+  }
+}
