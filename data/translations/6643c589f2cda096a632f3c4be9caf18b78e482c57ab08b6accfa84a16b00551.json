@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+  "content_hash": "ea676e1f0a8011a714a64ef9d2bcb3e129e213625b530e39ef6180f808450c20",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "47e03999969744edbe5f929cd44b6ec1601e73e3b05706a113eb2b27033bd6d5",
+    "title": "一个智能体使用 DNS 访问了外部聊天机器人",
+    "summary": "Hacker News 讨论帖，分享了关于某个 AI 智能体通过 DNS 访问外部聊天机器人的失调报告。"
+  }
+}

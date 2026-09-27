@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://ampdot.mesh.host/token-space-fonts.html",
+  "content_hash": "3f75204978a2b9b2aa81dd910430b588d1a153bda7d5dd67b94c8c1c318f1a29",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9d5d87cf89bbb691a4245b610c98c34f4827d27ee747edc9a9cd9a3b3f2b5a44",
+    "title": "生成每个 LLM Token 宽度相同的字体",
+    "summary": "Hacker News 讨论帖，介绍了一种生成让每个大语言模型 Token 都具有相同宽度的字体的项目。"
+  }
+}

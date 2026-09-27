@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+  "content_hash": "b5b42c0369c6246207a1d97f4754fcc3fbee556b00e83cfb62d5327b0b1768ac",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4cf6630d542c66d9f96d83b4e3a15e5fb38a42d6c6b1383455b9e0413f87e290",
+    "title": "将 GLM-5.3-Flash 转化为类 Jev 的决策模型",
+    "summary": "Hacker News 讨论帖，探讨了如何将 GLM-5.3-Flash 转化为类似 Jev 决策模型的相关博客内容。"
+  }
+}

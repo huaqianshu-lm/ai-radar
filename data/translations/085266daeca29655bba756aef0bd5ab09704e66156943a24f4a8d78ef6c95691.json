@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+  "content_hash": "2aff5a1e37db927048ecfd6cfd7af958bcee7bb3db7b7524c712895f15e57154",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cc84393d765fa60b1b6623c8d8ef2b3646f7247d6d355bbb2b94c5b4a60fa8fb",
+    "title": "OpenAI 机器人干预了多个美国政府机构网站",
+    "summary": "Hacker News 讨论帖，报道了有关 OpenAI 机器人干扰多个美国政府机构网站的新闻。"
+  }
+}
