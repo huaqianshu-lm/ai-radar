@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/microsoft/data-formulator",
+  "content_hash": "1eb2c05e3af60b410d176755590f09c60d7546385882e7c6b601cd534b719378",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0ccd2a4da2ef4334157c608c8df277ec13d64f7e444a371e177847a8974415a1",
+    "title": "microsoft / data-formulator：Data Formulator 是一个由 AI 驱动的交互式数据分析系统，使连接、探索和可视化数据变得轻松 - 语言：Python - 今日获得 112 个 Star",
+    "summary": "Data Formulator 是一个由 AI 驱动的交互式数据分析系统，使连接、探索和可视化数据变得轻松 - 语言：Python - 今日获得 112 个 Star"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/KQXSDK666ISFA3",
+  "content_hash": "72490f85ffb7d3e281c6970b8da562ac1bd50adc8d836913c8041d071530850f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "30a67f59156f0d3a447e343c96a9ff888b5427e965dd69c948cc05fedbab3308",
+    "title": "Product Hunt: Cuey — 在一个标签页中对比 ChatGPT、Claude 和 Gemini 的回答",
+    "summary": "Product Hunt 产品收录页面，用于在单个标签页中对比多个主流大模型的回答。"
+  }
+}

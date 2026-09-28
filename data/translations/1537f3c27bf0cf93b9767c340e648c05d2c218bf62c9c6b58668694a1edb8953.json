@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/deepfates/imp",
+  "content_hash": "6b7cdd2e470ae7f7d7e65416bfdb4dcb75a8c7dc3bce13c4d6008d9d136f0ba0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "850c8e5ebd9ea1a128ce04730ec45272bf6b1b43edaa2b8d9c3fa062aa7a135e",
+    "title": "Imp 是 DSPy 到 BEAM 平台的完整移植",
+    "summary": "将 DSPy 框架完整移植到 BEAM 运行时的开源项目。"
+  }
+}

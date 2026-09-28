@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2606.00206",
+  "content_hash": "c17c446f7324b8ca9d8370ddfbc4a5e2978ffa3e7a490f89b8ad330078387f92",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "36a7deb93c4001987b295c1583d3faf4a53f0ad06338937dbe912efedcc3cea1",
+    "title": "量化推理模型认为它们需要思考更长时间，但实际并非如此",
+    "summary": "Hacker News 讨论的一篇关于 arXiv 论文的内容，探讨量化推理模型的思考时间与表现。"
+  }
+}

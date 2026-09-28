@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter",
+  "content_hash": "5f56bb960c5b8a157a19c59533555f1184f3e4c431b849d42e9ae34d5327ac30",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "41d291c6d16ea2a8c89fea7d85e647f70c2421c2a0b468ebe72d0291fe27d81f",
+    "title": "Cloudflare 2026 年度创始人信",
+    "summary": "自 Cloudflare 于 2010 年 9 月 27 日推出以来，互联网正在经历自那时起最大的变革。随着自动化流量超越人类活动..."
+  }
+}

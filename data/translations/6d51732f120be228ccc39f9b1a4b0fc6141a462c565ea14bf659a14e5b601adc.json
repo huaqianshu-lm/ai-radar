@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/black-forest-labs/flux-3-action",
+  "content_hash": "f5732c6b393ab2711e89972b4c4535704299ae879a4a1d1fbfd6692015c6237d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9f7f26aa72ae5d1315d9902d0df93e5a4d71c427995a5b2d9c6bacec7fc361a8",
+    "title": "Flux 3 Action: 一款面向机器人的 7B 开源权重世界动作模型",
+    "summary": "来自 Black Forest Labs 的 Hugging Face 博客，介绍面向机器人的开源世界动作模型。"
+  }
+}
