@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://stateofutopia.com/experiments/microllmlab",
+  "content_hash": "a2457c67205b4fa51d8eb080a588d806776652e40c857fb30e19818f2416c35b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "32404e2b12d649c9c4b162871462b2a1e43ceca92bdf69799a336ef778e2bd90",
+    "title": "MicroLLM Lab – 在浏览器中体验 7 个微型 LLM",
+    "summary": "一个允许用户在浏览器中直接尝试 7 个微型大语言模型的实验项目。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/samugit83/redamon",
+  "content_hash": "b4a27bd8f21b43518ac41b90845fe9b4ecd289b4a7f0766a690e44dbb436328a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c00482a91d750503e63e147342e6b96ba9bdbd569995fcdc8f679b4320721d25",
+    "title": "samugit83 / redamon：一个基于 AI 的自主红队框架，可实现从侦察、漏洞利用到后渗透测试的全流程攻击性安全自动化操作，且无需人工干预",
+    "summary": "一个基于 AI 的自主红队框架，可实现从侦察、漏洞利用到后渗透测试的全流程攻击性安全自动化操作，且无需人工干预。"
+  }
+}

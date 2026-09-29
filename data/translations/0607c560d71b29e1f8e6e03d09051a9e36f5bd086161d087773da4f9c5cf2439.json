@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/ashhart/TensorFold",
+  "content_hash": "a4e93e7a465fc64bd51b748b2167f537f8ec58291eea2edfaf0e3e48289f94bb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8c3204e0095f8429d0c73be2b810af57520755929f7c1877408ef5e99359defc",
+    "title": "ashhart / TensorFold (Apple Silicon 上的快速精确 LLM 解码工具)",
+    "summary": "在 Apple Silicon（MLX）上实现快速、精确的 LLM 解码，并提供兼容 OpenAI 的端点 - 编程语言：Python - 今日获得 120 个 Star"
+  }
+}

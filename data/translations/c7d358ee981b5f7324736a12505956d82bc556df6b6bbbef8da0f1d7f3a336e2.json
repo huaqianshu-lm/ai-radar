@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/hallo-deutschland",
+  "content_hash": "adc76547f14d8c18d41ce5a998bc743e836cad11e7ab693bbf805d41b1afbce0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ee4dc087c20018324226a16e2a13651b155ce78c88fcc91e4606b45fe6d0efda",
+    "title": "Mistral 在慕尼黑开设枢纽以推进德国的工业 AI",
+    "summary": "Mistral 在欧洲最大经济体的慕尼黑开设德国枢纽，以推进工业 AI 的发展。"
+  }
+}

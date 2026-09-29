@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/kitesurf-update",
+  "content_hash": "6a83496b2486053ad879e968cecffce57a301e8dcb6bd5b196718d52c04d0935",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c41aee02ece9671fad25106f6258c37136706fe1c26c464b1700a22b8c3c65aa",
+    "title": "通往智能体浏览器之路：Kitesurf 更新",
+    "summary": "我们更新了 Kitesurf（我们基于 Workers 构建的面向 AI 智能体的浏览器），带来了 WebMCP 支持、改进的 DOM 性能以及基于终端的渲染。拥有超过 730,000 名……"
+  }
+}

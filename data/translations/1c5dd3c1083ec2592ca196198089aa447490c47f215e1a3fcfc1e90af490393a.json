@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/basis-tax-workbook-with-astra",
+  "content_hash": "c57081ddfd9906ab8cd7c98f60f4e35fd7179619ca83417007424032ca583b08",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eb674100bb687fff764326a192483a4161fa4fa5dc17727e3c5a9e490b0e4544",
+    "title": "Basis 使用 GPT-6 Astra 以 2 倍的速度完成税务工作簿",
+    "summary": "GPT-6 Astra 完成包含 50 个标签页的税务工作簿的速度是 GPT-5.6 Sol 的两倍，其对用户意图更强的理解让 Basis 对实际工作场景更有信心。"
+  }
+}

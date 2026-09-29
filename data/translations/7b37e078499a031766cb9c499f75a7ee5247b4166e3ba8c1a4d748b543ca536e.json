@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://hn.watch/",
+  "content_hash": "5513b6350191315729adb549cdbde1f5e86715c2ebd33d20e7e3a8ea9fb190b5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7bd1471e0ccae534203055c604901fcb8cf11596a0ef053fc1b1a4e9bb3c3e9d",
+    "title": "Show HN: HN.watch – Hacker News 所有帖子的视频",
+    "summary": "HN 故事讨论链接及原始网站介绍。作者为 Scrimba (YC S20) 创始人 Per。"
+  }
+}

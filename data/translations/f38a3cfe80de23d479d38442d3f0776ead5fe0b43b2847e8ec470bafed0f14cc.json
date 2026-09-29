@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+  "content_hash": "5b9763ffa1371bc15f027aa0152e69152b40175fd14845fbaa79351df81133d9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ffffd05d6d8f68b0e13920df63da7e2c860558d01535836c37771ee682d0d78b",
+    "title": "Nvidia 计划在每个 AI Agent 旁边放置一个看门狗芯片",
+    "summary": "Nvidia 相关动态报道。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/microsoft/SkillOpt",
+  "content_hash": "11fe725b1296312e5ba85705dbfb7d426a23ecfbb0359f3b0b08656d317314d5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3757de6abc6b2720815b6d3430f5287ded44b7f457bf96614e65fbd781ebfac7",
+    "title": "microsoft / SkillOpt (微软文本空间优化器)",
+    "summary": "SkillOpt 是一个文本空间优化器，通过轨迹驱动的编辑、验证门控更新等方式，为冻结的 LLM 智能体训练可重用的自然语言技能。"
+  }
+}

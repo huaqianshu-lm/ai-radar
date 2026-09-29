@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/UH2OJJL4JDBI3X",
+  "content_hash": "b0138806efeb65f2568b6f13ed4ea0764dd200bb05afe4364a2c91fff63b61a7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b4cd412b667a25a9dc6e79177276ce1c2d84edc6e10c526c488211d40676a130",
+    "title": "Product Hunt: Zerg Router — 在 Codex 中运行 DeepSeek",
+    "summary": "Product Hunt 上的 Zerg Router 产品页面，支持在 Codex 中运行 DeepSeek 模型。"
+  }
+}

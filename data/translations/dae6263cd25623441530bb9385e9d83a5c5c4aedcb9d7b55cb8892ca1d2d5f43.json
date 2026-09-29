@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/vinext-nextjs-on-vite",
+  "content_hash": "c9c5dd29e0a95c136a3e8f13c6ece0d3367cd2bb0d61e93661be4ab31c4d192e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4095876decdfaf16108bf9a18c86a6582658c079df188077f0682e8cd56495cb",
+    "title": "由 Vite 驱动的 Next.js 应用：介绍 Vinext 1.0",
+    "summary": "Vinext 1.0 从一个 AI 实验升级为生产就绪的框架，允许开发者在 Vite 上运行 Next.js 应用。此版本带来了高级缓存预热等功能。"
+  }
+}

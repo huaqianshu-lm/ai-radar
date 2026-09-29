@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/Hcompany/holo4",
+  "content_hash": "d32e7952aefdbbff2b5c1a1a833b55a2a01f0ef1f0736e041c15dce1dac74972",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "09d1d26fa19dd694ec40f7bb3bc136d48191abcd2b19156a45d7567a4b7fa32e",
+    "title": "Holo4：赋能通用计算机使用智能体",
+    "summary": "# Holo4：赋能通用计算机使用智能体。Holo4 是我们的全新系列智能体模型，它有两种尺寸：27B 稠密模型和 35B-A3B 混合专家（MoE）模型。"
+  }
+}

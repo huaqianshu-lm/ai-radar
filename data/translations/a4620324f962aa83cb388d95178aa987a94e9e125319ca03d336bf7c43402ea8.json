@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/firelex/jeff",
+  "content_hash": "1d0b310500210d51e23c3668bf3524d85be6322da1c781bf77621d0ad03cdeff",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dcae03d826e6a913e617e1d7951c6e5ae34f18ead5abf2ee282e0df917fb314d",
+    "title": "Jeff – 兼容 Jev 的 0.8B 决策模型，本地训练，耗时约 30 毫秒",
+    "summary": "开源的 0.8B 大小、兼容 Jev 的决策模型，可在本地进行训练且响应约 30 毫秒。"
+  }
+}

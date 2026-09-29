@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5",
+  "content_hash": "1406aacdf7f1c8efc612aa405ed38dfb3eaef322b8d3f771dd3b830400a7fe0d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "64e27cc1872ee8386150363a658215ac8af30449c67be73ea52b5afb1e4573a1",
+    "title": "Claude Sonnet 5.5：Anthropic 于今天发布了新的 Sonnet 模型 Claude Sonnet 5.5",
+    "summary": "Anthropic 于今天发布了新的 Sonnet 模型 Claude Sonnet 5.5。他们表示，对于大多数工作，它“运行速度快 30% 以上，成本降低高达 30%”，其定价与 Sonnet 相同……"
+  }
+}

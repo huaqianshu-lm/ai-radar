@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check",
+  "content_hash": "5ce61a64ffeb65068b7b9473084cc3b340c942019e39be140535453fdb43def4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f5edbd3b23d95b4ae1e66c0130b6951162b8522ea9c1d6b0c16ce8cdd13452b0",
+    "title": "Bluesky 回复机器人检查器",
+    "summary": "工具：Bluesky 回复机器人检查器。Twitter 上的自动回复机器人是一大毒瘤，作为拥有较多粉丝的人，我会吸引一大群这样的机器人。"
+  }
+}

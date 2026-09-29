@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/alirezarezvani/claude-skills",
+  "content_hash": "b55b657c0adc54680e573177673cd37f4c0f60e10787f70ce5f6cd1e839a19b6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3cb7ff1cdcf97c6b5a45fe4f2e397338a47189848710f0823ad9505a8652e8d5",
+    "title": "alirezarezvani / claude-skills (Claude Code 与 Codex 技能插件)",
+    "summary": "为 Claude Code、Codex、Gemini 等提供的 380 多个 Claude Code 技能、智能体技能及插件（包含 30 多个智能体、70 多个自定义命令、380 多个技能、可自定义的参考资料和脚本）。"
+  }
+}

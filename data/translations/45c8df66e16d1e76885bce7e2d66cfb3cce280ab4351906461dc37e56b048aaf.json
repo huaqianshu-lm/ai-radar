@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+  "content_hash": "a37260f7bbc3d894cd0f786fdf4a6a52bcf8157f8694fbedb9865b45bd57cc3d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ea4e21ee07c674fef3ba7d68c60472c278a1c2138884f97e40f81c5653f83e1b",
+    "title": "运行 1.58-bit (BitNet) 语言模型的 ESP32S3 集群",
+    "summary": "一个在 ESP32S3 微控制器集群上运行 1.58-bit (BitNet) 语言模型的开源项目。"
+  }
+}

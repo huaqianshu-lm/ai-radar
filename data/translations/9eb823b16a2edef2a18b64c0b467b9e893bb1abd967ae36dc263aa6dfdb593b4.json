@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+  "content_hash": "1511677f6a321546f1fcc640b8b3c0181972d52922fc50db6b44a9f2283b9b42",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0baeacde9feacfd49dfb1a2a12b41f277a98caa063d16bb8f629a95f0789370c",
+    "title": "我们使用开源 AI 安全 Agent 发现了 24 个 Android 漏洞",
+    "summary": "GitHub 安全团队利用开源 AI 安全 Agent 发现了 24 个 Android 系统漏洞的经验分享。"
+  }
+}
