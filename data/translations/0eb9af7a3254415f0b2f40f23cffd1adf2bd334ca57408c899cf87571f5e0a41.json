@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team",
+  "content_hash": "6a47717e1351761613d15782d8e91ed078936a56279c09b7e959b3106e94cfd5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c48f1ff5058b49fc9610ea0944af3b51253c7e8a30eea1abe666cea4edb7f950",
+    "title": "引用 Anthropic Frontier Red Team",
+    "summary": "我们对来自（随机选取的）内部 Binary Exploitation 基准测试的 100 个任务评估了多个模型，发现 GLM-5.3 能够发展出完整的控制流……"
+  }
+}

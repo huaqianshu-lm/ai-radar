@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/adaptive-ai-waf-testing",
+  "content_hash": "c3dfd914cc2c04387e79f2d3d9cecebc1f3fcbd02049db4dbcc73ca3e6e25bc3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d8ecb294593159cc1847c853b0546319d946ffcbe6e906eb8cc3032282ce3d79",
+    "title": "我们使用前沿 AI 模型测试了自己的 WAF，以下是我们的发现",
+    "summary": "我们构建了一个 WAF 测试工具，该工具可根据 WAF 拦截或通过的内容动态调整每个请求。这有助于我们探索固定测试可能遗漏的各种变体。我们运行了..."
+  }
+}

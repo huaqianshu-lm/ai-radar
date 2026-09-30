@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+  "content_hash": "9faab298449d356120371ff2209505267b90fb3a8f6c6247c229c4c81af32d6e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3c3bfa327de006380ea56265be38eedca73ff77c6421b4c348ea971484045475",
+    "title": "用于文本分类的 Language models：从词袋模型到 Jev",
+    "summary": "讨论了文本分类中 Language models 的发展历程，从传统的词袋模型一直演进到 Jev。"
+  }
+}

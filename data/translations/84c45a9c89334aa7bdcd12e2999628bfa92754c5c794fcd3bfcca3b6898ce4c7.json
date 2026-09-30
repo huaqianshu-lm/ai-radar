@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/PostHog/jeeves",
+  "content_hash": "b373819b7468b227bb5e8cda8f90dd17d4f9274101c0d09e6a360618959a4d14",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4b32c24d2dbc7a71835d3e960ce927178d3bedd56a55df757c85db231da28dc3",
+    "title": "Jeeves：推理能力的提升改进了类似 Jev 的决策模型",
+    "summary": "HN 讨论帖链接：https://news.ycombinator.com/item?id=49891290，原始链接：https://github.com/PostHog/jeeves，作者：nicowaltz，得分：226"
+  }
+}

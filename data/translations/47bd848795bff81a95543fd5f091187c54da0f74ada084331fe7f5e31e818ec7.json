@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+  "content_hash": "247b7460fa35f81a722826b89aeb787f59d2263af56b67ae6b9a9b49842c9d6e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2fc54b690d7b20a2e14328388fc3694e3eecf9d62246b7618620635188f7c454",
+    "title": "迈向最前沿AI训练的安全案例",
+    "summary": "我们关于前沿AI训练安全案例的早期指南涵盖了技术保障、运营实践以及对目标偏移事件的调查"
+  }
+}

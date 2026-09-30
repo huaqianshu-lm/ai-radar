@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "content_hash": "afbdfab3876b74f209316fefbd61bdf6d29ac6c73a11597750620d466b930156",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "afa8c33f8eb7996a39419deadd5b14c638139f7bae71a907c422a5531afc3651",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents：原文摘要",
+    "summary": "原文摘要：https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
+  }
+}

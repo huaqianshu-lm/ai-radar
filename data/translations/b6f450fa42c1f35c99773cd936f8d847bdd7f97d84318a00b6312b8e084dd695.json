@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+  "content_hash": "777495724325b56a3cbd95e41abbc6764dc85598529b2e88a63c1af2e02f285b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dc53fce90c6f36f5c727235e1a467f2d849dcd49be3c83b393c97ef4331e392f",
+    "title": "NVIDIA Kumo Tabular 为表格预测树立了准确性与效率的新前沿",
+    "summary": "NVIDIA Kumo Tabular 是 NVIDIA Kumo Structur 的一部分，它为表格预测设定了准确性与效率的新前沿。"
+  }
+}

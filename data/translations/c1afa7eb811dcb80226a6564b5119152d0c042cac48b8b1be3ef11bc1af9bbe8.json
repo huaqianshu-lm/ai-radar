@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/devday-2026-recap",
+  "content_hash": "34b1f77173c30a5e8bb127ea8ad7429197f4543d22b2ecd5bb6c7091237e92f6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6071f63e21f6425413eb63722b1604896ffdb702f04f5beb8c9ad701e7ae765e",
+    "title": "DevDay 2026 回顾",
+    "summary": "探索 OpenAI DevDay 2026 上的 20 多项发布，包括 GPT-6 Astra、ChatGPT、Codex、API、安全特性以及面向开发者的全新工具。"
+  }
+}

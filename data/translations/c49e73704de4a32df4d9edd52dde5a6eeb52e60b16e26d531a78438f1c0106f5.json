@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/ai-driven-cryptography-discovery",
+  "content_hash": "dde03eba29dd58c312c06131da7f47f8a1b5bdde49b90f40cac685a34d96b5cd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fabfe69a8a2b717eaa321ed710430c415643a7fa8d194122b1e884d9cf8f9264",
+    "title": "使用 AI 为后量子迁移规划路线",
+    "summary": "我们正在构建 CryptoLabe，这是一个内部的 AI 驱动工具，用于在代码库中发现密码学应用、呈现依赖关系，并帮助我们推进未来迁移的进程。"
+  }
+}
