@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/open-tts-leaderboard",
+  "content_hash": "b3c6eacffc95eb4cd4c67207af05e1ccd8140028e42904d5e633338d41cb08c0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "74c2ff7e2707d1f61043b51abcb8a4e28720706a6f4caf05256394e578267110",
+    "title": "Open TTS Leaderboard：多语言文本转语音与声音克隆的可扩展评估",
+    "summary": "核心要点：专注于开源和多语言的全新 TTS 排行榜。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/pay-per-use",
+  "content_hash": "c9884752b74fc0ed64cbadd9ec88eacdaa1cda5e1e89ff746f283df5bc59768d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0bf8694bc011208e4d286c10761b38df21b2b84df92e73b64135a395a6f32e2b",
+    "title": "按使用付费：当 AI 使用你的作品时，你应该获得报酬",
+    "summary": "按使用付费（Pay Per Use）目前处于 beta 测试阶段。AI 公司在报告使用发布商内容的情况时，Cloudflare 会处理计费、收益发放和报告，从而确保我们的客户..."
+  }
+}

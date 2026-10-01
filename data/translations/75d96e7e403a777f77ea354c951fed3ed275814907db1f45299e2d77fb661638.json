@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/ifixai-ai/iFixAi",
+  "content_hash": "2cd39e2a31283bc4c6a1bea1d40f8e6a57c0e8dd812bd010df72e8df1384f99f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e64fad2fcb768ce85817495f3242adc1419dc2dce08f70838778c4537ffbc6e3",
+    "title": "ifixai-ai / iFixAi：AI 代理（AI Agents）的独立审计工具",
+    "summary": "AI 代理（AI Agents）的独立审计工具。由人类或代理本身运行，旨在解答 AI 代理经济中最关键的问题：代理是否在按预期执行任务。"
+  }
+}

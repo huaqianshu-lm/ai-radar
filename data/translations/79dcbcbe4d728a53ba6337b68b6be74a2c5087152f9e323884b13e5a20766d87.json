@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/magnitudedev/magnitude",
+  "content_hash": "5ed5ce01773b954ddb7f06b954c205931be9c7406ca9030b23abfa9eb1c1335e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0241e600b90d751edb67d0e42bee7f0465567b2f0886c79fce263ae1be3a93c2",
+    "title": "Launch HN: Magnitude (YC S25) – 代理的自优化推理引擎",
+    "summary": "来自 Magnitude (YC S25) 的推出介绍，这是一个面向代理的自优化推理引擎。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/ai-model-overuse-user-insights",
+  "content_hash": "d7ae8808cbbe3ddebb7f3d97457a7cb4d7d9cef311b1b1347d526ef3bfac6c16",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "aedd73f0bdef50b6048b852253877876fa6c4019575424cdead18f7d45b5ede8",
+    "title": "使用 User Insights 识别 AI 模型过度使用情况",
+    "summary": "AI Gateway User Insights 现在加入了任务、模型、对话轮次和用户分类，以帮助团队了解 AI 的采纳情况并做出更好的模型决策。此功能现已推出..."
+  }
+}

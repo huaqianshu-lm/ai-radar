@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/monetization-gateway-beta",
+  "content_hash": "ef8674a4d7cff5f662ea0b5467834692ab564b43a96234e72ffa2aa22cbfec0c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4433159357da7dd545eb811c92c238bb15b6b302c351f42f2279642ca0bec03d",
+    "title": "Monetization Gateway beta：使用 HTTP 402 向 AI 代理收取消费费用",
+    "summary": "Cloudflare 的 AI Gateway、Ceramic.ai、Stocktwits 等目前正在使用 Cloudflare Monetization Gateway 向代理收取访问 Token、API 和 M..."
+  }
+}

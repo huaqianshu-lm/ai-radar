@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/introducing-synthid-bio",
+  "content_hash": "39509aec30408344a725a30588cee18126cf34e22808676333595b7bbf7bb957",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "08aa8115cb5d9c8920990d12b97d16085506bd37a1c5f14f480292bcdf0b5484",
+    "title": "SynthID Bio：用于合成生物学的数字水印方法 — Google DeepMind",
+    "summary": "介绍 SynthID Bio，这是一种为 AI 生成的蛋白质添加数字水印的概念验证方法，同时能够保持其生物学功能。"
+  }
+}

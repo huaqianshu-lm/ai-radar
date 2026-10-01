@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://lathoa.ai/en",
+  "content_hash": "11b34abbb1d4a6f98f0ca65157563d7129bfbdf669c3b542f3984398ff7681a2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a0c7550df46155b00b5484b94f4d0446d7e548600980fdb1e5cbe596313c32d9",
+    "title": "Show HN: Lathoa，一个故意犯错的儿童数学 AI 应用",
+    "summary": "我为 10 到 14 岁左右的儿童制作了一个数学应用 Lathoa，其中的 AI 会故意给出错误答案。"
+  }
+}

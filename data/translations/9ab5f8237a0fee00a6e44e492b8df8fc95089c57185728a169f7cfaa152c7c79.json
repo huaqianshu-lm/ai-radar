@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/LibreTranslate/LibreTranslate",
+  "content_hash": "36bbe39a60320b1e9063414676e5a583530778e481d667d369d577c5f649b385",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b9c14782f458d2a7e3eb85683ce71b2ae8020936d80301114ea2b57209dc2def",
+    "title": "LibreTranslate / LibreTranslate：免费且开源的机器翻译 API",
+    "summary": "免费且开源的机器翻译 API。支持自托管、离线运行且易于搭建。 - 编程语言：Python - 今日获得 35 个 Star"
+  }
+}

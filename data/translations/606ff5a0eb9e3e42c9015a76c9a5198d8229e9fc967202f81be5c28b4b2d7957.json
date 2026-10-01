@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Sep/29/photo-scrubber",
+  "content_hash": "3bd0076178afffaf058dc5ff909d0052b2c1ce83520680438336e5f2baeb381d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "023d364db8b33fc2047dcacf039e41cafd6ea5083fc575ca4587d06d5f7e1c1b",
+    "title": "Photo Scrubber — 本地人脸模糊与元数据去除工具",
+    "summary": "工具：Photo Scrubber — 本地人脸模糊与元数据去除。作者在拍摄了一些抗议者的照片后，思考了自己不愿分享陌生人照片的问题。"
+  }
+}

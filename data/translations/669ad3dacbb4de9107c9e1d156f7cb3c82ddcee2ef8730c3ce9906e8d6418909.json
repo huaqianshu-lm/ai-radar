@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+  "content_hash": "d316b4c994d551b831659fab85ab3e98cc69f7cc2129f23de8441d88fe339c32",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "90249c2a3882c6d31b88e7cea8a85045e4eeb6a0a24ec30e6774300a2c2f9921",
+    "title": "打击有组织的模型蒸馏行动",
+    "summary": "了解 OpenAI 是如何打击旨在提取受保护模型推理结果的行动的，以及该公司如何加强防御以对抗对抗性蒸馏。"
+  }
+}

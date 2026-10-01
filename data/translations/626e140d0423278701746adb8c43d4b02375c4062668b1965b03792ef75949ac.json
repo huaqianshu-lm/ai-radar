@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/agentic-web",
+  "content_hash": "bae632d07c37f83d5eac309cd349abfecabb29e26cdbd0670a6a51a2e8f51309",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c7067a9787a6877e5aeee001998d4eb3a22df504a020d37d7302005d8af95ca6",
+    "title": "互联网拥有了第二类受众",
+    "summary": "访问 Cloudflare 网站的流量中有一半以上现在是自动化的，而 AI 代理是其中增长最快的部分。我们正在为网站所有者提供相关工具..."
+  }
+}

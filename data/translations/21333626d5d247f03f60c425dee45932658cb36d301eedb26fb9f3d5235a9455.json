@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/auto-router",
+  "content_hash": "8eb481b08efa42e1113ebce4e5f1615371062a24e1f40c3169c1fdcd3a76ac1f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f5c8ce506653d38da1fd85e54c64cab2abd4f8967538142183e8df235aaf2c7a",
+    "title": "使用 AI Gateway 的 Auto Router 削减你的 AI 开支",
+    "summary": "Cloudflare AI Gateway 现在引入了一个模型路由器，它使用部署在边缘的分类器来评估请求复杂度，从而选择最优模型。通过平衡..."
+  }
+}

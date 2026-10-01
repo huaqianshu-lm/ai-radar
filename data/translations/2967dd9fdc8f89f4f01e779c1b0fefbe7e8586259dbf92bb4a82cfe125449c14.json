@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/faster-agent-sandboxes",
+  "content_hash": "502659a154dc5642f063007b15d9ec4a4b7986b5021260e863b6b286367580cb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f17676444b661ab5e2e1cfe162e1547cf92762e8d022f565ecc2502325995529",
+    "title": "重建以扩展 AI 代理沙箱的 Cloudflare Containers",
+    "summary": "Cloudflare Containers 的启动速度现在提升了 6 倍，允许你的 AI 代理在运行时为每个沙箱选择镜像和实例类型，并在公共 beta 中支持文件系统快照。"
+  }
+}

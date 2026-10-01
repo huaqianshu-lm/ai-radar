@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Mafifrizi/ARES",
+  "content_hash": "9c574385891884bc20232e7300f8c01fe8a9bf58684966d910c4e9b2b1bc7854",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c5b20be663ef8f2254ef5bc8143645df25e022192228933fc03bc98e25c1aadc",
+    "title": "Mafifrizi / ARES：ARES - 授权的红队演练自动化工具，带有仪表盘、演练范围、模块编排、OPSEC 控制、加密保险库以及报告功能",
+    "summary": "ARES - 授权的红队演练自动化工具，带有仪表盘、演练范围、模块编排、OPSEC 控制、加密保险库以及报告功能。 - 编程语言：Python..."
+  }
+}

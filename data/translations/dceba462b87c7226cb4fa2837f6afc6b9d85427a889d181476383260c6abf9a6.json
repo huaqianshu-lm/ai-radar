@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/simplifying-domains",
+  "content_hash": "dfdbd2d660e25eaf1dec04f91db3ddcfc8e0b00bdfc753ce92125d3e419e4e7c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fb57d33e1ed436a41e02033e4a242fdbc04355acd19fb81b4737649e5fbd3a75",
+    "title": "为人类和 AI 代理简化域名",
+    "summary": "Cloudflare Registrar 推出的全新搜索功能利用 Workers、Durable Objects 和 WebSockets，在 420 多个后缀中提供快速、透明的结果。其扩展的 API 和..."
+  }
+}
