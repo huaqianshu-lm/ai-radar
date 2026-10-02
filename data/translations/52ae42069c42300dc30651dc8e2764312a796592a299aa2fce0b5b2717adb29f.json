@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=49911500",
+  "content_hash": "ad8304fac77187199cb1f8e0adb628557a7c6a1996544666ff849768a8a73bcc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "46ee65d794dc7f9789195a7fdc4a6be6f81dbe0163c8b431a14cb2d933ac83af",
+    "title": "Show HN：具备 Astra 级性能的编码智能体开源模型路由",
+    "summary": "Hacker News 讨论：为编码智能体构建模型路由器，以实现 Astra 级别的性能表现。"
+  }
+}

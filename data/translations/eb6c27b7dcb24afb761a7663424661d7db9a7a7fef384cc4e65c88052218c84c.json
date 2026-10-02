@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/ai-search-ga",
+  "content_hash": "53fb31d1568fc5eccb81cd3c302c9b45fea2f260cceb24d81707fbd170e6d780",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "01ae9a71d239e84b2a68807fb138d63a65075e4a813f827e87a96cf8f15d2b3c",
+    "title": "AI Search 现已全面可用",
+    "summary": "AI Search 现已全面推出。它直接嵌入图像像素用于视觉搜索，对扫描版 PDF 运行光学字符识别，并接受多种文件输入。"
+  }
+}

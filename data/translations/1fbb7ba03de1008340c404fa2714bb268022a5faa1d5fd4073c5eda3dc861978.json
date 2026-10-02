@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/QZFWCHS3EBGAVT",
+  "content_hash": "10e01e5ec832e6ec18ce9608c311a0fd897cffc6896ee8b1e51c23ea0bd0a3be",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2e3990a931def3b106172f4cc7e68e94dd8fe7867e0cb435b41b66a9fdcad74d",
+    "title": "Product Hunt：Chat.sh – Intercom 搜索功能失效后我构建的帮助中心",
+    "summary": "Product Hunt 页面介绍 Chat.sh，由开发者在 Intercom 搜索失效后构建的帮助中心产品。"
+  }
+}

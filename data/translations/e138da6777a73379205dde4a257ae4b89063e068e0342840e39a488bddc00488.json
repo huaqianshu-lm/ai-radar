@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/mistral-x-mozilla",
+  "content_hash": "cabdb75f32a292e2da0d140fe5ef21f713935656e809eba0f17e26d8fd16bbe2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "70a5d3bd151a623147cfe7820f1bf2c669b232359783b71d5d7de7388a0229da",
+    "title": "Mistral 与 Mozilla 合作：打造私密、多语言的 AI 浏览体验",
+    "summary": "宣布与 Mozilla 建立合作伙伴关系，为在线浏览 AI 的用户带来隐私、控制权和选择权，其中包括 Firefox Smart Window (beta) 等。"
+  }
+}

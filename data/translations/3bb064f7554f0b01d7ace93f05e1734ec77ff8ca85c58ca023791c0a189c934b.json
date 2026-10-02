@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/tile-ai/tilelang",
+  "content_hash": "b360e7b0126457a503f5abd77667398979c2049d81bb76e16188758548bc909b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "acb5a2d66c4581c244633abf5ff91faffaafe41a1228dbe5045780b08d55454e",
+    "title": "tile-ai / tilelang：高性能 GPU/CPU 内核开发特定领域语言",
+    "summary": "旨在简化高性能 GPU/CPU/加速器内核开发的特定领域语言，使用 Python 编写，今日获得 163 个 Star。"
+  }
+}

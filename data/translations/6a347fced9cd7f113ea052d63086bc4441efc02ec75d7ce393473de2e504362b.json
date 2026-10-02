@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later",
+  "content_hash": "ceeb8e7fd4842ae162df76523aa38006ecc288afa79f21801054ea2e728b0af2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "874b063792be67e0d347fe4d1bdd08e6a576e9c0cc24c18924bfb34d398e6d54",
+    "title": "一年后：主权 AI 与选择权的争夺",
+    "summary": "AI 主权并非零和博弈，但许多政府目前认为它是。Cloudflare 的应对方案是：更多本地开源模型、模型无关的安全工具。"
+  }
+}

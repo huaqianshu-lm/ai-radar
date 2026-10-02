@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/hashgraph-online/awesome-codex-plugins",
+  "content_hash": "c0c855d2cba1755fcbba22a9b42f0029fd83c24a2b2534372e8c37d847f68a5b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0adf0a147d15ae6cab080084fb005aa71bf0d35f49b0adfb595e8c441fb9c95d",
+    "title": "hashgraph-online / awesome-codex-plugins：OpenAI Codex 插件精选列表",
+    "summary": "精选的 OpenAI Codex / ChatGPT 插件、技能和资源列表，作为排名第一的 Codex 市场。"
+  }
+}

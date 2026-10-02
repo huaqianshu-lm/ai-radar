@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://rhun.app/",
+  "content_hash": "309ed30738b7af70d499f235a033e589fe6e3cc34d9de6e37846b6f3ccb74fb9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d911ff91163f6c4c45b69144750ef93fb27098d10fd5b8e38183ab12261a4d9b",
+    "title": "Show HN：Rhun，用汇编语言编写的开源代码编辑器",
+    "summary": "Hacker News 展台帖，作者 vladcodes 发现自己甚至用不到 vim 等编辑器 1/3 的功能，因而开发了 rhun.app。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-01",
+  "content_hash": "c6afa70578437732ca84cea761baa962a0595d4bfe219ec3ab65a6288713bcb8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "493197933f768f832848e59066d1afe2d8d0b350518b22591555b5bafa48c845",
+    "title": "Gemini 4 Argon、OpenAI 芯片及模型蒸馏动态",
+    "summary": "Google 宣布推出 Gemini 4 Argon，这是一项面向特定领域的技术进展。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/AI4M3NUYJE5A4O",
+  "content_hash": "776af0b1917d0bf1d4f7acc93bdaff26ef344f3a793b2b523afc149924924427",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fae5e42d0b8502d8d96ffbcef0e2bfaeb4d1b343de71b934c410e748a6244e48",
+    "title": "Product Hunt：Basedash 聊天仪表盘预览",
+    "summary": "Product Hunt 页面：只需一个提示词，即可在聊天中实时生成整个仪表盘。"
+  }
+}

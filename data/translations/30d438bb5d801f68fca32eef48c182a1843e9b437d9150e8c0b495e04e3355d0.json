@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/clef-decision-models",
+  "content_hash": "cfe68b8be0e2a1de090448442434bac7121fdb455af24195bd2eda0c5cbb7686",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c0a0a5f5affd26928d0fd340f88982d915a498730c34226ffd0e46dc16ea882a",
+    "title": "介绍 Clef：开源决策模型及全新的 RL 微调平台",
+    "summary": "推出托管在 Workers AI 上的开源决策模型 Clef 和 Clef-flash，用于高速分类和智能体工作流，并推出全新的强化学习（RL）微调平台。"
+  }
+}

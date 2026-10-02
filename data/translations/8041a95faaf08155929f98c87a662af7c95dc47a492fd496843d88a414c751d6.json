@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=49922569",
+  "content_hash": "db162ae2e87b860da5828ed34eac2a87bd6e48bdd67dbb8175448c1582c4f6fa",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "50e888fb9132ba0987b24629b10e552f860ee7cc322dc8a67a1b816ec3e58cfb",
+    "title": "Ask HN：谁在招人？（2026年10月）",
+    "summary": "Hacker News 每月招聘帖，由 whoishiring 发布，要求注明地点，远程工作请包含 REMOTE。"
+  }
+}

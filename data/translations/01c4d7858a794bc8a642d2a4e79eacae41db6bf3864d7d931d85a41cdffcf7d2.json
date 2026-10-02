@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Friedrich-M/UniMate",
+  "content_hash": "40f99189e61f94c413757d3723697be069f5e337e058b918decb355bb4a3e6a7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3fa3e44842b08aa372ea47f935a0fcb38a11b42d0c1edab9f37b43fd4826ae08",
+    "title": "Friedrich-M / UniMate：统一骨骼动画模型",
+    "summary": "[SIGGRAPH Asia 2026] UniMate：一个用于驱动多种骨骼动画的统一模型，使用 Python 编写，今日获得 217 个 Star。"
+  }
+}

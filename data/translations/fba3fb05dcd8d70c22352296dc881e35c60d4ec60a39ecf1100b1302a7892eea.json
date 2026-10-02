@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/1/matthew-green",
+  "content_hash": "bd70af0d2d80610d749f723d2563d143a89d933ef57788888861cd65b95acc00",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e48a7f736f56ad596c7cd7f99a10613729b6d866b22d9895b5a9d9f55fae0643",
+    "title": "引用 Matthew Green 的观点",
+    "summary": "将这些部分组合在一起，你就会发现蠕虫病毒的两半：劫持代理的有效负载，以及将有效负载传播到下一个代理的代理。"
+  }
+}
