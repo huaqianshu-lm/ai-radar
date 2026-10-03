@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Tracer-Cloud/opensre",
+  "content_hash": "325c40f68f736218b071761f0d89faa42c6f1553b8a64a2efe3414ba49d1fff7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "83475f57615f5d10347dd863cffa04ccccae1650b63dfb84cae698b03ee47801",
+    "title": "Tracer-Cloud / opensre：构建自己的 AI SRE Agent",
+    "summary": "这是一个适用于 AI 时代的开源 SRE 工具包。采用 Python 编写，收获了较多星标。"
+  }
+}

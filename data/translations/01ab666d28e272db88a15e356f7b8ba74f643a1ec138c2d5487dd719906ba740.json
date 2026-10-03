@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/getsentry/sentry",
+  "content_hash": "c7e0a2379756878b84beaabd7dedff2b4387f4f390a55548f9a7d8dd08fd8b8a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "df9bb18f25d7a7c424ba390ff8897e5d851b779e7ae4b74dfdf52dc0c84049b6",
+    "title": "getsentry / sentry：开发者优先的错误追踪与性能监控",
+    "summary": "一个面向开发者的错误追踪和性能监控开源项目，使用 Python 编写。"
+  }
+}

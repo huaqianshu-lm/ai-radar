@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://allenai.org/blog/astabrief",
+  "content_hash": "3d692a420e84c25daea37b3078927ae74c422eaf33074e02768328fdc03d344a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d185427efe0f19141d19363cff4d6d97c05e41c8242355e8b318e7f0bf1b3b73",
+    "title": "开源 AstaBrief：Asta 中快速的报告生成模型",
+    "summary": "Allen AI 博客文章，宣布开源 Asta 中的快速报告生成模型 AstaBrief，作者为 malshe，获得了 20 分。"
+  }
+}

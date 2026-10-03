@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/anteloc/ldraw-nova",
+  "content_hash": "4dadc5d71f8a069fa02797025517834886421db373e8a0bc5882c17ba7a1dcf4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "16212e61438fe737cec614061d902f3f409a4398092e94c4e61fdec10ba0ad20",
+    "title": "Show HN：制作了一个开源的 Lego AI 生成器",
+    "summary": "HN 讨论帖，介绍了一款开源的 Lego AI 生成器项目 ldraw-nova，作者为 antelocnova，获得了 68 分。"
+  }
+}

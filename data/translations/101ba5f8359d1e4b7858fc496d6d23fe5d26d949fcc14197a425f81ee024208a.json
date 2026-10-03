@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype",
+  "content_hash": "68fe3a03b642fbd4fd536b150c0330d1b4a4d74dff6a81a4296afc0f2cc160ee",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8fc038c2bf575413009482ff13a237a3ad8f3e17dc9905e8c237b9fd2974fc28",
+    "title": "Google Project Suncatcher 原型卫星成功入轨",
+    "summary": "Google 研究团队的 Project Suncatcher 原型卫星已成功发射并进入轨道。"
+  }
+}

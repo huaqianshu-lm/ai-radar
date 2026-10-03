@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/airbnb",
+  "content_hash": "e4c1f40ec0534ddcec4ffcfd5bf4c4ea40be0166fa53a93d74a2f74168b244d4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0300916b911fbe76cc9315dbc27812bafa6fd69cd12f602778b7b6d1d87c582f",
+    "title": "内部驱动的 AI：在幕后及整个访客体验中重建 Airbnb",
+    "summary": "在领导 Meta 的 Llama 模型之后，Ahmad Al-Dahle 目前正通过 AI 改造 Airbnb，涵盖团队的产品开发方式及服务访客的方式。"
+  }
+}

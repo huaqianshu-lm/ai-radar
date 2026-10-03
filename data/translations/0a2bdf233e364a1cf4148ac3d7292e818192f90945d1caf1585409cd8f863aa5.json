@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/practical-guide-building-gpt-6",
+  "content_hash": "5b22a9fe3d5abb215b7a157cb5cbf9456e34213ef7c90515a78e7087a04cac8e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c38af6e5cae43e23a64c1d509c6a587da67c166f4c093fc7e47ef57f26c07a7c",
+    "title": "GPT-6 系列模型使用指南",
+    "summary": "了解初创公司如何选择 GPT-6 模型、调整推理工作量、改进提示词和技能、协调工具以及为生产环境准备工作流程。"
+  }
+}

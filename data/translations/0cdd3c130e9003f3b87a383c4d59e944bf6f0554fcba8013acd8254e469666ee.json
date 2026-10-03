@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/civil-society-automation",
+  "content_hash": "b765568424cf7cc2a590a50faf84ad9cd17a2d6c2524ffe1e15c4e5e04bfd2a6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c1771d11cf4029d4cbbec990e579a4a8bd4a84ef635fd3fa56dcd8957b94b683",
+    "title": "为公益而构建：公民社会组织如何在 Cloudflare 上实现自动化",
+    "summary": "全球领先的组织正在借助 Cloudflare 构建非营利工作的未来。"
+  }
+}

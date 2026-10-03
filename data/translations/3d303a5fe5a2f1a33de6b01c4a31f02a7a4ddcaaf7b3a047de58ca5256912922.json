@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/ED36RXZVMJIMHH",
+  "content_hash": "9dc5dcc704192987a01dba68036a264311eb01bdaafa3fe8d6a77f8c149df75f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "41048c2f71bdf560553c9ff64aace02f14a6b05fac240486603cc0b80b15177f",
+    "title": "Product Hunt：Communicate —— 基于你的知识库构建、支持人工转接的 AI 客服代理",
+    "summary": "基于知识库并支持转接功能的 AI 客服代理产品 Communicate 的 Product Hunt 页面。"
+  }
+}

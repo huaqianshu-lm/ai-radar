@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-02",
+  "content_hash": "bfdc134606a8c31158631c612d56a0ff45421fa99a091714088d282eb6c17eaf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bed6220398a86d7aee961bd94279fafaacf86945d4c62dfd7f33fbdd4c3cef52",
+    "title": "决策模型、Claude 风格的科学与 OpenAI 安全团队裁员",
+    "summary": "简述 AI 动态，包括决策模型、Claude 风格的科学研究，以及 OpenAI 的安全相关人员变动。"
+  }
+}

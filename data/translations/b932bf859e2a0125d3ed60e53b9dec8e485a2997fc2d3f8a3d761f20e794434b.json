@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+  "content_hash": "d324b1ad0d2de733c69b9395ebd2d0accb7f61dcb9b5713d7a6c0d4b1cec6a32",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d0bacd5807e55bc87fbf03eab2445c04d45b2ba554e9f35e29762b82a7c99a13",
+    "title": "Greg Kroah-Hartman 谈 LLM 时代的安全性",
+    "summary": "Hacker News 上关于 LLM 时代安全性的视频访谈内容。"
+  }
+}

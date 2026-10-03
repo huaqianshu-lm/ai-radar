@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/introducing-web-search-api",
+  "content_hash": "95482098473a401b21028b15d02baa36d74f90da6f8388ec19e13971aa95f6ee",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "172a27cefb08cdf831d10db9af60c67c85ea665221b6ee372ff16f16bb785b60",
+    "title": "通过 AI Gateway 引入 Web Search API",
+    "summary": "Cloudflare AI Gateway 现已与 Ceramic.ai、Exa 和 Linkup 合作，支持原生的网页搜索 API 集成，开发者可以接入实时网络内容。"
+  }
+}

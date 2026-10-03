@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://dwarfstar.sh/",
+  "content_hash": "031b1559d02d78590032f5313a519cfea1202d18a3a0ab3f35f3fe5c9a92f210",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "94f7add19cb4328727faa15a047fc771b8eaac67ccdbdeddc97723ef7ec4849f",
+    "title": "来自 Redis 创建者的新项目：使用 ds4 在本地运行 LLM",
+    "summary": "Redis 创建者推出的新项目，允许用户使用 ds4 在本地便捷运行大语言模型。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
+  "content_hash": "a06b315df68ca61dbf7cbb337c9f758719ac1d5590a67303a385df2822483f69",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4954f1a6cbc0fc4422dc9d61ccaf272636e3ac29c14eb74369007d57be8b1018",
+    "title": "AI 首次击败最强 Stratego 玩家",
+    "summary": "在隐藏了大部分信息的情况下，军棋类游戏 Stratego 曾令 AI 束手无策，如今已被 AI 攻克并战胜了顶级玩家。"
+  }
+}

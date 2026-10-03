@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/google/skills",
+  "content_hash": "b3f2f026bee81b317f680df49ed86546f3e791b1fb6fa27fba40b3c069890ae0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ad904a51b17698545e1f9452b2e8893f7d715786e5e5ed8175f8d76ac6a47693",
+    "title": "google / skills：面向 Google 产品和技术的 Agent 技能",
+    "summary": "为 Google 产品和技术提供的 Agent 技能项目，使用 Python 编写。"
+  }
+}

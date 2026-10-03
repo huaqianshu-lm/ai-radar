@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://bfl.ai/models/flux-3-image",
+  "content_hash": "3fa982c709ef88f8ec7b3cdaf0c26bdde5d0e6c1713b72a7f94c895d19739d45",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "37948658fc64306e709ba3fb5fb8667c51f9bed27c74aa74ec92059c09a6683b",
+    "title": "FLUX 3 Image 图像模型",
+    "summary": "Hacker News 上关于 FLUX 3 Image 模型的讨论，原作者为 minimaxir。"
+  }
+}

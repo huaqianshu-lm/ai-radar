@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/chatham-financial",
+  "content_hash": "d7b64da955f5d791cdfb31f898da05653b788890d121631f37ea9106e3055ec5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "882596cbc7639eb42bf210ab4eea91363285a86aec67b5711dcb8d9b7dff3b7d",
+    "title": "Chatham 借助 OpenAI 提升资本市场专业服务能力",
+    "summary": "Chatham Financial 使用 Codex 和 GPT-5.6 构建技术并重新设计工作流程，将交易验证时间从 30 分钟缩短至 4 分钟以内。"
+  }
+}

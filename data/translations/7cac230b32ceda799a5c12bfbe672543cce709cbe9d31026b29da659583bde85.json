@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/NWQ4OR426GAEWU",
+  "content_hash": "a58e2104e3610b2b98be6a55fa154a0a0bcb5717b02d013dc6874a3d524433a3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "20d081bc6a15aba82b4a9861aa6282117d497df0d6e0d9b7e3c30c8f2fdc1f82",
+    "title": "Product Hunt：Clef —— 来自 Cloudflare 的开源决策模型",
+    "summary": "Cloudflare 推出的开源决策模型 Clef 的 Product Hunt 页面。"
+  }
+}

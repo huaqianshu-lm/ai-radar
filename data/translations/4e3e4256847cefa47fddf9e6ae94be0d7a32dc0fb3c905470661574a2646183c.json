@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+  "content_hash": "2c42d698583130cefc0b95030f7911b466a4d55b6c02cfcac9956590917c3bd5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "56c490db040147f1def4aa82fd8798b0218ca38f4ad181a049f33c2fdbcde858",
+    "title": "AutoSynthData：为企业 Agent 生成训练数据",
+    "summary": "企业需要能够在自身环境中良好运行的 Agent，该项目探讨了为其生成训练数据的方法。"
+  }
+}

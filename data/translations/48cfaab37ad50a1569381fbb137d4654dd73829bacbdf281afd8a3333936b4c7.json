@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+  "content_hash": "8c27230f0b84c2b850fb491bf1963febe3103720bd9cf2180a88abd35e57af2c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "901948bef614fb42cdf74c7b4aa3d1c607105920ccf6734bb586be7d89263396",
+    "title": "[AINews] Pi 1.0、Pi Durable 与 AIE NYC",
+    "summary": "极简框架变得稳定，并支持 TypeScript。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.sshh.io/p/the-harness-is-the-company",
+  "content_hash": "7246670dd8a9b52099ed4055f0849a210d166f2781fb22b008e03a9762381eed",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7d79f8594f999d47092d84027b7875b52ab81f8e3faac1034f23a15b6fb20959",
+    "title": "每个 SaaS 业务都将成为大模型的外壳",
+    "summary": "HN 讨论文章，探讨了每一个 SaaS 业务未来都将围绕 AI 模型构建包裹层的趋势，作者为 iacguy，获得了 96 分。"
+  }
+}

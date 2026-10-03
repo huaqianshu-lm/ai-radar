@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/ayghri/i-have-adhd",
+  "content_hash": "2570049d2c7f630c51c412d094d5d2d209204aa2a8f8c8b8a7c57ddd4e3146db",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "46f3c1d6124190bd41b81397d3ce3ed570d55a8c1b8799befb69f78070ce6b43",
+    "title": "ayghri / i-have-adhd：防止编码 Agent 掩盖答案的技能",
+    "summary": "一个旨在防止你的编码 Agent 掩盖答案、提供对多动症（ADHD）友好输出的技能。使用 Python 编写。"
+  }
+}
