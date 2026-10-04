@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/microsoft/thinkingbox",
+  "content_hash": "04b2a02fb0b0e4379502db7fba6e162a9719dc2bccca840683332b10a1994a42",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bd1136d0fcfd6f1357de280adaee84cea07cc88c30626783f53af728070f9fc3",
+    "title": "代理说它已经完成了，但数据库并不同意",
+    "summary": "Microsoft ThinkingBox 根据 AI 代理留下的记录而非它们生成的句子来对其进行评估..."
+  }
+}

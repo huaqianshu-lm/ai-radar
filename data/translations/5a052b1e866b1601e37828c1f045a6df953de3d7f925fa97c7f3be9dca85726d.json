@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+  "content_hash": "8ffde19c860950dfe3b5607de36e504566485e06847f628deba9cee2629c3a3b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "337e3f19ed608da6ed2eaa074c37824d2448ce12e803e9adc25e2252dae088aa",
+    "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49946567 原文网址：https://claude.dev/blog/getting-the-most-out-of-opus-5-5/ 作者：saikatsg 得分：165"
+  }
+}

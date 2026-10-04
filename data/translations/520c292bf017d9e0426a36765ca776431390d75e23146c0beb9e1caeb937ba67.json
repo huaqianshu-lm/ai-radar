@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+  "content_hash": "4308064d3f6480f3a5fca4c2f99d91344b6cb589fc138de20eda3bec7ff0dd69",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d43d2f13301d3339cfd26d8731b648a0f4e5f30a2f6539c5f7564d4273431a07",
+    "title": "[AINews] 今天没有发生太多事情",
+    "summary": "平静的一天。"
+  }
+}

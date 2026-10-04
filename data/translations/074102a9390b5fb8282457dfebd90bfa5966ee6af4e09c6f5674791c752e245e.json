@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://liao.gg/blog/agents-dont-need-memory",
+  "content_hash": "40485a8eb128e422202b7c42ac4e9077e2daafdccb889ce533bd30fc5787e04d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6923b5b640af2dc781345f361a723f1686ea7cba8ac027926ce1461f00a1fe83",
+    "title": "代理不需要记忆，它们需要文档",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49945933 原文网址：https://liao.gg/blog/agents-dont-need-memory 作者：kmeh 得分：65"
+  }
+}

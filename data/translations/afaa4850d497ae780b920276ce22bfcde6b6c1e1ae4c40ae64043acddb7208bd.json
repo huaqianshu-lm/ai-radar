@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+  "content_hash": "d0599a13018c6b25986b457a1269b370a7f866c33166f4e4213f76826b5507e0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dab27c54d8c92fb41f74bb9b85d7e28a7953289fe301460d4cc14b31f8aa295f",
+    "title": "Kolibri: 一个主权开放权重模型",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49942706 原文网址：https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/ 作者：..."
+  }
+}

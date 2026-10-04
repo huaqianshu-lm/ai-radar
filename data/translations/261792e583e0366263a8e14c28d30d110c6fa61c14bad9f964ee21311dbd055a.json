@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://pipod.dev/",
+  "content_hash": "99184f321d8abd1a26f10aad5063ba81fc6b96fb5e570d1f2e1754ef189e6aa7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "13d13608380ca28e5a2a28bb199865c675da34b942dfdeeef3dc887f843e06bd",
+    "title": "Show HN: Pi pod – 在你自己的服务器沙盒中运行 pi 编码代理",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=49937304 原文网址：https://pipod.dev/ 作者：edverma2 得分：77 pi pod 运行 pi 编码代理的会话..."
+  }
+}

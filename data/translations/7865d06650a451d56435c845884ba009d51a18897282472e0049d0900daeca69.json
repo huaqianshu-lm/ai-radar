@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/kaifcodec/user-scanner",
+  "content_hash": "5d4697c4955f6ffe28ac3e8e2c1879ac6c6f3e886ba205669c70759282219fb3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1d55b4cad34f154042bff7da91494bea2c12ac5ec6708ad5dd0e5fd2858c7380",
+    "title": "kaifcodec / user-scanner：🕵️‍♂️ (2合1) 电子邮件与用户名 OSINT 套件，具备对 MCP 的原生支持，仅凭单个电子邮件或用户名即可进行深度数据提取",
+    "summary": "🕵️‍♂️ (2合1) 电子邮件与用户名 OSINT 套件，具备对 MCP 的原生支持，仅凭单个电子邮件或用户名即可进行深度数据提取。分析超过 2720+ 个活跃的..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/datalab-to/chandra",
+  "content_hash": "6f149a77d278cb36f8decdf09b984ec038e01bf63530a297b871518a17fef867",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "83154f1f3c3c0f88f79edbad0c06809dcd7ed64750c04b09cf03fe680c577ee2",
+    "title": "datalab-to / chandra：支持完整布局、可处理复杂表格、表单和手写内容的 OCR 模型",
+    "summary": "支持完整布局、可处理复杂表格、表单和手写内容的 OCR 模型。- 语言：Python - 今日获得 14 星"
+  }
+}
