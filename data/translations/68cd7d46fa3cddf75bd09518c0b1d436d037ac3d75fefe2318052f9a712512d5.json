@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+  "content_hash": "75488f411ce486a35250e61b3f3a7bddc5ff324f6816f9672f471a9d7385f826",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "554b4acd9029a3e93e8c458c1210eacd3b724a1c6efbd1c4d353ce09d00ef165",
+    "title": "Homa：AI 集群中 TCP 的终结 [视频]",
+    "summary": "HN 讨论：https://news.ycombinator.com/item?id=49957117 原文链接：https://www.youtube.com/watch?v=eZ8WWZzoaR0 作者：signa11 得分：56 论文：https://www.u..."
+  }
+}

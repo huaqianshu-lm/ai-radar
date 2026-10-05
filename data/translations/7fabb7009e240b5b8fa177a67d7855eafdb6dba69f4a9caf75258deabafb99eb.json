@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/YMMK45KTGXGMQG",
+  "content_hash": "6f28bcabcdad049101c5c353050b329d6e9fd7b3ab9d3f5dc90c6ac1a5832c8e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ce495c0e8d3e85c99d24faf87255d9d2f955e32e763791df53658fcc569acba0",
+    "title": "Product Hunt：Thinking Orbs —— 适用于 React 的动画 AI 状态指示器组件库",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/thinking-orbs"
+  }
+}
