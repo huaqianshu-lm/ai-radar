@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up",
+  "content_hash": "344cdfdcbaaa59eb7e17790a1b3ae72f551845002989bfd5724f3c485231926b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "44b03140de4a0c7b4a97d3147f5634e4900f18b52edd6d9bb78760289c42ea41",
+    "title": "我们在 2026 生日周发布的所有内容",
+    "summary": "我们庆祝了 16 岁生日，围绕开源、后量子安全、AI 智能体和开发者平台升级发布了 46 项公告。以下是按天整理的内容..."
+  }
+}

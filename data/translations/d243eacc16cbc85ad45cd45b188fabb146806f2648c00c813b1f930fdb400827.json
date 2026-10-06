@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Alishahryar1/free-claude-code",
+  "content_hash": "e51ad10c096d14b514e2ca8963501f5e0ca27b7d12206fd54d23dc73f9a9df6c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9d67ce648f6a891927c40000a0c553d9941ecabd9e2fd694c6dc165955049364",
+    "title": "Alishahryar1 / free-claude-code (免费使用 Claude Code 的工具)",
+    "summary": "通过终端、应用、IDE 或手机免费使用 Claude Code、Codex、VSCode、Pi 和 OpenCode（以及其他 6 种框架），可获得超过 13 亿个免费 Token，现已支持从 b... 使用。"
+  }
+}

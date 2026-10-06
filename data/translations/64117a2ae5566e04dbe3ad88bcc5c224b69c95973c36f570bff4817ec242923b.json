@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words",
+  "content_hash": "499f3af45f11e2d151560f9ffc8f99ff6530562127168afaa7ea63938b3843d3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "69f5bd9058f87f8c2c946d7c872bc19a4da5cc270c76b24e9a59484cc7c89f63",
+    "title": "Qwen3.8 27B 文字加法实验",
+    "summary": "研究：Colin Frasier 在 Bluesky 上发布了他两年前使用 GPT-4o 进行的一项实验，旨在测试其能力..."
+  }
+}

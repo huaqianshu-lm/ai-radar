@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/eu-text-provenance",
+  "content_hash": "9bf772d9f3306ae272f80e06d44c918136519cbfeb319fade54a7658fa672117",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d2b5b29b4c815525619915dcf133df4d932068a91ccef332cbfb8777febef4ef",
+    "title": "我们对欧盟文本溯源规则的方法",
+    "summary": "OpenAI 阐述了其在欧盟规则下如何处理文本水印。了解水印适用的范围、检测的工作原理，以及为什么访问权限首先向研究人员开放。"
+  }
+}

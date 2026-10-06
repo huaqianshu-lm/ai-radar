@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+  "content_hash": "8c77ce1ce0317c9d218c72c45b2bc90e07ed7e7518426e970d84468987544bdd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d43019accfd19e1ed1c4ed4b5b75314fd7c8bc8304c6c4a0422407ba0bd4fca8",
+    "title": "引用 Felix Rieseberg",
+    "summary": "旧版本的 Cowork 在云端运行模型推理，并在我们发送到您计算机的 Anthropic 提供虚拟机中执行工具调用。我们添加虚拟机是为了..."
+  }
+}

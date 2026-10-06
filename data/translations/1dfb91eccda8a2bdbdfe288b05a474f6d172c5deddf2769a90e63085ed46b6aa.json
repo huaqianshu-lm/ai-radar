@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/VictorTaelin/OptMem",
+  "content_hash": "55a1c11c6ec34b9368e3408d796ac043bcbdbee1caaf5f63ec18c2a879e997eb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eaeeb9beb8353785557f43c00d59da4cbcb71f7cd6cfad20c569316fd3401166",
+    "title": "VictorTaelin / OptMem：为 AI 代理提供永久记忆",
+    "summary": "为 AI 代理提供永久记忆。包含一个 426 个 token 的提示词和一个即插即用的脚本。语言：Python，今日新增 85 个 star。"
+  }
+}

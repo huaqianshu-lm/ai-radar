@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/achillean/shodan-python",
+  "content_hash": "4478946a7cdae9109eb895a2880f2b32df7d5dbdccb9369359e7c4d562e344a1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "429a5f82106fc2a4701b7abb6f6cdcd1d2322dd401946a4066c25d56627d2a98",
+    "title": "achillean / shodan-python 官方 Python 库",
+    "summary": "这是 Shodan 的官方 Python 库。主要编程语言为 Python，今日新增 50 个 Star。"
+  }
+}

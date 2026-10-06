@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+  "content_hash": "2d770520b5bccb2587c625262ad8516ce43038c71b7f1ad3bf00fb21e410b3ea",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9c39b43f6b519346e23263daa7e57f26eb0f35a1bd85d7080ac06a45a3b1b47f",
+    "title": "Anthropic 向警方报告日记内容，一女子面临重罪指控",
+    "summary": "一名佛罗里达州女子使用 Claude 记录日记，Anthropic 将相关内容报告给警方，该女子随后面临重罪指控。"
+  }
+}
