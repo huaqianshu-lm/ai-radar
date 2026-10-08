@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/stacklok",
+  "content_hash": "46a24829bc3afcec323c85bb84a14c3dd216e69f0ca4118a674b63c4f63b4015",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "22732f8185e35596b40539e92149c991917fb839ba80b4086e33430996ff130e",
+    "title": "云原生框架能否使 Agent 在桌面之外更加可靠？",
+    "summary": "Kubernetes 共同创造者 Craig McLuckie 和 Joe Beda 旨在将 Agent 框架完全引入云端。"
+  }
+}

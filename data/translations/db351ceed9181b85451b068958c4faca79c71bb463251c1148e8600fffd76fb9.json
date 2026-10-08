@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/6/llm-mistral",
+  "content_hash": "f5deccc14cc48f79050c94916f3dbf0a9bfe5ebb5e4ebd4ad4452a4431db72e7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1244a96b60ce187188fe2460b09dd9e958288e86ebd6dd8ab8fb4f19bf629b83",
+    "title": "llm-mistral 0.16 发布",
+    "summary": "发布：llm-mistral 0.16 添加了对推理模型（例如新发布的 Mistral Large 4）的支持。标签：llm，mistral，llm-reasoning"
+  }
+}

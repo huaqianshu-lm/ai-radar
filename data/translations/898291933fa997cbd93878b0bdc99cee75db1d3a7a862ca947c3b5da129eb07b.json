@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/6/hn-49983751",
+  "content_hash": "dfcb6ddf807a476dcff0260c0304179e13f6d9300265f2270444044fae10a039",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1f6a7ac23b124288368f68ffe40b1fba507ef996c46159c9366bb973fbac105b",
+    "title": "EmbeddingGemma 2 介绍",
+    "summary": "关于 EmbeddingGemma 2 的 Hacker News 评论。我非常赞赏 EmbeddingGemma 2 采用 Apache 2.0 许可证。特别是对于嵌入模型..."
+  }
+}

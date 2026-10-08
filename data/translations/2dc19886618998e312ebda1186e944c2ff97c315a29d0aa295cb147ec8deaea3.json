@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/2BXP2WL4E54CXJ",
+  "content_hash": "f9568419ff5be444defe8a103db0850799f2612b70caeca06e79d4c82346417a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9d8d8ebdcfe57cb0ba66fc099e14ea073922fd0e18571f293e03d5d85e98c5ba",
+    "title": "Product Hunt: Figma Agent — 无需离开画布即可提示、编辑和原型的智能体",
+    "summary": "Product Hunt 收录的 Figma Agent，允许用户直接在画布中通过提示词进行编辑和原型设计。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/4HOPTUUNTIQUEV",
+  "content_hash": "9805bd2d0e62f7dccf0d99eca939c0f2cba395a5551293170869b9fa6546bb9d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8f72657db93ff35db226e319e9b0dbf5cf2bc1659e12ec04b57fdb123eb120f4",
+    "title": "Product Hunt: Mistral Large 4 — Mistral 拥有 1T 参数的开源权重前沿模型",
+    "summary": "Product Hunt 收录的 Mistral 大模型，具备 1T 参数量的开源权重前沿模型 Mistral Large 4。"
+  }
+}

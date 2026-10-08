@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/6/le-chonk",
+  "content_hash": "6284a46964e630059e67a66d0eab9171bfbf4021df767a9e3c97b5e4652284f9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0e8219bd64331ee357c25f4556db1efc67f48c65486ccb0d0e6227a9561b74c7",
+    "title": "介绍 Mistral Large 4：Le chonk",
+    "summary": "Mistral 重回赛场。今天他们发布了 Mistral Large 4 的预览版，这是一个拥有 1 万亿参数、490 亿激活参数的模型..."
+  }
+}

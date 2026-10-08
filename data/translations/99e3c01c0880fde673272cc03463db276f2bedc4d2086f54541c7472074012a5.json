@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/6/victoria-kim",
+  "content_hash": "4e3770d05473fb78a2a25d89596e6e3db4ccafde5e9dfb8828902dedad1f09bc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d1e512dab3854dc0079a01499cd095ecdf8c54eba36099bcec2ed22adc80ae33",
+    "title": "引用 Victoria Kim",
+    "summary": "自 Medicare 数据泄露事件以来，OpenAI 实施了额外的监控，允许员工进行“即时干预”，在公司模型访问某些内容时停止训练..."
+  }
+}

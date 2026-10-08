@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/MDX-Tom/gpt-instruct",
+  "content_hash": "bd8b3507abe75081ecc0ff462cde1599c9d082617dd01ee08fb3a8aea8616084",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "38eade0d1135188203e2f6977a431a0c9944bcf2040e63f1ac57bebff66dd6c1",
+    "title": "MDX-Tom / gpt-instruct 仓库",
+    "summary": "针对 gpt 系列的 Codex 破甲提示词与测试包。- Language: Python - 48 stars today"
+  }
+}

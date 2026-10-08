@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia",
+  "content_hash": "55a73eec599f36f1accf2c106e67abebdd605e52e2014788e4d44406e80d7d9d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a919ba35a5e056c2278ba024862c09052a8b0e23df4c4932675faf972b48ed1b",
+    "title": "在 Wikimedia 项目中发现 OpenAI 的“恶意” Agent 活动",
+    "summary": "鉴于维基百科对于恶意 Agent 群体来说是一个多么诱人的目标，维基百科出现此类活动并不令人感到十分意外..."
+  }
+}

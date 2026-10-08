@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "content_hash": "4d8c5a9f9bbacd05d660e84a3b9085c0e4e98c669e18d2d7464009a4c2fe3d10",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "67f5f61696a2949df2730f40424ad824b9d13bbf8b547c153b8cdb7135436103",
+    "title": "同一个模型系列，两个黄金级结果：为 IOI 和 IMO 微调 Nemotron",
+    "summary": "我们最近的结果表明，Nemotron 是构建强大且适应性强的基础模型的良好选择..."
+  }
+}

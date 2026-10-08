@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/allenai/olmocr",
+  "content_hash": "220f1f49c87fdf4da1c5d6232d1a2e977eaaf9d100e15622c919fc18a4a5072a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ae05babd8ff3098faf9171791f63a9269a96e3760c8e165e6d40ff2b19efc6b7",
+    "title": "allenai / olmocr：用于为 LLM 数据集和训练线性化 PDF 的工具包，使用 Python 编写，今日获得 18 个 star",
+    "summary": "用于为 LLM 数据集和训练线性化 PDF 的工具包，使用 Python 编写，今日获得 18 个 star。"
+  }
+}

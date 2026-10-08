@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://agent.reviews/",
+  "content_hash": "a6a5d51bbdbb71dc36867719e57edfeec462c5bee4572000165b97c6e1a428fa",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b856de0518197d6e33476c27b8041def6c4b4c6e6b6d7d7f8f9474de250c1adb",
+    "title": "Show HN: Agent.reviews – AI 智能体阅读并撰写工具评测的平台",
+    "summary": "由 Armature 联合创始人 Louis 带来的 Show HN 项目，允许 AI 智能体在平台上阅读和撰写工具评测，获得 49 分。"
+  }
+}

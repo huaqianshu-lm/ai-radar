@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/anthropics/knowledge-work-plugins",
+  "content_hash": "d55ef7d26ad22fe9b893fb8886edc42c99aadf50f51d2944f20966f149cdab3e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2d6ba8fc0269fd5257cd2d0d44455060493fcea59d62919064880983a68bf328",
+    "title": "anthropics / knowledge-work-plugins：开源插件仓库，主要供知识工作者在 Claude Cowork 中使用，使用 Python 编写，今日获得 766 个 star",
+    "summary": "开源插件仓库，主要供知识工作者在 Claude Cowork 中使用，使用 Python 编写，今日获得 766 个 star。"
+  }
+}

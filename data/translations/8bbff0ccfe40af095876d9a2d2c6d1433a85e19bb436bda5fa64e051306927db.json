@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/radisson",
+  "content_hash": "b42e4c48c7d5fef96ee73402ad55c893280f10d2d39d36319690f96ce27fbc2a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4e324623ab7ca6fee0e142410ae1fff634372bb9b83078fd1d25f73483da7134",
+    "title": "Radisson Hotel Group 将酒店搜索引入 ChatGPT",
+    "summary": "Radisson 与 Accenture 合作，利用 OpenAI 技术构建了 ChatGPT 插件，帮助旅客在规划行程时查找、比较和预订酒店..."
+  }
+}

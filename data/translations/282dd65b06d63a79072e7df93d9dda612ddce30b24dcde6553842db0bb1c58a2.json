@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/docker/docker-agent",
+  "content_hash": "d8dbbb12e2de080f4c9d92ee105d7d8f1bcf5fe9b634fc61b5605b07abf5987c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "286c732492720fc1292ac0691d116ef8764644af3fee9134fe856ab04a63b4b8",
+    "title": "Docker Agent：Docker 官方开源的 Agent 项目，在 HN 上获得 187 分",
+    "summary": "Docker 官方开源的 Agent 项目，在 HN 上获得 187 分。"
+  }
+}

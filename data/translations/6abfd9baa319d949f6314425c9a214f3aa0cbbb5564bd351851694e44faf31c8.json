@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions",
+  "content_hash": "1543254066a38314a3da7cebc01d98e82fe90470e378378a2c2aba650c09938d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "62c509640c5df97d86096bb9841c3726697f5a9e552cf7cec442e678fd13253c",
+    "title": "llm-openai-decisions 0.1a0 发布",
+    "summary": "发布：llm-openai-decisions 0.1a0。正如上周 DevDay 上所宣布的那样，OpenAI 发布了他们全新的 Jev 风格 Decisions API..."
+  }
+}

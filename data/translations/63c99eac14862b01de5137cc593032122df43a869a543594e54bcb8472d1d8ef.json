@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/mistral-large-4",
+  "content_hash": "f173190196e804669ef6ff26755cbe9261544f072236129c155c267a3a5341e1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6f131bbed5e7925d040e498e9f355192a661ee34bb8a5418a070e852a4c72a41",
+    "title": "Mistral 发布 Mistral Large 4",
+    "summary": "今天，我们推出了 Mistral Large 4 的公开预览版。非官方代号为 ML4，官方代号为：le Chonk。ML4 推动了开放权重性能的边界..."
+  }
+}

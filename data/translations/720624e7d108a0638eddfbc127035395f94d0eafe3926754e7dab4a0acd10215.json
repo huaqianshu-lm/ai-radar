@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "content_hash": "fe3e46d4cff521f08c6652dff72f4cd90221a20858a6845454484bc1b520b6f5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "88e871d5a8d26738db20168d7fe4b9e05a7b8640818c7b2a626052e0332f27b0",
+    "title": "面向边缘端的多模态开源 d1 决策模型",
+    "summary": "# 面向边缘端的多模态开源 d1 决策模型 - **在 Decision Index 0.2.1 上 10B 以下的最佳决策模型：** d1-3B 得分 48.57，领先于所有 4B 和 9B 模型..."
+  }
+}

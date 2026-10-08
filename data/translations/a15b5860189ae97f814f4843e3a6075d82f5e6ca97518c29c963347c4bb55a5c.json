@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging",
+  "content_hash": "77d95ef030f0a49b657abd58f3c99bdb857888eb8943552044989707f724ab32",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4c30b4b05fcb88bec2dc3e399de385c5e012fb8012b9f651411b18bac4698d5a",
+    "title": "软件博客写作中的反模式",
+    "summary": "软件博客写作中的反模式。来自 Michael Lynch 的一些极好的写作建议。Michael 警告不要有“冗长 meandering 的引言”、误判读者的现有水平..."
+  }
+}
