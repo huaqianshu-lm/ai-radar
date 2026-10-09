@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/edrisranjbar/lifeos",
+  "content_hash": "ed9b262609fe38cb67152a3dde4ef0d065e9b75978295f6d557d96e657e06964",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a7100dc6c0045ce89bfda250d4037fb1fdf4aae6ffe25cfa8cca220174f1e106",
+    "title": "Show HN：Edi Life OS —— 带有 AI MCP 服务器的自托管生活看板",
+    "summary": "介绍了一个名为 Edi Life OS 的自托管生活仪表盘项目，其中集成了一个用于 AI 的 MCP 服务器。"
+  }
+}

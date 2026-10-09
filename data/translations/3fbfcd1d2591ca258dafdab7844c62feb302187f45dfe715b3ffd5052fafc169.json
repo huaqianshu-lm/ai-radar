@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/2026-usage-policy-update",
+  "content_hash": "6a848cadeb5f4a207aacfac77d7f2312183d1b70b49f121a8d21e6928b25ec9f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4e66a7e453a3193bb5cb6a8f8081827e5a6357c436d5caa87cc204d983c3cfdb",
+    "title": "2026 年 Anthropic 使用政策更新",
+    "summary": "Anthropic 每年都会根据其模型不断演进的能力以及收到的反馈来更新使用政策。"
+  }
+}

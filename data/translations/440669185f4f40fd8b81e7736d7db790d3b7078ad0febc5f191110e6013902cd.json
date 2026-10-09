@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://biohub.org/news/virtual-biology-initiative-expansion",
+  "content_hash": "a9f1f80b3d3104932a9dbaaf66f9166c08f6d8d8d15153d856cabe322e6ae734",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1314133a19f9a10de483be53ea5a63f0f7b3b3cee8a7311654d035300caa66f3",
+    "title": "AI 就绪的生物数据：全球投入 18 亿美元",
+    "summary": "全球做出 18 亿美元的资金承诺，用于支持 AI 就绪的生物学数据建设。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/psf/black",
+  "content_hash": "1b0a4c56f5e0fa2334df46d4955fa4b42cd8b0df5b6eff090dec14268276a57d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "337de49f46fa8b9d0bb9b1ec1190b3769ac5e6fca5c9c701fac103fa1d28725e",
+    "title": "psf / black：毫不妥协的 Python 代码格式化工具",
+    "summary": "毫不妥协的 Python 代码格式化工具。语言：Python。"
+  }
+}

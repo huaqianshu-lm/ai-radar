@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/CQ32MPQCZS5GPB",
+  "content_hash": "c5896bcebb5b349c96e3008a2a236bae859a94cdc7e4772cf88cc3e78532d2e3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5724f68165fd84a60715d2c75b31d25c7e49101a14097936387e0985e14bfb29",
+    "title": "Product Hunt：Clippo —— 在可视化画布上编排 AI 代理团队",
+    "summary": "Clippo 是一个允许用户在可视化画布上调度和管理 AI 代理团队的工具。"
+  }
+}

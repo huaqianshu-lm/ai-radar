@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/Y54VBVRLNCMW2B",
+  "content_hash": "ecd344696552a6cbe49c9be4eaa2227a49236dbbc6ad2a3083c9b964c8ca6818",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c5d1a1f5abfd24d0f37504572ad093f9815070884318d4a64d4302f779fa6ede",
+    "title": "Product Hunt：OpenSwarm —— 与你日常工作在同一地点的 AI 代理集群",
+    "summary": "OpenSwarm 是一个能够直接在你工作的地方协同运行的 AI 代理集群工具。"
+  }
+}

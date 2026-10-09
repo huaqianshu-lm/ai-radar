@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/WD4NK3DIKEXT7B",
+  "content_hash": "b6313bb21c26c4f2dddcc7919ab0776637f5da83e73ab0da41146a6ff2b283fc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dabaa33363a36e1e93d930b8b31cfbeb24fb44e129880b38124d25c180e6b3bd",
+    "title": "Product Hunt：Claude for Google Workspace —— 将 Claude 直接引入 Google Docs、Sheets 和 Slides",
+    "summary": "Claude for Google Workspace 允许用户直接在 Google 文档、表格和幻灯片中使用 Claude。"
+  }
+}

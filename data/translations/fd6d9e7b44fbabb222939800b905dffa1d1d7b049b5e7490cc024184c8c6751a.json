@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openrouter.ai/stepfun/step-5-preview",
+  "content_hash": "e845cd70f2673f73d683707cc69b2065636484c43207e9bef9fbe9a0e5504736",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fb3c354fbfe34ef32c712d127b97b573a231b00b6ab8e7fd4654cf6e21b36444",
+    "title": "Step 5 Preview 登陆 OpenRouter：来自 StepFun 的 1M 上下文 MoE 模型",
+    "summary": "来自 StepFun 的具有 100 万上下文的 MoE 模型 Step 5 Preview 已在 OpenRouter 上线。"
+  }
+}

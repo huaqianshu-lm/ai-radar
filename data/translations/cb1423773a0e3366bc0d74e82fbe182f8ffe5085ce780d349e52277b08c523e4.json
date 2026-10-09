@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/8/carson-gross",
+  "content_hash": "79151d10b05b2fc4fe4b85ed81de9abee16ca444275f813da1c35c444df6c9c8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ed14048bb9127b900e68489f03c8074b3dd51e27764598e5b82ae495d390143f",
+    "title": "引用 Carson Gross 的观点",
+    "summary": "计算机编程从根本上讲关乎两件事：使用计算机解决问题，以及在解决这些问题时学习控制复杂性。"
+  }
+}

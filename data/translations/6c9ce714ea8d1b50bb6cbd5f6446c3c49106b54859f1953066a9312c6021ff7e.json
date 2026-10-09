@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/abrignoni/ALEAPP",
+  "content_hash": "476cd2dcc8c8f63bab1d2f84738cd0e1cd571df2aa4458fb61297713f3e872ed",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5611b5c68ec1dcd78adeeb09f5d5ee3fdf05939e5e3f1dc3a46c7f614e0cbfcd",
+    "title": "abrignoni / ALEAPP：Android 日志、事件和 Protobuf 解析器",
+    "summary": "Android 日志、事件和 Protobuf 解析器。语言：Python。"
+  }
+}

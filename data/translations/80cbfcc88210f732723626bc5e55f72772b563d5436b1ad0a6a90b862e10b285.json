@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/MPJT4OIBTEZYOC",
+  "content_hash": "19c4dbc7591b3ae9e20ee9c23439bf684713de3813ad7be1ab8ecd78ca098f95",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "54c30ec1bbb06942fe9a0fd82162917c2bf40968accc039db351dbfdb0b5f14a",
+    "title": "Product Hunt：Polylane for Vercel —— 针对 Vercel 应用的 AI 值班工程师",
+    "summary": "Polylane for Vercel 是一款专为 Vercel 应用程序设计的 AI 值班工程师服务。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://pocketty.app/",
+  "content_hash": "6ac2d5f40eb3f0f8a95a73477d97c11f0b7a5bb02a6feaa11719a858318d9cdd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a40db2c445455d8ca9fbc24ca78816fe728d6cf3dd08115af67111850e059b5e",
+    "title": "Show HN：Pocketty —— 当 AI 代理被阻塞时会发送通知的 iPhone SSH 终端",
+    "summary": "Pocketty 是一款适用于 iPhone 的 SSH 终端应用，当 AI 代理被阻塞时会向用户发送通知。"
+  }
+}

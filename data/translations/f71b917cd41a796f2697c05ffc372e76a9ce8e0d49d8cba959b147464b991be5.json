@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/6CKPE3FQLUWQNP",
+  "content_hash": "38cb00b57c90b09f6562bbadf288073326493a70723dae63934abd22702be09f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b2f52af737650b67789178cf63e627f128faf6adb266de364001e50cd7befa56",
+    "title": "Product Hunt：NOVA CLI v1.0 —— 终端里的 AI 开发者",
+    "summary": "NOVA CLI v1.0 是一个直接集成在命令行终端中的 AI 开发者助手工具。"
+  }
+}

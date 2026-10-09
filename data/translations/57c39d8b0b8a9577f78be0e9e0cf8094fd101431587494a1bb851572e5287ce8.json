@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/IAmTomShaw/f1-race-replay",
+  "content_hash": "8ecaef77a1aedb15f23f875ee7ec8f2e611fac9c13721f73d40a3ff7aa56d801",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8833a2def7052b05cfd878581213159db77624a6b07c00ddf6f266c72726d58b",
+    "title": "IAmTomShaw / f1-race-replay：使用 Python 构建的交互式一级方程式（F1）赛事可视化与数据分析工具！语言：Python",
+    "summary": "使用 Python 构建的交互式一级方程式（F1）赛事可视化与数据分析工具！语言：Python。"
+  }
+}

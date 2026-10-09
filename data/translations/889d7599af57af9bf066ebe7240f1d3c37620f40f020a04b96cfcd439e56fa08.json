@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://twitter.com/danintheory/status/2108065033070789090",
+  "content_hash": "a078f55045ebd46e0ff8e602a5dc948cb9cc266503c5db29ea855eab77506a37",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cb64f35a050902147f3a01e80e7b579b8b7572fae80e072f272ef1173fa70f31",
+    "title": "OpenAI 撤回三个数学结果",
+    "summary": "Hacker News 讨论帖，探讨 OpenAI 相关数学研究成果的撤回。"
+  }
+}

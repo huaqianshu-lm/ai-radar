@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/legalon-halves-codex-costs",
+  "content_hash": "fbc6520ada0b52c825c331bafe802eacee6f9c017f4af961fbb26094b390d8fa",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "45d6a2b79938283a07ca47b39fd2409f4bc34d8465757047a15ff56c4f0b15f8",
+    "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
+    "summary": "LegalOn 将每日估计的 Codex 成本降低了 65%，同时保持了开发速度。它将 Astra、Sol 和 Luna 与任务相匹配并进行了策略性的预算管理。"
+  }
+}

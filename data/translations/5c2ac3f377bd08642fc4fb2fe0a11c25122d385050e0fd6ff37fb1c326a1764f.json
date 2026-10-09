@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/UWUNOJIO5UAFUW",
+  "content_hash": "17fe0336271f14082f94f341e57883d734a919fc3d9d663e5894a3695e2b3125",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dc6ccbf7aa5ced25119768de82dcbb750424b942ded9b892ea95b324158ad263",
+    "title": "Product Hunt：Liquid Inference —— 让各大供应商为每个提示词竞价的 LLM 路由器",
+    "summary": "Liquid Inference 是一个大语言模型路由器，让不同的模型供应商为每一个提示词进行竞争。"
+  }
+}

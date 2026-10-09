@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/MBDNHIGIUTCOZ2",
+  "content_hash": "ea4a6a67757e8bd57b613bf46d91c5b664982059080611d343dd5a59d45febeb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9fad6c6f72f5926696fbdffd4547cbbe5c2f5728480a4609323ee22d4b5377ce",
+    "title": "Product Hunt：Cekura Bench —— 针对真实电话通话的语音转语音模型基准测试",
+    "summary": "Cekura Bench 是一个用于在实时电话通话中对语音到语音模型进行基准测试的平台。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-08",
+  "content_hash": "f62dfc08034ea7bc2a74f453e6a157fee6dc693328a5dae084ce0005ad870e0b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3774b4eb09b0e1f346b94607d3ee7068e41f4159caed1401f61deeeee576bd8f",
+    "title": "ChatGPT 智能 UI、Claude Haiku 5.5 与 Grok Bot 第三方模型",
+    "summary": "StepFun 构建语言、视觉和音频模型。⚡ Step 5 Preview 的输入成本为每百万 tokens 1 美元，输出成本为 2.70 美元，其在 AA 测试中的得分接近 Claude Opus 5 (Medium)。"
+  }
+}

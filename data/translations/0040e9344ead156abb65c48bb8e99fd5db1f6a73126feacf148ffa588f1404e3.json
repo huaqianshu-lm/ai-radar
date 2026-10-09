@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/3RILBWSPKL35PU",
+  "content_hash": "6facd9995cda2d0623bd7bfbb8a91d45ba9f2bbb3f021a8cdda420295b2885e1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b59177a3fc7c4d26ba95898df38c7c8c34474941d6387c60c0a9de11789a0195",
+    "title": "Product Hunt：Side —— 驻留在 Mac 节目坞旁的小型 AI 聊天面板",
+    "summary": "Side 是一个常驻在 Mac 应用程序坞（Dock）旁边的小型 AI 聊天侧边栏面板。"
+  }
+}

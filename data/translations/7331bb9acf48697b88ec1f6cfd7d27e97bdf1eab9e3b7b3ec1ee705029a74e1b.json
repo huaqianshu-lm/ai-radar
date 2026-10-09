@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/8/ttok",
+  "content_hash": "d47b117e40481c657eea642c11fd8808c48e73202c29a04ff28444f6081d88fb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f242adb232a8919dd94035cc76b273ea2f1bcb6cc64b2ebba127390f22fe5d02",
+    "title": "ttok 0.4：发布：ttok 0.4",
+    "summary": "发布：ttok 0.4。ttok 是作者用于计算 tokens 的 CLI 工具，使用了 OpenAI 的开源 tiktoken 库。它已经几年没更新了，但作者最近进行了更新。"
+  }
+}
