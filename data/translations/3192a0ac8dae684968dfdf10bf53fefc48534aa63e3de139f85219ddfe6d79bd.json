@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry",
+  "content_hash": "12f51edf65b4fb1981c54e8f4830b77d1789754fec8c4a1c668e42169935439b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fb900a38eb855015e847ac591032aa6747ce663f78c9fbc01a056d2eedd64913",
+    "title": "Microsoft-Decision-1：用于快速决策的模型",
+    "summary": "Hacker News 热门讨论项目，介绍了微软用于快速决策的专用模型 Microsoft-Decision-1。"
+  }
+}

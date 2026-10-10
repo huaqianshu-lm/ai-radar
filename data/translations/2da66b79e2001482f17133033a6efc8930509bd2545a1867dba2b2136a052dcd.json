@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Robbyant/lingbot-map",
+  "content_hash": "ab5678aa657aaf616e80ed35c8670d47e180324aeefc1d86c976730d3842c7cc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3b553260d52e58007afc57b7dc3d4900bc51ca3177ffeef88d560b8ee737c6e6",
+    "title": "Robbyant / lingbot-map：ECCV 2026 最佳论文候选",
+    "summary": "ECCV 2026 最佳论文候选。LingBot-Map：用于流式 3D 重建的几何上下文 Transformer，使用 Python 编写，今日获得较高关注。"
+  }
+}

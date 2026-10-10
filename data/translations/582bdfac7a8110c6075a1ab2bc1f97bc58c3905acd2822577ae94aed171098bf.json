@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/unslothai/unsloth",
+  "content_hash": "700822f7d3d7c4a61bc157ca4ac2730a033606c0c453c9e10fa6499fa983a28a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1970f2aab6a882fb2b18d8e3305081d5b50772de6f5a2dbddd25b94cbd4d6837",
+    "title": "unslothai / unsloth：用于运行和训练大语言模型及扩散模型的本地界面",
+    "summary": "用于运行和训练大语言模型及扩散模型的本地界面。支持 GGUF、MLX、Qwen3.8、DeepSeek-V4、MiniMax-H3、Gemma 4、FLUX 等。"
+  }
+}

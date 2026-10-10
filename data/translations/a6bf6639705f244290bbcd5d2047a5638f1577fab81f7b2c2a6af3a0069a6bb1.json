@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/2CIK2P35ZGW346",
+  "content_hash": "3f99df8424e1ff50cedf84b0b1c5734d5028a5cdd2892be92c9069a8d0177572",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c2e9e4ffa66cf11ef9ccec98cd81a561f05857217785ad9a45e9db513db8bac6",
+    "title": "Product Hunt: HeyPi — 在会议中实时构建和发布任何内容",
+    "summary": "Product Hunt 上关于 HeyPi 的页面，支持在会议中实时构建和发布内容。"
+  }
+}

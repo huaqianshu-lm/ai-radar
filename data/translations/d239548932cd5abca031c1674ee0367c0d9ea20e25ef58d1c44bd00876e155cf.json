@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "content_hash": "ffe02c5c7600d7566952dd43b7dfb34565f509ad5eda810060b93d604bc1fdb0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e05551817b225bef5e8ca8d6225aa3fed9bb03ffd013a0306b4527b10407beb2",
+    "title": "GPU 集群的高效调度",
+    "summary": "在 AI 基础设施领域，构建集群调度程序以优先处理高影响力的研究，同时保持完全的资源占用率。"
+  }
+}

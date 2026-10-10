@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/9/ttok",
+  "content_hash": "cd14ff5fbf32828a9f107846f42210d93e00c4aaded11939b00134047dcd965d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4531aaeb11d6a46bc2567ac4f44dafb27caa2da19e0a9534a8bfe121e6b5b22e",
+    "title": "ttok 1.0 发布",
+    "summary": "发布 ttok 1.0。作者在升级工具并运行新版本时，发现其默认使用了 GPT-4 的分词器。"
+  }
+}

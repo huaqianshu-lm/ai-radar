@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/sophos",
+  "content_hash": "2211d19805353c7950beae4faddd1aff430ff53cf6ff67cbc8e709a5db685c79",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "570fe3204556675e8dd927e7dbd15e7142796fd7ecb68cb1f56d47b91d75ac01",
+    "title": "Sophos 使用 OpenAI Daybreak 将威胁调查时间缩短 96%",
+    "summary": "了解 Sophos 如何使用 OpenAI 的 Daybreak 将网络威胁调查时间缩短 96%，并在保持人工监督的同时自动化处理 52% 的 MDR 案例。"
+  }
+}

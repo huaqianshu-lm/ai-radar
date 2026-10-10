@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/asana-browser-agent",
+  "content_hash": "57c612302eccc19979ef317ed7ca047794b136e8c7f9f0f14f8fdcf277300eb2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9bf93d58cc35db9987f8bca45379eba94bc31d29b6afb6124531fcd7a11cbc41",
+    "title": "Asana 使用 GPT-6.1 Sol 将浏览器测试中的模型成本降低 76 倍",
+    "summary": "通过在 Codex 中使用 GPT-6 Astra，Asana 在测试中将浏览器智能体的成本降低了 76 倍，速度提升了 5 倍，为客户提供功能更强大的模型。"
+  }
+}

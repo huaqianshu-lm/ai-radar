@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare",
+  "content_hash": "92c18aa73ea48769438e09956ef2d40e6649a147d8adcc0d7b7a58ab539ca194",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1d5fd2024caedd1b400985111d3b3bb167cf7d3afc72522081dee57fdf9f820c",
+    "title": "Deno 加入 Cloudflare",
+    "summary": "Deno 团队在 8 月份发布了 celld 的第一个版本——他们对 Cloudflare Durable Objects 模式的开源实现。"
+  }
+}

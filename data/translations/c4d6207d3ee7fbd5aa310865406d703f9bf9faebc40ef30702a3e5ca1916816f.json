@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+  "content_hash": "f7ba0793a0587c7d2a78717363e2f03c1aa166e3bfaa8673e23db1f734eb2cda",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bf2149b8045ec7a8d0e94d4d7d36648c8774f6d52b31e9aed273185bb5e418e5",
+    "title": "让你的 AI 智能体在屏幕上绘制大箭头、方框和文字的开源工具",
+    "summary": "Hacker News 热门讨论项目，允许 AI 智能体在屏幕上绘制大箭头、方框和文字。"
+  }
+}

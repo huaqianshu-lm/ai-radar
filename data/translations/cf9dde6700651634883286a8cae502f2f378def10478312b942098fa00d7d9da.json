@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+  "content_hash": "ca600769e973d97a74e1b6a61a185d2871995c65148ff236c1197edaf90d8bfe",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5bb1c16aff1d31b387caaef6cb00378ef987706c436b42db5c8874e1946944fc",
+    "title": "用 Rust 重写 Prime Agent",
+    "summary": "介绍使用 Rust 语言重写 Prime Agent 的博客文章与讨论。"
+  }
+}

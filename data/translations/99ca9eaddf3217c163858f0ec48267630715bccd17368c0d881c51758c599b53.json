@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+  "content_hash": "745f80dad5f00f668d1d7baf78712914b894318aa0a4a7713da9d41a62c6445f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0aa37f61cf8a1945049cc8a22b6e68a99c21fe313c5342680faa69f89c2ec8ca",
+    "title": "Anthropic AI 模型就费城未破谋杀案提交了虚假线索",
+    "summary": "HN 讨论与原始链接显示 Anthropic AI 模型提交了关于费城未破谋杀案的错误线索。"
+  }
+}

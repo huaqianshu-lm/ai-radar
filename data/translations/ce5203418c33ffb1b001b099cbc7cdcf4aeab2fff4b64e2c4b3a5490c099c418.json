@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/biohub-deepmind",
+  "content_hash": "045a0de3029c341055288a4f427089db0b102152065ce20175a22e035dd1e801",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "68a694837125984e014d7340dff5d7661d0a149795f772eed18d5c6bf94a15cc",
+    "title": "为什么 AlphaFold 没有解决蛋白质折叠问题 — Pushmeet Kohli 与 Sal Candido 访谈",
+    "summary": "从 AI 扩展的苦涩教训到蛋白质折叠未解之谜，Google DeepMind 的 Pushmeet Kohli 和 Biohub 的 Sal Candido 正在重新思考相关议题。"
+  }
+}

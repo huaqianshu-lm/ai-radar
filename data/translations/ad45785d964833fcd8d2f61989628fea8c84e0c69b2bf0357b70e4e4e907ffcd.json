@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-09",
+  "content_hash": "9cc25d6438601086b899088226f7913b616ad552c6ac231da318af270f63b9f9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d4f70c410ddb55c5fa10ae11fb101c19e0086abf9c16e00bcb1761202476bc12",
+    "title": "GPT-6.1 Ultrafast、Gemini 通用智能体与投机解码",
+    "summary": "AI 快讯 2026-10-09：Ultrafast 于今日开始在 API 中向 GPT-6.1 Sol 推送，同时介绍了 Gemini 通用智能体和投机解码相关进展。"
+  }
+}

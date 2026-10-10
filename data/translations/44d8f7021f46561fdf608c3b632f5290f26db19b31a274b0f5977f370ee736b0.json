@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/BerriAI/litellm",
+  "content_hash": "0ea9b3e49f11a6143ad72f061c93f7c194a00c61fb80377be88db1cc3ff1ce94",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dab892839df45099e3fcb3b9ab5f57259cdaa9acbb6ab085549b51f85f4b4635",
+    "title": "BerriAI / litellm：最快、最轻量的 AI 网关",
+    "summary": "最快、最轻量的 AI 网关。采用 Rust 核心与 Python SDK，支持以 OpenAI 或原生格式调用 100 多个大语言模型 API，并具备成本追踪、防护栏、负载均衡等功能。"
+  }
+}

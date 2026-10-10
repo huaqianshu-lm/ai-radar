@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/YZFHAUBDVYQFKM",
+  "content_hash": "8a7db4ddc30829158a9a920a3cbc108c5a484a57aba44edb6eb745f1d781e46a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "382ff02bcb90fc85b56138017db73a76b3fe9cd1e9f426a16321552284b31502",
+    "title": "ProductHunt: OpenPilot — 适用于任意所选模型的开源桌面 AI 智能体",
+    "summary": "Product Hunt 上关于 OpenPilot 的页面，这是一个支持任意模型的开源桌面 AI 智能体。"
+  }
+}

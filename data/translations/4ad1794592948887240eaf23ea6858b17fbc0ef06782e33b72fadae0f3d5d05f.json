@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://epoch.ai/publications/innovationeval",
+  "content_hash": "65fb126443363a51c994018fc3a866d2f0ec9db5c9869b0dba688d8127593f46",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "25a145f4bcfe032b18185c53c88180f9e52c84150d431626c94d0b3d26a6cf56",
+    "title": "AI 现在能够自动化 AI 研发了吗？",
+    "summary": "探讨当前 AI 是否能够实现 AI 研发自动化的相关出版物与讨论。"
+  }
+}

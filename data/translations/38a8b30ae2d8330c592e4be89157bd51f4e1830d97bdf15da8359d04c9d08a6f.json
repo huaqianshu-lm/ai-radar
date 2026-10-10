@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai",
+  "content_hash": "2cb6651fd0e3a3bb2e217b89c25dfb4f45757162fbba58ae7992a92b6bc13c2b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4793d66f3e1b5c2e902007143a048e2e28eddf9d04fc8ccf51cde41f9bb9c5fa",
+    "title": "数学家应该了解的 Lean 定理证明器：可靠性与 AI",
+    "summary": "Hacker News 热门讨论文章，探讨数学家应当了解的 Lean 定理证明器及其在可靠性和 AI 方面的应用。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+  "content_hash": "b5b6a3fdf60a3a28314d18d8eaac64a8a1b568cb5462d890292df64abbf1438a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0c22ba88d1257169379c481c12f8d2112e829b56e073800cae13b97776ad03b4",
+    "title": "利用 AI 分析历史档案发现了被遗忘的陨石和失落的犀牛等内容",
+    "summary": "Hacker News 热门讨论项目，通过将 AI 应用于长达 400 年的档案中，发现了被遗忘的陨石和失落的犀牛等历史痕迹。"
+  }
+}

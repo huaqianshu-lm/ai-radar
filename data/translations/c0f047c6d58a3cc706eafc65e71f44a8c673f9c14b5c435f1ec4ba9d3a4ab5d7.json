@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal",
+  "content_hash": "8263f0253aa6da0c9b0c651f38e9bbd8e43fca085ddf81319eb4b37ec2e8412f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4a9f5b72faa10f5cb24b73d40d6a4c51986e81c9a78a447aba52f7591511a817",
+    "title": "推出全模态 Clef-omni，以及更快的 Clef 和更便宜的 Clef-flash",
+    "summary": "Clef 决策模型系列正在扩展，推出可在单个管道中原生处理音频、视频、图像和文本的 Clef-omni，并降低了 Clef 的相关门槛。"
+  }
+}

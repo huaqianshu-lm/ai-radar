@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/CZHANWCNDFTOBI",
+  "content_hash": "10e5b0c0956a963c711154e742e735b5a3934613ee633f4f6a2036eac9bc2420",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8901c7d0774d148acdf36b77b6425a763378b7e21d491b9d4c0d86c00c0e0e50",
+    "title": "Product Hunt: Gemini Agent for Google Cloud — 运行于 Gemini 和 Claude 上的工作智能体",
+    "summary": "Product Hunt 上关于可在 Gemini 和 Claude 上运行的工作智能体 Gemini Agent for Google Cloud 的页面。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice",
+  "content_hash": "76d93835cd9402003a3d4e507f18db927f1d3bd51a86866cd43bea436ce839ea",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "305ba874f36ffe291e11411a5f4e77be7b09db6dff8ee08ce33ef50aae33bea5",
+    "title": "使用语音构建的博客新功能",
+    "summary": "作者为其博客上线了一项新功能：通讯页面，提供所有已发送通讯的索引，包括每周免费的 Substack 及其他内容。"
+  }
+}
