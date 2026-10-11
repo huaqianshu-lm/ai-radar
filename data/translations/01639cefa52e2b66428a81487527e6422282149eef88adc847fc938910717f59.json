@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/W5M4LWJFFQH6PC",
+  "content_hash": "2bf25ad924ac071f3f1daacf87946682cceb3013da7ac4139f17197203c02466",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4b89944d4714c721d257136a2c4b6138484fe6ceab53b663a0f63cf8a35ca3b3",
+    "title": "Product Hunt: Claude Dashboards & Motion — 向 Claude 请求实时仪表盘和动画解释器",
+    "summary": "Product Hunt 产品页面：Claude Dashboards & Motion，支持向 Claude 询问实时仪表盘和动画解释器。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
+  "content_hash": "22f32e2aae6a1723d496b1803d86e4f9834767e38d6b117d0e3d328dbeaaeaad",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "944cba0b0c149de620126c7a0eac32ae9719e2baa29c106892fa3e6ba57e41db",
+    "title": "黑客滥用谷歌广告、必应重定向来实施 Claude ClickFix 攻击",
+    "summary": "安全新闻报道黑客滥用谷歌广告和必应重定向来推动 Claude ClickFix 攻击活动。"
+  }
+}

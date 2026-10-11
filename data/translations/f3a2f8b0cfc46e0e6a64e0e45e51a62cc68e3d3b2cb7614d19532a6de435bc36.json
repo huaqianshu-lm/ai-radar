@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+  "content_hash": "60dfe767d64de2500d8eaf54aaec7d46e2b4859f060a18c4480a125049071b9d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4e3dd727b793f881e47c9cca03f89915125ebf127b088389aba58d9201b863de",
+    "title": "Bitwarden 双重许可模型",
+    "summary": "HN 讨论关于 Bitwarden 双重许可模型及应用商店版本更新的故事。"
+  }
+}

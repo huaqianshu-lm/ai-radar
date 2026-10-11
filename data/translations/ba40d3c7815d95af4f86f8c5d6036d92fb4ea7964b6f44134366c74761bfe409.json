@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/10/the-new-york-times",
+  "content_hash": "e091aa0443d24700cf4ba9fdcdfc219eed51fe0903f19114aaae473294d0d44b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5af1a93eb20fb54cb0fa4305f97cf1b12a56ef08198d309a07b9cb2f76eea882",
+    "title": "引用 The New York Times",
+    "summary": "Anthropic 在周五的一篇博客文章中详细介绍了其 AI 代理的活动，但未点名目标网站。不过，两名知情消息人士..."
+  }
+}

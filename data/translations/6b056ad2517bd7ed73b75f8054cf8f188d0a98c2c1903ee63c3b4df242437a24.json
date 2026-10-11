@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/rss",
+  "content_hash": "2c15a7f6aa07998c19e3f30b2b0f799601b2473794a0f5a1307f25c7abeb683d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6c99bcc6780c370d7ea29bb011fd4438d9cf23ffebf09517509823747d11088b",
+    "title": "Mistral 博客",
+    "summary": "Mistral 的最新新闻与更新。介绍了 Mistral Large 4。"
+  }
+}

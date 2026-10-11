@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/10/python-actions",
+  "content_hash": "d22e0769b37fab59f70ad05a71b3cac6763d40e2708bfaf71a29a2ea8ec63539",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a2dbc26766a3bd99231d2ba12f310fe2bf53a41c773d560acc078257a930de7e",
+    "title": "Python 3.15.0 已添加至 actions/python-versions",
+    "summary": "Python 3.15.0 已添加至 actions/python-versions。这是一个比较小众的链接，但我已经等了好几天了——甚至让 ChatGPT 帮我检查它..."
+  }
+}

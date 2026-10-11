@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/fastapi/fastapi",
+  "content_hash": "917685c6afc6c67d4e24694bc40ef4c50a6e842d1d4621ddab83d2c24c409e3b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f9ecc9a5597baab2636d566e13bb342933f2b8340b57a11aebbe383d74f440a4",
+    "title": "fastapi / fastapi - 高性能、易学习、编码快速且生产就绪的 FastAPI 框架",
+    "summary": "FastAPI 框架，高性能，易于学习，编码快速，准备好用于生产。编程语言：Python。今日获得 56 个 Star。"
+  }
+}

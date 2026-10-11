@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress",
+  "content_hash": "a78a5308ae4cddeecf0d42b57b7b95691cdfaae52a73f3c802174a2fe25a5bf5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ed32cd489cb393b4ea9cbdec8eaceb1ff10d3d71eb01830c176b5498c9f23004",
+    "title": "Dwarf Fortress 现在使用版本控制了",
+    "summary": "我记得前段时间听说 Dwarf Fortress 没有使用版本控制。这个事实一直印在我的脑海里，因为考虑到它固有的复杂性..."
+  }
+}

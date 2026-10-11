@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication",
+  "content_hash": "e788567a76de3a9d9e270fd7c5a9fdb7eb28b92ac54139856d228e3ab240e5a8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "47fcf170ba7b0eaedec7d285f297176c325d3a706933902e0f9fd4b9d887c85c",
+    "title": "从脑电波到文字：Brain2Qwerty 带来了无需手术的新通讯途径",
+    "summary": "去年，我们推出了 Brain2Qwerty v1，这项研究利用 AI 在无需植入手术的情况下将脑活动解码为文字。现在我们正在分享最新的进展..."
+  }
+}

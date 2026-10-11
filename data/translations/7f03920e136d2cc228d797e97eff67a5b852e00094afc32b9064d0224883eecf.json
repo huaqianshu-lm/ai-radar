@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/derv82/wifit3",
+  "content_hash": "6c3749a421247a13cb7aa4158f8dc1648adcf63ac55915db333125b74721131c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "98b3b5cc544e913a15c5ebd67c20badce633aed5e5310c3f2372f93b85ae91d9",
+    "title": "derv82 / wifit3 - USB 专用且跨平台的 Wifite 工具",
+    "summary": "类似于 Wifite 但仅限 USB 且支持跨平台。编程语言：Python。今日获得 69 个 Star。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/standard-bots",
+  "content_hash": "ccf3678bad5bfcc5ea7b2a0997b1278033aff98850262cf5d5d2a8f0e478316d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9a2a489d753abcefd301a946bad857f5629c6f2058d97a9f43dd42d73cd72a25",
+    "title": "为可靠执行构建 AI：工业机器人的经验教训",
+    "summary": "在 Standard Bots 的 AI 技术栈中，预训练模型通过演示学习工厂任务，并通过实际部署中的纠错进行改进。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://nishtahir.com/build-your-own-decision-model",
+  "content_hash": "02c4dc047d4569b5d680941f751c9fcc91b196348f12fb0a050046c2a6031603",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "63a4e11e2b73a80981a977c531e061a8781a9e1e66e2760905a6bb4d0140bf4f",
+    "title": "构建你自己的决策模型",
+    "summary": "HN 讨论文章，教你如何构建属于自己的决策模型。"
+  }
+}

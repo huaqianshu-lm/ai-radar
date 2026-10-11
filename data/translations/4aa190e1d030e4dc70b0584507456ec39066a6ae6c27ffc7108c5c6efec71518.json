@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/IZC64JRSRMCRYH",
+  "content_hash": "b3cb16de1f3543b5905b83c7e54208384a67c312525945221cbf55af09ef9de3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b849c89654223cb6d0918554c1c76ddbecad5c29d2bd96d629bbedcc2641f724",
+    "title": "Product Hunt: GitGlow — 在发布前审查您的代码及代理的更改",
+    "summary": "Product Hunt 产品页面：GitGlow，用于在代码发布前审查您的代码以及 AI 代理所做的更改。"
+  }
+}
