@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-12",
+  "items": [
+    {
+      "id": "f0dc85dcc6d3444f6482829995f5a83e6fdb56513a353598d7cfc58189cd6756",
+      "title": "Google DeepMind 试点全球首个双盲 AI 评估",
+      "summary": "利用密码学安全环境建立对专有模型基准测试的信任，开展全球首个双盲 AI 评估试点。",
+      "source": "Google DeepMind Blog",
+      "source_type": "official",
+      "display_time": "2026-10-12T02:08:26Z",
+      "time_type": "fetched",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations"
+    },
+    {
+      "id": "c84e8663456d13d4c706f6e8d24ed1093093afcd6a0531b01f47e6a48afe01bd",
+      "title": "microsoft / TRELLIS.2：用于3D生成的原生且紧凑的结构化隐空间模型 - 编程语言: Python - 今日获95个星标",
+      "summary": "用于3D生成的原生且紧凑的结构化隐空间模型 - 编程语言: Python - 今日获95个星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-12T02:08:26Z",
+      "time_type": "fetched",
+      "url": "https://github.com/microsoft/TRELLIS.2"
+    },
+    {
+      "id": "e93a09607ae0c488f8afc9d917152bd3fa4e0d6e51fa67d7c4262fb640d49f77",
+      "title": "repowise-dev / repowise：面向AI和人类的代码库智能工具：提供代码健康评分、自动生成文档、Git分析、死代码检测以及通过MCP作出的架构决策",
+      "summary": "面向AI和人类的代码库智能工具：提供代码健康评分、自动生成文档、Git分析、死代码检测以及通过MCP作出的架构决策",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-12T02:08:26Z",
+      "time_type": "fetched",
+      "url": "https://github.com/repowise-dev/repowise"
+    },
+    {
+      "id": "59499c68644ca0485f53db16690d5635c12f74e63eee201be1dc98566346667a",
+      "title": "5000亿个token之后：让AI Agent反编译一款第一人称射击游戏",
+      "summary": "Hacker News 讨论文章，记录了使用大模型和AI技术进行游戏反编译的实践与探索。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-11T02:02:38Z",
+      "time_type": "published",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+    },
+    {
+      "id": "4667d313bc36a1866926b358d64e7a567ce19dc47da8d16150e7effd33b653ca",
+      "title": "HN 问答：你想要预装 DD-WRT 的路由器吗？",
+      "summary": "Hacker News 上的讨论，探讨用户对于预装开源路由器固件 DD-WRT 设备的真实需求。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-11T02:37:33Z",
+      "time_type": "published",
+      "url": "https://news.ycombinator.com/item?id=50039291"
+    },
+    {
+      "id": "d16bd93ff857d83dc220c14f56bb9293164099fcc4f37d26a9b93bb7efacc66c",
+      "title": "对LLM能力的共同理解差距正在扩大",
+      "summary": "HN 热门讨论，探讨了不同人群对大语言模型实际能力的认知偏差和正在扩大的理解差距。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-11T20:20:52Z",
+      "time_type": "published",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046"
+    },
+    {
+      "id": "604be226fcb801115c586f82280022f43fa766ddee5e8bcd907c3f830ab969ae",
+      "title": "通过集体智能实现递归自我改进",
+      "summary": "Hacker News 讨论，分享了关于利用集体智能和多智能体系统实现系统递归自我迭代的研究成果。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-11T22:22:10Z",
+      "time_type": "published",
+      "url": "https://pub.sakana.ai/mass/"
+    },
+    {
+      "id": "b69ea5748fd33630b8eda670c8deacb740854952439b368206aaff8973ca1bde",
+      "title": "Plimsoll：为你的AI Agent编写的代码提供自托管沙盒环境",
+      "summary": "Show HN 项目分享，介绍了一款用于安全运行和测试AI智能体生成代码的自托管沙盒工具。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-11T23:47:59Z",
+      "time_type": "published",
+      "url": "https://github.com/plimsollmark/plimsoll"
+    },
+    {
+      "id": "f88185030f4eddcf4625fa390707049930d0db221d02199d955ee66b9c02d2b9",
+      "title": "Product Hunt: Agibot：一款为你的Mac设计的全天候个人AI Agent，永久免费0美元",
+      "summary": "一款为你的Mac设计的全天候个人AI Agent，永久免费0美元。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-11T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/54JYJFP3U5JM4B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "6c69163334b8a4eb620c22d3f36ee44bf836c9a4e1b8b24b309614b45347a0f1",
+      "title": "Product Hunt: Perplexity Computer 中的自动化功能",
+      "summary": "推出能够记忆、执行并推动工作持续进行的自动化功能。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-11T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/6KK57LLU7CBT57?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "951109f093ad06f0615f298474aad96290a5b7ca3ada47b59d771b4a0fd0086e",
+      "title": "Product Hunt: Ayven：一款能够承载并推进你团队工作日程和议程的AI工具",
+      "summary": "一款能够承载并推进你团队工作日程和议程的AI工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-11T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/6DJXTKBZIGEI7B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "7968c92abfe02563f12e1150a472eedf27ad59dd9859f8063bf37a54f8d5cdce",
+      "title": "Product Hunt: Claude Code 的 Edgee Mod 插件",
+      "summary": "允许在 Claude Code 中使用任意模型，同时保留你原有的 Claude 订阅计划。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-11T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/H7AGA4BJTIY4OH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "d102a9b8ee3c577590fc5949e05c20ae730645b260bb2c265d750b3eea99ab52",
+      "title": "Product Hunt: FloorGen：画出房屋草图或直接用自然语言描述，即可利用AI免费生成平面图",
+      "summary": "画出房屋草图或直接用自然语言描述，即可利用AI免费生成平面图。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-11T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/PRCAGVVLEJ2ADS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "24a487173c16f3c350befff2421c002b86eb09f79c9c444036b344b9d1a943a1",
+      "title": "Product Hunt: Foley：一款支持语音输入的待办事项列表，能够自动帮你归档、规划并先行确认",
+      "summary": "一款支持语音输入的待办事项列表，能够自动帮你归档、规划并先行确认。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-11T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/XP4VSXUSSJUKQJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "ed74b8aaa3a379ea02d2acf2781421a32ee6633756451c738ba4e1992ba6b589",
+      "title": "Product Hunt: Ghost Core：一款完全在本地设备上运行的个人AI计算机",
+      "summary": "一款完全在本地设备上运行的个人AI计算机。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-11T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/OQOELJ4JJ5Z7RH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "2d3ddf8da0389f820be25d0ecf5831bcf8054b6e7dd4e9df59cbab29af2478ca",
+      "title": "Product Hunt: Halo：将通知、语音听写和AI Agent集成到你的Mac刘海屏中的工具",
+      "summary": "将通知、语音听写和AI Agent集成到你的Mac刘海屏中的工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-11T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/WP3INKRDP2DJBR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "98506f9d59cb957a3d8857e7f6a15e48bf2d31819937b85f09af076ff3d0f929",
+      "title": "Product Hunt: HireKey：结合招聘人员专业洞察的AI副驾驶，助力你的技术岗位求职",
+      "summary": "结合招聘人员专业洞察的AI副驾驶，助力你的技术岗位求职。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-11T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VMWKGHD733ZQGV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "5e7258b1b9573bb1772ba21c316648b365993c396583ba0f6a09c08dc27e38bd",
+      "title": "Product Hunt: kōdlo：提供统一上下文信息的端到端销售工作区",
+      "summary": "提供统一上下文信息的端到端销售工作区。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-11T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/OZIBM7CMM6TNPX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
