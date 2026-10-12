@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50039291",
+  "content_hash": "2fa95deb96158ec2e0505978989f0eeb17a46ff09f6d7a6b0e38e92b39ab1ce6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4667d313bc36a1866926b358d64e7a567ce19dc47da8d16150e7effd33b653ca",
+    "title": "HN 问答：你想要预装 DD-WRT 的路由器吗？",
+    "summary": "Hacker News 上的讨论，探讨用户对于预装开源路由器固件 DD-WRT 设备的真实需求。"
+  }
+}

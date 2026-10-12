@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/repowise-dev/repowise",
+  "content_hash": "9bec34da49950e96494820ccfdecac0ddab995a880e7d306f3fff9ea35d91454",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e93a09607ae0c488f8afc9d917152bd3fa4e0d6e51fa67d7c4262fb640d49f77",
+    "title": "repowise-dev / repowise：面向AI和人类的代码库智能工具：提供代码健康评分、自动生成文档、Git分析、死代码检测以及通过MCP作出的架构决策",
+    "summary": "面向AI和人类的代码库智能工具：提供代码健康评分、自动生成文档、Git分析、死代码检测以及通过MCP作出的架构决策"
+  }
+}

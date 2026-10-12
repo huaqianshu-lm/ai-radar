@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+  "content_hash": "747528c2835beaad429e61e4362473dce2a36abd9840d6a0eaf2c8c553ac6269",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "59499c68644ca0485f53db16690d5635c12f74e63eee201be1dc98566346667a",
+    "title": "5000亿个token之后：让AI Agent反编译一款第一人称射击游戏",
+    "summary": "Hacker News 讨论文章，记录了使用大模型和AI技术进行游戏反编译的实践与探索。"
+  }
+}

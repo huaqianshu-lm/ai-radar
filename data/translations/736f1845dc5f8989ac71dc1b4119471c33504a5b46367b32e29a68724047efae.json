@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://pub.sakana.ai/mass",
+  "content_hash": "aee2ccab2b17263a675a3901970bd1e3c39f00f620f5c10e0389b353b5b83da4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "604be226fcb801115c586f82280022f43fa766ddee5e8bcd907c3f830ab969ae",
+    "title": "通过集体智能实现递归自我改进",
+    "summary": "Hacker News 讨论，分享了关于利用集体智能和多智能体系统实现系统递归自我迭代的研究成果。"
+  }
+}

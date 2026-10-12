@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/plimsollmark/plimsoll",
+  "content_hash": "3f6a8777fb7b4639ec0730e0917de49e459ac2215de81d0acc02ef6bc68852ec",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b69ea5748fd33630b8eda670c8deacb740854952439b368206aaff8973ca1bde",
+    "title": "Plimsoll：为你的AI Agent编写的代码提供自托管沙盒环境",
+    "summary": "Show HN 项目分享，介绍了一款用于安全运行和测试AI智能体生成代码的自托管沙盒工具。"
+  }
+}

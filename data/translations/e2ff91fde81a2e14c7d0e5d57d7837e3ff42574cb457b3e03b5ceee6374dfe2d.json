@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/H7AGA4BJTIY4OH",
+  "content_hash": "45732faf9bbd3d3d6a272a59d2839151c4f08d83f3b7821f93fc16f77a703cd7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7968c92abfe02563f12e1150a472eedf27ad59dd9859f8063bf37a54f8d5cdce",
+    "title": "Product Hunt: Claude Code 的 Edgee Mod 插件",
+    "summary": "允许在 Claude Code 中使用任意模型，同时保留你原有的 Claude 订阅计划。"
+  }
+}
