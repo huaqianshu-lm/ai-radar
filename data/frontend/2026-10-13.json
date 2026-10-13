@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-13",
+  "items": [
+    {
+      "id": "8ac912acb1f0271c7bce22ab72af028589398ed9fe4563b67f83b195ce6febd5",
+      "title": "Gemini 4 Carbon 🧠、Nvidia 考虑收购 Reflection 💰、决策模型竞争 🤖",
+      "summary": "AI 简报：介绍全新的 Gemini 4 Carbon 以及通用的 Gemini agent，探讨 Nvidia 对 Reflection 的收购意向及决策模型的竞争。",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-10-12T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-10-12"
+    },
+    {
+      "id": "2f5855ec66718315fec2ed61faef06c4e3f3085506fe8bd0319a80c1b4b918f8",
+      "title": "datasette-ports 0.4：datasette-ports 0.4 版本发布",
+      "summary": "datasette-ports 0.4 版本发布。这是一个用于检测和列出当前机器上所有 Datasette 实例的插件，现已适配最新版本并能正常显示。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-12T04:57:07Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/"
+    },
+    {
+      "id": "818cf62a3bb0a7f8412e2dfd89f6181d31656f0a417dee6fd39e5b2354211bbd",
+      "title": "web-edit 0.1a0：web-edit 0.1a0 版本发布",
+      "summary": "web-edit 0.1a0 版本发布。作者在使用手机通过 Codex Remote 开发项目时，希望能够在不进行繁琐交互的情况下编辑凭据文件而开发了此工具。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-12T15:54:36Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/"
+    },
+    {
+      "id": "901eddfa61b84a5e35f1f60f53b2981c2ab94b15c919b6d02dde79535b5c2aa0",
+      "title": "欢迎 Python 3.15，告别 3.10，现在可以使用 3.11",
+      "summary": "Python 3.15 正式发布！本文带来了 Python 3.15 的核心新特性指南，该指南由 3.14 和 3.15 版本管理员 Hugo van Kemenade 负责策划。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-12T18:15:38Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/"
+    },
+    {
+      "id": "e71374164f2cb1add8d9303e8e8ce29d3048dfc5b1b445d67da37f75c9664a05",
+      "title": "Anthropic 的动态工作流如何协调 Claude Agents",
+      "summary": "在纽约 AI 工程师大会上，Anthropic 借鉴 Unix 和 Linux 的经验，解释了 agent 如何在不给开发者造成负担的情况下处理更大的项目。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-10-12T18:18:17Z",
+      "time_type": "published",
+      "url": "https://www.latent.space/p/claude-dynamic-workflows"
+    },
+    {
+      "id": "38ae21f689972ffe11e4599513b719c00d0c2652fac21f5bf97b6288ad21d548",
+      "title": "multimodal-art-projection / YuE：YuE2：具备符号规划、零样本翻唱和智能音乐编辑的前沿音乐生成项目",
+      "summary": "YuE2：具备符号规划、零样本翻唱和智能音乐编辑的前沿音乐生成项目。使用 Python 编写，今日获得 216 个 star。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-13T03:23:08Z",
+      "time_type": "fetched",
+      "url": "https://github.com/multimodal-art-projection/YuE"
+    },
+    {
+      "id": "7c94eb734f17ebfcce7230067c672f89ec9b7d5fca87ca8e4c3a39dc6012b1dd",
+      "title": "open-webui / open-webui：用户友好的 AI 界面（支持 Ollama、OpenAI API 等）",
+      "summary": "用户友好的 AI 界面（支持 Ollama、OpenAI API 等）。使用 Python 编写，今日获得 157 个 star。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-13T03:23:08Z",
+      "time_type": "fetched",
+      "url": "https://github.com/open-webui/open-webui"
+    },
+    {
+      "id": "415cb257596604331c1c917eed8899962efca1a1adad702e68703b4287457c38",
+      "title": "public-apis / public-apis：免费 API 的汇总列表",
+      "summary": "免费 API 的汇总列表。使用 Python 编写，今日获得 432 个 star。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-13T03:23:08Z",
+      "time_type": "fetched",
+      "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+      "id": "6ee2c2a30826817daec2ab993130cf8b401e1465678b6888ba2d490c30e20cc9",
+      "title": "pytorch / pytorch：Python 中的张量和动态神经网络库，具有强大的 GPU 加速功能",
+      "summary": "Python 中的张量和动态神经网络库，具有强大的 GPU 加速功能。使用 Python 编写，今日获得 529 个 star。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-13T03:23:08Z",
+      "time_type": "fetched",
+      "url": "https://github.com/pytorch/pytorch"
+    },
+    {
+      "id": "702c3f24c909e329aee6f2a82b884c6b08f9296a3e5de566d8c5a4459d312b80",
+      "title": "Show HN: Atticus – 基于 Claude 运行的 macOS 按住说话语音助手",
+      "summary": "HN 热门项目，由 SaarthRanka 创建并分享的 macOS 语音助手工具。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-12T00:15:12Z",
+      "time_type": "published",
+      "url": "https://github.com/SaarthurR/atticus-mac"
+    },
+    {
+      "id": "c56e71953c1a7c84aec45e5b9f16049948e991e3e071d91475f68c7322f91e6c",
+      "title": "凯文·凯利 2016 年的 AI 预测，十年后的审视",
+      "summary": "一篇回顾和探讨凯文·凯利在 2016 年做出的 AI 预测在十年后实现情况的文章。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-12T15:16:45Z",
+      "time_type": "published",
+      "url": "https://taylor.town/kk-ai-2026"
+    },
+    {
+      "id": "ab91ee9162f42d3508ec6bbd1a52bbb475aaabf9dbc776152f8f968daa4ac867",
+      "title": "GLM-Legal：Z.ai 推出的 GLM-Legal 法律领域相关模型或技术博客发布",
+      "summary": "Z.ai 推出的 GLM-Legal 法律领域相关模型或技术博客发布。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-12T16:11:45Z",
+      "time_type": "published",
+      "url": "https://z.ai/blog/glm-legal"
+    },
+    {
+      "id": "93481ec2e3a9d5b087b696ce15ad93aea9f9a650fcdc7f822b6de120e1b35cc0",
+      "title": "Launch HN: Agent37 (YC F26) – 用于运行 agent 的低成本 agent 沙盒",
+      "summary": "HN 创业项目发布：Agent37 团队构建了用于运行 agent 的低成本沙盒环境。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-12T16:46:34Z",
+      "time_type": "published",
+      "url": "https://news.ycombinator.com/item?id=50059096"
+    },
+    {
+      "id": "7758c02a15e383930365eec29ec6665c26a186432d9cd464ff4ee010f8e3708e",
+      "title": "Muse Wonder：Meta AI 研究团队发布的关于 Muse Wonder 的技术博客与研究成果",
+      "summary": "Meta AI 研究团队发布的关于 Muse Wonder 的技术博客与研究成果。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-12T16:48:01Z",
+      "time_type": "published",
+      "url": "https://research.meta.ai/blog/muse-wonder"
+    },
+    {
+      "id": "99e810c974b3b03406fb2cde0675d0d04dccf07854d795b263f7c813c091da4c",
+      "title": "Codex CLI 默认会安装一个持久且自动更新的后台守护进程",
+      "summary": "关于 Codex CLI 在后台默认安装自更新守护进程的 GitHub Issue 讨论。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-12T18:29:04Z",
+      "time_type": "published",
+      "url": "https://github.com/openai/codex/issues/48195"
+    },
+    {
+      "id": "6a78f6efee3a21f22375a9cc20c482cfe5b3daee910ad303bd18c692addba14a",
+      "title": "Intel D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
+      "summary": "英特尔推出的 D270 独立数据中心 GPU AI 加速器产品详情介绍。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-12T21:35:35Z",
+      "time_type": "published",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
+    },
+    {
+      "id": "5f1b01b54df7637c57167c419b47bac205f6dcc18b6c38e497753f9f413a36bd",
+      "title": "AI 是一种工具，用好它需要技巧",
+      "summary": "一篇关于探讨人工智能作为工具及其使用技巧的博客文章。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-12T21:40:18Z",
+      "time_type": "published",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
+    },
+    {
+      "id": "6bc12f2b5da912143027db19b1f354c00b0eb79d1d9208458eea0bab55278204",
+      "title": "我用 GPT-6 Astra 将闲置的 Kindle 变成了相框",
+      "summary": "一个使用 AI 技术（GPT-6 Astra）将闲置的电子书阅读器 Kindle 改造成照片相框的个人制作项目分享。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-12T23:07:25Z",
+      "time_type": "published",
+      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
+    },
+    {
+      "id": "4204414603744d963967884f268039b1f6835454608370fde2b32f897591997c",
+      "title": "加强我们对蒸馏攻击的防御",
+      "summary": "Anthropic 发布的研究文章，探讨并介绍了如何加强大模型对蒸馏攻击的防御能力。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-13T01:46:47Z",
+      "time_type": "published",
+      "url": "https://www.anthropic.com/research/distillation-defenses"
+    },
+    {
+      "id": "3515a74fce71a8a4ea0b321bc92dbaa8f7f706c4465878e588f4bc669714c6c4",
+      "title": "Product Hunt: Dropstone CLI — 终端中的自学习编码 agent",
+      "summary": "Product Hunt 上线项目：Dropstone CLI，一款专为终端设计的自学习编程智能体。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/XHTU4BDPIDE5Y2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "7b0d2b691423aa8277e80f701629288a81bd009931c507e45efde992854d3fab",
+      "title": "Product Hunt: ExcaliClaw — 可与您的AI Agent一同绘制的手绘风格图表工具",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/J22HBZ5FI7IRDK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "aa064eaf82c236c3780a6e2dbcb5cd728c27b4ac6cdfabc0f6de7f3835461aef",
+      "title": "Product Hunt: Google EmbeddingGemma 2 — 一款开源、轻量级的多模态嵌入模型",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/223DSPCXFFRIJF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "b37d92b1e7444a904a3873652a48a8c99a917c441a9656cfcc8ed5ca8caf625d",
+      "title": "Product Hunt: Hexis Cloud — 为所有 AI Agent 提供统一的企业大脑",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/URI5IUBUZNNTM2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "627c06d019d3971e199078a5a9aac53b8e6296bcf50d18bca29c02c63170195a",
+      "title": "Product Hunt: Invited - AI Reminder Scanner — 针对账单、邀请函及文档的 AI 提醒扫描工具",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/JV7ZU2VGMJLC5P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "4d57e33d153306d695948cce5e50aa0694819f84d0698686df39f1e4166c1472",
+      "title": "Product Hunt: Kudos 3.0 — 能够为您寻找并追回遗漏资金的 AI 工具",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/QXBEXDC3BPWRYZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "cb73c083ac1139b827dce30b1da207c15209023b03a9ef1bae2aa633689a43e6",
+      "title": "Product Hunt: Manifold MCP — 为您的 Agent 提供 SEO、AI 回答、社交、广告和潜在客户数据的工具",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/BKDAFBA3FQGC6F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "8af2848d20e6d60d8098243b0a6f6808660fb5e5996d33969ae15656951674d1",
+      "title": "Product Hunt: Scrape Anything by Context.dev — 通过一次 API 调用将任意网站转换为整洁数据的工具",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/6OFAPYNEA7JJ7A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "548366e0c6146476225f721c6bcac5e41bc689934b36d05834fb35bb0c1c6585",
+      "title": "Product Hunt: SquadRoom — 24/7 不间断工作的 AI 员工",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/ON5DJZFBXRQH72?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "65ef6c5f775de5ae4274475fb7ec8ceea1bcc41c9609a7f7e61716e608c22c18",
+      "title": "Product Hunt: ngram 2.0 — 创建说明视频、屏幕录像以及 AI 数字人视频的工具",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-12T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/B7QZKLCV5HYNON?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
