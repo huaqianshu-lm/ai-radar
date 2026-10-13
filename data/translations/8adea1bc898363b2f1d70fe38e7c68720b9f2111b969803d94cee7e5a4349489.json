@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/open-webui/open-webui",
+  "content_hash": "93af77d7d409cf64df47ed0e4969043d4697f1792c8fc5bc2e6f24ad14cfa2f0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7c94eb734f17ebfcce7230067c672f89ec9b7d5fca87ca8e4c3a39dc6012b1dd",
+    "title": "open-webui / open-webui：用户友好的 AI 界面（支持 Ollama、OpenAI API 等）",
+    "summary": "用户友好的 AI 界面（支持 Ollama、OpenAI API 等）。使用 Python 编写，今日获得 157 个 star。"
+  }
+}

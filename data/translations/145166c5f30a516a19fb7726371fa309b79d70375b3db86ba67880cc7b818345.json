@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/12/python-3-15",
+  "content_hash": "d7d569dec1944248a280402119cf789e5e2170e6aaaf6e081b909c8d15461683",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "901eddfa61b84a5e35f1f60f53b2981c2ab94b15c919b6d02dde79535b5c2aa0",
+    "title": "欢迎 Python 3.15，告别 3.10，现在可以使用 3.11",
+    "summary": "Python 3.15 正式发布！本文带来了 Python 3.15 的核心新特性指南，该指南由 3.14 和 3.15 版本管理员 Hugo van Kemenade 负责策划。"
+  }
+}

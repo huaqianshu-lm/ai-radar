@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/research/distillation-defenses",
+  "content_hash": "b2f4449b3784028b0bbff67c3d8196a9570c5deab056e69b6e7345926dd67543",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4204414603744d963967884f268039b1f6835454608370fde2b32f897591997c",
+    "title": "加强我们对蒸馏攻击的防御",
+    "summary": "Anthropic 发布的研究文章，探讨并介绍了如何加强大模型对蒸馏攻击的防御能力。"
+  }
+}

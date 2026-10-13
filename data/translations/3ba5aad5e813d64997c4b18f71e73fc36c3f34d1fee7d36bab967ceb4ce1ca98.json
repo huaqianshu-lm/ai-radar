@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/12/web-edit",
+  "content_hash": "1e9e3f18b64a945d64839e6c5131736271c19707c7cf3fe97d0d0cd1095c4a8f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "818cf62a3bb0a7f8412e2dfd89f6181d31656f0a417dee6fd39e5b2354211bbd",
+    "title": "web-edit 0.1a0：web-edit 0.1a0 版本发布",
+    "summary": "web-edit 0.1a0 版本发布。作者在使用手机通过 Codex Remote 开发项目时，希望能够在不进行繁琐交互的情况下编辑凭据文件而开发了此工具。"
+  }
+}

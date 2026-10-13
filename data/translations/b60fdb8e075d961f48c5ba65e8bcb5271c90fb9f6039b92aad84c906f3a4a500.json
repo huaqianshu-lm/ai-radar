@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+  "content_hash": "e5d09f09dd1569256b12cc1626d862ed3210f2a36cf859054fba25615d2309f9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6a78f6efee3a21f22375a9cc20c482cfe5b3daee910ad303bd18c692addba14a",
+    "title": "Intel D270 GPU AI 加速器——最高支持 480 GB LPDDR5X",
+    "summary": "英特尔推出的 D270 独立数据中心 GPU AI 加速器产品详情介绍。"
+  }
+}

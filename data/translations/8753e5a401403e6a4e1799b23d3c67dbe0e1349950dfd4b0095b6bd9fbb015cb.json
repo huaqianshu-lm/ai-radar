@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/XHTU4BDPIDE5Y2",
+  "content_hash": "8bf9174de89ec6c3cfce79deeb37fa049fa2be9a46d779bef08666fd813f5685",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3515a74fce71a8a4ea0b321bc92dbaa8f7f706c4465878e588f4bc669714c6c4",
+    "title": "Product Hunt: Dropstone CLI — 终端中的自学习编码 agent",
+    "summary": "Product Hunt 上线项目：Dropstone CLI，一款专为终端设计的自学习编程智能体。"
+  }
+}

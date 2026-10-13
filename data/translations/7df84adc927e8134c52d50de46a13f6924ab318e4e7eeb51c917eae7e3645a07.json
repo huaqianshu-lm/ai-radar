@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/12/datasette-ports",
+  "content_hash": "ea60d6ab0528cfcc8ed183613cf59478c0f5e505126229cfbecaa417d7b24a86",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2f5855ec66718315fec2ed61faef06c4e3f3085506fe8bd0319a80c1b4b918f8",
+    "title": "datasette-ports 0.4：datasette-ports 0.4 版本发布",
+    "summary": "datasette-ports 0.4 版本发布。这是一个用于检测和列出当前机器上所有 Datasette 实例的插件，现已适配最新版本并能正常显示。"
+  }
+}

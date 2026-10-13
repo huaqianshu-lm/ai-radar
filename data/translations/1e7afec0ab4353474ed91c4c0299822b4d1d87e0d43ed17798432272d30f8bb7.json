@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/claude-dynamic-workflows",
+  "content_hash": "a213933979f67b75841d113865f0913246f72f59bc8bc4bd7554b4f0bb6d5537",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e71374164f2cb1add8d9303e8e8ce29d3048dfc5b1b445d67da37f75c9664a05",
+    "title": "Anthropic 的动态工作流如何协调 Claude Agents",
+    "summary": "在纽约 AI 工程师大会上，Anthropic 借鉴 Unix 和 Linux 的经验，解释了 agent 如何在不给开发者造成负担的情况下处理更大的项目。"
+  }
+}

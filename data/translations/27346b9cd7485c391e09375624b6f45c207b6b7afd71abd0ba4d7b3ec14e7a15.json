@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/openai/codex/issues/48195",
+  "content_hash": "a5086a93c02bab7f9f093c300941decad671f23a8d03ea907358823701db2ca1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "99e810c974b3b03406fb2cde0675d0d04dccf07854d795b263f7c813c091da4c",
+    "title": "Codex CLI 默认会安装一个持久且自动更新的后台守护进程",
+    "summary": "关于 Codex CLI 在后台默认安装自更新守护进程的 GitHub Issue 讨论。"
+  }
+}

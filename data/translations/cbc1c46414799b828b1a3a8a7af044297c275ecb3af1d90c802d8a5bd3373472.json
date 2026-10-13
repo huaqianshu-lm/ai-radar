@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50059096",
+  "content_hash": "b2f490ae60b5a129873c0eda8fb896bd6467b253af41fc6548592a1202a88c1f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "93481ec2e3a9d5b087b696ce15ad93aea9f9a650fcdc7f822b6de120e1b35cc0",
+    "title": "Launch HN: Agent37 (YC F26) – 用于运行 agent 的低成本 agent 沙盒",
+    "summary": "HN 创业项目发布：Agent37 团队构建了用于运行 agent 的低成本沙盒环境。"
+  }
+}

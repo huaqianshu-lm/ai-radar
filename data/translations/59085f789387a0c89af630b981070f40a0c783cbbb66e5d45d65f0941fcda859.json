@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-12",
+  "content_hash": "98048d62184a8e3e7e7a96eccd03bd59f8108ea6e0f1c436184d720b0ca9b508",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8ac912acb1f0271c7bce22ab72af028589398ed9fe4563b67f83b195ce6febd5",
+    "title": "Gemini 4 Carbon 🧠、Nvidia 考虑收购 Reflection 💰、决策模型竞争 🤖",
+    "summary": "AI 简报：介绍全新的 Gemini 4 Carbon 以及通用的 Gemini agent，探讨 Nvidia 对 Reflection 的收购意向及决策模型的竞争。"
+  }
+}

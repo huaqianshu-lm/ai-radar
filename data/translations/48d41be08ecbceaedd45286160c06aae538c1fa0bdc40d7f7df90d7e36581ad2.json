@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/6OFAPYNEA7JJ7A",
+  "content_hash": "96fd2d94bc637a61b2b7490ed3db068297122e87ac6dd36ae22e8ec43188a2df",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8af2848d20e6d60d8098243b0a6f6808660fb5e5996d33969ae15656951674d1",
+    "title": "Product Hunt: Scrape Anything by Context.dev — 通过一次 API 调用将任意网站转换为整洁数据的工具",
+    "summary": "Product Hunt 页面链接"
+  }
+}

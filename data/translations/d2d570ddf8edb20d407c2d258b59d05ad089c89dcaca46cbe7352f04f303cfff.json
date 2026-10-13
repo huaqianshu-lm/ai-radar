@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/SaarthurR/atticus-mac",
+  "content_hash": "781cde42acac6a18138f2cd5bd0231e3905f2a4194dc0771c7c4dd5c62802178",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "702c3f24c909e329aee6f2a82b884c6b08f9296a3e5de566d8c5a4459d312b80",
+    "title": "Show HN: Atticus – 基于 Claude 运行的 macOS 按住说话语音助手",
+    "summary": "HN 热门项目，由 SaarthRanka 创建并分享的 macOS 语音助手工具。"
+  }
+}
