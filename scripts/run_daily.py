@@ -11,7 +11,7 @@ from fetch_sources import fetch_source, load_sources, save_raw_items, utc_now, w
 from generate_brief import generate
 from normalize_items import NormalizeResult, normalize
 from prepare_brief_input import prepare
-from archive_notes import archive_brief
+from archive_notes import archive_brief, ingest_enabled
 from build_frontend import build as build_frontend
 from export_frontend_data import export as export_frontend_data
 
@@ -145,6 +145,7 @@ def write_run_summary(
     brief_input_path: Path,
     brief_path: Path | None,
     archive_card_paths: list[Path],
+    memora_ingest_enabled: bool,
     obsidian_path: Path | None,
     brief_issues: list[str],
     contributions: list[dict[str, object]],
@@ -163,7 +164,8 @@ def write_run_summary(
         f"- items: `{normalize_result.path.relative_to(ROOT)}`",
         f"- brief input: `{brief_input_path.relative_to(ROOT)}`",
         f"- brief: `{brief_path.relative_to(ROOT)}`" if brief_path else "- brief: not generated",
-        f"- Memora notes archived: {len(archive_card_paths)}" if archive_card_paths else "- Memora notes archived: 0",
+        f"- Memora ingest: {'enabled' if memora_ingest_enabled else 'disabled'}",
+        f"- Memora notes archived: {len(archive_card_paths)}",
         f"- obsidian: `{obsidian_path}`" if obsidian_path else "- obsidian: not exported",
         "",
         "## 去重状态",
@@ -288,12 +290,15 @@ def run(
         append_source_status(brief_path, statuses)
     brief_issues = check(run_date) if brief_path else []
     archive_card_paths: list[Path] = []
-    if brief_path and not brief_issues:
+    memora_ingest_is_enabled = ingest_enabled()
+    if brief_path and not brief_issues and memora_ingest_is_enabled:
         try:
             archive_card_paths = archive_brief(run_date)
         except Exception as error:
             print(f"failed to archive knowledge cards: {error}")
             write_log(f"failed to archive knowledge cards: {error}")
+    elif not memora_ingest_is_enabled:
+        print("Memora knowledge ingest: disabled")
     obsidian_path = None
     obsidian_error = ""
     if export_obsidian and brief_path and not brief_issues:
@@ -314,6 +319,7 @@ def run(
         brief_input_path,
         brief_path,
         archive_card_paths,
+        memora_ingest_is_enabled,
         obsidian_path,
         brief_issues,
         contributions,
@@ -351,6 +357,10 @@ def run(
         print("obsidian export: skipped because brief was not generated")
     elif export_obsidian and brief_issues:
         print("obsidian export: skipped because brief quality check failed")
+    print(
+        "Memora knowledge ingest: "
+        f"{'enabled' if memora_ingest_is_enabled else 'disabled'}"
+    )
     print(f"Memora notes archived: {len(archive_card_paths)}")
     print(f"run summary: {summary_path.relative_to(ROOT)}")
     print("daily reminders:")

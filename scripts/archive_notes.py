@@ -15,6 +15,8 @@ BRIEFS_DIR = ROOT / "data" / "briefs"
 ENV_LOCAL_PATH = ROOT / ".env.local"
 DEFAULT_MEMORA_ROOT = ROOT.parent / "memora"
 ARCHIVE_SECTION = "## 知识库入库候选"
+INGEST_ENABLED_ENV = "AI_RADAR_MEMORA_INGEST_ENABLED"
+TRUTHY_VALUES = {"1", "true", "yes", "on"}
 
 
 def today() -> str:
@@ -46,6 +48,10 @@ def env_local_values() -> dict[str, str]:
 
 def setting(name: str, default: str = "") -> str:
     return os.environ.get(name) or env_local_values().get(name, default)
+
+
+def ingest_enabled() -> bool:
+    return setting(INGEST_ENABLED_ENV).strip().lower() in TRUTHY_VALUES
 
 
 def section(text: str, heading: str) -> str:
@@ -121,6 +127,12 @@ def parse_candidates(brief: str) -> list[dict[str, str]]:
 
 
 def archive_brief(date: str, overwrite: bool = False) -> list[Path]:
+    if not ingest_enabled():
+        print(
+            f"knowledge ingest: disabled; set {INGEST_ENABLED_ENV}=true to enable"
+        )
+        return []
+
     brief_path = BRIEFS_DIR / f"{date}-ai-daily-brief.md"
     if not brief_path.exists():
         raise FileNotFoundError(f"brief not found: {brief_path.relative_to(ROOT)}")
@@ -217,6 +229,12 @@ def refresh_memora_overview(memora_root: Path) -> None:
 
 
 def archive_candidates(date: str, candidates: list[dict[str, str]], overwrite: bool = False) -> list[Path]:
+    if not ingest_enabled():
+        print(
+            f"knowledge ingest: disabled; set {INGEST_ENABLED_ENV}=true to enable"
+        )
+        return []
+
     memora_value = setting("MEMORA_ROOT", str(DEFAULT_MEMORA_ROOT))
     memora_root = Path(memora_value).expanduser()
     if not (memora_root / "knowledge").exists():
@@ -301,7 +319,12 @@ def archive_candidates(date: str, candidates: list[dict[str, str]], overwrite: b
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Archive AI-confirmed knowledge-card candidates automatically.")
+    parser = argparse.ArgumentParser(
+        description=(
+            "Archive AI-confirmed knowledge-card candidates automatically. "
+            f"Disabled unless {INGEST_ENABLED_ENV}=true."
+        )
+    )
     parser.add_argument("--date", default=today(), help="Date to process, format YYYY-MM-DD.")
     mode = parser.add_mutually_exclusive_group()
     mode.add_argument("--prepare", action="store_true", help="Archive direct-insert candidates from the daily brief.")

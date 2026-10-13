@@ -32,7 +32,7 @@ AI Radar 是一个个人使用的 AI 情报雷达工程，包含数据采集处�
 - 可选导出每日简报到本地配置的独立 Obsidian Vault
 - 本地手动命令运行
 - 保留本地简报处理链路，以及 Obsidian 和 Memora 的本地集成；不在 GitHub Actions 中运行这些本地能力
-- 简报输出经过 AI 判断的 Memora 入库候选；只有“直接入库”且能找到完整 raw 原文的候选自动生成 Memora note，“先观察”和来源信息不足的内容不写入
+- 简报输出经过 AI 判断的 Memora 入库候选；当前暂时停用知识库入库执行，候选只保留在简报中，不自动生成 Memora note；恢复后仍只有“直接入库”且能找到完整 raw 原文的候选才允许写入
 - 暂时不在简报中判断“是否值得写文章”
 
 当前阶段不做：
@@ -214,8 +214,8 @@ data/items/YYYY-MM-DD.jsonl
 - Top 5 优先选择单篇文章，不优先选择列表页
 - Top 5 默认单一来源最多 2 条；如果超过 2 条，必须在「今日判断」中解释该来源为什么构成当天核心信号
 - 来源不足时不要硬凑 Top 5，要明确说明候选不足
-- 只有“直接入库”且 raw 原文完整可追溯的候选会自动进入 Memora；“先观察”和来源信息不足的内容只保留在简报中
-- Memora note 完成后必须更新 `knowledge/index.md`、`knowledge/log.md`，并在 `knowledge/知识库总览.md` 添加原文链接和 note 链接
+- 当前知识库入库暂时停用；所有候选只保留在简报中，不写入 Memora。恢复入库后，只有“直接入库”且 raw 原文完整可追溯的候选会进入 Memora；“先观察”和来源信息不足的内容只保留在简报中
+- 恢复入库后，Memora note 完成时必须更新 `knowledge/index.md`、`knowledge/log.md`，并在 `knowledge/知识库总览.md` 添加原文链接和 note 链接
 - 暂时不判断“是否值得写文章”
 
 Top 5 的摘要规则：

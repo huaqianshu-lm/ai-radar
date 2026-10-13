@@ -2,7 +2,7 @@
 
 个人 AI 情报雷达 v0。
 
-当前版本实现：固定来源配置、抓取 raw、生成 items JSONL、使用 Gemini 翻译中文前端数据、构建公开静态页面、生成 brief input，并可选调用 Claude Code CLI 生成 Markdown 简报、自动判断 Memora 入库候选并生成正式 note；另提供 GitHub Actions 每日数据更新工作流。不接 Claude API。重点关注视频制作、文本转音频、前端页面设计、新闻抓取、AI 产品和 AI 工具等领域。X 只支持通过显式配置的 API 来源读取数据，不做登录态抓取或泛化网页抓取。
+当前版本实现：固定来源配置、抓取 raw、生成 items JSONL、使用 Gemini 翻译中文前端数据、构建公开静态页面、生成 brief input，并可选调用 Claude Code CLI 生成 Markdown 简报、自动判断 Memora 入库候选；知识库实际入库当前暂时停用。另提供 GitHub Actions 每日数据更新工作流。不接 Claude API。重点关注视频制作、文本转音频、前端页面设计、新闻抓取、AI 产品和 AI 工具等领域。X 只支持通过显式配置的 API 来源读取数据，不做登录态抓取或泛化网页抓取。
 
 ## 安装
 
@@ -51,7 +51,7 @@ GEMINI_API_KEY="your-api-key"
 5. 生成 `data/inbox/YYYY-MM-DD-brief-input.md`
 6. 调用 Claude Code CLI 生成 `data/briefs/YYYY-MM-DD-ai-daily-brief.md`
 7. 简报质量检查通过后，复制到配置好的 Obsidian Vault
-8. 简报质量检查通过后，自动将“直接入库”候选写入配置的 Obsidian 知识卡片目录
+8. 当前不会将“直接入库”候选写入 Memora；候选仍保留在简报中
 
 如果只想抓取和准备输入，不生成简报：
 
@@ -76,7 +76,7 @@ GEMINI_API_KEY="your-api-key"
 ./ai-radar --remote
 ```
 
-这个命令不会再次访问新闻来源，而是同步远程 raw 后在本地继续生成 items、brief、Obsidian 和 Memora 结果。
+这个命令不会再次访问新闻来源，而是同步远程 raw 后在本地继续生成 items、brief 和 Obsidian 结果；知识库入库当前暂停。
 
 ## GitHub Actions 每日更新与本地同步
 
@@ -99,22 +99,24 @@ launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.ai-radar.remote-dail
 该任务每天按本地时间 08:00 和 16:00 各检查一次；电脑关机期间不会丢失远程 raw，下一次到点或开机后会继续同步和处理。
 
 
-## 知识库入库
+## 知识库入库（当前暂停）
 
-简报生成后，AI 只会把满足“直接入库”标准且能找到完整 raw 原文的候选交给 Memora 入库；“先观察”和来源信息不足的内容只保留在简报中。Memora 完成 note、索引和日志更新后，还会把原文链接与 note 链接写入 `knowledge/知识库总览.md`。
+简报仍会生成知识库候选，但当前不会把抓取内容、raw、note、索引、日志或知识库总览写入 Memora；候选只保留在简报中。下面的脚本和实现保留不删除，默认关闭，后续可通过显式开关恢复。
 
 ```bash
-# 从当天简报自动写入“直接入库”候选；run_daily.py 生成简报时也会自动执行
+# 当前默认只会提示已暂停，不会写入 Memora
 .venv/bin/python scripts/archive_notes.py --date YYYY-MM-DD --apply
+```
+
+如需恢复入库，先在当前命令中显式开启：
+
+```bash
+AI_RADAR_MEMORA_INGEST_ENABLED=true .venv/bin/python scripts/archive_notes.py --date YYYY-MM-DD --apply
 ```
 
 配置 `MEMORA_ROOT` 指向 Memora 项目根目录，例如 `/Users/limiao/personal/2-topic/4-AI/project/memora`。不再写入 AI Radar 独立 Vault 的 `Knowledge Cards/`。
 
-```bash
-.venv/bin/python scripts/archive_notes.py --date YYYY-MM-DD --apply
-```
-
-脚本只会写入简报中标记为“直接入库”的候选，并保留原文链接；“先观察”、来源信息不足或目标文件已存在的条目会跳过。
+恢复后，脚本只会写入简报中标记为“直接入库”且能找到完整 raw 原文的候选，并保留原文链接；“先观察”、来源信息不足或目标文件已存在的条目会跳过。
 
 如果当天简报已存在，需要重新生成：
 
