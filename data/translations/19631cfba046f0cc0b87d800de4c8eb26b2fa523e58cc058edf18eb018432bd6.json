@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/engineering/redesigning-source-control",
+  "content_hash": "3d0e21e85aa97481f636359a98a98a616e96c46ac4c5cc353ea4cafe349d1da5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "56ee56e48ed29025cce52423c0bd8f143d1e4288abebf73af8cff8fd2f7d9fd5",
+    "title": "重新设计 Anthropic 的源码控制",
+    "summary": "HN 讨论帖：https://news.ycombinator.com/item?id=50073633，原始网址：https://www.anthropic.com/engineering/redesigning-source-control，作者：Philpax，得分：54..."
+  }
+}

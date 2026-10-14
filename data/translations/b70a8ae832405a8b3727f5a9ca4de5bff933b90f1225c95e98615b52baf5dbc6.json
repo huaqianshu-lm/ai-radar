@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai",
+  "content_hash": "b2006d488565f2f30ac7f0631dcfb1b67f7c1f2038b2c954d7a8d592bb5663d6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f99ea621acd6e4bbbe5b26d34fa31c72b20415217e271dedec8a5b661706575b",
+    "title": "llm-meta-ai 0.2：版本发布：llm-meta-ai 0.2",
+    "summary": "版本发布：llm-meta-ai 0.2。Meta AI 发布了 Muse Wonder（以及 Muse Wonder Full），这是他们全新的“能力最强的模型”。这些模型看起来可能是 Meta 的首个 Fable 级别的模型..."
+  }
+}

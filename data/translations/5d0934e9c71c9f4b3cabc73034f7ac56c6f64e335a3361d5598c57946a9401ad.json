@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/LargeModGames/spotatui",
+  "content_hash": "389e99c2d8838debace79161ab79da730098f1626c40f948c2bf88f1bb64faf5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "956aacf86719741572be634805b6047a467e05c85addcb751f4f1412b24bac58",
+    "title": "Spotatui：一个没有 Web API 速率限制的 Spotify TUI/GUI 客户端",
+    "summary": "HN 讨论帖：https://news.ycombinator.com/item?id=50070010，原始网址：https://github.com/LargeModGames/spotatui，作者：LargeModGames，得分：48，发布于大约 11 个月前..."
+  }
+}

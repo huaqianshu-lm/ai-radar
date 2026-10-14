@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/KETT765Q4KDK6Q",
+  "content_hash": "f1fc10afc8ecc38f484b63cf637986dc90c90071fcb6cbd35162ad2f25c2f99e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "536174f6c55abcb70197ee142ff0be5e40aaf7afb8a13c38cec7e4f3f579056b",
+    "title": "Product Hunt: CLI Manager — 让一个 AI 代理去开启并驱动你的其他 CLI 代理",
+    "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/cli-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/sgl-project/sglang-omni",
+  "content_hash": "25441030196017ab3f0c8d8559757a99eeacf846d627d773504ef1151a01119e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "56a53d59bd9c92f85bca5b46da40e1adcb766ea1242a445ad27527c4dc192fb1",
+    "title": "sgl-project / sglang-omni：SGLang-Omni 是一个用于音频模型（TTS、ASR）和统一多模态模型的高性能服务框架",
+    "summary": "SGLang-Omni 是一个用于音频模型（TTS、ASR）和统一多模态模型的高性能服务框架。- 编程语言：Python - 今日获得 29 个 Star"
+  }
+}

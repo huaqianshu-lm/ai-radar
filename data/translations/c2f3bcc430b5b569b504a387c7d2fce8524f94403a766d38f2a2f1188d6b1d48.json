@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley",
+  "content_hash": "e056521b904fd4ea182b2314753a6f13b51b916e38056362c45a16933e0077b8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7e80df2842c6c98c629ee48424a1a1da6370d7cb225f925221a68cefb057f058",
+    "title": "引用 Geoffrey Huntley 的观点",
+    "summary": "如果智能体没有使用我的诊断库，我可以进行内省并更新 AGENTS.md，但仍然会存在偏差，并且会导致漂移。相反，我编写了一个预提交（pre-com...）"
+  }
+}

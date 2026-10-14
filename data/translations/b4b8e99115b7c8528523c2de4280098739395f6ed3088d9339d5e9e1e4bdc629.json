@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+  "content_hash": "1dcba9d361da1173112ce85477adbbba36fc119d53d76b192bca468a006c12d1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "53911f98c21c784fce1ad32ff03581a81f8dabebaf6d23b86827f6c51a0cda80",
+    "title": "使用 LFM2.5-24B-A2B 在端侧运行快速、私密的智能体",
+    "summary": "使用 LFM2.5-24B-A2B 在端侧运行快速、私密的智能体。LFM2.5-24B-A2B 是一个拥有 240 亿参数、但仅有 20 亿活跃参数的推理模型，专为快速、私密的端侧运行而构建..."
+  }
+}

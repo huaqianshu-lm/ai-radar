@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://parsimony.lasu.dev/",
+  "content_hash": "8f30e91f77b549ca4b6b69817bda5b69e7b21ebc2553a4feaf35080868926496",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "22dbce1dd938b87d23a10dce97fa145d54685527385adff0a3187f93328d999d",
+    "title": "Show HN: Parsimony – 测量 AI 模型代码冗余度的开源基准测试",
+    "summary": "现有基准测试主要衡量解决率，而 Parsimony 是一个开源基准测试，用于评估 AI 模型添加了多少代码。"
+  }
+}

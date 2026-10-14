@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://eg2.haku.sh/",
+  "content_hash": "7d84ad3acf6bdb2003c327b5addb0289561657783eed16c5e7ab81f134714dae",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f02a8c8151dd5c896b6b9d234607d066735f15fca414ff24172ff6a96be49b52",
+    "title": "我们把 EmbeddingGemma 2 变成了一个语音转文本模型",
+    "summary": "HN 讨论帖：https://news.ycombinator.com/item?id=50069971，原始网址：https://eg2.haku.sh/，作者：amrrs，得分：397"
+  }
+}

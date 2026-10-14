@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/higgsfield-longer-videos-voice",
+  "content_hash": "beadddb03729963559361147dd41b49f8cb1c16af92524d40255cc8fb4769195",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8d45898e533e591d4241f4c1821bbb7b4d6f05ca764b796c7fbe29eb68dd7bc4",
+    "title": "Higgsfield 将 AI 视频生成时长从 1 分钟提升至 10 分钟以上",
+    "summary": "Higgsfield 通过 GPT-6 Astra 为创作者提供更长的视频内容，通过 GPT-Image-2.5 提供精准的视觉效果，并通过 GPT-Live 为语音电影制作铺平道路。"
+  }
+}

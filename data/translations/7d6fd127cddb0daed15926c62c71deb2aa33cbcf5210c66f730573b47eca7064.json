@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/dyna",
+  "content_hash": "dba912baa5d55a8375eaf8852c2f6e58c4e2fc28877f08496854dad95d1918b3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "be997bf718606abb5880af09af5b7542b88bddb7c8a4aef7fb022ed70afe6563",
+    "title": "Dyna-2：具备一小时自主能力的通用物理智能体 — Jason Ma, Dyna Robotics",
+    "summary": "我们与 Dyna 的首席科学家进行了首期机器人播客对话，探讨他们对世界动作模型（World Action Models）及物理 AI 下一个前沿领域的重大押注"
+  }
+}

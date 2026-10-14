@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.pi.website/blog/api-beta",
+  "content_hash": "3539289e4621cd32e669f8589b36b0be93ea6b1effdf8b64b3d804761e8cd6bd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6db6724e155ae1c6acb9e1206cab91d379f929af5a3e670bf9b5051b9f3ad848",
+    "title": "Physical Intelligence API Beta: 面向每个机器人的前沿模型",
+    "summary": "Physical Intelligence API Beta 发布，为各种机器人提供前沿模型支持。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/13/llm-gemini",
+  "content_hash": "118a713df5d26ea7f08a748a0bcebb9e2acfa0d8ff6082cba550e121c51ade96",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "39b03f627696e97fefd3023480ad2bb1697830ab788e3c16430f3d66ebf29146",
+    "title": "llm-gemini 0.35：版本发布：llm-gemini 0.35",
+    "summary": "版本发布：llm-gemini 0.35。我在 llm-gemini 中增加了对全新 Gemini 4 Argon 模型的支持，该模型于今天通过 Gemini API 以及面向其 100 美元客户的渠道推出..."
+  }
+}
