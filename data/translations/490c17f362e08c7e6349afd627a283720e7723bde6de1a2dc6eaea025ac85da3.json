@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/KLWVRGQPBSK7MC",
+  "content_hash": "2d22eb409c3d70807621ed6bbc29b1ad1e864edb9b9ec1a910b491c32920b76a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fdd9cb5007f0c810842616efaa93555d68b1a4d234b2405f9675dd2972b7e44d",
+    "title": "Product Hunt：Tiden —— 编程智能体的意图验证工具",
+    "summary": "Product Hunt 上的一款为编程智能体提供意图验证功能的工具 Tiden。"
+  }
+}

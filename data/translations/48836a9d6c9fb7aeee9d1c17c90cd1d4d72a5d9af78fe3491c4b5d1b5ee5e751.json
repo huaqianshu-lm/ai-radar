@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/third-moment-research",
+  "content_hash": "7d53db2705e3d18849cc9ceef2154639ebb9903b452a8c6f4adef9509848998d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a8b8c31de898145e14c82e5a132c6ade438a779372caca6da84483874bea0325",
+    "title": "Third Moment Research 如何运行 10,000 个持续 36 小时以上的 Agent",
+    "summary": "借助 GPT-6 Astra、GPT-6.1 Sol、Codex 以及用于网络安全的 Daybreak，这家 AI 实验室构建了能够专注数天并在使用中不断改进的 Agent。"
+  }
+}

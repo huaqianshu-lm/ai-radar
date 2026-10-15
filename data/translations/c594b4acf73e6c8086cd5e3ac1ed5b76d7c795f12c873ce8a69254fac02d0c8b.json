@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-14",
+  "content_hash": "39fff068cd1ba861623fda4a1744a2638a4d3ceb886a16fc8821a5547c1c1f3b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2001b3394fa46b9e9585418eb89d6736f0b2a27e5eedb85185657bf77722dfa3",
+    "title": "OpenAI 开发者被捕 🚨、Pi API 🤖、OpenCode 2.0 🧑‍💻",
+    "summary": "OpenAI 表示其一名员工因使用隐藏录音设备而被捕。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/crossing-the-threshold",
+  "content_hash": "222b1a254108cd21d7c5d0f025aab5227850f4b655eba39273a3265a3be50753",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "247153705736c57d29c6ef695cd98ec909c9550878a56d25dea3d3578479faf5",
+    "title": "跨越门槛：OpenAI 和 Anthropic 如何看待金融 Agent 中的自主性与安全性",
+    "summary": "在纽约 AI 工程师大会上，前沿实验室和金融机构探讨了如何在保持对重大决策控制的同时，赋予 Agent 有用的自主性。"
+  }
+}

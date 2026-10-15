@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/Q5YAUE7WHFYYB4",
+  "content_hash": "3f16770b8f90d0e0c6ec7e68ea6f40e96760dfcac4a8c47719a2a2fae04d526a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3b87c759c6782b48345188ed8f4cfd2350bb63cc810e20da3231f18f155306ad",
+    "title": "Product Hunt：Inferock —— 无服务器推理，失败调用返还额度",
+    "summary": "Product Hunt 上的一款无服务器推理服务 Inferock，主打失败调用返还积分。"
+  }
+}

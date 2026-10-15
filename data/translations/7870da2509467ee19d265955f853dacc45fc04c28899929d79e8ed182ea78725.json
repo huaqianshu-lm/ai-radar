@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://typesafe.ai/blog/jev-1-14",
+  "content_hash": "e0f9e7ed343f26ec08e5fd4460aa128aa525fd6b009eddfb2c1a531bb7582457",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "616037433c784b2a756266154046c52406a6c78ae4e578bdf86a646a2c2eb5ed",
+    "title": "我们发布了 Jev 1.14.0 以及面向梦想者的实验性功能",
+    "summary": "HN 讨论帖，typesafe.ai 发布了 Jev 1.14.0 版本及其相关更新。"
+  }
+}

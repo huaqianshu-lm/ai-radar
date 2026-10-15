@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/wshobson/agents",
+  "content_hash": "82b63d6f184352364b1fba368f918a1686c3017f15e93afb1321c5c02771a70c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "31661aae5fd34dec93b27281e47f630e64f252a43f71a8572aab477b47f5fde2",
+    "title": "wshobson / agents 项目",
+    "summary": "这是一个面向 Claude Code、Codex、Cursor、OpenCode、GitHub Copilot、Google Antigravity 和 Pi 的多平台智能体插件市场。语言：Python。"
+  }
+}

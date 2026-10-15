@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://ghuntley.com/remix",
+  "content_hash": "71fe39d2891ca63b0fd7769f38eadf2ba900ea86fa0aacb4ba6440bd349e7e81",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f3082b1f672e9c065aab59633936acbf3af3f775b5a62aa54ce50bbd372b8eb2",
+    "title": "开源的新模式：关闭 Pull Request，开放 Remix",
+    "summary": "HN 讨论帖，探讨了一种针对开源项目的全新协作与衍生模式。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/sentinelone",
+  "content_hash": "6e1da40257c5ab76cebd7b8337238df66d8a338e3d8e905c1635c78a3c1e1b63",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "004cd593adabcd24c97d9e96a166c251028359017ae1a6a5fbaa8f542a33706f",
+    "title": "SentinelOne 将恶意软件分析时间从数周缩短至数小时",
+    "summary": "借助 OpenAI Daybreak，SentinelOne 将数周的恶意软件分析时间缩短至数小时，从而腾出能力来调查更多威胁。"
+  }
+}

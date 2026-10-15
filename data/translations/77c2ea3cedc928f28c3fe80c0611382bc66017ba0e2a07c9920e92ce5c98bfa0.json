@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/python/cpython",
+  "content_hash": "535378d9363dddc7778d4262f4e298123b61d4e42246ab6b4efa6357afa76b2b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cd1cb5b5b252b6c0501c02dad1be20fd63a3bd6999fdbef0f8a1fff0bf8d6d80",
+    "title": "python / cpython（Python 编程语言仓库）",
+    "summary": "Python 编程语言官方仓库。Python 语言编写，今日获 130 个标星。"
+  }
+}

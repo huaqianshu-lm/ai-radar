@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/block-ai-powered-security",
+  "content_hash": "e7d980e3eecdbdba5dd91a0c53f78d2b61434e610839ac418434fe7aa697b8f5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "94ee28b93f9d2d830319b5f76c0aa72745ffecd9af8552d923f3dc0ab202dce3",
+    "title": "Block 如何利用 OpenAI 技术构建 AI 驱动的安全防护",
+    "summary": "Block 正在使用 OpenAI 构建 AI 驱动的安全防护。其安全团队能够以更快的速度调查威胁并在几分钟内提出补丁。"
+  }
+}

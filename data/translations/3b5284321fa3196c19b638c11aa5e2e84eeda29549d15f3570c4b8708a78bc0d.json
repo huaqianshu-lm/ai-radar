@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://sunshowers.io/posts/anthropic-mononoke",
+  "content_hash": "372a29da7039c36176816998a39415876b8c8a9b88459437c74a259cbb03d2dc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "891468d096a68883d5cc7704b1acf5e60c606eb597e31ac6941d73cb20601e95",
+    "title": "Anthropic 的 Scion 深度借鉴了 Mononoke",
+    "summary": "HN 讨论帖，探讨了 Anthropic 旗下 Scion 项目与 Mononoke 的技术关联。"
+  }
+}

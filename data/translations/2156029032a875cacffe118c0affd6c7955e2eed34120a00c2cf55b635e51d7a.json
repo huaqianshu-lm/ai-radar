@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+  "content_hash": "64b646619b1425fa21ec132a52eaf9db7db5fff47d65776e216d0ac298fb66e0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "364f5f1cad75fb5b888bd305eb4d36ed1dfe682885160c7e1fb6f4bcf2916f1f",
+    "title": "LFM2.5-24B-A2B 模型发布：专为快速端侧智能体打造",
+    "summary": "Liquid.ai 推出了 LFM2.5-24B-A2B 模型，旨在提供出色的端侧智能体运行性能。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/MakazhanAlpamys/Soup",
+  "content_hash": "dfb0456030b70de52393a8c9cf100e46efb2e2b1ac4846cd6485827e1afe8865",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "82f6447f851685ec19f54357c060d10fd770ed19a3534e5a5f96960bffeb5020",
+    "title": "MakazhanAlpamys / Soup（大模型微调工具）",
+    "summary": "通过单个 YAML 文件微调大语言模型。层流式传输（Layer streaming）可在 4 GB 笔记本电脑 GPU 上训练 8B 模型。Python 语言编写，今日获 247 个标星。"
+  }
+}

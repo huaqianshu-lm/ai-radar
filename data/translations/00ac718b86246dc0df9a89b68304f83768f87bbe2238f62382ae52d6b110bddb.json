@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games",
+  "content_hash": "3c603318d53c213fdef816ce6f1e5ae3ca391d49b2be034d6ffc17f65d934d1d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8b2cab1489374fa7ca00ab1ff46a8e2e9c7e7cfa4728b86d8215f65c148ef2d3",
+    "title": "AI 正在对游戏进行大规模反编译，这既令人惊叹又令人担忧",
+    "summary": "独立游戏开发者 Popcar 谈论了近期由 AI 驱动的对现有游戏的反编译浪潮。"
+  }
+}

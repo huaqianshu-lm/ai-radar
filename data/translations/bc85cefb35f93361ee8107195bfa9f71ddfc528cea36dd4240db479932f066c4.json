@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/2026-us-midterms",
+  "content_hash": "38ef7c5359d6809a2e442fc334ca29a6311e2b6a3c37f172fbd56bbe6de47b21",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ad577cc4d385593cb7c01bf987f497d37cde5b45e9e2ed8312c055180c24ff3e",
+    "title": "Anthropic 正在为 20th 美国中期选举做准备",
+    "summary": "今年早些时候，我们分享了关于选举安全防护措施的最新进展，其中描述了我们如何衡量和防止政治偏见。"
+  }
+}

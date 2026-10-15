@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/hiro-acev2",
+  "content_hash": "d1aa48d90877b88bb0af456571519023a5011b2849ef6ae7354fd30f5593f0fe",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "504a28fcb44d1a3d50f6e22cdc0f1f0da6134986c194362be75ac5abe645b09b",
+    "title": "HiRO-ACEv2：以极低成本模拟 3 公里分辨率的极端天气",
+    "summary": "我们推出了 HiRO-ACEv2，这是我们高分辨率输出模型的最新更新。"
+  }
+}

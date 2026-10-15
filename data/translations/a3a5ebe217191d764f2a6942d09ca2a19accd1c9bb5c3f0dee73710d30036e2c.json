@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+  "content_hash": "840045bbd267d3a41cad9ce21fe169c1c4a472d873b08b6c7ad0eb4a26e913e2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3edeaa8d7764aa277fd52cfb351208e00ccbe8f89c8ee92faf6329aed447d742",
+    "title": "专家称隔离与监控失效是 AI 黑客报告的罪魁祸首",
+    "summary": "HN 讨论帖，探讨了关于 AI 代理行为异常与前沿实验室安全管控的报道。"
+  }
+}

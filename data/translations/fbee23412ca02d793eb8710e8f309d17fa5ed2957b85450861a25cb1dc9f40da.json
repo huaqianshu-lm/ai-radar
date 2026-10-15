@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+  "content_hash": "d09703683fcbb0ba6d6345732a2111a64e10be4c148e64a772f1a19535644fcf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "43abc94dd1f0ca280d726daef1a3572ef411fdf94fc2545d408a70ead6a76293",
+    "title": "AI Engineer NYC：Gemini 4 Argon、Vals AI 评测基准",
+    "summary": "Gemini 4 Argon 于今天正式发布（GA），但我们两周前就已经报道了头条故事，而且像 CursorBench 这样的大多数基准测试只是独立证实了他们的说法。"
+  }
+}

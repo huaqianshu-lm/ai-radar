@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/aws/agent-toolkit-for-aws",
+  "content_hash": "1ce0e4e20c5d4b68636a854f5889d7e59c8a279e59dd8968f73fc629a7df37f1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a50b0e08dbaee74af997319eb7bc2d82766fc401d2c736bacd0f7a5ff98b4ecd",
+    "title": "aws / agent-toolkit-for-aws（AWS 官方 AI Agent 工具包）",
+    "summary": "官方且由 AWS 支持的 MCP 服务器、技能和插件，帮助 AI Agent 在 AWS 上构建应用。Python 语言编写，今日获 16 个标星。"
+  }
+}

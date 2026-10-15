@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+  "content_hash": "54cc96c83bd95c035787708b6bdcdb83bdcac1715b4542755fac169e36d0c84d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "649989f895c2f016c528f89e0a80df1e5061c7b8734f1d87da2d669d81784ab5",
+    "title": "以算力速度实现 Lab-in-the-Loop —— 来自 Leash Bio 的 Ian Quigley",
+    "summary": "Leash Bio 如何驯服让每个人头疼的 DELs 检测，并利用这些数据来捕获作弊的模型，以及为什么这些数据非常适合学习中的 AI Agent。"
+  }
+}

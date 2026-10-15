@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://clova.email/",
+  "content_hash": "e62ad15f8293ef1b2214a04cc3289821be7cac327b4f6ad0317d80765ceffb6f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cb0908fa52c7962720d5c8d86630fb33b54f3d3ecd0d5f40fcfc940d468784ac",
+    "title": "Show HN：我写了一个每个收件箱只接受一个发件人的邮件应用",
+    "summary": "HN 讨论帖，介绍了一款名为 clova.email 的产品，支持无限收件箱及相关前缀功能。"
+  }
+}

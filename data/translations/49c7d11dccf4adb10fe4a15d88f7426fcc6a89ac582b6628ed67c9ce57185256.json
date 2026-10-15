@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/amp-beyond-coding",
+  "content_hash": "5e689d0b6a780d4a850ee630d8b9de339d73b72d0898a4a0d1b6f12e043b7a18",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "57c3309db5bedcdec4e0532a65e896970f7cad30f5011350fb2a735b14cb8cdd",
+    "title": "Amp 借助 OpenAI 模型将 AI Agent 的应用推向代码之外的领域",
+    "summary": "了解 Amp 如何通过 GPT-6 Astra、Ultrafast、GPT-Live-1 和 Sign in with ChatGPT 突破 Agent 能力的极限。"
+  }
+}

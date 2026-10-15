@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+  "content_hash": "00100dd1de07709b7ae38dddda7d1d89aa54999410a33a9f451af537d27d08d7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b76b11a1199f73b7027f051c73b169df83c2a00e9a8c2e410a485803d662c4b8",
+    "title": "端侧 AI 防范诈骗：Google DeepMind 与 MDDI 合作",
+    "summary": "Google DeepMind 与新加坡政府合作，为诈骗检测构建微调后的 AI 模型。"
+  }
+}

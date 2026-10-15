@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/14/tree-appreciator",
+  "content_hash": "cfa6c347e45aa0f5a079411cf4cea2427a7b3c5ac19e35f34d9794a75b691295",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eb4b2d9063ab8e79fdabef3287feedabfee879e65c93347d4b7b683904309fb0",
+    "title": "Tree Appreciator（树木鉴赏家工具）",
+    "summary": "另一个基于 Claude 的游戏实验工具，使用的是默认的 Claude iPhone 应用（聊天模式，而非 Claude Code 模式）。"
+  }
+}

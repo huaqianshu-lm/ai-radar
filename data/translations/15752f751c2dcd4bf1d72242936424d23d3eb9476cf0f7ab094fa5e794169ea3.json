@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/HKUDS/CLI-Anything",
+  "content_hash": "a5d9b41db5e3c40f26b79cf2d258f5260cb093ab927a57ec71b15383efc9cb85",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5dd922e14c0ccf9b5c66ad63951d5dcf462757fcde6001d6834f45d0be1446d2",
+    "title": "HKUDS / CLI-Anything（使所有软件具备 Agent 原生能力的工具）",
+    "summary": "CLI-Anything: 使所有软件具备 Agent 原生能力。Python 语言编写，今日获 103 个标星。"
+  }
+}
