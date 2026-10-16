@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+  "content_hash": "52eef1260dcea8e94c8d8ecf9a5131da585ed1774941cbe4515c88856f3a4cc9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c3f9aa1e97f35f2465d0af14f3b196ebc11ad7498a8811b869b071034882ea93",
+    "title": "Anthropic 关于独立评估人员的更新",
+    "summary": "上个月，我们承诺对我们的模型和安全实践进行更强的独立第三方评估，我们还签署了相关内容..."
+  }
+}

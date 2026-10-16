@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/15/chirp-pong",
+  "content_hash": "c4e495359b799bdf68c9e2504cb45912c6e71e34eab3946ef7d1f925710f3deb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "23178e6a594364e04f6a76d35276fdf0afb279cb79a0fb271dd51923b2b63406",
+    "title": "Chirp Pong：工具：Chirp Pong",
+    "summary": "工具：Chirp Pong。另一个游戏实验，旨在探讨在两部运行静态 HTML 的独立手机上实现双人游戏是否可行。"
+  }
+}

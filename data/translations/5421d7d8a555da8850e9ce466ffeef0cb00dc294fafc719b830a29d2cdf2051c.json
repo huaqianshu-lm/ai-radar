@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/sullivan-cromwell",
+  "content_hash": "52b0cd92e253a377b62684cddbc89ff92057e79afd9496191bd3c8365ce68d1e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "94eadcab22c41e356a1d9bf1e35dbdb6491d04804b7eea5ceec3829024496784",
+    "title": "Sullivan & Cromwell 将法律专业知识引入协议审查",
+    "summary": "Sullivan & Cromwell 与 OpenAI 合作开发了 Agreement Analyzer，这是一个用于识别协议草案中问题的 AI 工具。"
+  }
+}

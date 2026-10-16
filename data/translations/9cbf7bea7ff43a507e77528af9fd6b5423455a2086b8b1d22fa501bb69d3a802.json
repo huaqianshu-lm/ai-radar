@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+  "content_hash": "0e57a86f11ab01503a342692295510a064592f9754fe94dd9fa77e488229a4a2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3b88e631408680364ea9a152f6e9efd2ecc78ea8cf4125966179efcad826634d",
+    "title": "Google Antigravity：加速抗菌肽搜索 — Google DeepMind",
+    "summary": "利用 Google Antigravity 加速搜索抗菌肽。随着抗菌素耐药性水平不断上升，迫切需要新的抗生素..."
+  }
+}

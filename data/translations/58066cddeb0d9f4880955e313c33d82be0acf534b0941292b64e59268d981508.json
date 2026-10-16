@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-15",
+  "content_hash": "8aff162a74d5b412132086e9442aec70a2611429c2879575d3d73443f488accb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4858bd5a9d664819d27c65c460d88dc8bc5095bf84e641470b79c799750a1ed1",
+    "title": "Jev 1.14 ⚡、Grok Voice 3 🎙️、RSI 🔁：xAI 宣布推出 Grok Voice 3.0，这是一款具备亚秒级延迟的语音到语音模型",
+    "summary": "xAI 宣布推出 Grok Voice 3.0，这是一款具备亚秒级延迟的语音到语音模型。"
+  }
+}

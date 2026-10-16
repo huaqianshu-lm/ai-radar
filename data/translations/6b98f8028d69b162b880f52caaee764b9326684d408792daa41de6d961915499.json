@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/6IFIVCOEBSFQYE",
+  "content_hash": "3b85676950f58297297e93b36ed33cb9c174caf20bb959a441efd5665869cabe",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d8f7204ef63b1f1e76ce66d164c9c80fb953eddb5a9f945a67c447c85ca614ee",
+    "title": "Product Hunt: Polylane Impact Analysis — 在风险拉取请求（PR）破坏生产环境之前捕获它们",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/polylane"
+  }
+}

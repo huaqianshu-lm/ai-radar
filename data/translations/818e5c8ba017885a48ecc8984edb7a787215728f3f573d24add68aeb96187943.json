@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/volcengine/OpenViking",
+  "content_hash": "e1bb55abdcdc40e7bbdd900c6b7dff63e4845235e90da8d7dcd4bbb83a02d991",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "876fe6c1edb8596cc21b9007d193ed6df71ac72977f9a442eff03867b017ab89",
+    "title": "volcengine / OpenViking：面向 AI 智能体的自演进上下文数据库，统一了智能体记忆、知识 RAG 和技能",
+    "summary": "面向 AI 智能体的自演进上下文数据库，统一了智能体记忆、知识 RAG 和技能。编程语言：Python。"
+  }
+}

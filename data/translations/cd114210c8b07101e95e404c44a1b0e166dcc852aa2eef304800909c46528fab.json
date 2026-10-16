@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/meta-muse-spark-open",
+  "content_hash": "7db1947c94c31fca982f67220dd7a4257f362ee156685ce92c0a5770815a9cea",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ff0cf28c5d7530571030bbc53285abf8be3ed6fb11c617ba5f382a8208219854",
+    "title": "欢迎使用 Muse Spark Open：来自 Meta 的开源权重前沿多模态混合专家模型",
+    "summary": "继 Muse Glimmer 之后，Muse Spark Open 引入了混合专家架构。"
+  }
+}

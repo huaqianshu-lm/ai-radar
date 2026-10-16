@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/flux-3",
+  "content_hash": "bb8a099bea6b793751a73f543079f187a706a17f4552c829d9f36f48eb73d602",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eb67409897ed2136a753e14173e61feab2317d6d8d361b6603fffb8a60da143f",
+    "title": "欢迎在 Diffusers 中使用 FLUX.3 Image Klein",
+    "summary": "来自 Black Forest Labs 的最新开源图像生成模型支持布局控制，可在提示词中写入边界框。"
+  }
+}

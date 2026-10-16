@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/F5FLUBQ6Z4P2LL",
+  "content_hash": "a33f4c54b6fc08895dfa62c53e422c923c02c408fce49ec15cb737a2ba26edd4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "daa9269e16e96f466ab2058f3dbf83306d29e55e3f2f6f6f709a6881e4ff00d6",
+    "title": "Product Hunt: SuperLocalMemory — 结合 Laya、Jev 和 Google Gemma 的代理内存",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/superlocalmemory-v2"
+  }
+}

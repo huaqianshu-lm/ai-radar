@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/ahujasid/mcp-for-blender",
+  "content_hash": "1e3e1d736f6eff66fbebfd72ec0b925a49ee00a5961cd0ff86442c19d66bd391",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "587c68a1307478c20d6cdd9a2bcecc617a199455561a81fd65f8d010f4bd38ac",
+    "title": "ahujasid / mcp-for-blender：用于通过你选择的任何 LLM 控制 Blender 3D 的社区插件",
+    "summary": "用于通过你选择的任何 LLM 控制 Blender 3D 的社区插件。与官方 Blender 基金会无关。编程语言：Python。"
+  }
+}

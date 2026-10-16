@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+  "content_hash": "cc06f51a3d4fb40fee5e11b83d15eb84c9a6db250a4df824508bc7ff6491e1ed",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "32165ee6af8945a5bd83e4231d3e052413905bc21e8455b93c147e03ace99490",
+    "title": "将 GPT-Rosalind 引入学术研究实验室",
+    "summary": "推出 Rosalind Academic Plan，为符合条件的学术实验室提供 GPT-Rosalind 的赞助访问权限及推动生命科学研究的工具。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web",
+  "content_hash": "7b936a368700dc61d81c1e7bedd20d18d7a6e87b431ae22fab5d6dae96a7e355",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d05f789212e75b03895d891fc48db8d9e1c5820cf5404b274822d199fc0e3772",
+    "title": "Cloudflare 与 OpenAI：为所有人改善 AI 发现体验",
+    "summary": "Cloudflare 与 OpenAI 如何合作帮助 AI 查找有用内容、跟上变化并减少无效请求，从而提升体验。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware",
+  "content_hash": "1b827e58ea3c3d18419ef3a6fa7f269be478b065c0d7268a3b8ab23221911903",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ef44c8c2fd567dd7b4567ed9891951302cffe409586c83a702ea149dbd6e5be9",
+    "title": "使用 AI 对硬件进行逆向工程",
+    "summary": "HN 故事及来自 ErenayDev 的原文博客探讨了使用 AI 进行硬件逆向工程的内容。"
+  }
+}

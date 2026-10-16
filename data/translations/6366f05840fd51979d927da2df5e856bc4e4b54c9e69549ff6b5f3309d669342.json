@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "content_hash": "b0c07de123bd4b4be968b8b9cb5d7b825b0c75e622f6536e1feb49f4def96f19",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d330643595776f9f542e9f48a636499dcc2c3968ee0ccb07e6ba5a41a8cbcae0",
+    "title": "Granite Switch 4.1：从单个端点实现聊天、决策和语音",
+    "summary": "Granite Switch 4.1 模型配备了 Decision 适配器以及最快的 ASR 模型等。"
+  }
+}

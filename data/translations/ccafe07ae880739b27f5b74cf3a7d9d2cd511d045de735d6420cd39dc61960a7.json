@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Crosstalk-Solutions/unifi-toolkit",
+  "content_hash": "38fd9f6d615b58dc536821799af1fa09d751360b4168b288abd5330cf46afaf8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d591c4cfe030ee56644015db9cedf67e62dab0b2f3cc14b30bb60ae205efce5f",
+    "title": "Crosstalk-Solutions / unifi-toolkit：用于 UniFi 网络管理的工具套件",
+    "summary": "用于 UniFi 网络管理的工具套件。编程语言：Python。"
+  }
+}

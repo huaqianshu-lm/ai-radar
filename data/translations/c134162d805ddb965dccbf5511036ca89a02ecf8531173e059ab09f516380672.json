@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/timestral",
+  "content_hash": "e96a934a0427e9d492700baacc5da626e0f025c227aeb0194841f9ec5c602123",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "370d8453b070a7bffccc481b1ad8507eb64ebfc9e3d43f800d25d724a2c186ac",
+    "title": "Timestral：Mistral 的时间序列基础模型",
+    "summary": "Timestral 是 Mistral 的首个时间序列基础模型系列，只需少量参数即可提供最先进的概率多元预测。"
+  }
+}
