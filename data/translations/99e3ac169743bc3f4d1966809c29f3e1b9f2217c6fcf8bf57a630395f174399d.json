@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+  "content_hash": "032ae25e4482a78b0e27d806eefca817c1d4bedff243eee7bc48add9fca8ea2b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d0817155767aa3ab43456e96e09abceaa12a42ca0623f397f41bb639eda1a0df",
+    "title": "使用 Claude 设计更高效的量子电路",
+    "summary": "Anthropic 发布研究报告，探讨了如何利用 Claude 来设计更高效的量子电路。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://starskirmish.com/bench/v0-2",
+  "content_hash": "86636dbe490c3a08d57495573514bdc67f6496b2bef09f2722b5148cfa88117e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3a7946cd06e1a37aed4d35c3e8831f7ef3e0b188667e4bb5e96a1baf5d3fcd6a",
+    "title": "Show HN：Gemini 4 Argon 玩星际争霸",
+    "summary": "HN 热门讨论，展示了 Gemini 4 Argon 参与星际争霸对战的表现与相关基准测试。"
+  }
+}

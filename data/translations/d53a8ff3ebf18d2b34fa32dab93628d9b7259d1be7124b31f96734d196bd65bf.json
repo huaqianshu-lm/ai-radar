@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-16",
+  "content_hash": "cf9fa36491ce993dbb93756b48eb49ae60df31f18240ea5dbac2dbeaee9474df",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0cdc4fd06c046a0feb9d63e626974dae24d6239c048f0a706a209ca113f477ee",
+    "title": "Muse Spark Open、微软 3T 参数模型及 d1-ultra",
+    "summary": "AI 2026-10-16 简报。探讨了 Muse Spark Open、微软的 3T 参数模型、d1-ultra，以及智能体构建应用后的发布助手等内容。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.mercor.com/research/labor-index/benchmark-map",
+  "content_hash": "e11c70ec20305f051d8647cdfbc97be2496da2f0bc9a1a14e26532b72323f031",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6b10edb38f7953beed932e3b1abd178db71de3daf0478c670161be8e274bcb7d",
+    "title": "美国 90% 的工作时间花在了 AI 基准测试未能很好涵盖的任务上",
+    "summary": "根据一项研究报告显示，绝大多数美国工作时间所从事的实际任务并未被现有的 AI 基准测试所涵盖。"
+  }
+}

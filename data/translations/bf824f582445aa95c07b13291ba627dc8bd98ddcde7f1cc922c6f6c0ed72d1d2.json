@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "content_hash": "c796385ac686218916729afb9c42f6ec14a921b201d4d30dec6a7d731da32d4a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9e63539289a31c8631b61e2dab00ee4355731974576a94679adaae67ea1b4655",
+    "title": "ChatGPT 插件推动 Stack Overflow for Agents 注册量增长两倍",
+    "summary": "两位工程师使用 Codex 在几周内推出了 Stack Overflow for Agents，其 ChatGPT 插件助力智能体创建量实现了高达 10 倍的增长。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/verified-bots-accountability",
+  "content_hash": "86f28908806eccf5ae1e6360360c30d88b925af75212efd867503156b1eb4e8a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1beb66d0b231d0b1c078f0393f8bf4978f85287af1100a3ea74d3d4723ec6118",
+    "title": "对已验证机器人的持续问责机制",
+    "summary": "仅凭身份并不能保证机器人会负责任地行事。我们正在引入一个系统，用于持续评估已验证的机器人是否尊重网站偏好设置。"
+  }
+}

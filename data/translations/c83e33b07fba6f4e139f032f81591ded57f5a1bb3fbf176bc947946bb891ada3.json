@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/reflection-beam",
+  "content_hash": "dbe8442d4f3b6774f6d932062c65e743370ad9f57aeb811783af9941d21b3eeb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c9a6184923cc1a5837b490017ed569bb9f0183f7b39ff2df0ab9b46fbcc327c4",
+    "title": "欢迎使用 Beam：一款你可以拥有、自定义并扩展的 501B 开源模型",
+    "summary": "Beam 拥有 100 万 token 的上下文窗口，采用 Apache 2.0 许可证发布，致力于提供可完全掌控的开源模型体验。"
+  }
+}

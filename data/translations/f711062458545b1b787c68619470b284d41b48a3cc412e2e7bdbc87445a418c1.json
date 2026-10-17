@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/16/code-review",
+  "content_hash": "8e95ddbe84bd57c3eeddffa8d5e170fecee992bfa46f49d644f4ec892188cced",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e8a95e9b22df9875a5142ceaa4f6114f26a4f536e99b08e8794aaf7778d28254",
+    "title": "引用 Addy Osmani、Morgan Westlee Lunt 和 Qing Wang 的观点",
+    "summary": "我们认为“人类是否阅读过代码？”并不是衡量“此更改可能会出现什么问题，以及哪种检查（自动化或人工）才是正确选择”的精确指标。"
+  }
+}

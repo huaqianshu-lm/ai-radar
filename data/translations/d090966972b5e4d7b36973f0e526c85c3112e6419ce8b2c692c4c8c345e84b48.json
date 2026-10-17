@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/cobanov/PS5LM",
+  "content_hash": "de2c1128d82e4b151fe7cc6b63e073913d786bec891c01aac095d131cc529ddf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7661019fe020ff68160483021ee6649eca10ea6d824a3b1293c6bab26a1cbd96",
+    "title": "在越狱的 PS5 上运行 Llama.cpp：在主机上原生运行任何 GGUF 模型",
+    "summary": "开源项目 PS5LM 允许用户在越狱的 PlayStation 5 控制台上原生运行任意 GGUF 格式的 AI 模型。"
+  }
+}

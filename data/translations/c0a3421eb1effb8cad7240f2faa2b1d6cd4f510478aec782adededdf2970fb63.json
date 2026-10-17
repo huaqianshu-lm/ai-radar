@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://alexwang.ai/posts/associative-memory",
+  "content_hash": "403dfe518728f09f34dd0d78cb920655d65d5bada324ad9ee5e078f9a29d76e5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "520b0400db3cdd5772498dfaaef1e992041b43a8326054728a4949fdc05423bb",
+    "title": "你本可以凭记忆发明 Transformer",
+    "summary": "一篇探讨关联记忆与 Transformer 架构演进原理的深度技术文章。"
+  }
+}

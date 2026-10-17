@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://claude.dev/blog/solving-code-review-at-anthropic",
+  "content_hash": "3d9a089943a3840e0158a2ab4d9c8931ff0cfcc67854fcc49092962cb3feed19",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c7dfeeeb6dfb1916550c27a8b4f77f3b7baa83e8ef5781803e7af6b2ed9ab700",
+    "title": "Claude Code 团队是如何进行代码审查的",
+    "summary": "Anthropic 官方博客文章，详细介绍了 Claude Code 团队在日常开发中解决代码审查难题的方法与实践。"
+  }
+}

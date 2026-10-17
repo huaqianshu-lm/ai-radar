@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+  "content_hash": "742f6a9c16e7729f4a5f3ca825de9f09fee658221bf81ce176b2e38415aa800f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a80ac8068cf5aba129cce427a0c39c85407534c6c1637e95a52f2e6d9a18b64d",
+    "title": "Apple ML Research：在 Mac Studio 上使用 MLX 运行 Muse Spark Open",
+    "summary": "苹果机器学习研究团队关于在 Mac Studio 上借助 MLX 运行 Muse Spark Open 的相关文章与讨论。"
+  }
+}
