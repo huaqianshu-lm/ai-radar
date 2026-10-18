@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://llmspeed.dev/",
+  "content_hash": "99839648ebf827bb10b84cc121b90c32017a5977c47a88d4dbf40ecd19d92f87",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5cf8bc3a52e1e15c3bc18eead82aee48586425afe74cfa072d98fa5d141c6eb7",
+    "title": "Show HN: Llmspeed – 在购买硬件前体验本地 LLM 的运行速度",
+    "summary": "通过 Llmspeed 感受本地大模型运行速度的工具。"
+  }
+}

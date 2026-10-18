@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/43SXMMGUSWZP6U",
+  "content_hash": "07c71f8471fe9fc5a5613c133c59adec30ec715d8b22557a68c0423c0d5d7b50",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b8787aa411f0f1cc2f84fdae386172c2dd86f3c1e56dd9ea734e9546040097f9",
+    "title": "Product Hunt: Step 5 Preview — 6000 亿参数开源权重模型，专为长周期智能体训练",
+    "summary": "预览版 Step 5 模型，拥有 600B 开源权重，针对长时间运行的智能体进行了专门训练。"
+  }
+}

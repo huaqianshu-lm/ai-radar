@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://thingstodoapi.com/",
+  "content_hash": "20fe97b058bc2155554cf1c02d488069ad251babaf5971849ec2feda44584ff4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "410ae70aa0cfae08c7d0fe01ce28d84b5c62155d908e3fb50847ece590b70761",
+    "title": "Show HN: Things to Do API：构建了一个用于本地活动的 API/MCP",
+    "summary": "构建了一个用于本地活动的 API/MCP。"
+  }
+}

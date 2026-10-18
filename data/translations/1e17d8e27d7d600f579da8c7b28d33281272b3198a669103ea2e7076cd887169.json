@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
+  "content_hash": "fab950845d9e7ced4b596a7369aec243afcb6fd76dc47eede8ca3612d289a92d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3e97a8ec6cf7ba6ccaec7517bc9f801e4aae646a0a0313cc7643dfff4b70f59b",
+    "title": "OpenAI 留给自己不公开的数学研究",
+    "summary": "探讨 OpenAI 内部保留的数学相关内容的文章。"
+  }
+}

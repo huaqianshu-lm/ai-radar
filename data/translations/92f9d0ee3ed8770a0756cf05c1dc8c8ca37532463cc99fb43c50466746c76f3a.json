@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/google/artemis",
+  "content_hash": "9faf16ffb9bb58f47230faa65eea9f428ed55d132b09cc11a2538d81df508d77",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3c87705c98eedbc929a47454165a15bbfcfbdfae3abc54eeb98a539611e0d0ea",
+    "title": "google / artemis：ARTEMIS 可以将自然语言指令转化为可靠的 Android 自动化操作",
+    "summary": "ARTEMIS 可以将自然语言指令转化为可靠的 Android 自动化操作。它能够自动化端到端工作流、捕获日志并无缝集成。"
+  }
+}

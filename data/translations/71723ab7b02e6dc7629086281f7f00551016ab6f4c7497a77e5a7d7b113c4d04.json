@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/yt-dlp/yt-dlp",
+  "content_hash": "20e9667925c087bb7dfb39affdf87d5d5a391b3dab464c81502ff41efce953d8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "511a5089717fad8aad5196b9c7bb80fab44cb234d370beac9dbfc5ff552f6bdf",
+    "title": "yt-dlp / yt-dlp：一个功能丰富的命令行音视频下载工具，使用 Python 编写",
+    "summary": "一个功能丰富的命令行音视频下载工具，使用 Python 编写。"
+  }
+}

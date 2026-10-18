@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/NMSK3UAZW7HJX4",
+  "content_hash": "28d2c8b0b15b46c177eecd6c08afe82a3cfd705221294e3a2cb656f5c683ba83",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0f78b2c408034ed25726ef42283ae5c67fe38aed6c6e137a94b09edf99dc2fd5",
+    "title": "Product Hunt: CrewTower Mod for Claude Code — 直接从 MacBook 刘海处与 Claude Code 对话",
+    "summary": "为 Claude Code 推出的 CrewTower 模组，支持直接在 MacBook 的刘海区域与其交互。"
+  }
+}

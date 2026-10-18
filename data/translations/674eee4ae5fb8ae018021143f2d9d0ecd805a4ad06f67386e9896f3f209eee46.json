@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "content_hash": "ecc3543b7557432fd7bd5d2bf18bdc6f7c41c1e258d4c6cee56fff48fa8fcc3c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cac24968e5aa0d5bf28d3c60ce48378a0d33bee3f4a7e39824b4f1e7eb461454",
+    "title": "DeepSeek-v4.1-Flash-1017：来自 Hugging Face 的 DeepSeek 模型相关讨论",
+    "summary": "来自 Hugging Face 的 DeepSeek 模型相关讨论。"
+  }
+}

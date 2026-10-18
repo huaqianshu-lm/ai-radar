@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/7LLDB2DFOQWGAZ",
+  "content_hash": "4447b7f37aa0588b697672d29dd7ce0a640fb147b38d558c62dda6f8702c0e05",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8ad9ee9875845cd7cba4038fce5cf31c256d9ab26f192c0e14ce237c5a1e055c",
+    "title": "Product Hunt: Salience — 查看网站的每一个请求及其响应情况",
+    "summary": "用于监控和查看发往网站的每个请求及其响应状况的工具。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/openai/codex/issues/25921",
+  "content_hash": "13682f9dc09658848c40a196b0dedd6122794af9200bb78615fec5823381581a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9ce1d661b5d81c143a196fc1aa7afafe0c3d292f33f4f370087f34164afe9a01",
+    "title": "Codex Desktop 持续生成 Crashpad 挂起转储文件",
+    "summary": "反映 Codex Desktop 持续生成 Crashpad 挂起转储（pending dumps）的问题。"
+  }
+}

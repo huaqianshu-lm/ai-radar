@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/DF6JU33ZTEEQI3",
+  "content_hash": "91ef9da5a4b81274f57772a2e726a488b216bc0244f1704fab749ae2e0647928",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f444ac5ea9099ba9f5eb04619b819f85c11fc171bc889d637ddfc96e8dc6f144",
+    "title": "Product Hunt: GPU Terminal by Context.dev — 跨云服务商对比 GPU 租赁价格",
+    "summary": "用于在不同云服务提供商之间对比 GPU 租用价格的终端工具。"
+  }
+}
