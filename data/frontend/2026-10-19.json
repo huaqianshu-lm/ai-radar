@@ -1,0 +1,235 @@
+{
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "a0595c813318ccae8c08950da5c942c92349612b84631a22de879ac40ef1f743",
+      "title": "投资于公众利益 - Anthropic",
+      "summary": "今天，Anthropic 承诺将一部分股份注入 Anthropic Public Benefit Fund（Anthropic 公众利益基金），这是一个旨在服务公众利益的新实体...",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-10-19T00:53:41Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/public-benefit-fund"
+    },
+    {
+      "id": "cc225fa176e6c3eac28c867630cfab17ecd112c0c6bb9300334c1ce711f7f94a",
+      "title": "使用 document.currentScript 进行内联渲染",
+      "summary": "Lean Rada 描述了一个利用 document.currentScript 属性的巧妙技巧，你可以使用它来实现...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-17T21:11:12Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/"
+    },
+    {
+      "id": "9d2417f40cde50f04449dce634da1b80f95c91368ab885e5da40c31359ed21bb",
+      "title": "llm-echo 0.5 发布",
+      "summary": "发布：llm-echo 0.5。我正在开发一个新的 LLM 版本，测试 PR 时让我重新审视了 llm-echo 调试插件。该插件提供了一个“模型”，可以...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-18T23:16:16Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/"
+    },
+    {
+      "id": "ae7b31dc246e27601c9853584b216a22afa45030743693b540b19f254b54b3a5",
+      "title": "llm-tools-datasette 0.1.1 发布",
+      "summary": "发布：llm-tools-datasette 0.1.1。当我将 LLM 切换到 LLM 0.33 中的 httpx2 时，忘记了这会破坏任何直接使用 httpx 的插件...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-18T23:43:09Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
+    },
+    {
+      "id": "32faae70661994ba1796ad95e82528ca1b7110cfa13cf530cd8b2ca150fb181d",
+      "title": "Comfy-Org / ComfyUI：功能最强大且模块化的扩散模型（diffusion model）GUI、API 和后端，采用图/节点接口，是世界上最快的本地推理引擎",
+      "summary": "功能最强大且模块化的扩散模型（diffusion model）GUI、API 和后端，采用图/节点接口，是世界上最快的本地推理引擎。语言：Python。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-19T00:53:41Z",
+      "time_type": "fetched",
+      "url": "https://github.com/Comfy-Org/ComfyUI"
+    },
+    {
+      "id": "c290a2acf859c75ba01866cb35826aeaf1954f632d0113de95ad93b4fbaa9bb1",
+      "title": "Graphify-Labs / graphify 代码知识图谱转换工具",
+      "summary": "将任何代码库及其文档、SQL 架构、配置和 PDF 转换为可查询的知识图谱。为 Claude Code、Cursor、Codex 和 Gemini 提供 /graphify 技能...",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-19T00:53:41Z",
+      "time_type": "fetched",
+      "url": "https://github.com/Graphify-Labs/graphify"
+    },
+    {
+      "id": "a25698ef8fddf33aecf4bcc916e1449a5d250ebb387a922313d431bc8343a811",
+      "title": "Kruk2 / jasna：视频修复工具",
+      "summary": "视频修复工具。语言：Python。今日获得 115 个星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-19T00:53:41Z",
+      "time_type": "fetched",
+      "url": "https://github.com/Kruk2/jasna"
+    },
+    {
+      "id": "15236568193f8031a77ee0e28e7d6f651078cc7ecac82650d729858825fcccc1",
+      "title": "NVlabs / ASPIRE：ASPIRE：用于机器人的智能体/技能发现（Agentic /Skills Discovery for Robotics）",
+      "summary": "ASPIRE：用于机器人的智能体/技能发现（Agentic /Skills Discovery for Robotics）。语言：Python。今日获得 94 个星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-19T00:53:41Z",
+      "time_type": "fetched",
+      "url": "https://github.com/NVlabs/ASPIRE"
+    },
+    {
+      "id": "626a5e4fcb233d8d7ffe545e87dad1f9433e0f43b19e1e12b059e2092dcc5147",
+      "title": "TauricResearch / TradingAgents：TradingAgents：基于多智能体大模型的金融交易框架（Multi-Agents LLM Financial Trading Framework）",
+      "summary": "TradingAgents：基于多智能体大模型的金融交易框架（Multi-Agents LLM Financial Trading Framework）。语言：Python。今日获得 222 个星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-19T00:53:41Z",
+      "time_type": "fetched",
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "id": "0e1c32a585dd4e05db26ac4f3767b3389724719c87ea2a07b858dd3b3022cc6b",
+      "title": "Hacker News 展示：Sphinx – 一个在发布前对你的 AI 代码进行测验的钩子",
+      "summary": "开源免费软件（FOSS），基本上它是一个...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-18T04:33:49Z",
+      "time_type": "published",
+      "url": "https://sphinx-six-theta.vercel.app/"
+    },
+    {
+      "id": "956d462d69506633458ba8f1ee5d2321174d87e1dadd89195b1e5a0b442dc4fe",
+      "title": "Hacker News 展示：在《时之笛》重制版推出前了解塞尔达时间线",
+      "summary": "我在《时之笛》重制版推出前制作了这个网页...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-18T13:06:54Z",
+      "time_type": "published",
+      "url": "https://legendofhyrule.com/"
+    },
+    {
+      "id": "ae6e49210029e41a672a7f639a040f260b0aeb7595e36baced9dfc8765964be4",
+      "title": "混合推理智能体：在潜在空间思考、通过文本行动的大模型智能体",
+      "summary": "相关讨论及论文链接...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-18T20:48:14Z",
+      "time_type": "published",
+      "url": "https://arxiv.org/abs/2610.18861"
+    },
+    {
+      "id": "bf08c7b0ac6a75f777cb915a239cd52f4eda2344fa9056462c3112d27e3bcc39",
+      "title": "如果你不运行自己的大模型代理，你怎么知道发生了什么？",
+      "summary": "探讨不使用自定义 LLM 代理时的可见性与监控问题...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-18T21:09:12Z",
+      "time_type": "published",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
+    },
+    {
+      "id": "2a6ac23eb50f0535247508e934c17ca3c7933def5eaee9dc6a66a136719fe17f",
+      "title": "Hacker News 展示：在 Cloudflare 上免费运行的 WhatsApp MCP",
+      "summary": "我希望我的 Claude 能够...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-18T21:36:10Z",
+      "time_type": "published",
+      "url": "https://github.com/finereli/whatsapp-mcp"
+    },
+    {
+      "id": "8f7f37f5d890cc5740a791fd87deb425e8aea6addc83b0dde38079c171f8cd2b",
+      "title": "Product Hunt：3AM Super Intelligence — 生产故障：调查、验证与修复",
+      "summary": "Product Hunt 产品收录页面，提供生产环境事故的调查、验证与修复相关 AI 能力。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-18T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/PUH26LXS2WLDLX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "2199930baf7e79306eacbb429559495b73d9bd9dcbc0e115ee7882dd2b741f3e",
+      "title": "Product Hunt：Bee Frontier 和 Bee Eclipse — 亚马逊的个人 AI 记忆，现已支持您的手环或手机",
+      "summary": "Product Hunt 产品收录页面，提供亚马逊个人 AI 记忆相关功能。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-18T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/WNZ6NFZTTN7MBD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "1379341220523e9ed7c21c0f54525d8966070271be97ed4272f50fdf992df358",
+      "title": "Product Hunt：Inbox Zero — 开源的 Superhuman 替代品",
+      "summary": "Product Hunt 产品收录页面，提供开源邮箱管理替代方案。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-18T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/FK6F3KNVDZW35Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "0333615ffc7fd6ff6ced83e6bf50c76a64b138a55df2005f64280e2ae3e047d0",
+      "title": "Product Hunt：Krea 3 — Krea 的 AI 图像模型：8 秒内完成 2K 编辑",
+      "summary": "Product Hunt 产品收录页面，展示 Krea 的 AI 图像模型及高效编辑能力。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-18T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/OSPNBXUM3TCV22?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "4c6ec7301d2f1f07306a07becba23c63ba9c165b756d3a7606bf9e2d0bb9a4c7",
+      "title": "Product Hunt：MyLens — 借助 AI 实现大规模 1 对 1 实时演示",
+      "summary": "Product Hunt 产品收录页面，介绍使用 AI 进行实时演示的工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-18T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/RES6VMKW3LGAIK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "0ecdd89ba2bfc7892f0f84634e1fd9f3ac45cd7653230a6ab06b86393f4c365d",
+      "title": "Product Hunt：Openbroca — 适用于 Mac 的轻量级 AI 听写工具，声音听起来像你自己",
+      "summary": "Product Hunt 产品收录页面，提供 Mac 平台轻量级 AI 语音听写功能。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-18T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/BLEYUJP5LFNQCX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "f3282526ce3e98b1586b10abdf0e99946d5be54e0df76ff5e533d368020bad86",
+      "title": "Product Hunt：Popcraft — 从任何 AI 智能体生成视频、图像和音频",
+      "summary": "Product Hunt 产品收录页面，支持通过 AI 智能体生成多媒体内容。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-18T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/TC4CJ3NY3GZIBV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "7302295cf7860623668b412cbbcecefbc372667b85ba8c7457fbe2e62fd5056c",
+      "title": "Product Hunt: Tomo for ChatGPT — 随时提问，然后以 Duolingo 的风格进行游戏",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/tomo-for-chatgpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-18T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/B7PYM6TZUHFML4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "3250d598f1dbf13ab7b6f9b672a36c9bafcff318631bebbe2c360f2a50c3ac1b",
+      "title": "The Rundown AI 新闻通讯",
+      "summary": "获取最新的 AI 新闻，了解其重要性，并学习如何在工作中应用它们——每天只需 5 分钟。",
+      "source": "The Rundown AI",
+      "source_type": "curated",
+      "display_time": "2026-10-19T00:53:41Z",
+      "time_type": "fetched",
+      "url": "https://www.therundown.ai/archive"
+    }
+  ]
+}
