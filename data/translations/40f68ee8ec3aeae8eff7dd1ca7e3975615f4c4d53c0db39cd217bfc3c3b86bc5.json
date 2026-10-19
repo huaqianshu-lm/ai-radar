@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Comfy-Org/ComfyUI",
+  "content_hash": "cd537a923f19c0dd781e1c6c72fcba4857b80677407cda59f7dec3baa92cbfa8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "32faae70661994ba1796ad95e82528ca1b7110cfa13cf530cd8b2ca150fb181d",
+    "title": "Comfy-Org / ComfyUI：功能最强大且模块化的扩散模型（diffusion model）GUI、API 和后端，采用图/节点接口，是世界上最快的本地推理引擎",
+    "summary": "功能最强大且模块化的扩散模型（diffusion model）GUI、API 和后端，采用图/节点接口，是世界上最快的本地推理引擎。语言：Python。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://sphinx-six-theta.vercel.app/",
+  "content_hash": "7db594057353dd633fb7f0a038fa74cfb549ac2de48de14d0a8b703eaaa54a96",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0e1c32a585dd4e05db26ac4f3767b3389724719c87ea2a07b858dd3b3022cc6b",
+    "title": "Hacker News 展示：Sphinx – 一个在发布前对你的 AI 代码进行测验的钩子",
+    "summary": "开源免费软件（FOSS），基本上它是一个..."
+  }
+}

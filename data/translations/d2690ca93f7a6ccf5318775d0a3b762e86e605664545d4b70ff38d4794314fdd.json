@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/RES6VMKW3LGAIK",
+  "content_hash": "a53968e511abd0188bebe2e844524b554c71c7dfeaeb7bbe3756c86893ed2ff7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4c6ec7301d2f1f07306a07becba23c63ba9c165b756d3a7606bf9e2d0bb9a4c7",
+    "title": "Product Hunt：MyLens — 借助 AI 实现大规模 1 对 1 实时演示",
+    "summary": "Product Hunt 产品收录页面，介绍使用 AI 进行实时演示的工具。"
+  }
+}

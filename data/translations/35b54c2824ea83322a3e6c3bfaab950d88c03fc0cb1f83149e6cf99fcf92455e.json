@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2610.18861",
+  "content_hash": "3225c55511d8f484bf71322eee2bfe481215d77dfe90caf0f4eb276de857824f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ae6e49210029e41a672a7f639a040f260b0aeb7595e36baced9dfc8765964be4",
+    "title": "混合推理智能体：在潜在空间思考、通过文本行动的大模型智能体",
+    "summary": "相关讨论及论文链接..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+  "content_hash": "db7407824db3df0737c604cca6e723cf99797909f6879431e0ae9fccda86a507",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bf08c7b0ac6a75f777cb915a239cd52f4eda2344fa9056462c3112d27e3bcc39",
+    "title": "如果你不运行自己的大模型代理，你怎么知道发生了什么？",
+    "summary": "探讨不使用自定义 LLM 代理时的可见性与监控问题..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/18/llm-echo",
+  "content_hash": "54e6f876bc0e3851ee267cc83e74339df1f20a8b1ae879e023deeeb7dcf7bb01",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9d2417f40cde50f04449dce634da1b80f95c91368ab885e5da40c31359ed21bb",
+    "title": "llm-echo 0.5 发布",
+    "summary": "发布：llm-echo 0.5。我正在开发一个新的 LLM 版本，测试 PR 时让我重新审视了 llm-echo 调试插件。该插件提供了一个“模型”，可以..."
+  }
+}

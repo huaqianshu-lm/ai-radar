@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
+  "content_hash": "18ad15c3e6e662f0f33a4484282c1d621c338edd6d2adb24524017b84f40e7f3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ae7b31dc246e27601c9853584b216a22afa45030743693b540b19f254b54b3a5",
+    "title": "llm-tools-datasette 0.1.1 发布",
+    "summary": "发布：llm-tools-datasette 0.1.1。当我将 LLM 切换到 LLM 0.33 中的 httpx2 时，忘记了这会破坏任何直接使用 httpx 的插件..."
+  }
+}

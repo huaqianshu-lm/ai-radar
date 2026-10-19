@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
+  "content_hash": "59fd5b39defbbf7f0761a2d1114080007ef5c184791216fad17e268ff9da8f22",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cc225fa176e6c3eac28c867630cfab17ecd112c0c6bb9300334c1ce711f7f94a",
+    "title": "使用 document.currentScript 进行内联渲染",
+    "summary": "Lean Rada 描述了一个利用 document.currentScript 属性的巧妙技巧，你可以使用它来实现..."
+  }
+}

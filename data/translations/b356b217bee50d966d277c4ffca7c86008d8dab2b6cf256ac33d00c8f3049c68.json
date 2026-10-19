@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/PUH26LXS2WLDLX",
+  "content_hash": "4166650a4bb9a5787ebf5e4254f8ba0a7d8d6dac2dedb05afe17bd9133001673",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8f7f37f5d890cc5740a791fd87deb425e8aea6addc83b0dde38079c171f8cd2b",
+    "title": "Product Hunt：3AM Super Intelligence — 生产故障：调查、验证与修复",
+    "summary": "Product Hunt 产品收录页面，提供生产环境事故的调查、验证与修复相关 AI 能力。"
+  }
+}
