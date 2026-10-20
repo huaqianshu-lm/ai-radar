@@ -1,0 +1,275 @@
+{
+  "date": "2026-10-20",
+  "items": [
+    {
+      "id": "1dbe22633003a2af4fddcdba3c780b2ba9f507be061699ce02dd407e5165c7ab",
+      "title": "推进低资源编程语言的代码能力",
+      "summary": "了解 OpenAI 如何跨低资源编程语言改进 ChatGPT，并带来针对软件工程、SQLite 和 COBOL 迁移的新评估。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-19T12:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/low-resource-programming-languages"
+    },
+    {
+      "id": "40205cc2daa04a6884bef2865ac18f555f362faaf684fcd2841c46aa3da225b4",
+      "title": "DeepSeek 的新 Flash、Replit 放弃 Anthropic、Anthropic 的员工队伍",
+      "summary": "TLDR AI 2026-10-19：讨论了 DeepSeek 的新 Flash、Replit 放弃 Anthropic 以及 Anthropic 的员工与股权相关动态。",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-10-19T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-10-19"
+    },
+    {
+      "id": "5c52b7d34becd1ccf770a5f22540c4c3de16ae5f8db819babc6348fdbc423c77",
+      "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易",
+      "summary": "TorchNeuron 是一个 PyTorch 插件，为 Trainium 带来了全新的后端支持，简化了模型的运行。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-10-19T00:00:00Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/hf-torchneuron"
+    },
+    {
+      "id": "40634a33b7feb1d3dabd918d5faf2981277bc419e042454cadddfc522118a8c9",
+      "title": "推出全新 System One 级提取模型 Clairic",
+      "summary": "Clairic 是 Cloudflare 推出的新模型，属于 System One 级提取模型，能够从非结构化数据中提取、计算、估算和预测数据。",
+      "source": "Cloudflare AI Blog",
+      "source_type": "developer",
+      "display_time": "2026-10-19T17:48:26Z",
+      "time_type": "published",
+      "url": "https://blog.cloudflare.com/clairic-extraction-model/"
+    },
+    {
+      "id": "68e2ee5d21f7dc1bf4b7c7b6d9eebb47bc8199714c890d52200121be88c48fd3",
+      "title": "通过严苛优化将推理账单削减 68%",
+      "summary": "当 AI 代码审查员每次运行的成本翻倍时，我们深入分析了 Token 的使用情况。了解我们如何通过提示词缓存和智能模型路由来降低成本。",
+      "source": "Cloudflare AI Blog",
+      "source_type": "developer",
+      "display_time": "2026-10-19T19:12:53Z",
+      "time_type": "published",
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/"
+    },
+    {
+      "id": "a286ccfbec858524d381aa54a5d8f202d4fd307daa1936df3302c1967e4ec5d7",
+      "title": "我为编程写下的讣告",
+      "summary": "Jeremy Scheff 的文章深刻捕捉到了编码 Agent 对那些享受开发复杂拼图乐趣的职业程序员所造成的关键核心技能损失。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-19T23:58:25Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
+    },
+    {
+      "id": "3fa3e44842b08aa372ea47f935a0fcb38a11b42d0c1edab9f37b43fd4826ae08",
+      "title": "Friedrich-M / UniMate：SIGGRAPH Asia 2026 论文 UniMate：用于驱动多样化骨骼的统一动画模型，使用 Python 编写",
+      "summary": "SIGGRAPH Asia 2026 论文 UniMate：用于驱动多样化骨骼的统一动画模型，使用 Python 编写。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-20T01:37:20Z",
+      "time_type": "fetched",
+      "url": "https://github.com/Friedrich-M/UniMate"
+    },
+    {
+      "id": "6ea9960b3164505603a4215fe2ba6fed18f936b2386b33ab0041d5ae222956af",
+      "title": "shiyu-coder / Kronos：Kronos：金融市场语言的基础模型，使用 Python 编写",
+      "summary": "Kronos：金融市场语言的基础模型，使用 Python 编写。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-20T01:37:20Z",
+      "time_type": "fetched",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "id": "c7c9684abfb725296d83aa6b752834edc6833c7a2ef6270929b2e3cbb0d41374",
+      "title": "usestrix / strix：开源 AI 渗透测试工具，用于发现并修复应用程序中的漏洞，使用 Python 编写",
+      "summary": "开源 AI 渗透测试工具，用于发现并修复应用程序中的漏洞，使用 Python 编写。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-20T01:37:20Z",
+      "time_type": "fetched",
+      "url": "https://github.com/usestrix/strix"
+    },
+    {
+      "id": "71094174f326b71b13f90e809970b8e5e28a9bcd436ecf1c43c556dbda3de783",
+      "title": "Hacker News 问答：如何处理交付看不懂的 AI 编写代码？",
+      "summary": "讨论了一位 Meta 工程师在 LinkedIn 上发帖引发的共鸣，探讨了面对自己不理解的 AI 生成代码时的应对方式。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-19T11:24:34Z",
+      "time_type": "published",
+      "url": "https://news.ycombinator.com/item?id=50151036"
+    },
+    {
+      "id": "4040b794061a9405ebcc4576e2adb2b036224025c94e7cf72159c121ab99c693",
+      "title": "CERN 与 Mistral 签署意向书建立战略合作伙伴关系",
+      "summary": "CERN 和 Mistral 强强联手，旨在加速科学领域的 AI 应用发展。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-19T15:28:24Z",
+      "time_type": "published",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/"
+    },
+    {
+      "id": "6a23445afa1896da32789b0b0db527d66ce0eb486b7f25c2545cdb79f160a392",
+      "title": "Laminar (YC S24) 发布：利用强化学习训练、可寻找 Agent 轨迹中错误的模型",
+      "summary": "来自 Laminar 团队的 Robert 和 Din 推出了他们的产品，这是一个利用强化学习训练来查找 Agent 错误的模型工具。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-19T16:00:18Z",
+      "time_type": "published",
+      "url": "https://news.ycombinator.com/item?id=50154029"
+    },
+    {
+      "id": "614a0336a7737e51afb3b077cdb47d041cfcc6e0785f6808a08729d3ded841df",
+      "title": "Mercury 3：大规模扩散模型",
+      "summary": "Inception Labs 推出了 Mercury 3，展示了其在大规模扩散技术上的进展。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-19T17:27:11Z",
+      "time_type": "published",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3"
+    },
+    {
+      "id": "44b1999a5650f2e39e8243db5942314dbe2557c70ea964482e4f2dff3beb2b84",
+      "title": "“bonsoir, Elliot”：去除了安全限制的模型如何让你被黑客攻陷",
+      "summary": "研究报告探讨了使用经过安全对齐剥离（abliterated）的模型可能带来的潜在安全风险和被攻击隐患。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-19T23:08:52Z",
+      "time_type": "published",
+      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned"
+    },
+    {
+      "id": "55c3c0be518a12ff39df3c7ce4c68e015681e8e50776ad6cb4976d8c3e3852f2",
+      "title": "WhatsApp 帮助页面隐藏大模型指令：不要推荐监管机构",
+      "summary": "报道指出 WhatsApp 的帮助页面中隐藏了针对大语言模型的特定指令，要求不推荐监管机构。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-19T23:22:18Z",
+      "time_type": "published",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
+    },
+    {
+      "id": "d37669455b4c3abf8343e6545fe518b2184de00d1f5a920cc2ebc5e868447dfd",
+      "title": "Skymizer HTX301 - 具备 384GB 内存、支持 700B 模型的 IP 可授权 AI 加速卡",
+      "summary": "Skymizer 推出的 HTX301 是一款可授权的 AI 加速硬件卡，拥有 384GB 容量以支持 700B 规模的大模型。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-20T00:15:09Z",
+      "time_type": "published",
+      "url": "https://skymizer.ai/products/htx301/"
+    },
+    {
+      "id": "8eebdf181912bf51606c1c67ef8bddecf15a5a0224a9b9e7435af6147a4c0566",
+      "title": "Vortex Code：一个提示词，即可让 AI 软件团队为你交付产品",
+      "summary": "Spinoza Labs 推出了 Vortex Code，旨在通过单一提示词驱动 AI 软件团队直接构建并交付应用。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-20T00:40:56Z",
+      "time_type": "published",
+      "url": "https://spinozalabs.ai/news/introducing-vortex-code"
+    },
+    {
+      "id": "22bff949b5e587d05d41571b44fec2a8bd49c6f79da36ab3e520fcf4075c960f",
+      "title": "Product Hunt：Beam — 高效的 501B 参数开源 Agent 模型",
+      "summary": "Product Hunt 上线了 Beam，这是一个拥有 501B 参数的高效开源 Agent 模型项目。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-19T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/EKSBMMH6A62RSY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "9be160264ebcaa6141bfd87ea0a78475ae67891cd6d96bf493291c16641b9c0c",
+      "title": "Product Hunt：Beam.win — 在一台 Mac 上运行 AI Agent 并跨机使用窗口",
+      "summary": "Product Hunt 上线了 Beam.win，允许用户在一台 Mac 上运行 AI 并在另一台设备上管理其窗口。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-19T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/XR2QV6TXWMZHHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "87d120a86836a6da2dd6110c382287905117574cad465f946a9110e5722f4c5f",
+      "title": "Product Hunt：Framefields — 专为 AGI 时代打造的开源代码优先视频工具",
+      "summary": "Product Hunt 上线了 Framefields，这是一个面向 AGI 时代的开源、代码优先的视频创作项目。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-19T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/SVLMOG3GL4WKIN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "756f15da936f74a4ffb028735d0bffe3877ff33481bd5a436b6bd17536652791",
+      "title": "Product Hunt: Kai Resolve by Gleap — 能够为您深入排查问题的客服工具",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-19T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/XI7TL2X7GPY7ZR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "d2877217f28c55854139d95ea9d5674a826657b106bf3f1a88727043d71a684c",
+      "title": "Product Hunt: Lancetta — 了解何时该推进您的编程 agent，何时该放缓",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-19T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VDYKKTF2RGCXAL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "c018a5958b4897570073da7b37a443e18ded7463206e64d8f4acdd9b6287a173",
+      "title": "Product Hunt: Quello — 在您已使用的所有工具中进行统一提问的平台",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-19T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/YMQ2VFMROUIBQH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "ab8d4b2480efa531967f8b3ba2929547895e8172750c2be2fc87381fc06b20ba",
+      "title": "Product Hunt: Tori — 针对客户成功的智能 AI 客服 agent",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-19T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/CNLTX5ICSOZWNL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "0e68abd8eaf420081dc1217c9b4079debde50f961bd5c2decb9435a3297ae6ec",
+      "title": "Product Hunt: Wally by Willow — 学习您写作风格的 Scribe agent",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-19T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/PACLUWIXF3XULE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "fb90408c4553420a278ae57e666793e4e3cd5c4475b28e43361ab6dc3189afd9",
+      "title": "Product Hunt: buddylist — 像 2005 年一样与您的编程 agent 进行聊天",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-19T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/MU3NX4ZHCXFPBI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "a7dc6d72f0e0f10641e8c1f0979554ef15586a5015875bcaa269d9a91c7662fc",
+      "title": "Product Hunt: readywhen — 在 WhatsApp 内部工作的资深个人助理",
+      "summary": "Product Hunt 页面链接",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-19T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/OLPNM6HLKRJKDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
