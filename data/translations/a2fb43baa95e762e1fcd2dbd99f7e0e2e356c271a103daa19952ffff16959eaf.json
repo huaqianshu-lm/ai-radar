@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/EKSBMMH6A62RSY",
+  "content_hash": "261617e10d96ef03967af4917b4cf9ae12c74aca42a4cdc5a6dce50675142aa8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "22bff949b5e587d05d41571b44fec2a8bd49c6f79da36ab3e520fcf4075c960f",
+    "title": "Product Hunt：Beam — 高效的 501B 参数开源 Agent 模型",
+    "summary": "Product Hunt 上线了 Beam，这是一个拥有 501B 参数的高效开源 Agent 模型项目。"
+  }
+}

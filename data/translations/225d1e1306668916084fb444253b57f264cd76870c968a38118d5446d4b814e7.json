@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://skymizer.ai/products/htx301",
+  "content_hash": "36ac48e7452d1a72bcda6d4555b19bc79f93bd1ac35bb5ab9460dfc7d08769a5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d37669455b4c3abf8343e6545fe518b2184de00d1f5a920cc2ebc5e868447dfd",
+    "title": "Skymizer HTX301 - 具备 384GB 内存、支持 700B 模型的 IP 可授权 AI 加速卡",
+    "summary": "Skymizer 推出的 HTX301 是一款可授权的 AI 加速硬件卡，拥有 384GB 容量以支持 700B 规模的大模型。"
+  }
+}

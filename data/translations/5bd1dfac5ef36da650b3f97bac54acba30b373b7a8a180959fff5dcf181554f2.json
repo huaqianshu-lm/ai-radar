@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50154029",
+  "content_hash": "25b162d49a57b0652db6d2459256765f469e272689fe70a4d6ed37ed00eea474",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6a23445afa1896da32789b0b0db527d66ce0eb486b7f25c2545cdb79f160a392",
+    "title": "Laminar (YC S24) 发布：利用强化学习训练、可寻找 Agent 轨迹中错误的模型",
+    "summary": "来自 Laminar 团队的 Robert 和 Din 推出了他们的产品，这是一个利用强化学习训练来查找 Agent 错误的模型工具。"
+  }
+}

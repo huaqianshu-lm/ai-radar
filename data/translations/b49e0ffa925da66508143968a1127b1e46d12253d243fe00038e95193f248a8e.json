@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50151036",
+  "content_hash": "eba97b2922667805510cf2d3969ce3dcb21e9ec29dd499d22ad0f9495b02aad0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "71094174f326b71b13f90e809970b8e5e28a9bcd436ecf1c43c556dbda3de783",
+    "title": "Hacker News 问答：如何处理交付看不懂的 AI 编写代码？",
+    "summary": "讨论了一位 Meta 工程师在 LinkedIn 上发帖引发的共鸣，探讨了面对自己不理解的 AI 生成代码时的应对方式。"
+  }
+}

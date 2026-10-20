@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/obsessive-inference-optimization",
+  "content_hash": "1f6f22465f467542f023943297e2203ab7183dcce9a8cdd547820e2e4d991593",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "68e2ee5d21f7dc1bf4b7c7b6d9eebb47bc8199714c890d52200121be88c48fd3",
+    "title": "通过严苛优化将推理账单削减 68%",
+    "summary": "当 AI 代码审查员每次运行的成本翻倍时，我们深入分析了 Token 的使用情况。了解我们如何通过提示词缓存和智能模型路由来降低成本。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+  "content_hash": "7766c8a62508eb3836751dea16b0dac8ba0830772f79e624814faeadbb1ca4d0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "614a0336a7737e51afb3b077cdb47d041cfcc6e0785f6808a08729d3ded841df",
+    "title": "Mercury 3：大规模扩散模型",
+    "summary": "Inception Labs 推出了 Mercury 3，展示了其在大规模扩散技术上的进展。"
+  }
+}

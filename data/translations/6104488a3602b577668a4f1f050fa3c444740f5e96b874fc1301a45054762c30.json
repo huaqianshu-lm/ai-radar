@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://spinozalabs.ai/news/introducing-vortex-code",
+  "content_hash": "ed829af0b00c5ccbe152826412a3c27f35f3321be99e4d72d1c796507f137c43",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8eebdf181912bf51606c1c67ef8bddecf15a5a0224a9b9e7435af6147a4c0566",
+    "title": "Vortex Code：一个提示词，即可让 AI 软件团队为你交付产品",
+    "summary": "Spinoza Labs 推出了 Vortex Code，旨在通过单一提示词驱动 AI 软件团队直接构建并交付应用。"
+  }
+}

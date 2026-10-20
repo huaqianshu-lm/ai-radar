@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/clairic-extraction-model",
+  "content_hash": "819d5165863f543c126499ad3805217fcf5431ad77c2a56f7edea86eb154ccee",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "40634a33b7feb1d3dabd918d5faf2981277bc419e042454cadddfc522118a8c9",
+    "title": "推出全新 System One 级提取模型 Clairic",
+    "summary": "Clairic 是 Cloudflare 推出的新模型，属于 System One 级提取模型，能够从非结构化数据中提取、计算、估算和预测数据。"
+  }
+}

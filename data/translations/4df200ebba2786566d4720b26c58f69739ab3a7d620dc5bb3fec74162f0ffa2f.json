@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/hf-torchneuron",
+  "content_hash": "63beef447a9b509812429cf27a38e045d1d1bcb2fdebf2e855a6896f420f6cd1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5c52b7d34becd1ccf770a5f22540c4c3de16ae5f8db819babc6348fdbc423c77",
+    "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易",
+    "summary": "TorchNeuron 是一个 PyTorch 插件，为 Trainium 带来了全新的后端支持，简化了模型的运行。"
+  }
+}

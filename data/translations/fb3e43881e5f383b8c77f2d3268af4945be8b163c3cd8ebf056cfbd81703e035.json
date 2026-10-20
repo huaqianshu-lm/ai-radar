@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+  "content_hash": "9632ff64bb12dd86818e82aff1ce7d676d44d73bbbad34519eafa09df80dfa9a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "44b1999a5650f2e39e8243db5942314dbe2557c70ea964482e4f2dff3beb2b84",
+    "title": "“bonsoir, Elliot”：去除了安全限制的模型如何让你被黑客攻陷",
+    "summary": "研究报告探讨了使用经过安全对齐剥离（abliterated）的模型可能带来的潜在安全风险和被攻击隐患。"
+  }
+}

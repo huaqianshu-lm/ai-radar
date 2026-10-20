@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/usestrix/strix",
+  "content_hash": "1f2cf543ef720a0b81a1c5cbbdfbb020fc7b0a65abc72292dd78071628b5b516",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c7c9684abfb725296d83aa6b752834edc6833c7a2ef6270929b2e3cbb0d41374",
+    "title": "usestrix / strix：开源 AI 渗透测试工具，用于发现并修复应用程序中的漏洞，使用 Python 编写",
+    "summary": "开源 AI 渗透测试工具，用于发现并修复应用程序中的漏洞，使用 Python 编写。"
+  }
+}

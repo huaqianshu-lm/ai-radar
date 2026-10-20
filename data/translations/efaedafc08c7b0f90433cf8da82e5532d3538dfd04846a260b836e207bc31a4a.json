@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/XR2QV6TXWMZHHX",
+  "content_hash": "7bc85a050bf0a634c7482b1ebb0d552ee464c7bec5d7d5e2b1cbaff15762f1dd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9be160264ebcaa6141bfd87ea0a78475ae67891cd6d96bf493291c16641b9c0c",
+    "title": "Product Hunt：Beam.win — 在一台 Mac 上运行 AI Agent 并跨机使用窗口",
+    "summary": "Product Hunt 上线了 Beam.win，允许用户在一台 Mac 上运行 AI 并在另一台设备上管理其窗口。"
+  }
+}

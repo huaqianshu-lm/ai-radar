@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Friedrich-M/UniMate",
+  "content_hash": "50c1bbffa19a56ce11a73a72aba20603df7233b0b687ed95682c63b81a5329b3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3fa3e44842b08aa372ea47f935a0fcb38a11b42d0c1edab9f37b43fd4826ae08",
+    "title": "Friedrich-M / UniMate：SIGGRAPH Asia 2026 论文 UniMate：用于驱动多样化骨骼的统一动画模型，使用 Python 编写",
+    "summary": "SIGGRAPH Asia 2026 论文 UniMate：用于驱动多样化骨骼的统一动画模型，使用 Python 编写。"
+  }
+}

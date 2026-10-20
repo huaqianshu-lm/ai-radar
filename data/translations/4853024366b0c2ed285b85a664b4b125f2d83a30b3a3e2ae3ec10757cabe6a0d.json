@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
+  "content_hash": "597056752d8e3de7e17374c9d2e4202852e3378ee0f3b248c3c118a6595cd1ab",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a286ccfbec858524d381aa54a5d8f202d4fd307daa1936df3302c1967e4ec5d7",
+    "title": "我为编程写下的讣告",
+    "summary": "Jeremy Scheff 的文章深刻捕捉到了编码 Agent 对那些享受开发复杂拼图乐趣的职业程序员所造成的关键核心技能损失。"
+  }
+}

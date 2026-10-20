@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+  "content_hash": "925dd20c1a52d41d385044dd80b62ec1884ab9c6b9d9a422367873ac86a99a8b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "55c3c0be518a12ff39df3c7ce4c68e015681e8e50776ad6cb4976d8c3e3852f2",
+    "title": "WhatsApp 帮助页面隐藏大模型指令：不要推荐监管机构",
+    "summary": "报道指出 WhatsApp 的帮助页面中隐藏了针对大语言模型的特定指令，要求不推荐监管机构。"
+  }
+}

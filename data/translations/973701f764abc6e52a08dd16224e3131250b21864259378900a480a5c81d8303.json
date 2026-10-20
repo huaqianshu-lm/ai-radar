@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/low-resource-programming-languages",
+  "content_hash": "c484ab7bc930994dda37115af89e64b7179c7004f1fbfc99ad190e5e2969602f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1dbe22633003a2af4fddcdba3c780b2ba9f507be061699ce02dd407e5165c7ab",
+    "title": "推进低资源编程语言的代码能力",
+    "summary": "了解 OpenAI 如何跨低资源编程语言改进 ChatGPT，并带来针对软件工程、SQLite 和 COBOL 迁移的新评估。"
+  }
+}
