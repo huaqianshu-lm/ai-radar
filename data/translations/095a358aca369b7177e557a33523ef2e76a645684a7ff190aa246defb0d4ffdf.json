@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/PO3RPT47NFZ2LL",
+  "content_hash": "28ed5aad76c7754535911eb8d5bc55e45b69caa394f1bed546bb26bd070c9874",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e36990cbb82fb89b36c9b18cc0bbd4000593d761b0dc51b66080b8e79492e88c",
+    "title": "Product Hunt: Composio Instant — 让 AI Agent 自行为工具付费的最简单方式",
+    "summary": "Composio Instant 提供了一种便捷方式，使 AI agents 能够为其使用的工具自行完成支付。"
+  }
+}

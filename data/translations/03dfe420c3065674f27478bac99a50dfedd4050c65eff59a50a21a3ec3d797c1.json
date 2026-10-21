@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50167583",
+  "content_hash": "509af230805e1643b65d0175abc79f974986e8d749d276d31a20260c617b6b72",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c1e7afb972e1d402e96e7cee650891365a2b173be9f6d370f75dbf521566c02a",
+    "title": "Launch HN: Respan (YC W24) – 围绕插件构建的开源 Rust AI 网关",
+    "summary": "Respan 是一个由 Rust 构建、围绕插件设计的开源 AI 网关项目。"
+  }
+}

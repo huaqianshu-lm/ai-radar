@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+  "content_hash": "01cdb8f84237ff469cbcdbb4da945905c3679afa471326ff48ec66f7614c6230",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e8a8161ff83426ef4f6b8321af038a82ced31c3402f885cb426986b43b349f8c",
+    "title": "NVIDIA Cosmos3-H-Dreams：通过生成式模拟将临床手术带入现实",
+    "summary": "# NVIDIA Cosmos3-H-Dreams：通过生成式模拟将临床手术带入现实 我们的首个 Cosmos-H-Dreams 版本构建于 Cosmos-Predict2.5 之上，带来了..."
+  }
+}

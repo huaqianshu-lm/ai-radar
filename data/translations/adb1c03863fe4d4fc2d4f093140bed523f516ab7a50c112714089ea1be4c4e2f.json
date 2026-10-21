@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/safeguards",
+  "content_hash": "a011a35c81e655c1be2de87b297d0de9ea22fb671672467bea9d48c067d0751d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "be40439c76fcc0e0f6cbe1f6bce32cad4fcc3b7d14c00b40a9f9064300fb6e21",
+    "title": "Anthropic 安全防护",
+    "summary": "# 安全防护 - 2026年8月31日 ### 改进我们的对齐和安全工作 在 7月30日，我们报告了三起 Claude 模型获得未授权访问的事件..."
+  }
+}

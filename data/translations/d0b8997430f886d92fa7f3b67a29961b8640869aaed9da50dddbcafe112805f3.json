@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20",
+  "content_hash": "8ab0646f72c0990fcfa29ee4dccd09e7cd15f6641ed158951a40b9df0e0103ed",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0c5a0ed2408bc6003a91e74d631b6b66e3eab795dbb06cef47930285404d3385",
+    "title": "Anthropic 2026 年上半年录得超过 800 亿美元的净亏损",
+    "summary": "根据路透社报道，Anthropic 在 2026 年前六个月记录了超过 800 亿美元的净亏损。"
+  }
+}

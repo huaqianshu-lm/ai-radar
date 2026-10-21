@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/HCUP7PCWQZZI3G",
+  "content_hash": "142ec85202bdb20d40a756504cb3fa5e28e9b4e42694e47cfc45c8f42d3e51f7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "721ab58ca32f0715debf03887baeb0e737dd85dd33facd9261921474a0cbb55c",
+    "title": "Product Hunt: ESP-Mosaico — 为 AI Agent 构建的模块化开发板",
+    "summary": "ESP-Mosaico 是一款专为 Agent 设计的模块化开发板。"
+  }
+}

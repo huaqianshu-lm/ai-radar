@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+  "content_hash": "3555e79d01f96c69d93ffbeb66280d0ebaa5c5a358b921fda97be13e9a2d5df8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1a1edc3721552e2e43dcb5bb82928ec8e89cda672474c1184b60ad6f659edd66",
+    "title": "发布虚假统计数据并在 LLM 中被引用",
+    "summary": "探讨了通过发布虚假统计数据从而被 LLM 引用的战术和现象。"
+  }
+}

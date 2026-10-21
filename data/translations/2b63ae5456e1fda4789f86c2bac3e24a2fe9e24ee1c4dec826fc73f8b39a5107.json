@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+  "content_hash": "593df5b51d14f9209ce758761ed7ef40466333c909c30746b0b74ac3188993a9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "41fb25a47d12d204a957e1afcc5f8bbcaa2e18e833e937826e6c4d8fb5abdfdb",
+    "title": "AnyLanguageModel 1.0：在 Apple 平台上运行本地模型的首个年头",
+    "summary": "# AnyLanguageModel 1.0：在 Apple 平台上运行本地模型的首个年头 本地推理和托管推理各有优势，二者在构建..."
+  }
+}

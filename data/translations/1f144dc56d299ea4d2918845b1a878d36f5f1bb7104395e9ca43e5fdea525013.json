@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/hf-torchtpu",
+  "content_hash": "11116b3ff8e7ccfd83bf50fa19bef8a24918650af0900652a1497ebbfaddb1fd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "39e60f901a735303e0c0ae9b731fee2baf79f5edd599caf7944297514c7c53bb",
+    "title": "Hugging Face ❤️ TorchTPU：原生 TPU 支持",
+    "summary": "# Hugging Face ❤️ TorchTPU：原生 TPU 支持 `torch_xla`，或者你最终不得不学习 JAX。借助原生 PyTorch 后端 TorchTPU，TPU 现在只是另一个..."
+  }
+}

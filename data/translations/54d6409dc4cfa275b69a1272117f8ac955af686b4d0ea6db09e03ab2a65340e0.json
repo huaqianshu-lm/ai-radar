@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/sfcompute2",
+  "content_hash": "2a2bfc798b4fc7f23d8bd010b1e3460f8fd950e8a295c3c480b1fe190e32a1eb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1aa70594680b7e71ad22d37b621acb6c827bf1275712e865beb3d2c01e18e18e",
+    "title": "可编程数据中心 — Evan Conrad，SF Compute",
+    "summary": "从 GPU 交易到实体结算、独立市场和可编程算力"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://dovepass.com/",
+  "content_hash": "18f1e108aece268045e08095162df58b8c2069fe4c7f49c24fbe277ef88c5d41",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a8183a33a67c655c00a01e2930ac8774b94fa62fd5e6f2fff6a2e4a245f36207",
+    "title": "Show HN: Dovepass – 在旧金山合法飞行无人机的路线查询工具",
+    "summary": "Dovepass 解决了一个关于无人机的问题：是否可以沿着旧金山的这条精确路径合法飞行无人机。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/PFLC7HD35UDZ6D",
+  "content_hash": "4ac767b8ab1ff4f63fbf85872dabab6f6d636e5742b1390b78bea684a6ae5b03",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d304fbb4e45b7601e65cd45c093a44a0bed58c858a16dde87b116ea718ac8abf",
+    "title": "Product Hunt: ToDo.is — 写下待办事项，你的 AI Agent 即可帮你完成",
+    "summary": "ToDo.is 允许用户直接记录待办，并交由 AI agent 自动执行完成。"
+  }
+}

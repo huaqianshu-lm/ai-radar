@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/vllm-project/vllm",
+  "content_hash": "fdacded0e2f348869f6968fbc09bdfb55b83f24f340c8759a27a7a62a31480af",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e8ba7172314e48e96a3e9a885705e1f753008632feef22736a817007ef8782f7",
+    "title": "vllm-project / vllm: 高吞吐量的 LLM 推理与服务引擎",
+    "summary": "一个用于 LLM 的高吞吐量、内存高效的推理和服务引擎，使用 Python 开发。"
+  }
+}

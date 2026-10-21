@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+  "content_hash": "c580bfbb06a0868393db22ea72dab8047abf220c70f154ad5f98d6f8667d556f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "536f23cd94f139849c62e2753108d37e174f900ce6ec52ef90b6a207f9a80da1",
+    "title": "ALTK-Evolve：学习型记忆如何在没有前沿模型的情况下登顶客服任务的 τ²-bench 排行榜",
+    "summary": "# ALTK-Evolve：学习型记忆如何在没有前沿模型的情况下登顶客服任务的 τ²-bench 排行榜 *ALTK-Evolve 学习并应用了一套使用..."
+  }
+}

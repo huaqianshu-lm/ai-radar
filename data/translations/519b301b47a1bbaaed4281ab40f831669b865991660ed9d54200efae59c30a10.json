@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/20/battledrones",
+  "content_hash": "69cb555df38f9b4a44afd866268e92dc248cd648bb4a5d41d97562c775a3acb2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7fa30abfca2c7ff1033a152c13dfd849354d034d8fea7680a8bee3b61926f6a4",
+    "title": "Battle Drones - 带有音频驱动多人模式的氛围编码 RTS 游戏",
+    "summary": "我最新进行中的氛围编码游戏实验是一款名为 Battle Drones 的《命令与征服》风格 RTS（即时战略）游戏（在此游玩）。与我之前的实验..."
+  }
+}

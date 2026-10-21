@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/3TPWY4Y2OXO72N",
+  "content_hash": "405f36dedecf12fb629664e5278f9b938f3cbe0f718caaef626ff3a7b15e4664",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f08f8c27b38d32d484d185897afcb19ac87d66b274e9c90e9be51565ae6850ef",
+    "title": "Product Hunt: RunInfra — 专为 Agent 构建的开源模型基础设施",
+    "summary": "RunInfra 提供专为 AI agents 构建的开源模型与基础设施服务。"
+  }
+}

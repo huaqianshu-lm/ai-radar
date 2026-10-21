@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates",
+  "content_hash": "2f9e9153c5704b9b95250f8a320f31c9475249fdedb502bad889b6057684a1ef",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4257f838c0d22be21be39c1c61b70b35bab6521dc36d369c324156ffd29d53e6",
+    "title": "eMudhra 中级 CA 证书遭泄露",
+    "summary": "eMudhra 中级 CA 证书遭泄露 这是一个非常非常糟糕的消息：eMudhra 八个中级 CA 证书的私钥已经遭到泄露，它们构成了..."
+  }
+}

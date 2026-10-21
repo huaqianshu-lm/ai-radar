@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://research.poh.org/bot-benchmarking-2026",
+  "content_hash": "4f13f51b32bfb9b83024f08205d8fbad3d368ce70ffc4d9c88e8459e25f3691e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2935c1e549ba41a67fa2eeb8dc509f2dd6f8dae6e6cf13941a8ba9786f3d9b10",
+    "title": "2026 年现代 AI Agent 的机器人检测系统基准测试",
+    "summary": "针对现代 AI Agent 在 2026 年的机器人检测系统进行的基准测试研究。"
+  }
+}

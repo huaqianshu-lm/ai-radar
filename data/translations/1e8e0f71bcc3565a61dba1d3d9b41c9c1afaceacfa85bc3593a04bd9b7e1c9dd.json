@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/fairstress",
+  "content_hash": "c4d21b667205b55e2348fc64aa513093baffd3c4f7536dccb60accf2a3ab6f94",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ef73bf2ace8ac67192910f29383fdaeabcc1f1c3f55e1ee321602bf2faa4d9c1",
+    "title": "FairStress：对 LLM 决策中公平性的更深入评估",
+    "summary": "# FairStress：对 LLM 决策中公平性的更深入评估 今天我们引入了 **FairStress**，这是一个用于衡量大语言模型中人口统计公平性的基准..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/product",
+  "content_hash": "a95efb67eff4897c181bcbf1102e5910bf73154db9978fb3a47d0ce5fe870c87",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "62791a623aed557b705f2d4e809f1890700e6c3fd6a5426db5db6d7cb21a0c9b",
+    "title": "Anthropic 产品",
+    "summary": "产品新闻 41 篇文章 最新 标题 描述 日期 向 Claude 询问 Anthropic 经济指数 我们正在推出 Anthropic 经济指数连接器..."
+  }
+}

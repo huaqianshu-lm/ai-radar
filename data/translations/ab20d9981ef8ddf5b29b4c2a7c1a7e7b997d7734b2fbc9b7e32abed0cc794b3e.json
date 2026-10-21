@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/mps-pytorch-2-15",
+  "content_hash": "fdb34f141e0c8f182466d53bb99da8e04e4141ac7e167ad1dd5781fcf9c71894",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c2b4b68d7e0027f0e4366133eb322fd84020df1d31b2a05734fa7c44edc22eb2",
+    "title": "PyTorch 2.15 中的 MPS",
+    "summary": "# PyTorch 2.15 中的 MPS 简单介绍一下我们是谁：我们是 Hugging Face 的 PyTorch 团队。我们在整个 PyTorch 中进行贡献，我们的重点领域之一是 MPS..."
+  }
+}

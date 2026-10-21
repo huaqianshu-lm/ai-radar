@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/VK4X3JHUOFCKGK",
+  "content_hash": "15feeaadcea83a1252d5fed5a58eb751d3c1d57a2db10e1e4d5de3b795942b01",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dafbaae7e8f7018c84f88e13aaee86ddefc2b0c582aa480cf4d5a409acf391c2",
+    "title": "Product Hunt: Jotform App Builder for ChatGPT & Claude — 在 ChatGPT 和 Claude 内部构建和编辑无代码应用",
+    "summary": "Jotform App Builder 允许用户直接在 ChatGPT 和 Claude 内部构建和编辑免代码应用程序。"
+  }
+}

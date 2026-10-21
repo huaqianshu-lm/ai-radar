@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+  "content_hash": "c6ad68cba5d79e3cf75561bf2ff369fb04c1c4fdf6803e5cc2d456b2164ae34b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "996b48d3900b31c6c66584bebc1ff7592dea90fb9012b2ea53d70038e1dc425e",
+    "title": "[AINews] 今天没发生太多事情",
+    "summary": "祝贺 DeepSeek V4.1 Flash 1017、MiniMax M3.1 Flash 和 Mercury 3（详情见下文），但它们暂时还不会被超大规模地使用。"
+  }
+}

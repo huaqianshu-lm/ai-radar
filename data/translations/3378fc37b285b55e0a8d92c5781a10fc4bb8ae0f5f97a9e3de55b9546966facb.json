@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/terminal-x",
+  "content_hash": "640d4ec9643b88fa55793cc7b48ba513c7d1f9980f44e1d162804cbb623e388e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "aa8847d44cbae3328f3c5cbb65bcffcd3b77355e99faf584c20aa718f2bc61fa",
+    "title": "Terminal X 使用 GPT-6.1 实现与资深投资者判断 88.6% 的吻合度",
+    "summary": "Terminal X 的 Eval Agent 依据 54 项标准对输出进行评分，使用 GPT-6.1 Sol 额外捕捉到了基金指令中 25% 的违背情况。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/sickn33/agentic-awesome-skills",
+  "content_hash": "43f427e90afd707c1edc1086bf7c9598e2a1e1e95950685fbf835f54d07603ef",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e8a7d399fdede5110e41d8675cf8abf16fcd4bc1d0cc2521062834d6cf3f3936",
+    "title": "sickn33 / agentic-awesome-skills: AAS Core 开源项目",
+    "summary": "AAS Core 是一个面向本地、以 Agent 优先的控制平面，支持完整的目录发现、Agent 自主选择、技术栈验证和规划，背后由 2600 多个 Agent 技能支持。"
+  }
+}

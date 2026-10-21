@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/deepseek-ai/DeepInfer",
+  "content_hash": "59d7fa2eb1c9a7a09fe34e8e45c6511ea3d0cf064b1eddec9c0be729c6bf55fc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "be38b11f937cd76cc2499227cdfa48faa900c375d8ec04e58b2371112dc26656",
+    "title": "DeepInfer：针对 DeepSeek 模型的高性能推理框架",
+    "summary": "DeepInfer 是一个面向 DeepSeek 模型的高性能推理框架。"
+  }
+}
