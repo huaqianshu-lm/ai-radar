@@ -1,0 +1,415 @@
+{
+  "date": "2026-10-22",
+  "items": [
+    {
+      "id": "3fe372fb2e8166f0e8146fd86373d22b0c153e5f155ff56beb03c21126360e38",
+      "title": "Cloudflare 结合 OpenAI 将漏洞发现与防御相连接",
+      "summary": "Cloudflare 使用 OpenAI Daybreak 来调查漏洞并提出修复方案供人工审查。其开发人员使用 Codex 来提高构建速度和代码质量。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-21T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/cloudflare-cyber"
+    },
+    {
+      "id": "e270f5ba4688033de075906df89466646eb9f009fa8bcee5c8b60ee62cebab43",
+      "title": "前沿 AI 的民主化治理，第二部分：赋能网络防御者",
+      "summary": "OpenAI 概述了一项蓝图，旨在利用前沿 AI、更强的安全防护、现代化的网络安全以及更有韧性的公共机构来赋能网络防御者。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-21T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/empowering-cyber-defenders"
+    },
+    {
+      "id": "ea92da5c121ecb4527027c2b13ff73af702f93ebcad0444b648bb527336561d3",
+      "title": "我们如何构建 ChatGPT 新颖的广告堆栈以确保用户信任与相关性",
+      "summary": "了解 OpenAI 如何构建基于大语言模型的 ChatGPT 广告堆栈，以理解对话意图、将广告与回答隔离开来，并大规模投放相关广告。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-21T07:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack"
+    },
+    {
+      "id": "b1215e1aefc04c61e203617a80fd84e7760e29072f8e8c5c2b0a50c22fe019fd",
+      "title": "ChatGPT Ads 扩展至 26 个新国家，已有超过 10 万名广告主使用该平台",
+      "summary": "从本地企业到全球品牌，现在有更多广告主能够在用户在 ChatGPT 中探索、比较和决定购买什么时触达他们。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-21T13:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+    },
+    {
+      "id": "39cad894cdd240fbe2dba606200e547216d43a1655f56c86db3d6329a851a826",
+      "title": "AT&T 如何通过 OpenAI 重新构思内部法务工作",
+      "summary": "AT&T 正在与 OpenAI 合作，使法律知识更易于获取。了解其 LegalEdge 团队如何重新构思信息接入并扩展法律判断能力。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-21T17:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/att-legal"
+    },
+    {
+      "id": "3f1a11956436b167380065dcbfb11acfb4b7400895eeef122ae6e9ec1be674ee",
+      "title": "通过一致的标准实现广泛访问",
+      "summary": "OpenAI 如何与分发合作伙伴合作，以维护一致的安全防护、支持负责任的访问，并在使用政策中明确预期。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-21T21:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards"
+    },
+    {
+      "id": "71c778fc837a506c9836bf32924bf0ed0f9274d66ad7a553f4d7959ac5c03868",
+      "title": "Anthropic 功能特性",
+      "summary": "新闻特性 3 篇文章 最新的标题 描述 日期 形势报告：一种罕见的埃博拉病毒株正在刚果民主共和国传播，目前尚无确定的疫苗。全球...",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-10-22T01:18:40Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/features"
+    },
+    {
+      "id": "856c26ca4c2d04bcedc9cb9fdb44809b32952d1d2e61bb97c33ffc0e2dda8f57",
+      "title": "Mistral 携手 NVIDIA 推进工程领域 AI 发展 | Mistral",
+      "summary": "思考摘要：Mistral 与 NVIDIA 正在合作，通过将 Mistral 的 AI 模型与 NVIDIA 的加速计算集成，彻底改变工程工作流程。",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-10-22T01:18:40Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering"
+    },
+    {
+      "id": "252684366be4bd9dc11d1a78acc15756e22a0d95eba13c48db3525b0687beb00",
+      "title": "物理学家 Christopher Stubbs 加入 Anthropic 长期利益信托基金 | Anthropic",
+      "summary": "实验物理学家、哈佛大学前科学学院院长 Christopher Stubbs 博士已加入 Anthropic 的长期利益信托基金。",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-10-22T01:18:40Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
+    },
+    {
+      "id": "3fbf4d20792309ca57a9ff917b73e6174897acef3361ba4de08a69c64f43b284",
+      "title": "DeepSeek DeepInfer、TPU 上的 PyTorch、Ramp 的智能体框架",
+      "summary": "AI 快讯 2026-10-21：包含 DeepSeek DeepInfer、TPU 上的 PyTorch、Ramp 的智能体框架，以及 Voxtral 3：支持 50 多种语言的语音智能体 SDK 与语音模型。",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-10-21T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-10-21"
+    },
+    {
+      "id": "db3c2eda6e56a446c36ed93c3dccaeba3672a2c93dce5ae723bf1cfb30b52604",
+      "title": "面向财富 2000 强的 AI：Tenex 如何构建 AI 原生软件开发生命周期 (SDLC) — Alex Lieberman 与 CJ Hess",
+      "summary": "立即收听（44分钟） | 为成果付费、使用智能体构建，以及企业级 AI 采纳的最后一公里。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-10-21T05:01:26Z",
+      "time_type": "published",
+      "url": "https://www.latent.space/p/tenex"
+    },
+    {
+      "id": "9c99dc597b92594a7b49f4da5e89a024c963984fd0ce718bfd9839c32da1545c",
+      "title": "DeepSeek DeepInfer：开源 SOTA 推理运行 155T tokens/天/集群",
+      "summary": "来自中国的开源重磅炸弹发布，实现每天每个集群运行 155T tokens，每天创造 22 美元收入，利润率约 80%，投资回报期为 81 天。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-10-21T06:54:09Z",
+      "time_type": "published",
+      "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source"
+    },
+    {
+      "id": "1c5f83daf4c5b5dc2db63b5623c43227f86f9c3ea768dda6c8cddb87ba45600f",
+      "title": "Commerce.com 和 Cloudflare 如何为 AI 智能体准备店面",
+      "summary": "近 100,000 个 Commerce.com 域现在通过 Cloudflare 上的 WebMCP 为 AI 智能体提供真实的购物工具。以下是我们如何同时在每个店铺中启用它的过程。",
+      "source": "Cloudflare AI Blog",
+      "source_type": "developer",
+      "display_time": "2026-10-21T13:00:00Z",
+      "time_type": "published",
+      "url": "https://blog.cloudflare.com/webmcp-commerce/"
+    },
+    {
+      "id": "1cd487805b8193f0c7f2bce96a0e62ba89ed8e7ca19e8dc10473f5614b1c7a1b",
+      "title": "Claude Mods：将框架内外翻转",
+      "summary": "Claude Mods 是注意力接口的早期形式。它将智能体框架范式从框架面向机器，翻转为框架面向人类。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-10-21T13:04:19Z",
+      "time_type": "published",
+      "url": "https://www.latent.space/p/claude-mods"
+    },
+    {
+      "id": "c2ed162a157709f5cb47598d7a4a9ff0ca7927682ea3c9a0e259f86971bb2de7",
+      "title": "Granite Speech 5.0：更准确、更快速地进行转录、翻译和归属",
+      "summary": "我们很高兴分享 IBM Granite Speech 系列的三项更新：转录、翻译和归属方面的速度和准确性提升。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-10-21T14:58:18Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
+    },
+    {
+      "id": "5b4e08461387ba3b44832eb32623a231bc98422af2b9c0aa208f73f388840205",
+      "title": "剖析 TorchNeuron（第一部分）：AWS Trainium 上的系统级剖析",
+      "summary": "许多机器学习从业者对如何让模型运行得更快有一些直觉，但较少有人深入了解系统级剖析。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-10-21T16:04:43Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
+    },
+    {
+      "id": "e0e7f9f0f4ba064a212b5a0e969ee22aa125c5e7a24478c4ed1f0f100cbd8615",
+      "title": "Panache — 移动端的美好时代实时战略游戏",
+      "summary": "昨天我在 Apache 2.0 许可证下发布了 Battle Drones，并且已经有了法语本地化版本...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-21T16:25:16Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/21/panache/"
+    },
+    {
+      "id": "40a01666d562060bfdf96e1bee46311ea36b1fbc4128b476c54664266fe1cab8",
+      "title": "小型语言模型 (SLM) 的词汇专项优化如何在实际应用中将推理成本降低 77%",
+      "summary": "通过对通用模型进行微调以专门针对特定领域或任务的模型，可以实现显著的成本降低。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-10-21T17:35:36Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+    },
+    {
+      "id": "94a5f6526eada9bc0f52700eb51d921a09fcfe01b2b364c8982be81ac1418089",
+      "title": "NVIDIA Kumo Relational 在关系数据上表现优于监督机器学习，无需训练",
+      "summary": "NVIDIA Kumo Relational 是一种预训练的关系型基础模型，无需额外训练即可在关系数据上超越传统监督机器学习。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-10-21T18:26:30Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational"
+    },
+    {
+      "id": "60cdd6b596008249bf482a06ab7091130451beb502a9a6dff1ec2b4c3ae81be1",
+      "title": "今天的 PHP 安全发布，以及我们如何加强 PHP 安全",
+      "summary": "如果您正在运行任何基于 PHP 的程序，升级至关重要——今天的更新涵盖了各个版本以确保安全。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-21T18:41:53Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/"
+    },
+    {
+      "id": "1a74e304805983b01feabf3c4b35d68945ea9d6c407413d213def077d902bb92",
+      "title": "Emily2040 / seedance-2.0：使用 Seedance 2.0 进行四模态 AI 电影制作的综合生产流水线 - 编程语言：Python - 今日获得 29 个星标",
+      "summary": "使用 Seedance 2.0 进行四模态 AI 电影制作的综合生产流水线 - 编程语言：Python - 今日获得 29 个星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-22T01:18:40Z",
+      "time_type": "fetched",
+      "url": "https://github.com/Emily2040/seedance-2.0"
+    },
+    {
+      "id": "f4e0adf84666b0c986e73ecd014507f8272b73a8f70ec02ba2be2a9423ebe5c7",
+      "title": "github / spec-kit：帮助你开始使用 SDD 或任何其他流程的工具包！ - 编程语言：Python - 今日获得 208 个星标",
+      "summary": "帮助你开始使用 SDD 或任何其他流程的工具包！ - 编程语言：Python - 今日获得 208 个星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-22T01:18:40Z",
+      "time_type": "fetched",
+      "url": "https://github.com/github/spec-kit"
+    },
+    {
+      "id": "6242800a9b7187f9019cfd8ba12aa736ad6854f9866664eee6cc42233a944846",
+      "title": "k2-fsa / OmniVoice：支持 600 多种语言的高质量声音克隆 TTS - 编程语言：Python - 今日获得 157 个星标",
+      "summary": "支持 600 多种语言的高质量声音克隆 TTS - 编程语言：Python - 今日获得 157 个星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-22T01:18:40Z",
+      "time_type": "fetched",
+      "url": "https://github.com/k2-fsa/OmniVoice"
+    },
+    {
+      "id": "98a99d0df7599b357282334fef2c2714222462abb951037c73621ec7923ceb5b",
+      "title": "luongnv89 / claude-howto：一个基于视觉和示例的 Claude Code 指南——从基础概念到高级智能体，提供可直接复制粘贴、带来即时价值的模板",
+      "summary": "一个基于视觉和示例的 Claude Code 指南——从基础概念到高级智能体，提供可直接复制粘贴、带来即时价值的模板。- 编程语言：Python...",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-22T01:18:40Z",
+      "time_type": "fetched",
+      "url": "https://github.com/luongnv89/claude-howto"
+    },
+    {
+      "id": "de8f10da3ca73d67303a7e75b211c76b2e894e7ec2083ff09fde78cc6d8a993c",
+      "title": "Launch HN: Alter (YC S25) – 多用户智能体的访问控制",
+      "summary": "HN 故事：多用户智能体的访问控制工具 Alter (YC S25)",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-21T06:42:12Z",
+      "time_type": "published",
+      "url": "https://alterauth.com/"
+    },
+    {
+      "id": "5c777dc5eda38b6a8e06cd2a7581716c509519916b0a901770ca0913706e0489",
+      "title": "OpenAI 模型即将登陆 Google Cloud",
+      "summary": "HN 故事：OpenAI 模型即将登陆 Google Cloud 平台",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-21T12:53:11Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/openai-models-google-cloud/"
+    },
+    {
+      "id": "75125cf5ab0826b20b088dcd31669c98ce91a72944493aab58c56100d22ae058",
+      "title": "使用数千个 AI 智能体在生物数据中发掘新线索",
+      "summary": "HN 故事：使用数千个 AI 智能体来扩展生物数据复杂研究的相关内容",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-21T13:37:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
+    },
+    {
+      "id": "203093066e1251d7c55c110cf77f9a079275d1e620513f8c770373600781c5cc",
+      "title": "Patch the Planet：随着智能体发现漏洞进行全球响应协调",
+      "summary": "HN 故事：关键漏洞协调披露以及随着智能体发现漏洞进行的全球响应协调",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-21T14:03:43Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+    },
+    {
+      "id": "4ba30d9b0c538cac08cc9c0fc72261a4a7bae062e59eebe79b60f3b9937f5896",
+      "title": "通往智能体规模 Git 基础设施的桥梁",
+      "summary": "HN 博客文章：通往智能体规模 Git 基础设施的架构优化桥梁",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-21T16:09:28Z",
+      "time_type": "published",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
+    },
+    {
+      "id": "a1ee33a52509d4458ad21e96e0fe0b3b91da4f4a3c6f710075fc4a115952211e",
+      "title": "Show HN: Omnara – Claude Managed Agents 的开源替代方案",
+      "summary": "HN 故事：Omnara，Claude Managed Agents 的开源替代方案",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-21T16:44:53Z",
+      "time_type": "published",
+      "url": "https://github.com/omnara-ai/omnara"
+    },
+    {
+      "id": "f5220dab8f55b741ff6e0de2d1db5732f5e5083a350a027b427995d7b8fbc2a4",
+      "title": "Claude Duet：HN 故事：关于 Claude Duet 的资源文章",
+      "summary": "HN 故事：关于 Claude Duet 的资源文章",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-21T19:40:18Z",
+      "time_type": "published",
+      "url": "https://claude.com/resources/articles/claude-duet"
+    },
+    {
+      "id": "665884ed8e30c1946cbd3d7f19c07fe5372d84fdbf51808c43ae3538cb47abfc",
+      "title": "Product Hunt: Agent Pets — 像宠物一样生活在 Chrome 每个页面上的编程智能体",
+      "summary": "Product Hunt 页面：Agent Pets，作为宠物生活在 Chrome 浏览器每个页面上的编程智能体",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-21T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/F6DOLNMBPH7YNL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "be4ba134babab9635b23d7e7b7bf7865928a023a6883c55e6b701fa14ff43577",
+      "title": "Product Hunt: BAND for Developers — 编程智能体与团队协作的结合",
+      "summary": "Product Hunt 页面：BAND for Developers，让编程智能体实现团队协作",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-21T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/LFGJP5O6OXFYLB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "a22931c57220f3f60eb9fbcd29cf6cdf29ad118e1e41c0257eb42eaca4a2cb5f",
+      "title": "Product Hunt: Mouse-1 — 用于智能体框架的决策模型",
+      "summary": "Product Hunt 页面：Mouse-1，为你的智能体框架提供支持的决策模型",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-21T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VEIHFRCENLV2MR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "f5ff973488af5d3bb4d94fccfa9f627d8855202466e14451d09704952d2cc9ea",
+      "title": "Product Hunt: Needle — 智能体原生的外呼引擎",
+      "summary": "Product Hunt 页面：Needle，智能体原生的外呼引擎",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-21T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/E6AZ74Q5YPL2B5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "4737fc103419292532670422e29afcd9e741f0603e503e5856b22e86e2134e7b",
+      "title": "Product Hunt: Notion Auto — Notion 重构后的智能体运行时间更长且成本大幅降低",
+      "summary": "Product Hunt 页面：Notion Auto，Notion 重建的运行数小时且成本低得多的智能体",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-21T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/4KEI3HQ75GHV52?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "13943af7a3a722dd6cea01d94a2e8a9294cec42b91c7b06a74b4a09584f51855",
+      "title": "Product Hunt: Tend — 针对企业和创业者的个人 AI",
+      "summary": "Product Hunt 页面：Tend，面向企业和创业者的个人 AI 工具",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-21T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/GQQZICH6NOBQAH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "969c0dc7d9852c96897af384042eaa95ca158d8c910ff996f21f9c34c94eb9cf",
+      "title": "Product Hunt: The Brains — 以 MCP 服务器形式存在的创始人与投资者，所有回答均附带引用",
+      "summary": "Product Hunt 页面：The Brains，将创始人与投资者作为 MCP 服务器，且每个回答都有引用的工具",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-21T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/CG23RXF55QJIVC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "0c8a9d96c555ad823eaeee6336507355413f5e6216fc7f66e44d713633de2c56",
+      "title": "Product Hunt: TwinMind for Desktop — 在 Mac 和 Windows 上随时随地转录会议和口述",
+      "summary": "Product Hunt 页面：TwinMind for Desktop，可在 Mac 与 Windows 上转录会议并在任何地方进行口述的桌面应用",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-21T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/QXPYLTASWW6C47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "0b7a5e23cb15602bf36a9a5634584454d1d63c798124313712b750c13a1e397c",
+      "title": "ProductHunt: UseIt Studio — 用于生成真实、可编辑项目文件的 AI 设计智能体",
+      "summary": "Product Hunt 页面：UseIt Studio，可产出真实、可编辑项目文件的 AI 设计智能体",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-21T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/YLLDQZV3DAU3ZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "029041a0586662e81ae21bbcf09042323fc1c63b0a2a506783286a6d32f96cf9",
+      "title": "ilha：在刘海屏实时显示你的 Claude Code 和 Codex 使用额度",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/ilha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%2...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-21T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/RMNLSDA5FUZWRY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
