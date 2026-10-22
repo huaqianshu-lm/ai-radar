@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
+  "content_hash": "d66d0847ca1c077bf12b60f2e37ede90ad8dd0ccec20534cef573b03d7694b1a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "856c26ca4c2d04bcedc9cb9fdb44809b32952d1d2e61bb97c33ffc0e2dda8f57",
+    "title": "Mistral 携手 NVIDIA 推进工程领域 AI 发展 | Mistral",
+    "summary": "思考摘要：Mistral 与 NVIDIA 正在合作，通过将 Mistral 的 AI 模型与 NVIDIA 的加速计算集成，彻底改变工程工作流程。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/cloudflare-cyber",
+  "content_hash": "e60e3d92bde3d8300d7cffd278963b0e7b63560b63be9d00b2bc7e6a7cb58b85",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3fe372fb2e8166f0e8146fd86373d22b0c153e5f155ff56beb03c21126360e38",
+    "title": "Cloudflare 结合 OpenAI 将漏洞发现与防御相连接",
+    "summary": "Cloudflare 使用 OpenAI Daybreak 来调查漏洞并提出修复方案供人工审查。其开发人员使用 Codex 来提高构建速度和代码质量。"
+  }
+}

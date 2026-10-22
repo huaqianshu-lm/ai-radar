@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
+  "content_hash": "cc99c9ea99decab45674b86b55153d7ab1526ffa1a015b2670f5b11da9ccd71b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4ba30d9b0c538cac08cc9c0fc72261a4a7bae062e59eebe79b60f3b9937f5896",
+    "title": "通往智能体规模 Git 基础设施的桥梁",
+    "summary": "HN 博客文章：通往智能体规模 Git 基础设施的架构优化桥梁"
+  }
+}

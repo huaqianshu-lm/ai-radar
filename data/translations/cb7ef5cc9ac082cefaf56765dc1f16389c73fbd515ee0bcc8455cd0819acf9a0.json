@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/att-legal",
+  "content_hash": "7edd64986e54394fda2f7225aa2f12b60a4189ac0f8f8d1f49134b5c717a7da0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "39cad894cdd240fbe2dba606200e547216d43a1655f56c86db3d6329a851a826",
+    "title": "AT&T 如何通过 OpenAI 重新构思内部法务工作",
+    "summary": "AT&T 正在与 OpenAI 合作，使法律知识更易于获取。了解其 LegalEdge 团队如何重新构思信息接入并扩展法律判断能力。"
+  }
+}

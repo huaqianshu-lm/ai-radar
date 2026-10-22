@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+  "content_hash": "4577541a757cee1f1bafcd487b7389d57ebc28e6a9034eebc964bc3e638b6bcc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5b4e08461387ba3b44832eb32623a231bc98422af2b9c0aa208f73f388840205",
+    "title": "剖析 TorchNeuron（第一部分）：AWS Trainium 上的系统级剖析",
+    "summary": "许多机器学习从业者对如何让模型运行得更快有一些直觉，但较少有人深入了解系统级剖析。"
+  }
+}

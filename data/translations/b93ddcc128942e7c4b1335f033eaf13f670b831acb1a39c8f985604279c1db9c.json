@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/building-chatgpt-ad-stack",
+  "content_hash": "f62fc363db3742fdcc939e063bb2ab8618d6588e01df2bf81b829d2adbb50fe4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ea92da5c121ecb4527027c2b13ff73af702f93ebcad0444b648bb527336561d3",
+    "title": "我们如何构建 ChatGPT 新颖的广告堆栈以确保用户信任与相关性",
+    "summary": "了解 OpenAI 如何构建基于大语言模型的 ChatGPT 广告堆栈，以理解对话意图、将广告与回答隔离开来，并大规模投放相关广告。"
+  }
+}

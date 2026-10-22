@@ -1,0 +1,42 @@
+---
+title: "Mistral Advances AI for Engineering with NVIDIA | Mistral"
+url: "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering"
+source_url: "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering"
+canonical_url: "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering"
+source: "Mistral AI News"
+source_type: "official"
+published_at: ""
+fetched_at: "2026-10-22T01:18:40+00:00"
+content_type: "markdown"
+is_list_page: false
+---
+
+Thinking
+
+Summary
+
+Mistral and NVIDIA are collaborating to revolutionize engineering workflows by integrating Mistral’s AI models with NVIDIA’s accelerated computing and physics modeling tools, enabling faster simulations and closed-loop AI-driven design. The partnership will introduce public benchmarks and open datasets to standardize evaluations for physics and agentic AI in computer-aided engineering, while leveraging NVIDIA’s Omniverse for 3D simulation and asset creation. Building on their existing work, including the development of Mistral Large 4, the initiative aims to push the boundaries of AI-powered engineering across industries like aerospace, automotive, and semiconductors.
+
+Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing. Combining <u>Mistral Large 4</u>, with Mistral’s data generation, and physics modeling pipelines, accelerated by <u>NVIDIA CUDA-X</u> libraries and <u>NVIDIA Warp</u>, the initiative aims to accelerate engineering simulation and enable closed-loop workflows that connect simulation, AI model development and engineering design. Mistral and NVIDIA will also work together to integrate Mistral's models with <u>NVIDIA Omniverse</u> libraries for GPU-accelerated 3D scene generation and SimReady asset creation.
+
+A central focus of the collaboration is the development of public benchmarks and open datasets for evaluating physics models. These benchmarks will give researchers, developers and industrial teams a shared foundation to compare model accuracy and performance and build and validate automated CAD-to-simulation workflows.
+
+"For too long, the pace of engineering has been set by the pace of simulation. With Mistral's open-weight models and <u>physics AI</u> capabilities, combined with NVIDIA’s accelerated computing stack, we’re giving engineers faster simulation cycles, as well as open benchmarks rigorous enough to validate agents on real CAE and EDA work.” Neil Ashton, VP of Computational Engineering, Mistral
+
+Beyond physics AI, Mistral and NVIDIA will also work together to develop dedicated evaluations and benchmarks for agentic AI in computer-aided engineering (CAE) and electronic design automation (EDA) to accelerate the application of <u>AI for engineering</u> within aerospace, automotive and semiconductor use-cases. These benchmarks will assess agents’ ability to use engineering tools, complete multistep workflows and produce technically correct results, while measuring execution time and computational cost.
+
+Through this work, Mistral and NVIDIA will help define standards for agentic and physics AI evaluations in engineering, establishing consistent, reproducible methods for assessing capabilities and tracking progress. Powered by NVIDIA accelerated computing, libraries and tools, Mistral will redefine AI for engineering, transforming how engineers design, simulate and build the next generation of products.
+
+“The next wave of engineering breakthroughs will come from exploring ideas that were once too complex or time-consuming to test,” said Tim Costa, vice president and general manager of industrial and computational engineering at NVIDIA. “By combining Mistral’s advanced open models and deep expertise in physics AI with NVIDIA accelerated computing and libraries, we’re helping engineers push the boundaries of design—with shared industry benchmarks to build confidence in what AI can do.”
+
+## **Building on the ongoing NVIDIA and Mistral partnership**
+
+The industrial engineering collaboration builds on an ongoing partnership between NVIDIA and Mistral spanning open model development, domain-specific AI and the infrastructure needed to bring these capabilities into production.
+
+The companies previously co-developed <u>Mistral NeMo</u> and are now <u>working together</u> through the NVIDIA Nemotron Coalition to develop a frontier base model that will continue to advance the open weight frontier. This shared foundation will enable developers and enterprises worldwide to specialize AI for their industries, languages and regions, supported by contributions of data, evaluations and domain expertise from coalition members.
+
+Mistral recently introduced the public preview of <u>Mistral Large 4</u>, known as Le Chonk, its largest and most capable frontier model to date. With approximately 1 trillion total parameters and 49 billion active parameters, the multimodal model was trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral-operated data centers in Europe. It advances capabilities across coding, agentic workflows and multimodal understanding, with weights planned for release at the end of October.
+
+Alongside model development, Mistral and NVIDIA are expanding the infrastructure that powers AI training, customization and inference. Mistral is bringing additional NVIDIA-powered AI infrastructure online in support of Mistral’s compute roadmap targeting 1 GW of capacity by 2030.
+
+This expansion strengthens Europe’s role in developing and delivering AI for the world. By connecting European infrastructure and research with open models, specialized engineering capabilities and customer applications, Mistral and NVIDIA are helping enterprises build AI around their own expertise and scale it to serve markets worldwide.

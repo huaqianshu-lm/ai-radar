@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/claude-mods",
+  "content_hash": "bd1ff98ee331429eb47c4ee97af386c69cd4fea173720b06d8f65e301fa5ab82",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1cd487805b8193f0c7f2bce96a0e62ba89ed8e7ca19e8dc10473f5614b1c7a1b",
+    "title": "Claude Mods：将框架内外翻转",
+    "summary": "Claude Mods 是注意力接口的早期形式。它将智能体框架范式从框架面向机器，翻转为框架面向人类。"
+  }
+}

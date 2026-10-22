@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+  "content_hash": "27575489de5f6efc5acebfdc252b8e886aa1d0853b2c9d463b6400c678d92351",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9c99dc597b92594a7b49f4da5e89a024c963984fd0ce718bfd9839c32da1545c",
+    "title": "DeepSeek DeepInfer：开源 SOTA 推理运行 155T tokens/天/集群",
+    "summary": "来自中国的开源重磅炸弹发布，实现每天每个集群运行 155T tokens，每天创造 22 美元收入，利润率约 80%，投资回报期为 81 天。"
+  }
+}

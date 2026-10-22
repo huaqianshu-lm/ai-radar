@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/21/php-security-release",
+  "content_hash": "2b3f21d8e35e8a4916072b8e39694ce42e63f77bdb1e9a9459211a0b04edd415",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "60cdd6b596008249bf482a06ab7091130451beb502a9a6dff1ec2b4c3ae81be1",
+    "title": "今天的 PHP 安全发布，以及我们如何加强 PHP 安全",
+    "summary": "如果您正在运行任何基于 PHP 的程序，升级至关重要——今天的更新涵盖了各个版本以确保安全。"
+  }
+}

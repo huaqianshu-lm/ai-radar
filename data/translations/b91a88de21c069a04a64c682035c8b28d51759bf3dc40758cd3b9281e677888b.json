@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/nvidia/kumo-relational",
+  "content_hash": "ed03a1641dc9e60e813e42cac4a78661d6c9ed884947d0e8a90f0bd4428f38f6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "94a5f6526eada9bc0f52700eb51d921a09fcfe01b2b364c8982be81ac1418089",
+    "title": "NVIDIA Kumo Relational 在关系数据上表现优于监督机器学习，无需训练",
+    "summary": "NVIDIA Kumo Relational 是一种预训练的关系型基础模型，无需额外训练即可在关系数据上超越传统监督机器学习。"
+  }
+}

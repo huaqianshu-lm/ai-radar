@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-21",
+  "content_hash": "0768cbc09e152cd721eac2c8795b0406249d330e4c5f81676ddeff87f4eb285e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3fbf4d20792309ca57a9ff917b73e6174897acef3361ba4de08a69c64f43b284",
+    "title": "DeepSeek DeepInfer、TPU 上的 PyTorch、Ramp 的智能体框架",
+    "summary": "AI 快讯 2026-10-21：包含 DeepSeek DeepInfer、TPU 上的 PyTorch、Ramp 的智能体框架，以及 Voxtral 3：支持 50 多种语言的语音智能体 SDK 与语音模型。"
+  }
+}

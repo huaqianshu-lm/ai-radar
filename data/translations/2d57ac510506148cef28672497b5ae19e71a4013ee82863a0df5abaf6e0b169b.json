@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/webmcp-commerce",
+  "content_hash": "c41f361bce194a2ad0832e5c22ca9be4df890bcd1514d13b8924a71685b8ecc4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1c5f83daf4c5b5dc2db63b5623c43227f86f9c3ea768dda6c8cddb87ba45600f",
+    "title": "Commerce.com 和 Cloudflare 如何为 AI 智能体准备店面",
+    "summary": "近 100,000 个 Commerce.com 域现在通过 Cloudflare 上的 WebMCP 为 AI 智能体提供真实的购物工具。以下是我们如何同时在每个店铺中启用它的过程。"
+  }
+}

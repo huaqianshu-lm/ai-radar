@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/21/panache",
+  "content_hash": "daf615bf45512b56a8195388d3d9d0d68ff958a7c08fcf0f90f1b02fdf4095f5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e0e7f9f0f4ba064a212b5a0e969ee22aa125c5e7a24478c4ed1f0f100cbd8615",
+    "title": "Panache — 移动端的美好时代实时战略游戏",
+    "summary": "昨天我在 Apache 2.0 许可证下发布了 Battle Drones，并且已经有了法语本地化版本..."
+  }
+}

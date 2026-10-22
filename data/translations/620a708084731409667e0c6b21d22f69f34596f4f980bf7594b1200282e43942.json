@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+  "content_hash": "79164500fa3a7ee471c2932ec96e54f815faad56a8b50d8756e8cd119dd112a2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "40a01666d562060bfdf96e1bee46311ea36b1fbc4128b476c54664266fe1cab8",
+    "title": "小型语言模型 (SLM) 的词汇专项优化如何在实际应用中将推理成本降低 77%",
+    "summary": "通过对通用模型进行微调以专门针对特定领域或任务的模型，可以实现显著的成本降低。"
+  }
+}

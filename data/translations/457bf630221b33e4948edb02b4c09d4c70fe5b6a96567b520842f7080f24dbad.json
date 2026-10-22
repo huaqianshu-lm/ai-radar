@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/broad-access-through-consistent-standards",
+  "content_hash": "28705f7f08f0a1276cf707b9388340af326935dcc69f7c68b0da4f1eb875263a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3f1a11956436b167380065dcbfb11acfb4b7400895eeef122ae6e9ec1be674ee",
+    "title": "通过一致的标准实现广泛访问",
+    "summary": "OpenAI 如何与分发合作伙伴合作，以维护一致的安全防护、支持负责任的访问，并在使用政策中明确预期。"
+  }
+}

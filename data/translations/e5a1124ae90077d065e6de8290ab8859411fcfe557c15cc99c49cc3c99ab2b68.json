@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+  "content_hash": "fe0a33a283414ac7cdcc954f76644cdf3838e6eef5dd51bfefd2c6e7e693b9ca",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c2ed162a157709f5cb47598d7a4a9ff0ca7927682ea3c9a0e259f86971bb2de7",
+    "title": "Granite Speech 5.0：更准确、更快速地进行转录、翻译和归属",
+    "summary": "我们很高兴分享 IBM Granite Speech 系列的三项更新：转录、翻译和归属方面的速度和准确性提升。"
+  }
+}
