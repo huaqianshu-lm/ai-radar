@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+  "content_hash": "03df6fd46c44711320e360c39e4cfa845782f0ff2d6526e65a099f439161e465",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0e5fad3ca5f8a881acf7d04bb62a3859c2c74e88d36ad866cc1ffd77a9610def",
+    "title": "使用 IBM Granite 时间序列模型进行集成预测",
+    "summary": "包含四个开源的 Granite 模型、一个可扩展的预测接口，减少对模型选择的猜测。"
+  }
+}

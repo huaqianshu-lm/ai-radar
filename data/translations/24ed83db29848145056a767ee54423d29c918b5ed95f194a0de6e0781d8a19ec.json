@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/anthropics/knowledge-work-plugins",
+  "content_hash": "ed58a11779b5c2f0a80ba27d5afb9386bd09a232a43c99c815b5406cad9c9b78",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2d6ba8fc0269fd5257cd2d0d44455060493fcea59d62919064880983a68bf328",
+    "title": "anthropics / knowledge-work-plugins：Claude Cowork 知识工作插件库",
+    "summary": "Anthropic 开源的插件代码库，主要供知识工作者在 Claude Cowork 中使用，基于 Python 开发。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/NVIDIA/OpenShell",
+  "content_hash": "2c0027651c02f3cca15d002f6f413e30dafce2457cf10b1827f9346a8160af77",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6eb73169f84ce43f98c75fcf0a5b59a0b6373d3829a3919151941cd320d6c61f",
+    "title": "OpenShell – 针对自主 AI 智能体集群的安全、私密运行时",
+    "summary": "HN 讨论：https://news.ycombinator.com/item?id=50198675，原文链接：https://github.com/NVIDIA/OpenShell，作者：niemandhier，得分：291"
+  }
+}

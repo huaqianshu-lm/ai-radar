@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/cyber-verification-program",
+  "content_hash": "977938b9e7875836c12a4c558700fdc9e9abb24e32331211724c9e6ae51e9e02",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2bd8707fdab8226a9f675f85f9755994f2b63d5ba4355bb897dec2473e579ae5",
+    "title": "Anthropic 扩大网络验证计划",
+    "summary": "Anthropic 推出了全新升级的网络验证计划（CVP），提供高级网络安全能力及更少拦截限制的分类器。"
+  }
+}

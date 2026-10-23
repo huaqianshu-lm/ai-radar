@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+  "content_hash": "d64a9b6a1aa4e57582d0e8126778ef69d1f20d3e1cbb059c51c8a696f945d90b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4d0a18eaa787a25f3aea6c2154e9ba08ca8c9beb8793aa46911e134570ac7b7a",
+    "title": "Hedra：我在高中时从零开始编写的 3D 开放世界游戏",
+    "summary": "HN 讨论：https://news.ycombinator.com/item?id=50199389，原文链接：https://github.com/maxilevi/project-hedra/tree/pre-ai，作者：maxilevi，得分：129"
+  }
+}

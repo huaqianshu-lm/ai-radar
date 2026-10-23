@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+  "content_hash": "556b40d387df693a0b9a9eecb5c05ec0b99cce210100a760dbb09639ca98fcbd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "67297d2df9a3d7f196c35fa6ebbaab936e2f788f3fe9d6bed07634b74dd71599",
+    "title": "OlmoEarth v1.3：面向全球的顶尖嵌入模型",
+    "summary": "发布 OlmoEarth v1.3，提供覆盖全球的先进嵌入模型、技术报告、数据集以及代码和交互式探索工具。"
+  }
+}

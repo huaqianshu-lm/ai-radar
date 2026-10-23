@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/research/formal-verification",
+  "content_hash": "298e34f8c94cc3e96945a6a2ce5d491aefff1e7441bfc5266d864d7c932d5a9d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f6a301346a05e615cdbc2095a3fdc32b6b5a6109f77033291fc57d4e1fc9bb8d",
+    "title": "LLM 正在使更大规模的形式化软件验证成为可能",
+    "summary": "HN 讨论：https://news.ycombinator.com/item?id=50202217，原文链接：https://www.anthropic.com/research/formal-verification，作者：johnbender，得分：88"
+  }
+}

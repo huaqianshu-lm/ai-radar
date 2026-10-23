@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+  "content_hash": "fb0ee4a3ae6924d07e160ca7b002f86b1f4c65431c587bf40c101d73bf1bad2d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bdc7b775ab8d2106278d159705fd6d94a25bd08e4a2ec21ac5741a513f56d5a8",
+    "title": "Anthropic 向 Agentic AI Foundation 捐赠 Agent Skills",
+    "summary": "Anthropic 宣布将 Agent Skills——这一为 AI 智能体提供专业知识和工作流的开放标准——捐赠给 Agentic AI Foundation（AAIF）。"
+  }
+}

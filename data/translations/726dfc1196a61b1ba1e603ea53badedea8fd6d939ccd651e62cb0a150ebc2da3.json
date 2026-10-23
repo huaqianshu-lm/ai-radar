@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+  "content_hash": "33fffd0377b77cdaec3d6cf57d7b7813972f9da5c778340490c46344660db60f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cb508f9355dec287fc5a7fb310b59d11fd856755b548a4147f90e6152260ae79",
+    "title": "AI 对 CT 扫描的分析发现 42.9% 的患者患有冠状动脉炎症",
+    "summary": "HN 讨论：https://news.ycombinator.com/item?id=50198940，原文链接：https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnos..."
+  }
+}

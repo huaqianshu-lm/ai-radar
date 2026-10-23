@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/decisions-api",
+  "content_hash": "060400c09709e65a6a43af6a2bc462b0566afc0b645c1c540adc7066357673bd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "891b7e0bbf66f86d27b770f3dc53e0fbecfc246eeadf29503262f6d9c70adad7",
+    "title": "使用 Decisions API 构建响应速度更快的应用",
+    "summary": "为任意应用程序提供快速、专注且低成本的决策能力。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/modal-d",
+  "content_hash": "8c5644da5476ba4e9a13bacb73e649ae13a3ffc233bc30b79bfa771c4ad06ca6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c5258c7ef6406bc06d8a00134c37a0ea72dd1dcf48ecd222ff08ff40204f69c4",
+    "title": "为什么 AI 计算芯片多为长方形 —— Erik Bernhardsson，Modal CEO",
+    "summary": "探讨弹性 GPU、沙盒扩展以及智能体云的经济学原理。"
+  }
+}

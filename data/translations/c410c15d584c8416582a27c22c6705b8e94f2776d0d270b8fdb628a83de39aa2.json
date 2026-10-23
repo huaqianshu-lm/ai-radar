@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-22",
+  "content_hash": "b4969466d480f7938c2d8897e6f8278aa59d5cd3aa2d22a54552dbb82bab5bd1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "65af386da2b0684cb714a9f6d6b621072f17280b213677096dfb5efd133a76d9",
+    "title": "Claude Duet 🤖、Anthropic API 变更 👨‍💻 与 Recursive 本地模型 💻",
+    "summary": "Anthropic 推出了 Claude Duet 等最新进展与更新内容。"
+  }
+}

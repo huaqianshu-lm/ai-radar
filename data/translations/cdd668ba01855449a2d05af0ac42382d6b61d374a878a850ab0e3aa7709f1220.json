@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "content_hash": "5302dfbf3c3e63dd96fc13138a35f07890c22239c9c7d7f3d1804ab05699d7e3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "51888f116f5b083740bce79640ccacdc80055a08000c769931982fc83218805e",
+    "title": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行智能体后训练",
+    "summary": "这是前一篇博客文章《智能体说它完成了》的后续，探讨了如何使用 ThinkingBox 通过强化学习奖励进一步训练智能体。"
+  }
+}

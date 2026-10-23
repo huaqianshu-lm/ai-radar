@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+  "content_hash": "2c542e587cc116c35e9b3d953e8e62ba75e64593601655f1db7fe316d98827cd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8f93170faf71fda6558b8b2fe173c510270a35c328858f29fd60d0b5eecac8cd",
+    "title": "森林各异：绘制全球森林地图 —— Google DeepMind",
+    "summary": "一项全新的 10 米分辨率地图展示了全球森林中哪些是天然林、人工林或农用林，以及它们的变化情况。"
+  }
+}

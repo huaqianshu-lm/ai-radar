@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills",
+  "content_hash": "ba56448a2a81e1830e8b2f0c735074c220c7c2a83791f1223f9620154ff453aa",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2f38489938aada9ceff855353f6137c69fbf6d9333adfdbef03b75464927ce3c",
+    "title": "向 Agentic AI Foundation 捐赠 Agent Skills",
+    "summary": "来自 Anthropic 的最新消息：致力于保持 Agent Skills 开放、社区驱动且独立于特定供应商。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Z4nzu/hackingtool",
+  "content_hash": "b1b311bb72d69f9fd6356d0176a1aa6ba6f7fac1a4185d07ca71062459bedabd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "154a5e7e876f18c6c050fb181de1550ce04bb8a4f104bc58ad272ef4802d090d",
+    "title": "Z4nzu / hackingtool：面向黑客的综合黑客工具箱",
+    "summary": "一个面向黑客的全功能一体化黑客工具集合项目，基于 Python 开发。"
+  }
+}

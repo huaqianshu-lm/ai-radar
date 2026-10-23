@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/5EIBXLSLSKO5BV",
+  "content_hash": "f695a1fca788c64d30ebaa9b3267979505e141e64872daa9a1ddae4e05c1ca7b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0a2ccddb26bdd09ff5070e9a6eec04be7e3201f0d93ef05440c8e9abff4ad8bb",
+    "title": "Product Hunt: Mistral Voxtral 3 — 适用于转录、语音合成与智能体的 Mistral 语音模型",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/mistral-7b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29..."
+  }
+}

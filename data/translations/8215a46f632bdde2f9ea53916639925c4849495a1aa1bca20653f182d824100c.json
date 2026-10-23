@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/NanmiCoder/MediaCrawler",
+  "content_hash": "81c53f462e6f16b66bec35ca2acedb6fa733e7a7063737160b653161204e7d43",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6bae7103b8446d060497dfea986aaf2f8d18b3a6cef5752a6a47fa18b73cff70",
+    "title": "NanmiCoder / MediaCrawler：多平台社交媒体数据爬虫工具",
+    "summary": "一个支持小红书、抖音、快手、B站、微博、百度贴吧、知乎等多个主流平台的笔记与评论爬虫项目，基于 Python 开发。"
+  }
+}

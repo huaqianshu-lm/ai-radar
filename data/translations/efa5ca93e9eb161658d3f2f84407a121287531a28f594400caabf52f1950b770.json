@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+  "content_hash": "9b1d68e0d5c291a57de12baefc848112c925bb5a8b8759ccb39dcf9ec3a63b11",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4c49390f8994fee2de1edb4c4d070084b2ba8d5208352457830397dbe65170f5",
+    "title": "OpenAI 的 Patch the Planet 项目使用 GPT-5.6 Sol 发现了影响 70% 网络的 PHP 核心 PHP2Shell 漏洞",
+    "summary": "重大安全加固工作已经开始。"
+  }
+}

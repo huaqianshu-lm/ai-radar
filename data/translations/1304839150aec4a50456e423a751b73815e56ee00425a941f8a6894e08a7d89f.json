@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/forward-deployed-engineering-means",
+  "content_hash": "6e5e5feeffde98bd5ff2c2ed4f9ebcb538f1d2e2baf2b224d9e46d8aa7ea4569",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6400feb681472530a689e8c59132cfe6d13f5863532ecd60e409a4825c59746b",
+    "title": "阐释 OpenAI 的 FDE 含义",
+    "summary": "探讨 OpenAI 中前置部署工程（forward deployed engineering）的真正含义。"
+  }
+}
