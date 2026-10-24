@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "content_hash": "4e68925eb73f9a99d109756020dc3ac2cd8b2e92a31b2c3a01e98d277f48e14f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2b3f616d26d343fed7789052f7d45765c10f64079fafbd4a9ee06dcaf0e956ff",
+    "title": "你的模型在 AWS Trainium 上运行吗？快来查询",
+    "summary": "在之前的文章中，我们介绍了 TorchNeuron，这是 AWS Trainium 的原生 PyTorch 后端（`torch-neuronx...`）。"
+  }
+}

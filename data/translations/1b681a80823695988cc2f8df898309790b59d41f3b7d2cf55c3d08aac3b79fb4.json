@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+  "content_hash": "668475b735b3b81ca98adf81f9b9ca5d6ac974939951987790500402db87d79a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ee4c22366ef7e7abd786b0a4bc8d65774ddf350a3208b6c38568ae822ed0b9b0",
+    "title": "快速扩展在线存储以服务超 10 亿 ChatGPT 用户（第二部分）",
+    "summary": "了解 OpenAI 如何通过可靠的多租户、全局缓存和 Azure Cosmos DB 扩展 Habitat，为 ChatGPT 提供快 12 倍的读取速度。"
+  }
+}

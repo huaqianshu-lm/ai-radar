@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/virgiliojr94/book-to-skill",
+  "content_hash": "f94136d108dc26dbafacdf94614d65d5044e165b88cd1d858afbca95e56fada0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "16a73b8e53c5832aba4bc3c09d70aa14206a7ca3094c5b563371227f73b5f952",
+    "title": "virgiliojr94 / book-to-skill：将任何技术书籍 PDF 转为 Claude Code 技能 —— 随时可用于学习、参考和在工作中使用",
+    "summary": "将任何技术书籍 PDF 转为 Claude Code 技能 —— 随时可用于学习、参考和在工作中使用。- 语言：Python - 今日获 143 星"
+  }
+}

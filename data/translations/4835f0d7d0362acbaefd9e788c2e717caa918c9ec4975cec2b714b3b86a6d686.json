@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/23/quick-study-painter",
+  "content_hash": "3bc19209c0282afee5c75aa28f44c0eb912c44a6f262e3f3be3d45c0fda3f663",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1560ea04dee0e58af37b6a0a1c62e198e8778cd634ed85f83714a56352b471ce",
+    "title": "快速研究（Quick Study）",
+    "summary": "工具：Claude Opus 5.5 High 的 Quick Study 提示词：构建一个工件（artifact），让你能够打开一张照片，并使用它在几秒钟内快速绘制该照片的版本……"
+  }
+}

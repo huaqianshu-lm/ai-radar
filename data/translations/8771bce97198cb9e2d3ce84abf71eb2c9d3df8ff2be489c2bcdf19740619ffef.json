@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50200997",
+  "content_hash": "75aed378a5cad12d4777530e9662cf7b762057daf69b827f7c4709dd0cd060f1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d2d147873d73c857a64872018464431abcf90561f96605d017dc04d86f12b58b",
+    "title": "HN 问答：既然模型这么厉害，OpenAI 为什么不自己创办 100 家公司？",
+    "summary": "HN 讨论：https://news.ycombinator.com/item?id=50200997 作者：ex-aws-dude 得分：593 标题有点夸张，但问题更偏向于：如果前沿模型……"
+  }
+}

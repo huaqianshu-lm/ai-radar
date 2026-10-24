@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://corgi.computer/",
+  "content_hash": "ff6d785be42b20394ab19f30ff55a445fa7abdf0f9e95a55902efcfd917b4095",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0c52706d1cc52b2e6a203551f29140caf341e62649910a0435d40fb5b9419f8e",
+    "title": "HN 展示：Corgi，一个实用的 {agent, terminal} 多路复用器",
+    "summary": "HN 讨论：https://news.ycombinator.com/item?id=50214373 原始链接：https://corgi.computer/ 作者：eiopa 得分：30 大家好，受 Herdr 的启发，我构建了……"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/litpivot",
+  "content_hash": "c46f9f17989c6d7b1ea379fa6fce997d7a480f12a95e8c441724b433453588eb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5d794c3788a3a4be0d4215599516884eae43a82888c86723f4c4d433d59805d7",
+    "title": "LitPivot：通过文献领域内的动态情境化来发展研究构想",
+    "summary": "📄 论文：接触一篇新论文可以改变一个研究构想……"
+  }
+}

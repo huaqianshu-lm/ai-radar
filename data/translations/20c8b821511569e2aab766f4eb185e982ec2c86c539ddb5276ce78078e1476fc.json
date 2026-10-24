@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-23",
+  "content_hash": "d64c998b30b70277d3514d58b233883ba3d0840dea9a94fca8f35f9bcb24842d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bcc54f945c553900769722168c55f4915c8b002677bf9493cb276a6c122bebbe",
+    "title": "OpenAI 逼近 1.25 万亿美元 💰、☁️、Agents 的 1Password 🔑、Gemini 3.5 Pro 复盘 🤖",
+    "summary": "每个人都在谈论瓶颈的转移……我们的客户在规模扩大时只想要稳定、具备真正优秀开发者体验（DX）且不碍事的方案。"
+  }
+}

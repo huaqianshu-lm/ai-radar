@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/ainews-black-october",
+  "content_hash": "c68b91230a8cb8780f83c35c59cb8219a27960f93e2c56ca3b0f8fca0bbbd1fb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "91196398c9088bd879f9179ec14f64943f2b4775b2004845a98e36d9dfa3ad5a",
+    "title": "[AINews] 黑色十月",
+    "summary": "网络攻击仍在持续。"
+  }
+}
