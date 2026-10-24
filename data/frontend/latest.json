@@ -1,405 +1,355 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "items": [
     {
-      "id": "eda525050cea8fce4b13823379a8b9659ff224375e0356616ea34596cdb17cc5",
-      "title": "Uber 与 OpenAI 合作将 ChatGPT Work 引入所有员工",
-      "summary": "Uber 正在向 3 万多名员工全面推出 ChatGPT Work，以帮助团队进行研究、数据分析、制作演示文稿并完成复杂的日常工作流程。",
+      "id": "1a543055a02f9816518cc03996b6a0ed89e5e65a847f479103d96112c902ed21",
+      "title": "OpenAI 与波兰 NASK 合作推进 AI 安全与防护",
+      "summary": "OpenAI 与波兰 NASK 正在人工智能安全、防护以及技术研究方面展开合作，以强化保障措施并支持更具韧性的数字生态系统。",
       "source": "OpenAI News",
       "source_type": "official",
-      "display_time": "2026-10-22T00:00:00Z",
+      "display_time": "2026-10-23T00:00:00Z",
       "time_type": "published",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout"
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
     },
     {
-      "id": "6400feb681472530a689e8c59132cfe6d13f5863532ecd60e409a4825c59746b",
-      "title": "阐释 OpenAI 的 FDE 含义",
-      "summary": "探讨 OpenAI 中前置部署工程（forward deployed engineering）的真正含义。",
+      "id": "ee4c22366ef7e7abd786b0a4bc8d65774ddf350a3208b6c38568ae822ed0b9b0",
+      "title": "快速扩展在线存储以服务超 10 亿 ChatGPT 用户（第二部分）",
+      "summary": "了解 OpenAI 如何通过可靠的多租户、全局缓存和 Azure Cosmos DB 扩展 Habitat，为 ChatGPT 提供快 12 倍的读取速度。",
       "source": "OpenAI News",
       "source_type": "official",
-      "display_time": "2026-10-22T06:00:00Z",
+      "display_time": "2026-10-23T17:00:00Z",
       "time_type": "published",
-      "url": "https://openai.com/index/forward-deployed-engineering-means"
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
     },
     {
-      "id": "891b7e0bbf66f86d27b770f3dc53e0fbecfc246eeadf29503262f6d9c70adad7",
-      "title": "使用 Decisions API 构建响应速度更快的应用",
-      "summary": "为任意应用程序提供快速、专注且低成本的决策能力。",
-      "source": "OpenAI News",
-      "source_type": "official",
-      "display_time": "2026-10-22T19:00:00Z",
-      "time_type": "published",
-      "url": "https://openai.com/index/decisions-api"
-    },
-    {
-      "id": "bdc7b775ab8d2106278d159705fd6d94a25bd08e4a2ec21ac5741a513f56d5a8",
-      "title": "Anthropic 向 Agentic AI Foundation 捐赠 Agent Skills",
-      "summary": "Anthropic 宣布将 Agent Skills——这一为 AI 智能体提供专业知识和工作流的开放标准——捐赠给 Agentic AI Foundation（AAIF）。",
-      "source": "Anthropic News",
-      "source_type": "official",
-      "display_time": "2026-10-23T01:17:52Z",
-      "time_type": "fetched",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
-    },
-    {
-      "id": "2bd8707fdab8226a9f675f85f9755994f2b63d5ba4355bb897dec2473e579ae5",
-      "title": "Anthropic 扩大网络验证计划",
-      "summary": "Anthropic 推出了全新升级的网络验证计划（CVP），提供高级网络安全能力及更少拦截限制的分类器。",
-      "source": "Anthropic News",
-      "source_type": "official",
-      "display_time": "2026-10-23T01:17:52Z",
-      "time_type": "fetched",
-      "url": "https://www.anthropic.com/news/cyber-verification-program"
-    },
-    {
-      "id": "6f131bbed5e7925d040e498e9f355192a661ee34bb8a5418a070e852a4c72a41",
-      "title": "Mistral 发布 Mistral Large 4",
-      "summary": "今天，我们推出了 Mistral Large 4 的公开预览版。非官方代号为 ML4，官方代号为：le Chonk。ML4 推动了开放权重性能的边界...",
-      "source": "Mistral AI News",
-      "source_type": "official",
-      "display_time": "2026-10-23T01:17:52Z",
-      "time_type": "fetched",
-      "url": "https://mistral.ai/news/mistral-large-4"
-    },
-    {
-      "id": "8f93170faf71fda6558b8b2fe173c510270a35c328858f29fd60d0b5eecac8cd",
-      "title": "森林各异：绘制全球森林地图 —— Google DeepMind",
-      "summary": "一项全新的 10 米分辨率地图展示了全球森林中哪些是天然林、人工林或农用林，以及它们的变化情况。",
+      "id": "1043d9fe80283e6f409b90e0f5f76b98d960cc337ee42f5d79ea8cfadd9a93c0",
+      "title": "谷歌深度思维：利用安全的服务器端内存推进私有 AI 计算",
+      "summary": "关于私有 AI 计算架构的技术更新，该架构将支持持久、跨设备的特性。",
       "source": "Google DeepMind Blog",
       "source_type": "official",
-      "display_time": "2026-10-23T01:17:52Z",
+      "display_time": "2026-10-24T01:23:52Z",
       "time_type": "fetched",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types"
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
     },
     {
-      "id": "6950f6169e819866442dc86ad980d2ea7ec3dda5c64fe7cf1333921ecc953a5c",
-      "title": "Anthropic 面向生命科学领域公开招募客座研究员",
-      "summary": "Anthropic 邀请生命科学领域的专家申请与他们合作开展专项项目，正在寻找来自首席研究员等的提案。",
-      "source": "Anthropic News",
+      "id": "825546b9e9e150a70467a533edaf9570d45ce6f5d4a72a0aade47ee2011a3015",
+      "title": "AlphaGenome Atlas：针对 90 亿人类 DNA 变异的分子预测 — Google DeepMind",
+      "summary": "AlphaGenome Atlas：人类基因组中每个可能 DNA 字母改变的预测图谱。预测每个可能的单字母变异的分子影响...",
+      "source": "Google DeepMind Blog",
       "source_type": "official",
-      "display_time": "2026-10-23T01:17:52Z",
+      "display_time": "2026-10-24T01:23:52Z",
       "time_type": "fetched",
-      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
     },
     {
-      "id": "65af386da2b0684cb714a9f6d6b621072f17280b213677096dfb5efd133a76d9",
-      "title": "Claude Duet 🤖、Anthropic API 变更 👨‍💻 与 Recursive 本地模型 💻",
-      "summary": "Anthropic 推出了 Claude Duet 等最新进展与更新内容。",
+      "id": "4d11ed62a144a3f4c2f6e00530d90722b7d8967436b129f93138ecb93c209d7e",
+      "title": "让主权开源 AI 成为技术前沿 | Mistral",
+      "summary": "Mistral 公司筹集 30 亿欧元以使主权开源 AI 成为技术前沿。Mistral 今天宣布已在 D 轮融资中筹集 30 亿欧元...",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-10-24T01:23:52Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier"
+    },
+    {
+      "id": "2b3f616d26d343fed7789052f7d45765c10f64079fafbd4a9ee06dcaf0e956ff",
+      "title": "你的模型在 AWS Trainium 上运行吗？快来查询",
+      "summary": "在之前的文章中，我们介绍了 TorchNeuron，这是 AWS Trainium 的原生 PyTorch 后端（`torch-neuronx...`）。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-10-23T00:00:00Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support"
+    },
+    {
+      "id": "bcc54f945c553900769722168c55f4915c8b002677bf9493cb276a6c122bebbe",
+      "title": "OpenAI 逼近 1.25 万亿美元 💰、☁️、Agents 的 1Password 🔑、Gemini 3.5 Pro 复盘 🤖",
+      "summary": "每个人都在谈论瓶颈的转移……我们的客户在规模扩大时只想要稳定、具备真正优秀开发者体验（DX）且不碍事的方案。",
       "source": "TLDR AI",
       "source_type": "curated",
-      "display_time": "2026-10-22T00:00:00Z",
+      "display_time": "2026-10-23T00:00:00Z",
       "time_type": "published",
-      "url": "https://tldr.tech/ai/2026-10-22"
+      "url": "https://tldr.tech/ai/2026-10-23"
     },
     {
-      "id": "4c49390f8994fee2de1edb4c4d070084b2ba8d5208352457830397dbe65170f5",
-      "title": "OpenAI 的 Patch the Planet 项目使用 GPT-5.6 Sol 发现了影响 70% 网络的 PHP 核心 PHP2Shell 漏洞",
-      "summary": "重大安全加固工作已经开始。",
+      "id": "91196398c9088bd879f9179ec14f64943f2b4775b2004845a98e36d9dfa3ad5a",
+      "title": "[AINews] 黑色十月",
+      "summary": "网络攻击仍在持续。",
       "source": "Latent Space",
       "source_type": "developer",
-      "display_time": "2026-10-22T07:42:44Z",
+      "display_time": "2026-10-23T10:09:29Z",
       "time_type": "published",
-      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program"
+      "url": "https://latent.space/p/ainews-black-october/"
     },
     {
-      "id": "0e5fad3ca5f8a881acf7d04bb62a3859c2c74e88d36ad866cc1ffd77a9610def",
-      "title": "使用 IBM Granite 时间序列模型进行集成预测",
-      "summary": "包含四个开源的 Granite 模型、一个可扩展的预测接口，减少对模型选择的猜测。",
-      "source": "Hugging Face Blog",
-      "source_type": "developer",
-      "display_time": "2026-10-22T07:51:31Z",
-      "time_type": "published",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
-    },
-    {
-      "id": "5c67f86b19de93a0a9e842910d2a11bf3daa5bfc7df88a0e2a8cc299e598aef4",
-      "title": "你就是团队 —— Anekha Sokhal、Moshi",
-      "summary": "探讨 Moshi 如何将市场数据转化为可操作的洞察，以及为什么 AI 工具必须契合交易员的工作流程。",
+      "id": "7c78bdcfe600d7c4443eea3ec414bc940eb89792b8635a773ed5c0616eb51f88",
+      "title": "AI 正在变得擅长数学，原因如下",
+      "summary": "AI 模型正在解决越来越多的数学问题。在其成功案例中正浮现出一种模式，这有助于我们预测它们接下来能解决哪些问题。",
       "source": "Latent Space",
       "source_type": "developer",
-      "display_time": "2026-10-22T14:03:40Z",
+      "display_time": "2026-10-23T15:19:48Z",
       "time_type": "published",
-      "url": "https://www.latent.space/p/moshi"
+      "url": "https://latent.space/p/ai-is-getting-good-at-math/"
     },
     {
-      "id": "2eded73c1a58a8ad57ea20a412959fef8e1a90283cd1db6f96fb3433d86d25d6",
-      "title": "引用 Armin Ronacher 的观点",
-      "summary": "探讨人工智能带来的乐趣与过去 30 年中编写的大量糟糕软件所带来的反思。",
-      "source": "Simon Willison",
-      "source_type": "developer",
-      "display_time": "2026-10-22T15:34:13Z",
-      "time_type": "published",
-      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/"
-    },
-    {
-      "id": "67297d2df9a3d7f196c35fa6ebbaab936e2f788f3fe9d6bed07634b74dd71599",
-      "title": "OlmoEarth v1.3：面向全球的顶尖嵌入模型",
-      "summary": "发布 OlmoEarth v1.3，提供覆盖全球的先进嵌入模型、技术报告、数据集以及代码和交互式探索工具。",
+      "id": "5d794c3788a3a4be0d4215599516884eae43a82888c86723f4c4d433d59805d7",
+      "title": "LitPivot：通过文献领域内的动态情境化来发展研究构想",
+      "summary": "📄 论文：接触一篇新论文可以改变一个研究构想……",
       "source": "Hugging Face Blog",
       "source_type": "developer",
-      "display_time": "2026-10-22T16:11:31Z",
+      "display_time": "2026-10-23T16:15:50Z",
       "time_type": "published",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+      "url": "https://huggingface.co/blog/allenai/litpivot"
     },
     {
-      "id": "c5258c7ef6406bc06d8a00134c37a0ea72dd1dcf48ecd222ff08ff40204f69c4",
-      "title": "为什么 AI 计算芯片多为长方形 —— Erik Bernhardsson，Modal CEO",
-      "summary": "探讨弹性 GPU、沙盒扩展以及智能体云的经济学原理。",
-      "source": "Latent Space",
-      "source_type": "developer",
-      "display_time": "2026-10-22T17:40:57Z",
-      "time_type": "published",
-      "url": "https://www.latent.space/p/modal-d"
-    },
-    {
-      "id": "2f38489938aada9ceff855353f6137c69fbf6d9333adfdbef03b75464927ce3c",
-      "title": "向 Agentic AI Foundation 捐赠 Agent Skills",
-      "summary": "来自 Anthropic 的最新消息：致力于保持 Agent Skills 开放、社区驱动且独立于特定供应商。",
+      "id": "9e0308113d32ae3fc53655209ad5823c1401d9ff168f092eade47d2354761f7a",
+      "title": "推出 Kimi K3.1 Pro",
+      "summary": "Kimi K3.1 Pro 今日上线 Kimi API —— 目前尚未开源，但 Moonshot 承诺“将于 11 月底发布完整模型权重”。",
       "source": "Simon Willison",
       "source_type": "developer",
-      "display_time": "2026-10-22T18:09:56Z",
+      "display_time": "2026-10-23T19:40:54Z",
       "time_type": "published",
-      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
     },
     {
-      "id": "87e22db35085845a31934bac37c6e28fff482d88214c3a3d665c131976216560",
-      "title": "DE STAAT - FREEDOM（官方音乐视频）",
-      "summary": "荷兰另类摇滚乐队 De Staat 的新音乐视频中展现了独特的视觉内容。",
+      "id": "1560ea04dee0e58af37b6a0a1c62e198e8778cd634ed85f83714a56352b471ce",
+      "title": "快速研究（Quick Study）",
+      "summary": "工具：Claude Opus 5.5 High 的 Quick Study 提示词：构建一个工件（artifact），让你能够打开一张照片，并使用它在几秒钟内快速绘制该照片的版本……",
       "source": "Simon Willison",
       "source_type": "developer",
-      "display_time": "2026-10-22T19:42:26Z",
+      "display_time": "2026-10-23T21:35:13Z",
       "time_type": "published",
-      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/"
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
     },
     {
-      "id": "51888f116f5b083740bce79640ccacdc80055a08000c769931982fc83218805e",
-      "title": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行智能体后训练",
-      "summary": "这是前一篇博客文章《智能体说它完成了》的后续，探讨了如何使用 ThinkingBox 通过强化学习奖励进一步训练智能体。",
-      "source": "Hugging Face Blog",
-      "source_type": "developer",
-      "display_time": "2026-10-22T22:24:34Z",
-      "time_type": "published",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
-    },
-    {
-      "id": "6bae7103b8446d060497dfea986aaf2f8d18b3a6cef5752a6a47fa18b73cff70",
-      "title": "NanmiCoder / MediaCrawler：多平台社交媒体数据爬虫工具",
-      "summary": "一个支持小红书、抖音、快手、B站、微博、百度贴吧、知乎等多个主流平台的笔记与评论爬虫项目，基于 Python 开发。",
+      "id": "88c7f9147afded8f17015e41e09495fc83369d2737391b8bea765d8860cbbd39",
+      "title": "Mailu / Mailu：独立的电子邮件分发系统 - 作为 Docker 镜像的邮件服务器 - 语言：Python - 今日获 4 星",
+      "summary": "独立的电子邮件分发系统 - 作为 Docker 镜像的邮件服务器 - 语言：Python - 今日获 4 星",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-10-23T01:17:52Z",
+      "display_time": "2026-10-24T01:23:52Z",
       "time_type": "fetched",
-      "url": "https://github.com/NanmiCoder/MediaCrawler"
+      "url": "https://github.com/Mailu/Mailu"
     },
     {
-      "id": "154a5e7e876f18c6c050fb181de1550ce04bb8a4f104bc58ad272ef4802d090d",
-      "title": "Z4nzu / hackingtool：面向黑客的综合黑客工具箱",
-      "summary": "一个面向黑客的全功能一体化黑客工具集合项目，基于 Python 开发。",
+      "id": "8cf5140931d8ef20d81a9080b060fc35f0dbbf63a4853329b72d52615e171599",
+      "title": "OpenBMB / VoxCPM：VoxCPM2：用于多语言语音生成、创意声音设计和逼真克隆的无 Tokenizer 语音合成（TTS）模型 - 语言：Python - 今日获 150 星",
+      "summary": "VoxCPM2：用于多语言语音生成、创意声音设计和逼真克隆的无 Tokenizer 语音合成（TTS）模型 - 语言：Python - 今日获 150 星",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-10-23T01:17:52Z",
+      "display_time": "2026-10-24T01:23:52Z",
       "time_type": "fetched",
-      "url": "https://github.com/Z4nzu/hackingtool"
+      "url": "https://github.com/OpenBMB/VoxCPM"
     },
     {
-      "id": "2d6ba8fc0269fd5257cd2d0d44455060493fcea59d62919064880983a68bf328",
-      "title": "anthropics / knowledge-work-plugins：Claude Cowork 知识工作插件库",
-      "summary": "Anthropic 开源的插件代码库，主要供知识工作者在 Claude Cowork 中使用，基于 Python 开发。",
+      "id": "260a41dc64951ed41f62ad025cf810c6a11a8818cef0279faa533aa52dff3091",
+      "title": "SnailSploit / Claude-Red：claude-red 是一个为 Claude 技能系统设计的精选红蓝对抗（攻击性安全）技能库",
+      "summary": "claude-red 是一个为 Claude 技能系统设计的精选红蓝对抗（攻击性安全）技能库。每个技能都是一个结构化的 SKILL.md 文件，用于引导 Claude...",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-10-23T01:17:52Z",
+      "display_time": "2026-10-24T01:23:52Z",
       "time_type": "fetched",
-      "url": "https://github.com/anthropics/knowledge-work-plugins"
+      "url": "https://github.com/SnailSploit/Claude-Red"
     },
     {
-      "id": "ce7705b5a8806fc4dcbde29a991188bb6e6fe2de8812ed6046777c8ae8c6bd83",
-      "title": "WorldTUI：我训练了一个 3.6 亿参数的模型来模拟终端",
-      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50190363，原文链接：https://simedw.com/2026/10/21/world-model-terminal/，作者：alphax314，得分：504",
+      "id": "de3e2955aed3e9311d71950acadf861760d0ab086988f5d4674e4f1dfb74344e",
+      "title": "onyx-dot-app / onyx：开源 AI 平台 - 具备高级功能、支持所有大语言模型（LLM）的 AI 聊天工具 - 语言：Python - 今日获 86 星",
+      "summary": "开源 AI 平台 - 具备高级功能、支持所有大语言模型（LLM）的 AI 聊天工具 - 语言：Python - 今日获 86 星",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-24T01:23:52Z",
+      "time_type": "fetched",
+      "url": "https://github.com/onyx-dot-app/onyx"
+    },
+    {
+      "id": "16a73b8e53c5832aba4bc3c09d70aa14206a7ca3094c5b563371227f73b5f952",
+      "title": "virgiliojr94 / book-to-skill：将任何技术书籍 PDF 转为 Claude Code 技能 —— 随时可用于学习、参考和在工作中使用",
+      "summary": "将任何技术书籍 PDF 转为 Claude Code 技能 —— 随时可用于学习、参考和在工作中使用。- 语言：Python - 今日获 143 星",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-24T01:23:52Z",
+      "time_type": "fetched",
+      "url": "https://github.com/virgiliojr94/book-to-skill"
+    },
+    {
+      "id": "d2d147873d73c857a64872018464431abcf90561f96605d017dc04d86f12b58b",
+      "title": "HN 问答：既然模型这么厉害，OpenAI 为什么不自己创办 100 家公司？",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50200997 作者：ex-aws-dude 得分：593 标题有点夸张，但问题更偏向于：如果前沿模型……",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-22T02:18:41Z",
+      "display_time": "2026-10-22T21:03:55Z",
       "time_type": "published",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/"
+      "url": "https://news.ycombinator.com/item?id=50200997"
     },
     {
-      "id": "c4ef979d44385fe4aefb53eb4baf66a9fe0af7d53f5967f2d5f7f71fd6461e6a",
-      "title": "每个 AI 模型对人类都有相同的“争议性”看法",
-      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50197313，原文链接：https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans，作者：rakannimer...",
+      "id": "eaeb4841c281d36f0c0fb12641f282bfc200c6f4fb03987f60c291c96ca8430b",
+      "title": "HN 展示：把智能电视变“蠢”，然后再次变聪明",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50202865 原始链接：https://github.com/anubhavmalhotra/r2d2-tv 作者：animalhot 得分：86 一次最近的（不想要的）……",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-22T16:08:00Z",
+      "display_time": "2026-10-23T00:10:45Z",
       "time_type": "published",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
+      "url": "https://github.com/anubhavmalhotra/r2d2-tv"
     },
     {
-      "id": "6eb73169f84ce43f98c75fcf0a5b59a0b6373d3829a3919151941cd320d6c61f",
-      "title": "OpenShell – 针对自主 AI 智能体集群的安全、私密运行时",
-      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50198675，原文链接：https://github.com/NVIDIA/OpenShell，作者：niemandhier，得分：291",
+      "id": "bf44de9e544de4cbe9fe1a2a613ba67b03dda83fe8633fc284d5c9ec8453b5d7",
+      "title": "Kimi K3.1 Pro 与 K3.1 Pro Highspeed",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50212065 原始链接：https://www.kimi.ai/blog/kimi-k3-1-pro 作者：Jowsey 得分：709",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-22T17:44:06Z",
+      "display_time": "2026-10-23T16:59:08Z",
       "time_type": "published",
-      "url": "https://github.com/NVIDIA/OpenShell"
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
     },
     {
-      "id": "cb508f9355dec287fc5a7fb310b59d11fd856755b548a4147f90e6152260ae79",
-      "title": "AI 对 CT 扫描的分析发现 42.9% 的患者患有冠状动脉炎症",
-      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50198940，原文链接：https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnos...",
+      "id": "b5cb20bfbe29ca467252b9888181d30061954fb596893731cbf1f457ba320a26",
+      "title": "Dessa：有史以来最真实的纯全双工语音模型",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50213925 原始链接：https://block.xyz/dessa 作者：dsr12 得分：221",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-22T18:02:54Z",
+      "display_time": "2026-10-23T19:09:54Z",
       "time_type": "published",
-      "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients"
+      "url": "https://block.xyz/dessa"
     },
     {
-      "id": "39f0af155c70bc46b74f91c0f6775ac02659d50ce7d6c59f7ab11abc992f13ba",
-      "title": "AI 与科学公域的封闭",
-      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50199230，原文链接：https://arxiv.org/abs/2610.27251，作者：jrepinc，得分：107",
+      "id": "5652f8f8725cdbf48c985b785fcd1998b049973634b30c243a202e6c02023121",
+      "title": "新 AI 诊断疾病的能力是医生的两倍以上",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50214185 原始链接：https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-dis...",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-22T18:28:16Z",
+      "display_time": "2026-10-23T19:31:36Z",
       "time_type": "published",
-      "url": "https://arxiv.org/abs/2610.27251"
+      "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562"
     },
     {
-      "id": "619bf4eda568afa29532a26b5fb2428a758ed296568011dc80c1061e3c7c9962",
-      "title": "获奖的 AI 文学",
-      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50199232，原文链接：https://jamesyu.org/award-winning-ai-literature/，作者：jamesjyu，得分：58",
+      "id": "0c52706d1cc52b2e6a203551f29140caf341e62649910a0435d40fb5b9419f8e",
+      "title": "HN 展示：Corgi，一个实用的 {agent, terminal} 多路复用器",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50214373 原始链接：https://corgi.computer/ 作者：eiopa 得分：30 大家好，受 Herdr 的启发，我构建了……",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-22T18:28:26Z",
+      "display_time": "2026-10-23T19:46:38Z",
       "time_type": "published",
-      "url": "https://jamesyu.org/award-winning-ai-literature/"
+      "url": "https://corgi.computer/"
     },
     {
-      "id": "4d0a18eaa787a25f3aea6c2154e9ba08ca8c9beb8793aa46911e134570ac7b7a",
-      "title": "Hedra：我在高中时从零开始编写的 3D 开放世界游戏",
-      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50199389，原文链接：https://github.com/maxilevi/project-hedra/tree/pre-ai，作者：maxilevi，得分：129",
+      "id": "71853833e5fa6c7e4976284a3f9489d30d2fd47e116a955e18f46c26a68f36ea",
+      "title": "保障我们的前沿模型训练环境安全",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50214416 原始链接：https://openai.com/index/securing-our-frontier-model-training-environment/ 作者：pretext...",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-22T18:44:36Z",
+      "display_time": "2026-10-23T19:50:56Z",
       "time_type": "published",
-      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai"
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/"
     },
     {
-      "id": "f6a301346a05e615cdbc2095a3fdc32b6b5a6109f77033291fc57d4e1fc9bb8d",
-      "title": "LLM 正在使更大规模的形式化软件验证成为可能",
-      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50202217，原文链接：https://www.anthropic.com/research/formal-verification，作者：johnbender，得分：88",
+      "id": "a9c106214e590dc1f93a5c0421c6e2e4c5ea704fee35bb54239f7d28da958293",
+      "title": "AI in UX：工作效率提升，但从业者态度复杂",
+      "summary": "HN 讨论链接：https://news.ycombinator.com/item?id=50217208 原始网址：https://www.nngroup.com/articles/ai-in-ux-survey-26/ 作者：elwingo1 得分：3",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-22T22:54:43Z",
+      "display_time": "2026-10-24T00:32:17Z",
       "time_type": "published",
-      "url": "https://www.anthropic.com/research/formal-verification"
+      "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/"
     },
     {
-      "id": "eae8f171e09667f0307b4a021eff870dc5a4257ede97c9aead59fb202efbdcd0",
-      "title": "AI 算力是新石油——需要一个新市场",
-      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50202671，原文链接：https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-n...",
-      "source": "Hacker News AI",
-      "source_type": "discovery",
-      "display_time": "2026-10-22T23:45:16Z",
-      "time_type": "published",
-      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market"
-    },
-    {
-      "id": "c7fa75fafbedcdf6060ca5637861a7346e3fbf888614e3b4be94ca61bd507870",
-      "title": "Product Hunt: Causo — 通过 AI 研究与 MCP 寻找超出数据库过滤器的潜在客户",
-      "summary": "Product Hunt 页面：https://www.producthunt.com/products/causo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
+      "id": "954d6e8cfebeff7a94195ef7baa85fb929b572b8adb753727d115bd295e7f244",
+      "title": "Product Hunt：Agent Hunt — AI 代理最常使用的工具实时排行榜",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-10-22T07:01:00Z",
+      "display_time": "2026-10-23T07:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/6A54JDPKURJAN6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/VX6RX4U6IBXRW6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "1e8334ebf9ceba99718180909c749c441571653891c4e5f28f26c7a77641cb0d",
-      "title": "Product Hunt: Claude Duet — 理解哪些内容需要你关注的主动式智能体",
-      "summary": "Product Hunt 页面：https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "id": "904b58f55266ebefe28eba00e2e168c6f830c324ebfec626b5081a044ec6e5a7",
+      "title": "Product Hunt：Cloudflare Clairic — Cloudflare 用于快速、低成本数据提取的 AI 模型",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-10-22T07:01:00Z",
+      "display_time": "2026-10-23T07:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/E2X5OB7ZYY7LBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/A6H4RT6E667XWS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "fce6aacfada8d32d2a0cb5d4d47b2ab74f89c9306baa6b1dcde8405564ffdc99",
-      "title": "Product Hunt: CutBay — AI 视频智能体：通过聊天将任何内容转化为视频",
-      "summary": "Product Hunt 页面：https://www.producthunt.com/products/cutbay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "id": "a298a5ca53e5c2445b98a163dac9962c1e2c6d17c7309018a7daf109968b04e6",
+      "title": "Product Hunt：Context Engine — 为 AI 代理和人类团队成员提供统一的记忆。",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/context-engine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-10-22T07:01:00Z",
+      "display_time": "2026-10-23T07:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/NHJ3TS2JQSOSXM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/MJ2TTPRLW354IS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "492399de77fd0418d1ad2881945ac952be589a1eca96a657c893b994c7e62c7d",
-      "title": "Product Hunt: DeepCell — 你的办公截止日期生存工具包",
-      "summary": "Product Hunt 页面：https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "id": "985a72f8d7834c8e02423d42a8769ad559df5d85a9edcfe79fd6a4f14ac5632e",
+      "title": "Product Hunt：ElevenLabs Realtime — 首个音频延迟 570 毫秒的实时语音代理模型",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/realtime-max-mini?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28I...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-10-22T07:01:00Z",
+      "display_time": "2026-10-23T07:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/QQW4YFA2J3HRIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/J2VB5S23Y57R7F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "90e6559c10a177b0907ef017838c2fd7d14beb458975c9ad4822be7144baf8a8",
-      "title": "Product Hunt: Mercury 3 — 扩展 40 倍且速度不减的扩散大模型",
-      "summary": "Product Hunt 页面：https://www.producthunt.com/products/mercury-412?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2...",
+      "id": "463e80e484fb4e199661a43b2a37d7caf4a2ccaf79b8ba408606364a646fb0c6",
+      "title": "Product Hunt：FLUX 3 Max — fal 的 FLUX 3 Max：约 12 秒生成 10 秒 AI 视频",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/fal-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-10-22T07:01:00Z",
+      "display_time": "2026-10-23T07:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/Q757FLG3Q3D7E4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/H7WZJVJO5LJCXF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "0a2ccddb26bdd09ff5070e9a6eec04be7e3201f0d93ef05440c8e9abff4ad8bb",
-      "title": "Product Hunt: Mistral Voxtral 3 — 适用于转录、语音合成与智能体的 Mistral 语音模型",
-      "summary": "Product Hunt 页面：https://www.producthunt.com/products/mistral-7b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29...",
+      "id": "43050e8254ed3ad20764112a6c1890beb626f60023d1b218db5b0b24a3add3f5",
+      "title": "Product Hunt：MOVO AI — 全球首款面向移动端长视频的 AI 代理",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/movo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-10-22T07:01:00Z",
+      "display_time": "2026-10-23T07:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/5EIBXLSLSKO5BV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/JXYZH5BXNMIBOM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "b6d7d6c8a628b363eae800c7ac5070860c377686399ffe639cb059da9acae750",
-      "title": "Product Hunt: Radaric — 学习你编辑品味的 AI 信息流阅读器",
-      "summary": "Product Hunt 页面：https://www.producthunt.com/products/radaric?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
+      "id": "5361a25c614119686119d9d0e0c3e1357131a7d4aad325d33e7ece1d8bd73bbc",
+      "title": "Product Hunt：Monish — 让你的 AI 代理实时显示在 iPhone 锁屏上",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/monish?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-10-22T07:01:00Z",
+      "display_time": "2026-10-23T07:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/27XGEOZFFRRBYB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/Y3ZJSBPKK5MEKQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "9e35d54a4434c9772da01887505ddf7ad962011ce5c8de5d858d16811f2f2e72",
-      "title": "Product Hunt: Voxelo 3.0 — 一小时内将手机视频转为写实 3D 与 JSON-LD",
-      "summary": "Product Hunt 页面：https://www.producthunt.com/products/voxelo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "id": "70994ed0bc59c3724cc80a9e22d8a88b253dd672275039fcab18851b460d808a",
+      "title": "Product Hunt：Ovren Live Preview — 在产品发布前实时查看产品更改",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/ovren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-10-22T07:01:00Z",
+      "display_time": "2026-10-23T07:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/BLKEVKF5WJPWNQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/GZYWZ6Z6BGE5RV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "53d07ab701d743b74a7881e72567e01de6aabdff5ca969258c2203c8fc65786b",
-      "title": "Product Hunt: Whiteboard — 用于深思熟虑的软件设计的开源 IDE",
-      "summary": "Product Hunt 页面：https://www.producthunt.com/products/whiteboard-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+...",
+      "id": "273de21dc16f57c9e8358efd091a59dbafe81e5a40e0d2e0d02dbca199bee4e3",
+      "title": "Product Hunt：Polylane for Cloudflare — 针对 Cloudflare 应用的 AI 值班工程师",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/polylane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-10-22T07:01:00Z",
+      "display_time": "2026-10-23T07:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/GCF3W7XMFDCJSF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/55GXPDJXGDR2A5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "02178846f4bd39a43a0659d6cd231a693629099d5389fa9caa2f15bf5bef8c62",
-      "title": "Product Hunt: heal.dev — 寻找代码审查遗漏的漏洞",
-      "summary": "Product Hunt 页面：https://www.producthunt.com/products/heal-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "id": "aa604a207982578cddb2233ad1202e9a83b95eb2a9f0537188902af8d6bfe169",
+      "title": "Product Hunt：ShogunAI — 你电脑上的个人 AGI",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/shogunai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-10-22T07:01:00Z",
+      "display_time": "2026-10-23T07:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/HQTQB26MJAPQTC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/WGEUVK2HDK6FM6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     }
   ]
 }
