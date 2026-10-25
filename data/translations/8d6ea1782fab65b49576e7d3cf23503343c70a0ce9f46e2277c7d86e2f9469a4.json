@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/ainews-kimi-31",
+  "content_hash": "b8a330dd0389c6e5fa2b50d9c8ae941ae63affab28caabec97878a8cebf0bd0e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5abe8bfea3efe5f566cc2ac2b135613ca6772e5a09b8bf72f21f9de15273ecea",
+    "title": "Kimi 3.1 Pro 104BA-2.8T 发布",
+    "summary": "Fable-5.1 级别的开源权重将闭源 AI 的领先优势缩小至 1 个月，同时推出速度提升 2 至 3 倍的 Pro 高速 API。"
+  }
+}

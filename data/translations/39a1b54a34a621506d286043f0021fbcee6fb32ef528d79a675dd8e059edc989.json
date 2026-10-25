@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/6NB5PZDF42D2BW",
+  "content_hash": "9b69116daefda0eed52de31a74d91acbaccec6a4c990b9cfef6863f30db813d4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "55a87bc31aa470e072f309f1f3376dbc77e5f37d3c7ccdb71f700c3055c1445b",
+    "title": "Product Hunt：Basedash 定时 CSV 导出功能 —— 提出一次需求，每周自动在 Slack 或邮箱获取最新 CSV",
+    "summary": "Product Hunt 产品介绍页面：Basedash 推出的自动化定时导出 CSV 数据功能。"
+  }
+}

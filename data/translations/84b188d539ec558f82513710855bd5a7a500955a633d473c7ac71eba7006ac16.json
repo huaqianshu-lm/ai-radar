@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/24/battledrones",
+  "content_hash": "f61e48b8d6aa7fd69b5f90af08e21799532fb6fc543a6f134367e73590628242",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d1879513a33727bd2922010517b6fd0c8b51195d0efea242f56f298bf7b2afbf",
+    "title": "battledrones v14 发布：推出四人地图 Compass Rose",
+    "summary": "发布内容：battledrones v14 版本包含 Compass Rose 这款四人地图。作者为 Battledrones 增加了四人在线模式，而此前的地图最多仅支持两人。"
+  }
+}

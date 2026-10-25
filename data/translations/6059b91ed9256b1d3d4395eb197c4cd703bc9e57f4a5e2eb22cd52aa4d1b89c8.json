@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/crewAIInc/crewAI",
+  "content_hash": "e343f73b65925e5eebe9c2e048e3d3f49431573a7e1169be289402959d390688",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "715b6bc81ab4b4ffcee5bb2150989321b00958a3da8b9307fbbd467d19cd4e11",
+    "title": "crewAIInc / crewAI：用于编排角色扮演和自主 AI 代理的框架",
+    "summary": "用于编排角色扮演和自主 AI 代理的框架。通过培养协作智能，CrewAI 赋予代理无缝协作以解决复杂任务的能力。"
+  }
+}

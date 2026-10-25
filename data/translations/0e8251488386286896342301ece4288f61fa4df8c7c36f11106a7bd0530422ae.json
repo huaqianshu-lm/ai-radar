@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+  "content_hash": "38c74aec154cf1bce8448de99e32511f4ff65b8d9289bcf14fc710c3c9e387be",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b67ddff26d61bf458be11900519de4b2b1719e575319e7908b82ab61569a1219",
+    "title": "让我的博客可被 AI 代理阅读",
+    "summary": "HN 讨论帖，探讨作者如何调整个人博客使其能够更好地被自动 AI 代理访问和解析。"
+  }
+}

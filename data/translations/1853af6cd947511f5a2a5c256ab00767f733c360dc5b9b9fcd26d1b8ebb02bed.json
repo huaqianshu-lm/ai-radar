@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2610.29162",
+  "content_hash": "e8e439dc4e6d6af37b7480ccfc892de68831ed8cdf46141ea6dc4167dca6c343",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "02e941dcb42029b302a12c90329d3a99a2928bfbf857f51edd5a0492475b44c3",
+    "title": "为什么 AI 生成的语言如此难以理解？",
+    "summary": "HN 讨论帖，探讨了 AI 生成的语言内容在理解上存在的困难及相关 arXiv 论文。"
+  }
+}
