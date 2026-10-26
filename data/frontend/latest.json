@@ -1,175 +1,355 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "items": [
     {
-      "id": "56bfec926244076beb99d79b294acced29a6c3e3551d80cd931e00b960b3116f",
-      "title": "使用 AI 代理现代化复杂的遗留代码 | Mistral",
-      "summary": "遗留代码现代化极具挑战性，尤其是将复杂的 Fortran 77 系统迁移到现代 C++ 时。Mistral 成功迁移了 40 个代码系统。",
+      "id": "35fa779508ee87b8b25db5535be7600e85cf636e0f28ae7ff3e5ac3962e482c9",
+      "title": "AlphaEarth Foundations 帮助以空前详细的精度绘制我们的星球地图 — Google DeepMind",
+      "summary": "AlphaEarth Foundations 帮助以空前详细的精度绘制我们的星球地图，新型 AI 模型整合了数 PB 的地球观测数据以生成统一的数据表示...",
+      "source": "Google DeepMind Blog",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail"
+    },
+    {
+      "id": "682aca50f98353f53ffcc1a4c67d16c6c951da18cea32f64f929afbe5868b8dd",
+      "title": "AlphaEvolve：由 Gemini 驱动的用于设计高级算法的编码 Agent — Google DeepMind",
+      "summary": "全新的 AI Agent 为数学及计算领域的实际应用演进算法...",
+      "source": "Google DeepMind Blog",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms"
+    },
+    {
+      "id": "2947b34346514aae0973a6680404d2963975f73bc94fda59256d49b1711e016e",
+      "title": "Cloudera 与 Mistral 合作打造主权企业级 AI",
+      "summary": "我们与金融服务、制造和电信等受监管行业的许多全球最大企业进行了交谈...",
       "source": "Mistral AI News",
       "source_type": "official",
-      "display_time": "2026-10-25T00:53:24Z",
+      "display_time": "2026-10-26T01:01:24Z",
       "time_type": "fetched",
-      "url": "https://mistral.ai/news/legacy-code-modernization"
+      "url": "https://mistral.ai/news/mistral-x-cloudera"
     },
     {
-      "id": "d1879513a33727bd2922010517b6fd0c8b51195d0efea242f56f298bf7b2afbf",
-      "title": "battledrones v14 发布：推出四人地图 Compass Rose",
-      "summary": "发布内容：battledrones v14 版本包含 Compass Rose 这款四人地图。作者为 Battledrones 增加了四人在线模式，而此前的地图最多仅支持两人。",
-      "source": "Simon Willison",
-      "source_type": "developer",
-      "display_time": "2026-10-24T03:59:57Z",
-      "time_type": "published",
-      "url": "https://simonwillison.net/2026/Oct/24/battledrones/"
+      "id": "47fcf170ba7b0eaedec7d285f297176c325d3a706933902e0f9fd4b9d887c85c",
+      "title": "从脑电波到文字：Brain2Qwerty 带来了无需手术的新通讯途径",
+      "summary": "去年，我们推出了 Brain2Qwerty v1，这项研究利用 AI 在无需植入手术的情况下将脑活动解码为文字。现在我们正在分享最新的进展...",
+      "source": "Meta AI Blog",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication"
     },
     {
-      "id": "5abe8bfea3efe5f566cc2ac2b135613ca6772e5a09b8bf72f21f9de15273ecea",
-      "title": "Kimi 3.1 Pro 104BA-2.8T 发布",
-      "summary": "Fable-5.1 级别的开源权重将闭源 AI 的领先优势缩小至 1 个月，同时推出速度提升 2 至 3 倍的 Pro 高速 API。",
-      "source": "Latent Space",
-      "source_type": "developer",
-      "display_time": "2026-10-24T07:18:29Z",
-      "time_type": "published",
-      "url": "https://latent.space/p/ainews-kimi-31/"
+      "id": "ded81620235e6d9d1b7f738755b38c03c37273876e8e6c1d0b29416b933a0f55",
+      "title": "Alta Daily 如何利用 Meta 的 Segment Anything 重新构想数字衣橱",
+      "summary": "大多数人衣橱里的衣服估计只有 20% 被穿过，但剩下的并非毫无用处。它们是尚未开发的潜力：永不落幕的搭配...",
+      "source": "Meta AI Blog",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything"
     },
     {
-      "id": "48dbbdd8fd0d302995a78e829a00f132701eb7b8486d5cb9fbdaf1a3f8828a23",
-      "title": "agentskills / agentskills：Agent Skills 的规范与文档 - 使用 Python 语言 - 今日获得 53 个 star",
-      "summary": "Agent Skills 的规范与文档 - 使用 Python 语言 - 今日获得 53 个 star。",
+      "id": "d2ad2e50084b3feacea814f7d7947c73202c7cc8a6daf421da5b882dd1bf6605",
+      "title": "Meta 的 AI 模型如何为首批 Genesis Mission 项目提供动力",
+      "summary": "Lawrence Berkeley National Laboratory 作为美国能源部的主要研究实验室之一，以其荣获诺贝尔奖的工作而闻名...",
+      "source": "Meta AI Blog",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino"
+    },
+    {
+      "id": "57a59d53b52109678879aeb89fe7247bfc0d540c35454e7c6b644ce727b51ba0",
+      "title": "介绍 Muse Image 和 Muse Video",
+      "summary": "我们很高兴推出 Muse Image 并预览 Muse Video，这是由 Meta Superintelligence Labs 开发的首批媒体生成模型...",
+      "source": "Meta AI Blog",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl"
+    },
+    {
+      "id": "f8a956094e526a92caf3ce4eff950bbb824985a4609bd7aed3e57e51ebbc6ac1",
+      "title": "介绍 Muse Spark 1.1",
+      "summary": "今天，我们很高兴地推出 Muse Spark 1.1，这是 Meta Superintelligence Labs 的最新模型，也是 Muse Spark 的重大升级...",
+      "source": "Meta AI Blog",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api"
+    },
+    {
+      "id": "2e5ac777df91ff1b3cfe6c7cc249f0d1d60bad91d19dbd67d1663421d76b9029",
+      "title": "介绍 Muse Spark：迈向个人超级智能的规模化发展",
+      "summary": "今天，我们很高兴地推出 Muse Spark，这是 Meta Superintelligence Labs 开发的 Muse 系列模型中的第一款...",
+      "source": "Meta AI Blog",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl"
+    },
+    {
+      "id": "c386882163e19d1fa728a294f13402059770b9699b80f3f1194a26fd64fa1be8",
+      "title": "介绍 TRIBE v2：一个旨在理解人脑如何处理复杂刺激的预测基础模型",
+      "summary": "要点：理解人脑如何处理我们周围的世界是神经科学中未解的最大挑战之一。此领域的突破可能会改变...",
+      "source": "Meta AI Blog",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model"
+    },
+    {
+      "id": "beb9678b507a7cc2d6c16bccc615425801e0be8791b3e99073f6dc4f576fb99f",
+      "title": "以更高的精度绘制世界森林地图：介绍 Canopy Height Maps v2",
+      "summary": "森林对地球上的生命至关重要——它们储存碳、庇护野生动物并塑造我们的气候。为了保护和恢复森林，我们必须以前所未有的方式观察它们...",
+      "source": "Meta AI Blog",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2"
+    },
+    {
+      "id": "6c99bcc6780c370d7ea29bb011fd4438d9cf23ffebf09517509823747d11088b",
+      "title": "Mistral 博客",
+      "summary": "Mistral 博客最新动态与更新，包含 Mistral 携手 NVIDIA 推进工程领域 AI 发展的相关内容。",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/rss"
+    },
+    {
+      "id": "6d5a403735e09ddd02269c74de6dddf4358016fb462c2e812e7ae2cdd58f42c2",
+      "title": "重塑独立性：Meta 的 AI 模型如何帮助匹兹堡大学变革辅助机器人",
+      "summary": "在匹兹堡市中心，一场深刻变革正在进行，它有望重新定义残疾人独立性的含义。",
+      "source": "Meta AI Blog",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino"
+    },
+    {
+      "id": "3058cf74e84fa35cb52313619fc7429f251918f4905a15263784840a87aa164b",
+      "title": "SIMA 2：用于 3D 虚拟世界的 Gemini 驱动的 AI Agent — Google DeepMind",
+      "summary": "去年我们推出了通用智能 Agent SIMA（Scalable Instructable Multiworld Agent），而 SIMA 2 能够在你身处的虚拟 3D 世界中进行游玩、推理与学习。",
+      "source": "Google DeepMind Blog",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds"
+    },
+    {
+      "id": "1f85c944026fa57d1c4bd3af6f448e07c2e8b54a9861f116276df4e7a6af1f8c",
+      "title": "规模化构建和测试我们最先进的 AI",
+      "summary": "随着我们构建功能更强大、更个性化的 AI，可靠性、安全性和用户保护比以往任何时候都更加重要。先进的模型需要先进的...",
+      "source": "Meta AI Blog",
+      "source_type": "official",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai"
+    },
+    {
+      "id": "e856e7fac519bdd5a15949184f736822fff066fd2366a3f4f42f2e7106ade1e5",
+      "title": "521xueweihan / HelloGitHub：分享 GitHub 上有趣、入门级的开源项目",
+      "summary": "分享 GitHub 上有趣、入门级的开源项目。使用 Python 语言，今日新增 276 个星标。",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-10-25T00:53:24Z",
+      "display_time": "2026-10-26T01:01:24Z",
       "time_type": "fetched",
-      "url": "https://github.com/agentskills/agentskills"
+      "url": "https://github.com/521xueweihan/HelloGitHub"
     },
     {
-      "id": "715b6bc81ab4b4ffcee5bb2150989321b00958a3da8b9307fbbd467d19cd4e11",
-      "title": "crewAIInc / crewAI：用于编排角色扮演和自主 AI 代理的框架",
-      "summary": "用于编排角色扮演和自主 AI 代理的框架。通过培养协作智能，CrewAI 赋予代理无缝协作以解决复杂任务的能力。",
+      "id": "4f795faf4eede06c1c10e4b020745939666bbd8dbebf456508ab0195cb48ee59",
+      "title": "AgriciDaniel / claude-seo：为 Claude Code 推出的通用 SEO 技能，包含 26 个子技能和 19 个子智能体，涵盖技术 SEO、E-E-A-T、结构化数据、GEO/AEO 以及智能体就绪度等",
+      "summary": "为 Claude Code 推出的通用 SEO 技能，包含 26 个子技能和 19 个子智能体，涵盖技术 SEO、E-E-A-T、结构化数据、GEO/AEO 以及智能体就绪度等。",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-10-25T00:53:24Z",
+      "display_time": "2026-10-26T01:01:24Z",
       "time_type": "fetched",
-      "url": "https://github.com/crewAIInc/crewAI"
+      "url": "https://github.com/AgriciDaniel/claude-seo"
     },
     {
-      "id": "5b231a70aa24d0813db3d74c2b4805dddd07c8a292f7c865708227539638470a",
-      "title": "jbiaojerry / ebook-treasure-chest：欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方",
-      "summary": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论经典文学、经管励志还是技术手册，这里都能满足需求，涵盖帆书 app、微信读书等主流平台。",
+      "id": "e622970364717202be2f5925d8bffc07ecc6e1f49b811ec81efc25696d5f2737",
+      "title": "HKUDS / DeepTutor：DeepTutor：终身个性化导师项目",
+      "summary": "DeepTutor：终身个性化导师项目。使用 Python 语言，今日新增 176 个星标。",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-10-25T00:53:24Z",
+      "display_time": "2026-10-26T01:01:24Z",
       "time_type": "fetched",
-      "url": "https://github.com/jbiaojerry/ebook-treasure-chest"
+      "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
-      "id": "e55244f18ef5829b4034be32708141e022911e96bf8e2dddb6264d956ab72653",
-      "title": "pollen-robotics / microduck_rl：Microduck (mjlab) 的强化学习训练环境 - 使用 Python 语言 - 今日获得 34 个 star",
-      "summary": "Microduck (mjlab) 的强化学习训练环境 - 使用 Python 语言 - 今日获得 34 个 star。",
+      "id": "fae31da6c227cfdebdce06bd613e3a45a6c86691d33e1e1f0796cc3d118c870d",
+      "title": "Shubhamsaboo / awesome-llm-apps：包含 100 多个 AI 智能体、智能体技能和 RAG 应用的免费开源项目",
+      "summary": "包含 100 多个 AI 智能体、智能体技能和 RAG 应用的免费开源项目。使用 Python 语言，今日新增 111 个星标。",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-10-25T00:53:24Z",
+      "display_time": "2026-10-26T01:01:24Z",
       "time_type": "fetched",
-      "url": "https://github.com/pollen-robotics/microduck_rl"
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
-      "id": "ef1d62b18b98cdd0e33916389230631750b2d64017d12c6f3569729f48d72ccc",
-      "title": "vectorize-io / hindsight：Hindsight：能够学习的 Agent 记忆系统 - 使用 Python 语言 - 今日获得 329 个 star",
-      "summary": "Hindsight：能够学习的 Agent 记忆系统 - 使用 Python 语言 - 今日获得 329 个 star。",
+      "id": "b4e33a6845d0f21931d03bd02b23aa118b9ead1dd3d67ad61bd927158aa9f488",
+      "title": "apirrone / Open_Duck_Mini：制作 BDX 机器人的微型版本",
+      "summary": "制作 BDX 机器人的微型版本。使用 Python 语言，今日新增 37 个星标。",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-10-25T00:53:24Z",
+      "display_time": "2026-10-26T01:01:24Z",
       "time_type": "fetched",
-      "url": "https://github.com/vectorize-io/hindsight"
+      "url": "https://github.com/apirrone/Open_Duck_Mini"
     },
     {
-      "id": "00fa61ca1ab1c68da75587daa623484ae5661d9e8a1c48ef37e9ce9a6f305715",
-      "title": "Oai-math-revised：修订 OpenAI 数学论文的社区中心",
-      "summary": "HN 讨论帖及陶哲轩博客文章，关于建立一个用于修订 OpenAI 数学研究成果的社区中心。",
+      "id": "1970f2aab6a882fb2b18d8e3305081d5b50772de6f5a2dbddd25b94cbd4d6837",
+      "title": "unslothai / unsloth：用于运行和训练大语言模型及扩散模型的本地 UI",
+      "summary": "用于运行和训练大语言模型及扩散模型的本地 UI。支持 GGUF、MLX、Qwen3.8、DeepSeek-V4.1、MiniMax-H3、Gemma 4、FLUX 等。使用 Python 语言，今日新增 47 个星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-26T01:01:24Z",
+      "time_type": "fetched",
+      "url": "https://github.com/unslothai/unsloth"
+    },
+    {
+      "id": "00f9a35730188d0ad13b2904ff6ee9670f5a951679c1814fb9e409c3fb19a658",
+      "title": "Show HN: Hurston-1 开源 TTS 模型",
+      "summary": "开源文本转语音（TTS）模型，能够说美国南方英语和非洲裔英语。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-24T15:35:17Z",
+      "display_time": "2026-10-25T01:30:13Z",
       "time_type": "published",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/"
+      "url": "https://huggingface.co/destined/hurston-1"
     },
     {
-      "id": "02e941dcb42029b302a12c90329d3a99a2928bfbf857f51edd5a0492475b44c3",
-      "title": "为什么 AI 生成的语言如此难以理解？",
-      "summary": "HN 讨论帖，探讨了 AI 生成的语言内容在理解上存在的困难及相关 arXiv 论文。",
+      "id": "e1545bcc45f4c70b2ebb90e8b8d9899e1127cfbe0b10b94deb75bf9d3d2df627",
+      "title": "Cerebras 部署万亿参数 AI 模型",
+      "summary": "探讨 Cerebras 如何在其硬件平台上部署万亿参数的前沿 AI 模型。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-24T18:04:57Z",
+      "display_time": "2026-10-25T01:33:49Z",
       "time_type": "published",
-      "url": "https://arxiv.org/abs/2610.29162"
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
     },
     {
-      "id": "252c1598a3e5277ad253c7037034f972aa81c06881e87c06994e118c55b7eeb9",
-      "title": "Dream-1：HN 讨论帖，源自 Dreamlabs AI 关于 Dream-1 的研究发布",
-      "summary": "HN 讨论帖，源自 Dreamlabs AI 关于 Dream-1 的研究发布。",
+      "id": "857f9c868190eef56698cd6b1133140933d6d6bfb79b3d11d20104e85f134fd7",
+      "title": "AI 的使用让 UC Berkeley 数学教授认为批改作业“毫无意义”",
+      "summary": "由于人工智能技术的广泛应用，加州大学伯克利分校的一位数学教授开始思考批改家庭作业的现实意义。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-24T18:23:24Z",
+      "display_time": "2026-10-25T16:28:26Z",
       "time_type": "published",
-      "url": "https://dreamlabs.ai/research/dream-1/"
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
     },
     {
-      "id": "a54fd0e20dbb904635705d00828a70dee1c0f1d1dbd7b937a4e8c27246fb911b",
-      "title": "科技行业之外暂无 AI 带来回报的迹象",
-      "summary": "HN 讨论帖，链接至阿波罗全球管理公司的市场洞察文章，指出科技行业以外尚未看到明显的 AI 经济回报。",
+      "id": "3c246edcd7dff3a660eb945722b144f46dc1d5e4f850f04591eb79eb6c23ebb7",
+      "title": "一位数学家解读 AI 的未来",
+      "summary": "探讨人工智能技术对未来数学及人类社会发展影响的深度文章。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-24T19:47:19Z",
+      "display_time": "2026-10-25T16:31:21Z",
       "time_type": "published",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/"
     },
     {
-      "id": "b67ddff26d61bf458be11900519de4b2b1719e575319e7908b82ab61569a1219",
-      "title": "让我的博客可被 AI 代理阅读",
-      "summary": "HN 讨论帖，探讨作者如何调整个人博客使其能够更好地被自动 AI 代理访问和解析。",
+      "id": "b83204b7e9c12d9e6eae8031dc41ae67c598936afc3870c83bd71dd1f0e37cfd",
+      "title": "十年前的 CNN 在皮肤癌诊断方面表现优于前沿大模型",
+      "summary": "一项研究表明，较老旧的卷积神经网络（CNN）在皮肤癌诊断任务上的表现超过了目前的前沿大语言模型。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-24T21:21:33Z",
+      "display_time": "2026-10-25T17:15:38Z",
       "time_type": "published",
-      "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents"
+      "url": "https://lynchlab.net/llm-skin-cancer"
     },
     {
-      "id": "1f6056f34e61a5ea93cebbd1931e48b4790b65c6d9008787f20fc73f646688c8",
-      "title": "美国传媒、电影和艺术领域已失去 20 万个工作岗位，其中多少是 AI 造成的？",
-      "summary": "HN 讨论帖，探讨创意阶层就业下滑及 AI 在其中产生的影响。",
+      "id": "763e1f9af6867224f48cbed383f2abd2dce911188105aa170e6d16f80a884141",
+      "title": "AI 并没有导致科技岗位泡沫破裂，但它解释了为何岗位无法复苏",
+      "summary": "分析人工智能对科技行业就业的真实影响，探讨为什么技术岗位在裁员后迟迟没有迎来复苏。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-10-24T23:11:54Z",
+      "display_time": "2026-10-25T18:42:23Z",
       "time_type": "published",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
+      "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs"
     },
     {
-      "id": "b7d0084e00cc40a0f08645c976e643798a12c69e38cbcecce4d1aa568ac2d948",
-      "title": "Product Hunt：1Password for Agents —— 让 AI 代理代为登录，无需查看你的密码",
-      "summary": "Product Hunt 产品介绍页面：推出面向 AI 代理的 1Password 登录辅助工具。",
+      "id": "11bf432f950d93e5492f5cf9131741cf5dfba11c1b616878ff3011e156c3034d",
+      "title": "Show HN: AgentTrust – 面向 AI 智能体的零信任安全与人类审批系统",
+      "summary": "为 AI 智能体提供零信任安全保障以及人类审批机制的开源项目。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-25T20:46:50Z",
+      "time_type": "published",
+      "url": "https://github.com/SRN0129/Agenttrust"
+    },
+    {
+      "id": "1a7e953f36796cb0e46173648ad2d12f0da0aca1aee58def80b6d3aa617c10bb",
+      "title": "OpenAI 与 Anthropic 在几个月内将大模型价格下调高达 80%，原因何在？",
+      "summary": "探讨两家领先的 AI 公司在短时间内大幅降低大语言模型 API 价格背后的原因。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-25T21:11:31Z",
+      "time_type": "published",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/"
+    },
+    {
+      "id": "b3d2d5d5b19cae50f9548ce649009fb9401847a92005092964b5c5583c026a71",
+      "title": "Apollo 称 AI 在科技行业之外带来了“零财务回报”",
+      "summary": "投资机构 Apollo 指出，除科技行业本身外，人工智能在传统企业中尚未带来实质性的财务收益。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-25T22:49:06Z",
+      "time_type": "published",
+      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10"
+    },
+    {
+      "id": "ff13be3a1ebf947c1501f0499d44cfddcaac5c97f8cd52e298850fc90f977d08",
+      "title": "Product Hunt: AgentGrid.io — 人类与智能体的共享工作区",
+      "summary": "一个旨在为人机协同工作提供共享工作区的产品。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-10-24T07:01:00Z",
+      "display_time": "2026-10-25T07:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/QPQLVSCTPHCQGE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/NJM7SLYJGCQILR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "55a87bc31aa470e072f309f1f3376dbc77e5f37d3c7ccdb71f700c3055c1445b",
-      "title": "Product Hunt：Basedash 定时 CSV 导出功能 —— 提出一次需求，每周自动在 Slack 或邮箱获取最新 CSV",
-      "summary": "Product Hunt 产品介绍页面：Basedash 推出的自动化定时导出 CSV 数据功能。",
+      "id": "bad6ec89f03507bbae762a6dccdff07ce51e5940672ba01b90eec7fb26e512dc",
+      "title": "Product Hunt: Llama Windows — 适用于所有 Windows 应用的本地 AI 服务器",
+      "summary": "一款为 Windows 应用程序提供本地统一 AI 服务支持的工具。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-10-24T07:01:00Z",
+      "display_time": "2026-10-25T07:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/6NB5PZDF42D2BW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/4DOJOAGK7YSD6N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "7ea11bd457543b272bc6eeae523ebdd9a97a564661c7944163a1b789187c0a1c",
-      "title": "Product Hunt：sideOS.ai —— 用于听写、会议、后台任务等的本地 AI 工具",
-      "summary": "Product Hunt 产品介绍页面：sideOS.ai 提供的本地 AI 助手应用。",
+      "id": "f6bc8a8ba877470b3466065c9916e686e2fc1264d084c93a5cc5790c48b7a97c",
+      "title": "Product Hunt: Moli by Lexmount — 专为智能体和自动化框架打造的最快无头浏览器",
+      "summary": "为 AI 智能体和测试自动化框架设计的高性能无头浏览器。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-10-24T07:01:00Z",
+      "display_time": "2026-10-25T07:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/D5JNR5M5ITCQOX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/RAM2WW7LJWJVNE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "fac391466078d613eb4fb26d37d63beff8ebf7378bf1be5649e9be8475a67e41",
+      "title": "Product Hunt: Specsight — 面向采用 AI 快速交付团队的产品可观测性工具",
+      "summary": "帮助使用 AI 快速开发产品的团队进行产品可观测性监测的工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-25T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/U5MK5YLVIQ7YIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "1a476c683608d45239e05777836d327f842e721a68cbc8d04cae2450c6553786",
+      "title": "Product Hunt: Yourcast 2.0：Product Hunt 页面：https://www.producthunt.com/products/yourcast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/yourcast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-25T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/7YV4OVM77J3NCU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     }
   ]
 }
