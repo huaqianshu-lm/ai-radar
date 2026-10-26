@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/U5MK5YLVIQ7YIM",
+  "content_hash": "656922094fe99df6b230a7fe691efd2461aa649b9ba1f4c5c8b4fce76b345480",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fac391466078d613eb4fb26d37d63beff8ebf7378bf1be5649e9be8475a67e41",
+    "title": "Product Hunt: Specsight — 面向采用 AI 快速交付团队的产品可观测性工具",
+    "summary": "帮助使用 AI 快速开发产品的团队进行产品可观测性监测的工具。"
+  }
+}

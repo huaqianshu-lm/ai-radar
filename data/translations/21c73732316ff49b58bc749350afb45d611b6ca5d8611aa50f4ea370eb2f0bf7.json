@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/unslothai/unsloth",
+  "content_hash": "3c1b5b0158fdd728dc941d18fc61cbe33b94ac39e1283251154ef8df23b3926e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1970f2aab6a882fb2b18d8e3305081d5b50772de6f5a2dbddd25b94cbd4d6837",
+    "title": "unslothai / unsloth：用于运行和训练大语言模型及扩散模型的本地 UI",
+    "summary": "用于运行和训练大语言模型及扩散模型的本地 UI。支持 GGUF、MLX、Qwen3.8、DeepSeek-V4.1、MiniMax-H3、Gemma 4、FLUX 等。使用 Python 语言，今日新增 47 个星标。"
+  }
+}

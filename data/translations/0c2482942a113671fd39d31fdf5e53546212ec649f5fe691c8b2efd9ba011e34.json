@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/destined/hurston-1",
+  "content_hash": "81be99e50e9102d0184dc353c3c01dc83100eb8556227b7aa8185647f1550826",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "00f9a35730188d0ad13b2904ff6ee9670f5a951679c1814fb9e409c3fb19a658",
+    "title": "Show HN: Hurston-1 开源 TTS 模型",
+    "summary": "开源文本转语音（TTS）模型，能够说美国南方英语和非洲裔英语。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+  "content_hash": "7432ac6d6a9e65715c9831fe50362356ee7a8709859e08e41cd56bb49b25f792",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e1545bcc45f4c70b2ebb90e8b8d9899e1127cfbe0b10b94deb75bf9d3d2df627",
+    "title": "Cerebras 部署万亿参数 AI 模型",
+    "summary": "探讨 Cerebras 如何在其硬件平台上部署万亿参数的前沿 AI 模型。"
+  }
+}

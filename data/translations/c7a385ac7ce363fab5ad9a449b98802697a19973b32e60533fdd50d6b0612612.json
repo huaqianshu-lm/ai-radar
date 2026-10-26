@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+  "content_hash": "5ff0659214dcc140ef0aa26fb466b835d7ec406a6fe765f354fa0eade3552644",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "857f9c868190eef56698cd6b1133140933d6d6bfb79b3d11d20104e85f134fd7",
+    "title": "AI 的使用让 UC Berkeley 数学教授认为批改作业“毫无意义”",
+    "summary": "由于人工智能技术的广泛应用，加州大学伯克利分校的一位数学教授开始思考批改家庭作业的现实意义。"
+  }
+}

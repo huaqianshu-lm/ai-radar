@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/SRN0129/Agenttrust",
+  "content_hash": "a52dd72639d0215e2fb65bdb5662ca575557fbc17b2a2987a80eb2ed16bffa14",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "11bf432f950d93e5492f5cf9131741cf5dfba11c1b616878ff3011e156c3034d",
+    "title": "Show HN: AgentTrust – 面向 AI 智能体的零信任安全与人类审批系统",
+    "summary": "为 AI 智能体提供零信任安全保障以及人类审批机制的开源项目。"
+  }
+}

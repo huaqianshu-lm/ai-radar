@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/NJM7SLYJGCQILR",
+  "content_hash": "d3fe9c5de6ffd8fa5c373296a446d734eb097595f033e2ce15c12acffb606792",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ff13be3a1ebf947c1501f0499d44cfddcaac5c97f8cd52e298850fc90f977d08",
+    "title": "Product Hunt: AgentGrid.io — 人类与智能体的共享工作区",
+    "summary": "一个旨在为人机协同工作提供共享工作区的产品。"
+  }
+}

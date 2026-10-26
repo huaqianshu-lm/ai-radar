@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/4DOJOAGK7YSD6N",
+  "content_hash": "b6e7f1521ae786cfaebb191ef69463eaf1ad758bdacb46590966ccced0ee7431",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bad6ec89f03507bbae762a6dccdff07ce51e5940672ba01b90eec7fb26e512dc",
+    "title": "Product Hunt: Llama Windows — 适用于所有 Windows 应用的本地 AI 服务器",
+    "summary": "一款为 Windows 应用程序提供本地统一 AI 服务支持的工具。"
+  }
+}
