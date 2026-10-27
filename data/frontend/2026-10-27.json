@@ -1,0 +1,365 @@
+{
+  "date": "2026-10-27",
+  "items": [
+    {
+      "id": "7e73eebe3e909303c4c59a7dc0b734e92c38bcdbedd7db32071af67e1885bb5c",
+      "title": "Fanatics 与 OpenAI 如何优化粉丝体验",
+      "summary": "Fanatics 使用 OpenAI 通过“Shop the Look”功能帮助粉丝完善比赛日的穿搭。在约 30,000 款 MLB 产品进行的测试显示，用户参与度提升了 10%。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-26T07:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience"
+    },
+    {
+      "id": "742d30efdc4090c11a97794f6a72e90c1243857798823aeed51fe879a1c3fcd7",
+      "title": "Ultrafast 如何将 OpenAI 的事件调查时间从几小时缩短至几分钟",
+      "summary": "了解 OpenAI 工程师如何使用 Codex Ultrafast 在几分钟内调查事件。探索更快的安全分析、代码重构和日常工作流程。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-26T07:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/openai-cut-incident-investigation"
+    },
+    {
+      "id": "27334100e818b98514ff319836bc3b78479c8228c2a09656f9dea445b0edf902",
+      "title": "ChatGPT 不断扩展的工作世界",
+      "summary": "探索关于近 100 个国家 165 项工作活动的 OpenAI Signals 数据，揭示人们如何将 ChatGPT 用于工作以及使用情况如何随时间变化。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-26T10:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
+    },
+    {
+      "id": "7d972df501d01ba1f64ace9f515a56fb23b6429c84e2c13cce6a1dfa0631bf43",
+      "title": "GPT-6.1 Sol 帮助 CodeRabbit 增强复杂代码库的安全性",
+      "summary": "CodeRabbit 使用 GPT-6.1 Sol 调查复杂代码库中的安全风险。其安全代理可帮助开发人员审查发现的问题和提出的修复方案。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-26T13:45:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+    },
+    {
+      "id": "a9c488820a62ac4adcd9d66c87dfdb487fb6897ef015ab83ccdf2e6a9db2968a",
+      "title": "Greptile 借助 GPT-6 Astra 将漏洞检测推向超越代码审查的领域",
+      "summary": "介绍 Greptile 如何使用 GPT-6 Astra 测试用户工作流程，使用 Daybreak 增强安全性，并使用 Codex 减少返工。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-26T22:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra"
+    },
+    {
+      "id": "9a064d95901e645ea065cfa704b4762ef050dfe46763269ed9ec0fab35c9cee2",
+      "title": "Anthropic 向美国证券交易委员会提交首次公开募股的 S-1 表格",
+      "summary": "今天，Anthropic, PBC 向美国证券交易委员会（U.S. Securities and Exchange Commission）提交了关于其拟议首次公开募股的 Form S-1 注册声明。",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-10-27T01:51:13Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/s1-sec"
+    },
+    {
+      "id": "f0dc85dcc6d3444f6482829995f5a83e6fdb56513a353598d7cfc58189cd6756",
+      "title": "Google DeepMind 试点全球首个双盲 AI 评估",
+      "summary": "利用密码学安全环境建立对专有模型基准测试的信任，开展全球首个双盲 AI 评估试点。",
+      "source": "Google DeepMind Blog",
+      "source_type": "official",
+      "display_time": "2026-10-27T01:51:13Z",
+      "time_type": "fetched",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations"
+    },
+    {
+      "id": "ca8bbfb3a72607854840f3249a010cee5164ee112f46c8331dbe60cc634585a9",
+      "title": "Apple 的 20B 模型、Kimi K3.1 Pro、Block Dessa 及前沿训练安全",
+      "summary": "AI 简报：涵盖 Apple 的 20B 模型、Kimi K3.1 Pro、Block Dessa 以及前沿训练安全等内容。",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-10-26T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-10-26"
+    },
+    {
+      "id": "db71bb0ca35a812059311a36157a7036a0e1452f191e1cc331e007422ba6bb48",
+      "title": "webframe：作为网页抓取工具和沙盒的评估",
+      "summary": "研究：webframe 被评估为抓取工具和沙盒。webframe 是 Jeff Lindsay 的一个精巧项目，允许用户“像运行程序一样运行网页”。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-26T16:15:00Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/"
+    },
+    {
+      "id": "de56fb996b09bd2941430391650620b00680c3ec32581014d70a9364b3fc7056",
+      "title": "引用 Jason Koebler 的观点",
+      "summary": "由于大型科技平台基本上没有客户支持，并且让用户无法联系到真人，许多遇到常规问题的用户...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-26T19:00:25Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/"
+    },
+    {
+      "id": "9d67ce648f6a891927c40000a0c553d9941ecabd9e2fd694c6dc165955049364",
+      "title": "Alishahryar1 / free-claude-code 开源仓库",
+      "summary": "在终端、应用、IDE 或手机中免费使用 Claude Code、Codex、Antigravity、VSCode、Pi 和 OpenCode（以及其他 6 种封装工具），并获得 13 亿以上的免费 Token。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-27T01:51:13Z",
+      "time_type": "fetched",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+      "id": "099ec7b2b1ff9b3af7d46722e659444f795457dea54968beb081e6527aa2dd4c",
+      "title": "Asabeneh / 30-Days-Of-Python 开源仓库",
+      "summary": "“30 天 Python 编程挑战”是一份在 30 天内学习 Python 编程语言的分步指南。该挑战可能需要花费超过 100 天的时间。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-27T01:51:13Z",
+      "time_type": "fetched",
+      "url": "https://github.com/Asabeneh/30-Days-Of-Python"
+    },
+    {
+      "id": "78a5846a75cc0fbb0baa14fc2ab38956d1cfc5cce6f1df79a6cab2a6765db4a3",
+      "title": "AstrBotDevs / AstrBot 开源仓库",
+      "summary": "集成大量即时通讯平台、大语言模型、插件和 AI 功能的 AI 智能体助手与开发框架，可以作为你的 openclaw 替代方案。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-27T01:51:13Z",
+      "time_type": "fetched",
+      "url": "https://github.com/AstrBotDevs/AstrBot"
+    },
+    {
+      "id": "98255810d4c42dd8fd407b9e83937fc7b31f7dd13b1c79e5a9e3ff7ba2758937",
+      "title": "NVIDIA / SkillSpector：用于 AI 智能体技能的安全扫描器",
+      "summary": "用于 AI 智能体技能的安全扫描器。可检测其中的漏洞、恶意模式、安全风险、提示词注入、数据外泄以及供应链风险...",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-27T01:51:13Z",
+      "time_type": "fetched",
+      "url": "https://github.com/NVIDIA/SkillSpector"
+    },
+    {
+      "id": "b6bb9341088f095442de1a74399cf3b7f18543efbdba973ae61774083f821ac5",
+      "title": "Panniantong / Agent-Reach：赋予你的 AI 智能体观察整个互联网的眼睛",
+      "summary": "赋予你的 AI 智能体观察整个互联网的眼睛。阅读并搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用 - 编程语言未知。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-27T01:51:13Z",
+      "time_type": "fetched",
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "id": "aa69b3d63b1ecbf409bd3c76fc9000b87b9708312690015c490928441759c23c",
+      "title": "eugeniughelbur / obsidian-second-brain 开源仓库",
+      "summary": "为 Claude Code、Codex 及其他 6 个 AI 智能体提供持久记忆，以纯 Markdown 格式存储在你的 Obsidian 知识库中。新功能：Crew，一个共享日志，供多个 AI 智能体共同使用。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-27T01:51:13Z",
+      "time_type": "fetched",
+      "url": "https://github.com/eugeniughelbur/obsidian-second-brain"
+    },
+    {
+      "id": "5a20fe74b08287c3e619d374fdd0b6c53cb245b315b79d7bc35166684ab2830f",
+      "title": "smicallef / spiderfoot 开源仓库",
+      "summary": "SpiderFoot 可实现开源情报（OSINT）自动化，用于威胁情报和绘制攻击面。使用语言：Python。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-27T01:51:13Z",
+      "time_type": "fetched",
+      "url": "https://github.com/smicallef/spiderfoot"
+    },
+    {
+      "id": "b8eac1ac6e149cce468888dda87727aeef30f54cbba6f15b571f6043626c6b95",
+      "title": "Anthropic S-1 文件",
+      "summary": "HN 讨论帖及 Anthropic 向美国证券交易委员会提交的 S-1 注册声明原始链接。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-26T13:04:50Z",
+      "time_type": "published",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+    },
+    {
+      "id": "da8785cc5779f5c99a9497af0bbc10a24e66f14979af685060f18bf8df927b12",
+      "title": "Sebastian Raschka 关于从零构建推理模型的视频课程",
+      "summary": "HN 讨论帖：介绍 Sebastian Raschka 关于从头开始构建推理模型的图文及视频课程内容。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-26T15:11:59Z",
+      "time_type": "published",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
+    },
+    {
+      "id": "f93d4d5cf699810a3933e0086637d437df2b19512152d8cb569690a646e4e45e",
+      "title": "Show HN: Hob - Claude Cowork 和 ChatGPT 的开源、本地运行替代方案",
+      "summary": "HN 展示帖：介绍由 Christian 开发的开源、在设备本地运行的 Claude Cowork 和 ChatGPT 替代方案 Hob。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-26T16:12:29Z",
+      "time_type": "published",
+      "url": "https://github.com/FrigadeHQ/hob"
+    },
+    {
+      "id": "27779e2e3a96ff05c0c864446be44541948096fc25a82a628cad26d6d2fa3c0c",
+      "title": "流行开源权重 AI 模型的令人担忧的行为",
+      "summary": "HN 讨论帖：探讨某个流行的开源权重 AI 模型所表现出的令人担忧的行为及相关博客文章。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-26T16:35:44Z",
+      "time_type": "published",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
+    },
+    {
+      "id": "b32fb058c22551822d82cde1f388ead12c0194ae66c43d8ca3340f75b9bc08e2",
+      "title": "GPT-6.1 Terra 模型发布",
+      "summary": "HN 讨论帖：OpenAI 官方宣布推出 GPT-6.1 Terra 模型的相关文章。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-26T18:01:17Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
+    },
+    {
+      "id": "bc5329bcf70a94a17344af04a906523c9f73e19df33787992e576e7a560b5362",
+      "title": "超导量子处理器上的魔态蒸馏",
+      "summary": "HN 讨论帖及关于容错量子计算中超导量子处理器上的魔态蒸馏（Magic state cultivation）的学术论文。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-26T19:37:59Z",
+      "time_type": "published",
+      "url": "https://arxiv.org/abs/2512.13908"
+    },
+    {
+      "id": "fe7d7660eaaca489427dc31fb8224e01e03540219706dedfd8fc610a5f5c634f",
+      "title": "宣布数学、计算机科学和物理学的三项新发现",
+      "summary": "HN 讨论帖及 OpenAI 关于与学术界共同建立科学理解的文章。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-26T21:35:28Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+    },
+    {
+      "id": "2f04de563efd474f33e1507186cb633e9790b98365f3bba15d16332a3934d4a9",
+      "title": "指数时间假设是假的",
+      "summary": "HN 讨论帖及 OpenAI math 仓库中的预印本文章。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-26T21:59:15Z",
+      "time_type": "published",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
+    },
+    {
+      "id": "e77549dba84aa9c32f2e4139e6b5e0ef39ce118d94ae16269a7ade40275b9850",
+      "title": "GLM-5.3 Workers AI 模型中的跨请求 KV 缓存暴露",
+      "summary": "HN 讨论帖及 Cloudflare 博客关于 KV 缓存暴露修复的文章。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-26T22:41:48Z",
+      "time_type": "published",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
+    },
+    {
+      "id": "0cbcdf240a80ce5fca5ee5313934cec42ca5c33fe1f2a475aca2367b41b1d535",
+      "title": "Product Hunt: 2G — 用于创造 2000 年代早期神经合成音色的采样器",
+      "summary": "Product Hunt 产品页面：2G，用于创造 2000 年代早期神经合成的采样器。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-26T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/RHMGUFOK7JLHXZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "4d9c2f9206307bf06eddbf67df9f4fb583247d8ee654812e16469e36c7cb772d",
+      "title": "Product Hunt: AI Bridge — 在 Mac 上井然有序地管理所有 AI 编程代理",
+      "summary": "Product Hunt 产品页面：AI Bridge，在 Mac 上管理所有 AI 编程代理工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-26T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/ZKSGYSJZDTQLGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "6d5240dc3f6ec559121ff91b1deec51de0eea8f83cc438ab8568b3de18c9be3f",
+      "title": "Product Hunt: CloudKnife — 削减云端账单而不牺牲性能",
+      "summary": "Product Hunt 产品页面：CloudKnife，用于降低云服务费用同时保持性能。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-26T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/CEFQU25AT777XQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "3bed12caf1bbd421fd2789145c4038884e8519d7e8c50ce4302a39a9a35a015c",
+      "title": "Product Hunt: Kiwi — 在你开口前主动发短信给你的 AI 助手",
+      "summary": "Product Hunt 产品页面：Kiwi，一款能在你提问前主动发送短信的主动式 AI 助手。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-26T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/OUMTTWMMRX6ZMC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "b611fcaeb4d089497003a57577f3e71c3aa0e87a1539a232f8d9845bbea1ca18",
+      "title": "Product Hunt: ManyAgents — 从一个 Mac 窗口运行一组 AI 编程代理团队",
+      "summary": "Product Hunt 产品页面：ManyAgents，从单个 Mac 窗口运行多个 AI 编程代理团队。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-26T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/SG6CLOEI2YFANH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "27ba759bdabbfe135e1f205057ebf7b6ff574bc8287673bd54a6f5d9936ba28c",
+      "title": "Product Hunt: MiniMax M3.1 Flash — MiniMax 的 Flash 模型，针对代理速度提升 3 倍且成本降低 70%",
+      "summary": "Product Hunt 产品页面：MiniMax M3.1 Flash，针对代理任务速度更快、成本更低的 Flash 模型。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-26T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/YRN2XABOMOIRQO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "61260ca01c9e38d5cf07aae25bc71130787a8ae1667bad7709251fc7ffa525da",
+      "title": "Product Hunt: N8N Chat UI — 为 n8n 提供美观、无代码、符合品牌形象的 AI 聊天小部件",
+      "summary": "Product Hunt 产品页面：N8N Chat UI，为 n8n 提供美观且无代码的 AI 聊天组件。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-26T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/EMEWBY4KEFUXFH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "f38734f0a6d5ef5cf29723e7bfa1a08204ac6fa5c51940527150a5570a309463",
+      "title": "Product Hunt: Strawberry 1.0 — 为团队每周节省超过 100 小时的 AI 浏览器",
+      "summary": "Product Hunt 产品页面：Strawberry 1.0，旨在为团队每周节省大量时间的 AI 浏览器。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-26T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VLEJBVBONXC6FH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "f79c2f6890cfcbaeb8498f1c0518bd34f232a6ba3a6b444dae3d5a58c397337b",
+      "title": "Product Hunt: SurgePix — AI 视觉工具，可编辑每个图层并支持代理调用",
+      "summary": "Product Hunt 产品页面：SurgePix，支持图层编辑和代理调用的 AI 视觉工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-26T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/CS2V53OCZ2KXEH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "9abbadbd0daa95029a4f91cd681ea036375a3b5ad60f6eb19b9d0a0239825842",
+      "title": "Product Hunt: VibeiDE — 并行排队代理任务并审查每个结果的 IDE",
+      "summary": "Product Hunt 产品页面：VibeiDE，用于并行排队并审查 AI 代理任务结果的开发环境。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-26T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VOVJZS2TPHVIJN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
