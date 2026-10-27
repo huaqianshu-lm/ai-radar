@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+  "content_hash": "245fef8713bc86d59a1b9d22db1a4b7bedc2fb34962d92c5fbd2b64c7f8bc2a3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "da8785cc5779f5c99a9497af0bbc10a24e66f14979af685060f18bf8df927b12",
+    "title": "Sebastian Raschka 关于从零构建推理模型的视频课程",
+    "summary": "HN 讨论帖：介绍 Sebastian Raschka 关于从头开始构建推理模型的图文及视频课程内容。"
+  }
+}

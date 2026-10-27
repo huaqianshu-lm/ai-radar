@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/smicallef/spiderfoot",
+  "content_hash": "e7d2cd72e9aea73988c570b6578929bd149c98c8ddaa64457019792af4167976",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5a20fe74b08287c3e619d374fdd0b6c53cb245b315b79d7bc35166684ab2830f",
+    "title": "smicallef / spiderfoot 开源仓库",
+    "summary": "SpiderFoot 可实现开源情报（OSINT）自动化，用于威胁情报和绘制攻击面。使用语言：Python。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/CS2V53OCZ2KXEH",
+  "content_hash": "3114fe5ba3f02d91bf5ed07f9502fd6388b0d337a46e7f2671341e017d13dd5e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f79c2f6890cfcbaeb8498f1c0518bd34f232a6ba3a6b444dae3d5a58c397337b",
+    "title": "Product Hunt: SurgePix — AI 视觉工具，可编辑每个图层并支持代理调用",
+    "summary": "Product Hunt 产品页面：SurgePix，支持图层编辑和代理调用的 AI 视觉工具。"
+  }
+}

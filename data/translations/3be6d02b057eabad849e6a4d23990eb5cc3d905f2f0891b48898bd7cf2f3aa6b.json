@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2512.13908",
+  "content_hash": "56196ac0c6087a4dc17ed32083b0b63485140acdc3cacdfac45b805d4e78e52b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bc5329bcf70a94a17344af04a906523c9f73e19df33787992e576e7a560b5362",
+    "title": "超导量子处理器上的魔态蒸馏",
+    "summary": "HN 讨论帖及关于容错量子计算中超导量子处理器上的魔态蒸馏（Magic state cultivation）的学术论文。"
+  }
+}

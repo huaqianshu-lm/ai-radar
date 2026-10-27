@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/FrigadeHQ/hob",
+  "content_hash": "a0646b774f1db8b2901fa0ca7ded22ed3b2d76c054094098c84ddb4e4d710b5d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f93d4d5cf699810a3933e0086637d437df2b19512152d8cb569690a646e4e45e",
+    "title": "Show HN: Hob - Claude Cowork 和 ChatGPT 的开源、本地运行替代方案",
+    "summary": "HN 展示帖：介绍由 Christian 开发的开源、在设备本地运行的 Claude Cowork 和 ChatGPT 替代方案 Hob。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+  "content_hash": "e680ef6b1dd77a8328294866137d08b5f46c7d298948e33566aca7576eefe788",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "aa69b3d63b1ecbf409bd3c76fc9000b87b9708312690015c490928441759c23c",
+    "title": "eugeniughelbur / obsidian-second-brain 开源仓库",
+    "summary": "为 Claude Code、Codex 及其他 6 个 AI 智能体提供持久记忆，以纯 Markdown 格式存储在你的 Obsidian 知识库中。新功能：Crew，一个共享日志，供多个 AI 智能体共同使用。"
+  }
+}

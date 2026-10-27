@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/greptile-code-review-codex-astra",
+  "content_hash": "9472b54acbb75ba800c180eb2ead06230777de93117864dfd4032bf713e1a53d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a9c488820a62ac4adcd9d66c87dfdb487fb6897ef015ab83ccdf2e6a9db2968a",
+    "title": "Greptile 借助 GPT-6 Astra 将漏洞检测推向超越代码审查的领域",
+    "summary": "介绍 Greptile 如何使用 GPT-6 Astra 测试用户工作流程，使用 Daybreak 增强安全性，并使用 Codex 减少返工。"
+  }
+}

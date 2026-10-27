@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+  "content_hash": "2941615618af8389de3495970566f2c6c89a218f772cb3bfc042f3234ade2e33",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2f04de563efd474f33e1507186cb633e9790b98365f3bba15d16332a3934d4a9",
+    "title": "指数时间假设是假的",
+    "summary": "HN 讨论帖及 OpenAI math 仓库中的预印本文章。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-26",
+  "content_hash": "199d6a04ef6ef4c53004b685df3f2f208ea93ceadc9cea152f5ded090f792c28",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ca8bbfb3a72607854840f3249a010cee5164ee112f46c8331dbe60cc634585a9",
+    "title": "Apple 的 20B 模型、Kimi K3.1 Pro、Block Dessa 及前沿训练安全",
+    "summary": "AI 简报：涵盖 Apple 的 20B 模型、Kimi K3.1 Pro、Block Dessa 以及前沿训练安全等内容。"
+  }
+}

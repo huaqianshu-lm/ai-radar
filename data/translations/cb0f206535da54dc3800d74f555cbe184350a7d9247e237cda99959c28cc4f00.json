@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/kv-cache-exposure-remediation",
+  "content_hash": "7c9ec869e21cb598e25e7a87409970f3ba879da3b19f366a1b629fbadb7ecd77",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e77549dba84aa9c32f2e4139e6b5e0ef39ce118d94ae16269a7ade40275b9850",
+    "title": "GLM-5.3 Workers AI 模型中的跨请求 KV 缓存暴露",
+    "summary": "HN 讨论帖及 Cloudflare 博客关于 KV 缓存暴露修复的文章。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation",
+  "content_hash": "badcdec09f5cf8393f2a6c21a751493a1d0e7edd09703d3ebfeb21514d7af1b2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "db71bb0ca35a812059311a36157a7036a0e1452f191e1cc331e007422ba6bb48",
+    "title": "webframe：作为网页抓取工具和沙盒的评估",
+    "summary": "研究：webframe 被评估为抓取工具和沙盒。webframe 是 Jeff Lindsay 的一个精巧项目，允许用户“像运行程序一样运行网页”。"
+  }
+}

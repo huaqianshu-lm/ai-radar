@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+  "content_hash": "f6a1492ba721e26843b1b992da5c32506bbf328d4b1e857d3b4ef7fc00bb974d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b8eac1ac6e149cce468888dda87727aeef30f54cbba6f15b571f6043626c6b95",
+    "title": "Anthropic S-1 文件",
+    "summary": "HN 讨论帖及 Anthropic 向美国证券交易委员会提交的 S-1 注册声明原始链接。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/VOVJZS2TPHVIJN",
+  "content_hash": "dee8247cf0aeedfceb8fc092fa3d0518ee3d3ec73a422302b0baaa5733aa85cf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9abbadbd0daa95029a4f91cd681ea036375a3b5ad60f6eb19b9d0a0239825842",
+    "title": "Product Hunt: VibeiDE — 并行排队代理任务并审查每个结果的 IDE",
+    "summary": "Product Hunt 产品页面：VibeiDE，用于并行排队并审查 AI 代理任务结果的开发环境。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/s1-sec",
+  "content_hash": "106d7d4c38b5e23383001655b4ebc1c278003965c5ec9b2aaa2e727727a83ac7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9a064d95901e645ea065cfa704b4762ef050dfe46763269ed9ec0fab35c9cee2",
+    "title": "Anthropic 向美国证券交易委员会提交首次公开募股的 S-1 表格",
+    "summary": "今天，Anthropic, PBC 向美国证券交易委员会（U.S. Securities and Exchange Commission）提交了关于其拟议首次公开募股的 Form S-1 注册声明。"
+  }
+}

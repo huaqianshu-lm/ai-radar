@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Asabeneh/30-Days-Of-Python",
+  "content_hash": "1b3d1d8fbd3f6eb6c796d06e4603cbd5529fd1ac88bcd6d0490d3bd4871acbb3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "099ec7b2b1ff9b3af7d46722e659444f795457dea54968beb081e6527aa2dd4c",
+    "title": "Asabeneh / 30-Days-Of-Python 开源仓库",
+    "summary": "“30 天 Python 编程挑战”是一份在 30 天内学习 Python 编程语言的分步指南。该挑战可能需要花费超过 100 天的时间。"
+  }
+}

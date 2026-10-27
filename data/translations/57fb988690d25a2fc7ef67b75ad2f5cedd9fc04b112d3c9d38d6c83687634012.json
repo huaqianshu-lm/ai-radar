@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/AstrBotDevs/AstrBot",
+  "content_hash": "a8552298abacedb3775d19c23fa35f29f2fa49825e09964e4b7f666f0124c941",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "78a5846a75cc0fbb0baa14fc2ab38956d1cfc5cce6f1df79a6cab2a6765db4a3",
+    "title": "AstrBotDevs / AstrBot 开源仓库",
+    "summary": "集成大量即时通讯平台、大语言模型、插件和 AI 功能的 AI 智能体助手与开发框架，可以作为你的 openclaw 替代方案。"
+  }
+}
