@@ -1,0 +1,17 @@
+---
+title: "rohitg00 / ai-engineering-from-scratch"
+url: "https://github.com/rohitg00/ai-engineering-from-scratch"
+source_url: "https://github.com/rohitg00/ai-engineering-from-scratch"
+canonical_url: "https://github.com/rohitg00/ai-engineering-from-scratch"
+source: "GitHub Trending Python"
+source_type: "developer"
+published_at: ""
+fetched_at: "2026-10-28T02:02:59+00:00"
+content_type: "markdown"
+is_list_page: false
+---
+
+Learn AI Engineering! Learn it. Build it. Ship it for others.
+
+- Language: Python
+- 424 stars today

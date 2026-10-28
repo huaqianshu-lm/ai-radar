@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+  "content_hash": "6b7430f6206d685e7df74866b6b2fa0f18640a8825f63eb39132b0fa790c592c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "550f4d88633d42452645fe28be1f95c7b820136518ea7942332ddf189b2d73b8",
+    "title": "扩大与 GSA 的合作，将 Claude 引入各级政府 —— Anthropic",
+    "summary": "我们正在通过一项新协议扩大与总务管理局（GSA）的合作，该协议为政府合作伙伴提供 40% 的 Claude 折扣..."
+  }
+}

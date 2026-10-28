@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/MKXV4Y4JF4DM5F",
+  "content_hash": "417e27d7449896e91c54e82c70493223432bfcfb5608c1f061ec01fcbed0b0d6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b191f3a3e4e36b29cd32afadb27336b10efb6be004c749de4119d4e918224157",
+    "title": "OpenRadView: Product Hunt 上的开源 AI 产品",
+    "summary": "Product Hunt 页面显示：用于查看自己的 CT、MRI 和 X 光片的免费开源查看器。"
+  }
+}

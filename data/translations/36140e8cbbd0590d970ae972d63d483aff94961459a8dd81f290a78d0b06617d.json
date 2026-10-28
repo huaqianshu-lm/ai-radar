@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands",
+  "content_hash": "6b01ce4ee09d0153c9a6272dbbea7690cd0ba79292acc0cce20f092a9cda0d39",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "519a2ea3479c3ef85207e0d812561f94303e24b87ecc10e6f41bdee7cc2cac6e",
+    "title": "Anthropic 如何安全地发布世界顶尖 LLM：将大脑与双手分离",
+    "summary": "Katelyn Lesse 和 Angela Jiang 做客 Latent Space，解释 Claude 平台的工程原理：推出 Opus 5.5 以及将模型的“大脑”与双手分离..."
+  }
+}

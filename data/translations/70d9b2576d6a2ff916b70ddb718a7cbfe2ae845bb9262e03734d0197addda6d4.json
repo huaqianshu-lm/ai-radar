@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/JCKGVWV6YEG6JR",
+  "content_hash": "ef53d5f91962c7cab540fdc8e6fff8987b3bc7facc6547b7621a4fe35a974895",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f25bebe74f8c25f8ac73bf62fbbb207a8d0baf8e7ac590a941367763bd29e2f0",
+    "title": "PulseDev: Product Hunt 上的 AI 产品",
+    "summary": "Product Hunt 页面显示：点击 localhost 上的任何 UI Bug，AI 代理即可为你修复。"
+  }
+}

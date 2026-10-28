@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+  "content_hash": "0a3fdd647afcfbeff005b63bc3cfb2f4e06ad2d03f2116cc4b371e94b8f3af2d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0fa71fcc03f57574cda39d60a01139b39b32ce35d43d5913fe0a018bbc4eec24",
+    "title": "维基百科对 AI 生成内容的清理",
+    "summary": "HN 讨论故事：维基百科相关项目的 AI 写作清理工作及 IEEE Spectrum 报道。"
+  }
+}

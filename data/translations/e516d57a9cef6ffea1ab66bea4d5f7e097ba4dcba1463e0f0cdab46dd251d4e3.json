@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+  "content_hash": "118d21ebb4abb5f3f8e33f77be7868bb7d3ab2b9a76ce93fe695e1ff75c864fe",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a330a8194716c61c54c2fca0d9267cfd511f3ecc4332bd7464040c3494f9c41c",
+    "title": "前方有怪兽：当代理完成工作时，你还需要了解什么？",
+    "summary": "HN 讨论故事：探讨当 AI 代理代劳时开发人员仍需掌握的知识与挑战。"
+  }
+}

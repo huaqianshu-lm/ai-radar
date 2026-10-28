@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://cfsg.axiommath.ai/",
+  "content_hash": "c1f88137a6d7c8af49174607e05f82df130b46d12ea56123b747285bda849d6b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bce3cb952db3bffcd22370df440298215fe58a9b32034a50281b1a5368496371",
+    "title": "在 Lean 中形式化有限单群分类",
+    "summary": "HN 讨论故事：关于在 Lean 交互式定理证明器中对有限单群分类进行形式化的项目（cfsg.axiommath.ai）。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/H5DIPWPHSZEZY4",
+  "content_hash": "8c9d13a8f9800a1c5a050c5a09f8bc2b5edf9a584d14e0368136762a6393c2c6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7acad6d71b7573f3984d6ab3048be643bf0bbefbf52a8792020aa947a2eaabd8",
+    "title": "Overmind: Product Hunt 上的开源 AI 产品",
+    "summary": "Product Hunt 页面显示：用于持续学习的开源平台。"
+  }
+}

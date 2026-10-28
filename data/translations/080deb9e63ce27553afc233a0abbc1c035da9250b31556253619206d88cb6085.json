@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "content_hash": "010982e7eda1e5772750fd4d15d035ed7661ea095db3bfbd890751bce69a5410",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1c5b51464767c2ad29498f22c3230eb67bc2e05dfccf5184d942345b7a68fe50",
+    "title": "使用 LFM3 构建专用的多模态模型",
+    "summary": "LFM3 是我们新一代的 Liquid 基础模型（LFMs），旨在作为构建专用多模态模型的起点。"
+  }
+}

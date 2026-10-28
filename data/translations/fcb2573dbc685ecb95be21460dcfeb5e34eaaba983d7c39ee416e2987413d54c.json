@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+  "content_hash": "65b90da70b77e3a90b3b9f986f47647921b78e26854461d05fdbf1f819e7635d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e960e8891f7d7ad86d1b82fb38dd6339695a2e548b1364f330e5b8eceb6d79af",
+    "title": "Genie 4：新一代世界模拟 —— Google DeepMind",
+    "summary": "今天，我们宣布推出新世界模型 Genie 4，它带来了前所未有的真实感并提升了实时性能..."
+  }
+}

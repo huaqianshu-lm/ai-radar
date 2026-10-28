@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/P54LIR6JJIMWZV",
+  "content_hash": "a35b4b9f4b3e209edbc57d32948dedb83d25d170c9f732030c2f4504c2e96ca7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "370c81e52e9ed7339af62796f43d069c137622283db66c9f0584cacfaf2ca23c",
+    "title": "Revix AI: Product Hunt 上的 AI 产品",
+    "summary": "Product Hunt 页面显示：能够学习你的代码库自身规则的 AI 代码审查工具。"
+  }
+}

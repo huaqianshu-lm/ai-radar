@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge",
+  "content_hash": "b2c08438ee1b51abc681e498b7a9707596d5684466ce233e850f168d7a3b8125",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8333c89d9d7c203a0369214c2685f2264234827bd159009d7a4449437f151f2a",
+    "title": "我的会议胸牌上的 Game Boy Color",
+    "summary": "本周我参加了 GitHub Universe，和去年类似，会议胸牌是一个功能齐全的彩色屏幕计算机..."
+  }
+}

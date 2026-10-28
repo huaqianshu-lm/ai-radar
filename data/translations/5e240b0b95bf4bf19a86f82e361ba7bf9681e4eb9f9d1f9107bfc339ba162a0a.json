@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/research/early-progress-drug-development",
+  "content_hash": "4b53eed438c31a2405115aea640445c5b213b026efde886bd894e8de818ade89",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dcad83d827337ce853e769bf19b79a79ad8c761d88eacae14de27814d19f0b1d",
+    "title": "使用 Claude 加速药物研发的早期进展",
+    "summary": "来自 Hacker News 的讨论，源自 Anthropic 研究页面，由 dataking 提交。"
+  }
+}

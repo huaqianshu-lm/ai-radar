@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/retell-ai",
+  "content_hash": "23368c8dc500b2a3749c4eb1da3e808510b87de17080a7c38dc01c7d98136315",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1e3ebf94e41ebe19793bfa16d9a1ceac171abfb39683d16886169781f84081b8",
+    "title": "Retell 利用 OpenAI 模型支持每月 1 亿次通话",
+    "summary": "GPT-6 Astra 在 Retell 的语音代理基准测试中名列前茅，同时 Codex 帮助其实现了每位员工 160 万美元的年化收入运行率。"
+  }
+}

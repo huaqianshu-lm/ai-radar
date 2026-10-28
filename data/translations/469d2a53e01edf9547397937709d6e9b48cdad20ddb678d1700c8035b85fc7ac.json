@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/offline-coding",
+  "content_hash": "8603de4a893911fdf2bc6e7ed51013726eb0e02f88b7ad99de1d9b9a87cd357b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fd2619caa7d8b605b67303066aa93a9701d8e1eaa1fcfcc079eba9237b120344",
+    "title": "在喜马拉雅山脉使用离线 AI 代理进行编程",
+    "summary": "如何使用 OpenCode、Ollama 和 Qwen 设置并运行离线编程代理。"
+  }
+}

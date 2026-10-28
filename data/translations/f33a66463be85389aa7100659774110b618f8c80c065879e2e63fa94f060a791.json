@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.brangus.io/survival-llm",
+  "content_hash": "a9081a6a9d0d30f945818080e892bb8ef30abe9f7e58ce014d245090f03ddeef",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b9b5de18e9156d548c9e56f000e9ba90e1a7218d2ec27abca07022b7bcdfd71e",
+    "title": "Survival LLM: 可在本地计算机运行的 AI 助手与应急资料库",
+    "summary": "来自 Hacker News 的讨论，源自 brangus.io，由 Luc 撰写，得分 191。"
+  }
+}

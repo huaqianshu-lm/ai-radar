@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/opus55",
+  "content_hash": "ad4187d6d31eb592a8e2d857df329acbb777057e25cf8920186126c3a521f4ad",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d1002f7bd460f7108466ddc86de2d960f2b805aad0c343e246bf34c584dc3df8",
+    "title": "Anthropic 如何用 Claude 发布 Claude：将大脑与双手分离",
+    "summary": "Katelyn Lesse 和 Angela Jiang 探讨 Opus 5.5、Claude 平台以及 AI 代理背后的工程技术。"
+  }
+}

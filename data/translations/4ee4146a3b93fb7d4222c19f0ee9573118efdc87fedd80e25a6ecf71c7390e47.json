@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/novelty-bench",
+  "content_hash": "76a934de3c082f163324562925535e7f22b6ceeb8ba2f5d319c4045ef9d87020",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1d6c5c59e46e52b936cbc7b983785a69d62ade05b868a690011ee911fd57d509",
+    "title": "我们能否信任大语言模型来判断研究构想是否具有新意？",
+    "summary": "今天我们发布了《旧构想，新问题》（Old Ideas, Novel Problems），这是一项关于大语言模型判断新意可靠性的新研究。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.liquid.ai/blog/lfm3",
+  "content_hash": "df8a6ecdea3ad6c428085261ca0c0aafea1ef59463535ddf2ceeb6f7f012866b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d8989963e8e03233d51f94de6360bb5d99e836be2173113ddea1ada304d14a18",
+    "title": "介绍 LFM3：面向专业智能的各类模态",
+    "summary": "HN 讨论故事：Liquid.ai 官方博客介绍其最新推出的 LFM3 模型，旨在为各种模态的专业化智能提供支持。"
+  }
+}

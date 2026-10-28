@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/FIY7DCKNBRL5M2",
+  "content_hash": "1d0e1a2df669bc3c101840ebec2c006f119cc8fe9f9a63fd59306f81db6f0f45",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e657866cdc440be0f05a452ca2c3361b6c2c16d46a75c2c64f2c593d953e0bea",
+    "title": "TheySaid 4.0: Product Hunt 上的 AI 产品",
+    "summary": "Product Hunt 页面显示：在你构建产品的地方直接查看用户的反应。"
+  }
+}
