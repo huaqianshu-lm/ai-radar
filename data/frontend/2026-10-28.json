@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-28",
+  "items": [
+    {
+      "id": "c44dc9ed271ff418b14ac5c964f0f9272d3413bd0c2b38b09efd327bf214a17d",
+      "title": "Check Point 如何通过 Daybreak 加速漏洞研究",
+      "summary": "借助 OpenAI Daybreak，Check Point 加速了新安全保护机制背后的研究工作，使分析师能够将漏洞情报转化为客户...",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-27T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/check-point-daybreak"
+    },
+    {
+      "id": "c417f8e3d39d0b893c07541bfe85fce19056b39882f88193551609651d5af4ff",
+      "title": "OpenAI 扩大与 Oracle 的合作，将应用引入 ChatGPT",
+      "summary": "OpenAI 与 Oracle 正在扩大合作，将商业应用和 AI 代理引入 ChatGPT，并为 Oracle 的新产品提供支持。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-27T07:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+    },
+    {
+      "id": "1e3ebf94e41ebe19793bfa16d9a1ceac171abfb39683d16886169781f84081b8",
+      "title": "Retell 利用 OpenAI 模型支持每月 1 亿次通话",
+      "summary": "GPT-6 Astra 在 Retell 的语音代理基准测试中名列前茅，同时 Codex 帮助其实现了每位员工 160 万美元的年化收入运行率。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-27T15:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/retell-ai"
+    },
+    {
+      "id": "550f4d88633d42452645fe28be1f95c7b820136518ea7942332ddf189b2d73b8",
+      "title": "扩大与 GSA 的合作，将 Claude 引入各级政府 —— Anthropic",
+      "summary": "我们正在通过一项新协议扩大与总务管理局（GSA）的合作，该协议为政府合作伙伴提供 40% 的 Claude 折扣...",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-10-28T02:02:59Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
+    },
+    {
+      "id": "e960e8891f7d7ad86d1b82fb38dd6339695a2e548b1364f330e5b8eceb6d79af",
+      "title": "Genie 4：新一代世界模拟 —— Google DeepMind",
+      "summary": "今天，我们宣布推出新世界模型 Genie 4，它带来了前所未有的真实感并提升了实时性能...",
+      "source": "Google DeepMind Blog",
+      "source_type": "official",
+      "display_time": "2026-10-28T02:02:59Z",
+      "time_type": "fetched",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation"
+    },
+    {
+      "id": "d2f8df4ce76a09c1ce1a42c047653eff420110181f61e286810f40d8e3167ca9",
+      "title": "GPT-6.1 Terra、Anthropic IPO 申报、代理原生 git",
+      "summary": "AI 简报 2026-10-27：包含 GPT-6.1 Terra、Anthropic IPO 申报及代理原生 git 等内容。",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-10-27T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-10-27"
+    },
+    {
+      "id": "7f181e7a6811af555a4565c4ec11492b2d5c383e9d775d4f4054c0e7f5738e01",
+      "title": "[AINews] Anthropic 计划在 2 周内进行 2 万亿美元 IPO",
+      "summary": "涵盖 S-1 文件、各项数据以及市场反应，包括 1400% 的增长率、48% 的营收来自云合作伙伴、85% 的利润率等。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-10-27T07:24:59Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-anthropic-s1/"
+    },
+    {
+      "id": "fd2619caa7d8b605b67303066aa93a9701d8e1eaa1fcfcc079eba9237b120344",
+      "title": "在喜马拉雅山脉使用离线 AI 代理进行编程",
+      "summary": "如何使用 OpenCode、Ollama 和 Qwen 设置并运行离线编程代理。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-10-27T14:41:25Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/offline-coding/"
+    },
+    {
+      "id": "1d6c5c59e46e52b936cbc7b983785a69d62ade05b868a690011ee911fd57d509",
+      "title": "我们能否信任大语言模型来判断研究构想是否具有新意？",
+      "summary": "今天我们发布了《旧构想，新问题》（Old Ideas, Novel Problems），这是一项关于大语言模型判断新意可靠性的新研究。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-10-27T16:12:42Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench"
+    },
+    {
+      "id": "1c5b51464767c2ad29498f22c3230eb67bc2e05dfccf5184d942345b7a68fe50",
+      "title": "使用 LFM3 构建专用的多模态模型",
+      "summary": "LFM3 是我们新一代的 Liquid 基础模型（LFMs），旨在作为构建专用多模态模型的起点。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-10-27T17:16:52Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3"
+    },
+    {
+      "id": "519a2ea3479c3ef85207e0d812561f94303e24b87ecc10e6f41bdee7cc2cac6e",
+      "title": "Anthropic 如何安全地发布世界顶尖 LLM：将大脑与双手分离",
+      "summary": "Katelyn Lesse 和 Angela Jiang 做客 Latent Space，解释 Claude 平台的工程原理：推出 Opus 5.5 以及将模型的“大脑”与双手分离...",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-10-27T18:40:19Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/"
+    },
+    {
+      "id": "d1002f7bd460f7108466ddc86de2d960f2b805aad0c343e246bf34c584dc3df8",
+      "title": "Anthropic 如何用 Claude 发布 Claude：将大脑与双手分离",
+      "summary": "Katelyn Lesse 和 Angela Jiang 探讨 Opus 5.5、Claude 平台以及 AI 代理背后的工程技术。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-10-27T18:53:10Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/opus55/"
+    },
+    {
+      "id": "8333c89d9d7c203a0369214c2685f2264234827bd159009d7a4449437f151f2a",
+      "title": "我的会议胸牌上的 Game Boy Color",
+      "summary": "本周我参加了 GitHub Universe，和去年类似，会议胸牌是一个功能齐全的彩色屏幕计算机...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-27T19:34:18Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/"
+    },
+    {
+      "id": "7b553354eb5444076503f1cdff49c5d4f7537c158870c3ec6ae7548c4953140c",
+      "title": "rohitg00 / ai-engineering-from-scratch：从零开始学习 AI 工程",
+      "summary": "学习 AI 工程！学习它、构建它，并为他人交付。语言：Python，今日获得 424 个标星。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-28T02:02:59Z",
+      "time_type": "fetched",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "id": "8b01562a542974d19da4171ee06ac962998aa11236a58f3c13907dc64fb987b2",
+      "title": "superdesigndev / treg：用于代理工具的 OpenRouter",
+      "summary": "面向代理工具的 OpenRouter。点击加入社区：https://discord.gg/6mQYYfFMAn - 语言：Python - 今日获得 212 个标星。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-28T02:02:59Z",
+      "time_type": "fetched",
+      "url": "https://github.com/superdesigndev/treg"
+    },
+    {
+      "id": "0fa71fcc03f57574cda39d60a01139b39b32ce35d43d5913fe0a018bbc4eec24",
+      "title": "维基百科对 AI 生成内容的清理",
+      "summary": "HN 讨论故事：维基百科相关项目的 AI 写作清理工作及 IEEE Spectrum 报道。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-27T11:08:15Z",
+      "time_type": "published",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
+    },
+    {
+      "id": "a330a8194716c61c54c2fca0d9267cfd511f3ecc4332bd7464040c3494f9c41c",
+      "title": "前方有怪兽：当代理完成工作时，你还需要了解什么？",
+      "summary": "HN 讨论故事：探讨当 AI 代理代劳时开发人员仍需掌握的知识与挑战。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-27T13:23:22Z",
+      "time_type": "published",
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work"
+    },
+    {
+      "id": "a17083d6bd141e2d3bbdd22b4880993a88608dd7ad12ca9854ad264c7a13dd5c",
+      "title": "亚马逊在持续失败后正在大幅缩减其 AI 部门",
+      "summary": "HN 讨论故事：报道亚马逊人工智能部门（如 Nova 项目等相关业务）在经历持续挫折后进行的大规模重组与裁撤。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-27T16:25:30Z",
+      "time_type": "published",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
+    },
+    {
+      "id": "bce3cb952db3bffcd22370df440298215fe58a9b32034a50281b1a5368496371",
+      "title": "在 Lean 中形式化有限单群分类",
+      "summary": "HN 讨论故事：关于在 Lean 交互式定理证明器中对有限单群分类进行形式化的项目（cfsg.axiommath.ai）。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-27T16:29:02Z",
+      "time_type": "published",
+      "url": "https://cfsg.axiommath.ai/"
+    },
+    {
+      "id": "d8989963e8e03233d51f94de6360bb5d99e836be2173113ddea1ada304d14a18",
+      "title": "介绍 LFM3：面向专业智能的各类模态",
+      "summary": "HN 讨论故事：Liquid.ai 官方博客介绍其最新推出的 LFM3 模型，旨在为各种模态的专业化智能提供支持。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-27T17:04:50Z",
+      "time_type": "published",
+      "url": "https://www.liquid.ai/blog/lfm3"
+    },
+    {
+      "id": "b9b5de18e9156d548c9e56f000e9ba90e1a7218d2ec27abca07022b7bcdfd71e",
+      "title": "Survival LLM: 可在本地计算机运行的 AI 助手与应急资料库",
+      "summary": "来自 Hacker News 的讨论，源自 brangus.io，由 Luc 撰写，得分 191。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-27T19:55:06Z",
+      "time_type": "published",
+      "url": "https://www.brangus.io/survival-llm"
+    },
+    {
+      "id": "5c06ba9ffd4d24cad72bc41aac054430965564c06ebe73226d5299a92248d646",
+      "title": "在设备树中发现 Raspberry Pi Zero 3W 和 Pi 4 Model A",
+      "summary": "来自 Hacker News 的讨论，源自 bret.dk，由 sthlmb 提交，得分 97。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-27T20:48:49Z",
+      "time_type": "published",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/"
+    },
+    {
+      "id": "dcad83d827337ce853e769bf19b79a79ad8c761d88eacae14de27814d19f0b1d",
+      "title": "使用 Claude 加速药物研发的早期进展",
+      "summary": "来自 Hacker News 的讨论，源自 Anthropic 研究页面，由 dataking 提交。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-27T20:50:42Z",
+      "time_type": "published",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development"
+    },
+    {
+      "id": "1d470e86547e8f6f5b9654de92da60edf19ee4632c72e4067c3575afc1d48fc5",
+      "title": "评测者很少谈论可靠性，而产品拥有者提及的频率是前者的两倍",
+      "summary": "来自 Hacker News 的讨论，源自 bettascore.ai 研究页面，由 tsxng 提交，得分 59。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-27T22:31:15Z",
+      "time_type": "published",
+      "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners"
+    },
+    {
+      "id": "5f6beef97e6099292f8332a3ffeb0aaa6b7758651f2c8baaacc84efa741935f4",
+      "title": "GPT-6.1 Terra: Product Hunt 上的 AI 产品",
+      "summary": "Product Hunt 页面显示：以半价提供快速、功能强大的电脑操作（Computer Use）能力。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-27T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VPQRG3IEY6PP2Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "8d7426354542c10bbfbb4aa8c1fcba8440438e280254a3cfe3a6c66c88a9fca9",
+      "title": "NuPlay: Product Hunt 上的 AI 产品",
+      "summary": "Product Hunt 页面显示：实现 AI 转型，在一个自我完善的平台上运行。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-27T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/R2IRJLFM3LP5VD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "a574492eb6ee09316d711186015fa66bc45c6cadbb29f1a05ff5bf221dcb7353",
+      "title": "Nuvio 5.0: Product Hunt 上的 AI 产品",
+      "summary": "Product Hunt 页面显示：将财务行政工作交由你的 AI 代理（AI Agent）处理。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-27T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/HA2UYVF4I2W5ZE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "ebd6224afff6420ef710d945b9a3d707067c853fe7ef5aef48d3cc16ae45383e",
+      "title": "Off Grid AI: Product Hunt 上的 AI 产品",
+      "summary": "Product Hunt 页面显示：在手机和电脑上运行的私密 AI。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-27T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/SIBOVBB575BHOI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "b191f3a3e4e36b29cd32afadb27336b10efb6be004c749de4119d4e918224157",
+      "title": "OpenRadView: Product Hunt 上的开源 AI 产品",
+      "summary": "Product Hunt 页面显示：用于查看自己的 CT、MRI 和 X 光片的免费开源查看器。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-27T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/MKXV4Y4JF4DM5F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "7acad6d71b7573f3984d6ab3048be643bf0bbefbf52a8792020aa947a2eaabd8",
+      "title": "Overmind: Product Hunt 上的开源 AI 产品",
+      "summary": "Product Hunt 页面显示：用于持续学习的开源平台。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-27T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/H5DIPWPHSZEZY4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "f25bebe74f8c25f8ac73bf62fbbb207a8d0baf8e7ac590a941367763bd29e2f0",
+      "title": "PulseDev: Product Hunt 上的 AI 产品",
+      "summary": "Product Hunt 页面显示：点击 localhost 上的任何 UI Bug，AI 代理即可为你修复。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-27T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/JCKGVWV6YEG6JR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "370c81e52e9ed7339af62796f43d069c137622283db66c9f0584cacfaf2ca23c",
+      "title": "Revix AI: Product Hunt 上的 AI 产品",
+      "summary": "Product Hunt 页面显示：能够学习你的代码库自身规则的 AI 代码审查工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-27T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/P54LIR6JJIMWZV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "47f3dceaf9c903b4ba4039604bb240db490accf9d025bb1b975f6fb81e2665a0",
+      "title": "Spacesheep: Product Hunt 上的 AI 产品",
+      "summary": "Product Hunt 页面显示：由 AI 制作、供团队阅读的未来文档。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-27T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/RYFIJ64JQDF4MI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "e657866cdc440be0f05a452ca2c3361b6c2c16d46a75c2c64f2c593d953e0bea",
+      "title": "TheySaid 4.0: Product Hunt 上的 AI 产品",
+      "summary": "Product Hunt 页面显示：在你构建产品的地方直接查看用户的反应。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-27T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/FIY7DCKNBRL5M2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
