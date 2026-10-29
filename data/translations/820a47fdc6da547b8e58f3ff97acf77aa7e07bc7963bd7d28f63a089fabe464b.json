@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/supabase",
+  "content_hash": "6b7892f76f5667c15911f78ed3de6e978b71721f2f7e84baa5c384b9ff31c213",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9609f9bcce991b4054dd216de7806ad3cdefbaad2b51cbb079d1a37f61200baf",
+    "title": "为什么 AI Agents 偏爱 Supabase",
+    "summary": "Paul Copplestone 和 Ant Wilson 探讨为 AI agents 构建后端的内容。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/p-e-w/heretic",
+  "content_hash": "99324681f4394d9add748c341123c4d52f003a1a81451e3035b97c4ba6758520",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3db40af345d5afa2a2657bdd86712a3441b19b5471de92fd9a3d68e7d8c3defa",
+    "title": "p-e-w / heretic (大语言模型全自动去审查工具)",
+    "summary": "语言模型的全自动去审查工具。编程语言：Python。今日获得 307 枚 star。"
+  }
+}

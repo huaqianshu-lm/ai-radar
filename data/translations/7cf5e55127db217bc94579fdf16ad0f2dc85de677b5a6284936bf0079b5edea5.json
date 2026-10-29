@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/3EFM4NPQQEMV32",
+  "content_hash": "89932a21d239e36eac72eb3be19bb5435cf9c20b0b00e5224fa5b84f374e6ba4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "99773b8578656f94f72751353d8fb84e7ad6c001e41c094c35ed0995700d09e0",
+    "title": "Product Hunt: Trigger.dev: 为 AI Agent 提供 Webhook — 结合 Slack、Supabase 及其他 50 多种服务运行 AI Agent",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/trigger-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2..."
+  }
+}

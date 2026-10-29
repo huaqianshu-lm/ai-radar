@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/28/vibe-game-development",
+  "content_hash": "3a65ef0a2ee6048c0b5009a1e80e3385f49eea573dc8fdf6c236d240cda20838",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7f577f4b01c6fc58e5ce0f31b6969c8e88a270feb9c73f094244d636a2180ad4",
+    "title": "vibe game 开发的十月拐点",
+    "summary": "作者此前曾撰文探讨 2025 年 11 月如何成为编码智能体的拐点，当时 Opus 4.5 和 GPT-5.1 跨越了一个临界点，这意味着..."
+  }
+}

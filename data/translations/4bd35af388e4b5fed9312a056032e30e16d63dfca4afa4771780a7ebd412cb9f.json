@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+  "content_hash": "3843acb9194ab43214f67913ebf2f4cc9a291470da607c497b372a0a7dc6b56d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a395c7da350b5086cc15f6b616a71f222298172ced3c491458f1fd1d38e79b77",
+    "title": "OpenAI 与 ServiceNow 扩大企业工作流合作",
+    "summary": "OpenAI 与 ServiceNow 扩大合作伙伴关系，将 OpenAI 模型和 Agent 引入 ServiceNow，并将 ServiceNow 工作流引入 ChatGPT 和 Codex。"
+  }
+}

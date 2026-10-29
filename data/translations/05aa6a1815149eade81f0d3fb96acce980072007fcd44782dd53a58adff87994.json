@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-28",
+  "content_hash": "30e5bbf42f5c514083a6cd410bccd9c5d421f11e0342ab28430be2e12785b95b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5e924a7b3dcef4e76c74f58f7d8a11ceebb4e230509da14ca2f44085772a98fb",
+    "title": "Genie 4 worlds、Frontier Code 2 以及 AI 药物发现",
+    "summary": "TLDR AI 2026-10-28 简报，涵盖 Genie 4 worlds、Frontier Code 2 与 AI 药物发现等内容，并探讨了为人机协同（Human-in-the-Loop）设计的更简单的 AI 智能体。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+  "content_hash": "34614688f9ad75cb220b0ae519ed5203cb348f844acac573552a89804f9acb1f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ef9d5fd64ced66223337282bbac1d98d0ca37341c6ae427808208d80e2ae33e8",
+    "title": "MicroZig 将采纳严格的无 LLM / 无 AI 政策",
+    "summary": "HN 讨论链接：https://news.ycombinator.com/item?id=50282865；原文链接：https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md；作者：paaloeye..."
+  }
+}

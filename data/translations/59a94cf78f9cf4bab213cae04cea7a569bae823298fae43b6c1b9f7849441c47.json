@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/shitagaki-lab/see-through",
+  "content_hash": "af8cf5a55a6e1f8c0507e3079fec9c82c4043b4503f15f4dc673883b55e94cf7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cf4da7663561249bd698a065aef2c2f4487290cecc4dae6698e8606850dd6b46",
+    "title": "shitagaki-lab / see-through: 动漫角色单图像图层分解工具",
+    "summary": "来自 SIGGRAPH 2026 的会议论文《Single-image Layer Decomposition for Anime Characters》。使用 Python 编写，今日获得 74 个 Star。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
+  "content_hash": "049aa6ab6ca3ca059b6fbd86f74a7d852dc6792c2776bcdceb291c6d71c27cdd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "da9c62c52f6c35e6916b07245e2a0775f3119e140ea4c4101fd2bd36f52592d3",
+    "title": "引用 Ted Sanders",
+    "summary": "总体而言，LLM 的性能表现极其多维度。没有任何保证能呈现出固定的排名顺序，即最擅长数学的模型也一定是..."
+  }
+}

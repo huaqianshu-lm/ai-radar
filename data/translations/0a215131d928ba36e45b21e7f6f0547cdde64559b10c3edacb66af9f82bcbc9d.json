@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/legora",
+  "content_hash": "ae3b7cf5df5cf30c3d5676b1900dd196d0ddde1ec8fe2895c24d96eb48254404",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "709cc8e2bd467b7916899fb3ec62dbecfa135fc3209b011a85a1239ca7c1f0f6",
+    "title": "Legora 正在构建法律工作的 Agentic 操作系统",
+    "summary": "了解 Legora 如何使用 OpenAI 模型、ChatGPT 和 Codex 来加速法律工作流程、扩展合同分析，并让律师专注于更高价值的工作。"
+  }
+}
