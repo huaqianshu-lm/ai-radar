@@ -1,0 +1,355 @@
+{
+  "date": "2026-10-29",
+  "items": [
+    {
+      "id": "709cc8e2bd467b7916899fb3ec62dbecfa135fc3209b011a85a1239ca7c1f0f6",
+      "title": "Legora 正在构建法律工作的 Agentic 操作系统",
+      "summary": "了解 Legora 如何使用 OpenAI 模型、ChatGPT 和 Codex 来加速法律工作流程、扩展合同分析，并让律师专注于更高价值的工作。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-28T09:30:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/legora"
+    },
+    {
+      "id": "e2ed7680c50ae3f074e04f962f033e8bab070f352fa8087e45258e537064a005",
+      "title": "公司的未来",
+      "summary": "探讨 AI 如何进入组织架构——在我们之下、身侧以及我们之间。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-28T10:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/the-future-of-the-firm"
+    },
+    {
+      "id": "a395c7da350b5086cc15f6b616a71f222298172ced3c491458f1fd1d38e79b77",
+      "title": "OpenAI 与 ServiceNow 扩大企业工作流合作",
+      "summary": "OpenAI 与 ServiceNow 扩大合作伙伴关系，将 OpenAI 模型和 Agent 引入 ServiceNow，并将 ServiceNow 工作流引入 ChatGPT 和 Codex。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-28T13:15:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+    },
+    {
+      "id": "e63c44ee253751eb72aef3f2b8bd6200913735fee19428e07e0f2cafc0129b53",
+      "title": "AI for Science 扩展至更多基金会与机构 —— Anthropic",
+      "summary": "我们正重点介绍来自全球的 20 家科学基金会、机构和研究小组，我们已与他们达成合作，以推进 AI for Science 的发展...",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-10-29T02:11:18Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
+    },
+    {
+      "id": "ee4dc087c20018324226a16e2a13651b155ce78c88fcc91e4606b45fe6d0efda",
+      "title": "Mistral 在慕尼黑开设枢纽以推进德国的工业 AI",
+      "summary": "Mistral 在欧洲最大经济体的慕尼黑开设德国枢纽，以推进工业 AI 的发展。",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-10-29T02:11:18Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/hallo-deutschland"
+    },
+    {
+      "id": "5e924a7b3dcef4e76c74f58f7d8a11ceebb4e230509da14ca2f44085772a98fb",
+      "title": "Genie 4 worlds、Frontier Code 2 以及 AI 药物发现",
+      "summary": "TLDR AI 2026-10-28 简报，涵盖 Genie 4 worlds、Frontier Code 2 与 AI 药物发现等内容，并探讨了为人机协同（Human-in-the-Loop）设计的更简单的 AI 智能体。",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-10-28T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-10-28"
+    },
+    {
+      "id": "e07af33a171f3d044bf3a5b92a2fc2020e29dbd57f72bc999560d527aa11cda0",
+      "title": "Anthropic 取消编程面试：渴望胜过资历",
+      "summary": "既然编程问题已经解决，为什么还要为了工作而写代码？",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-10-28T08:50:30Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/"
+    },
+    {
+      "id": "2cf23206607f40daee574c462b0ef86a0cb684f18e7a0389f6c3579e3bd08792",
+      "title": "引用 Terk Terkowitz 的观点",
+      "summary": "如果你的工作无法从当前的 AI 工具中受益，这是一个发现，而不是失败。请记录原因，与同行社群分享，并带给你的...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-28T10:09:07Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/"
+    },
+    {
+      "id": "7f577f4b01c6fc58e5ce0f31b6969c8e88a270feb9c73f094244d636a2180ad4",
+      "title": "vibe game 开发的十月拐点",
+      "summary": "作者此前曾撰文探讨 2025 年 11 月如何成为编码智能体的拐点，当时 Opus 4.5 和 GPT-5.1 跨越了一个临界点，这意味着...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-28T13:55:15Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
+    },
+    {
+      "id": "ec733f799e1aaee3d1ac15d7aac92b358c82bd195281ac7a4de4982266b1d5fd",
+      "title": "NVIDIA Nemotron 3.5 Transcribe 与 Granary v2：可提示与适配的智能多语言转录",
+      "summary": "NVIDIA Nemotron 3.5 Transcribe 与 Granary v2：用于多语言转录的单一开源模型...",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-10-28T14:58:17Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+    },
+    {
+      "id": "e9a7a10b5a66f3aae2c27a45408deb8fa0586aedac9ad6b487aaa0026d449da7",
+      "title": "GitHub Octoverse 2026：作者出席了今天的 GitHub Universe 大会（通过 GitHub Stars 项目获得了免费门票），执行副总裁 Jay Parikh 刚刚在会上发布了今年的 GitHub Octoverse 2026",
+      "summary": "作者出席了今天的 GitHub Universe 大会（通过 GitHub Stars 项目获得了免费门票），执行副总裁 Jay Parikh 刚刚在会上发布了今年的 GitHub Octoverse 2026。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-28T16:45:23Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/"
+    },
+    {
+      "id": "9609f9bcce991b4054dd216de7806ad3cdefbaad2b51cbb079d1a37f61200baf",
+      "title": "为什么 AI Agents 偏爱 Supabase",
+      "summary": "Paul Copplestone 和 Ant Wilson 探讨为 AI agents 构建后端的内容。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-10-28T19:48:05Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/supabase/"
+    },
+    {
+      "id": "da9c62c52f6c35e6916b07245e2a0775f3119e140ea4c4101fd2bd36f52592d3",
+      "title": "引用 Ted Sanders",
+      "summary": "总体而言，LLM 的性能表现极其多维度。没有任何保证能呈现出固定的排名顺序，即最擅长数学的模型也一定是...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-28T23:23:21Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/"
+    },
+    {
+      "id": "11b86268bb2d567afb586fa6f8feb81292c550e00cabaee3fc0e17a2856da355",
+      "title": "baidu / Unlimited-OCR：Unlimited-OCR 项目：迎接单次长程解析时代",
+      "summary": "Unlimited-OCR 项目：迎接单次长程解析时代。使用 Python 语言开发，今日获得 429 枚星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-29T02:11:18Z",
+      "time_type": "fetched",
+      "url": "https://github.com/baidu/Unlimited-OCR"
+    },
+    {
+      "id": "da8ac24508773f981b8dc46415d547291f5f262d66f4b472b8efbe0f9668e211",
+      "title": "debpalash / VoiceStudio：VoiceStudio 是一个开源、完全本地化的 ElevenLabs 替代方案——集成了声音克隆、声音设计、视频配音、听写、转录和有声书创作等功能...",
+      "summary": "VoiceStudio 是一个开源、完全本地化的 ElevenLabs 替代方案——集成了声音克隆、声音设计、视频配音、听写、转录和有声书创作等功能...",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-29T02:11:18Z",
+      "time_type": "fetched",
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "id": "3db40af345d5afa2a2657bdd86712a3441b19b5471de92fd9a3d68e7d8c3defa",
+      "title": "p-e-w / heretic (大语言模型全自动去审查工具)",
+      "summary": "语言模型的全自动去审查工具。编程语言：Python。今日获得 307 枚 star。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-29T02:11:18Z",
+      "time_type": "fetched",
+      "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+      "id": "cf4da7663561249bd698a065aef2c2f4487290cecc4dae6698e8606850dd6b46",
+      "title": "shitagaki-lab / see-through: 动漫角色单图像图层分解工具",
+      "summary": "来自 SIGGRAPH 2026 的会议论文《Single-image Layer Decomposition for Anime Characters》。使用 Python 编写，今日获得 74 个 Star。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-29T02:11:18Z",
+      "time_type": "fetched",
+      "url": "https://github.com/shitagaki-lab/see-through"
+    },
+    {
+      "id": "b6ef72a535891f6857e1cf68374fd170d795aceabdc2f77fa54ae1071f2a05cb",
+      "title": "肯塔基州男子成为首位获得 AI 宗教豁免的人本主义者",
+      "summary": "HN 讨论链接：https://news.ycombinator.com/item?id=50273396 原文链接：https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-fr...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-28T13:41:30Z",
+      "time_type": "published",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"
+    },
+    {
+      "id": "ea41a986fe71530705d404a78abe5b69b65db5b8b1f8f056c2242994f5f3b2db",
+      "title": "The Agent SDK：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50273731 Original URL: https://cursor.com/blog/agent-sdk Author: torutofu Score: 99",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-28T14:02:20Z",
+      "time_type": "published",
+      "url": "https://cursor.com/blog/agent-sdk"
+    },
+    {
+      "id": "17a75de37df03bf69cc8cd6f945d43030c6c3e3ce93699d18b7dc09af34e59c0",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50275626 Original URL: https://surgehq.ai/blog/dayjob-tax Author: landonxi Score: 203",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-28T15:46:30Z",
+      "time_type": "published",
+      "url": "https://surgehq.ai/blog/dayjob-tax"
+    },
+    {
+      "id": "6825ae5281ac7c3fe9afc39e2f92c3399ce503b06e78f9e26ea496ead5e6837d",
+      "title": "Gemini 4 Carbon：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50276792 Original URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-28T17:01:23Z",
+      "time_type": "published",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+      "id": "29f0d4517b8b3b856d80dc6f9496c3d2122251697286a433a5d6e71b1499f0a9",
+      "title": "Scaling Hierarchical Networks：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50278253 Original URL: https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1 Author: guybedo Score: 35",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-28T18:07:41Z",
+      "time_type": "published",
+      "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1"
+    },
+    {
+      "id": "c3f3cbf4e178e82211eb43f345f6fbe6033c28f88d6d24f4fca2ce534921c547",
+      "title": "AI 高管可能过于脱离实际，难以面向大众开发产品",
+      "summary": "HN 讨论链接：https://news.ycombinator.com/item?id=50281826；原文链接：https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-genera...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-28T22:27:46Z",
+      "time_type": "published",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
+    },
+    {
+      "id": "891ea52b0848dd94984aefda858f26658bc1b856480c5b90b81dd94bc131c21b",
+      "title": "New York Times 为其 Cooking 应用添加更多 AI 功能，用户对此反响平平",
+      "summary": "HN 讨论链接：https://news.ycombinator.com/item?id=50282766；原文链接：https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-coo...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-29T00:16:08Z",
+      "time_type": "published",
+      "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/"
+    },
+    {
+      "id": "ef9d5fd64ced66223337282bbac1d98d0ca37341c6ae427808208d80e2ae33e8",
+      "title": "MicroZig 将采纳严格的无 LLM / 无 AI 政策",
+      "summary": "HN 讨论链接：https://news.ycombinator.com/item?id=50282865；原文链接：https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md；作者：paaloeye...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-29T00:30:37Z",
+      "time_type": "published",
+      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
+    },
+    {
+      "id": "e022a20dbd078190defe6cea2f93987b6984e48f3e757ae5409c78cd64f9b0e0",
+      "title": "Product Hunt: App Store Screenshots — 你的编码 Agent 帮你设计应用商店截图",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/app-store-screenshots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-28T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/MMLYDUYT2RHFD2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "5c309b611f53e1ff09380f1e5dc674ecc687cf8249daecade41046f2fd629d16",
+      "title": "Product Hunt: BotGauge — 你的 Agent 的信任层",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/botgauge-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-28T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/QSDCJZKJUIFLGU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "b82e3f001e561fe7c6781a45541f165f79d25ae89d7f8142f46cc1bfa3d3b9a7",
+      "title": "Product Hunt: Genie 4 — 将提示词转化为你可以驾驭的生动世界",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/gemini-1-5-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-28T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/LQRWKQDQ6UWMRQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "3455f3f73c129e364920b616287ded158a797c7ec19f1adcd4d3fbbaaa1c5667",
+      "title": "Product Hunt: Liquid AI 推出的 LFM3 — 适用于手机、笔记本电脑和机器人的六款 2B 级别模型",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/lfm2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%2...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-28T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/YIAE2QFH3EFXKL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "7772ee058805da58899def7636a9b2f4b03a5171ab8419c7d521ae7d9a347d8f",
+      "title": "Product Hunt: OpenLLM — 将你的 AI Token 带到任何地方",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/openllm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-28T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/5XXHXYZORBXIU6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "99773b8578656f94f72751353d8fb84e7ad6c001e41c094c35ed0995700d09e0",
+      "title": "Product Hunt: Trigger.dev: 为 AI Agent 提供 Webhook — 结合 Slack、Supabase 及其他 50 多种服务运行 AI Agent",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/trigger-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-28T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/3EFM4NPQQEMV32?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "08b9b2b72ed36efea227227158ff0dd1b9dc38489046d6048b3de8bf52a86427",
+      "title": "Product Hunt: Tulu — 针对中小企业的自主营销运营与分析工具",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/tulu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%2...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-28T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/6OKRX6JA5BJRJ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "073de80064e6d7dafa424f44cef21293ff2f00b5bcc04c7ed365ae48013cbc87",
+      "title": "Product Hunt: Opera 推出的 WebAI — 让网站使用在你电脑上运行的 AI",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/opera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-28T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/A6ZDHXYKSEJLB2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "477cc562b18761933f58cba35b079f674545f134a8bd3a082eb9616ed9cfb42d",
+      "title": "Product Hunt: Zro: 未经审查的安全模型 — 用于安全工作的去除对齐开源模型",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/zro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-28T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/7N6PVVLDFD3TXQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "7c753e9875e4e7ac653c8f85c349daa43b30b0a542706533a9c9f369f8e18352",
+      "title": "Product Hunt: throxy — 使用潜在客户的语言进行冷外呼，交付销售漏斗",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/throxy-yc-p25?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-28T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/BQYSIMY57VWXCZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
