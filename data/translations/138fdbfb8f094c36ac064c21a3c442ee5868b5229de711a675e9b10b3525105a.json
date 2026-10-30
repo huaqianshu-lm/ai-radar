@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://trakkr.ai/trakkr-research/zombie-stats",
+  "content_hash": "0a7dbcb4f5ba69cdeafb429f21d30913acdb16ac401046b6a230460e9ee61623",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a1f8d24a51e36d46298d421e548d8eae69829234ac148f77efd2fa95ddfac22a",
+    "title": "僵尸统计数据：AI 引用的数字来源何处",
+    "summary": "探讨 AI 生成内容中引用的统计数据来源及其可靠性的文章。"
+  }
+}

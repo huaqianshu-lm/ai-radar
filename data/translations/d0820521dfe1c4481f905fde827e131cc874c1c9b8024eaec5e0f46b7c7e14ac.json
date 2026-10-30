@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/YEZ2L5PFTMCTQZ",
+  "content_hash": "370635349b91032f27b9955d5ccc6c7f5c7fef9a4331ab095911797070e2dbb4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2c6ef3fc42e9620aafdd1692696986448e16fc1b0c46c28a39ffa2dd0dc75ece",
+    "title": "Product Hunt: Viggle JST-2 — JST-2：通过单一模型生成 3D 场景、角色与动作",
+    "summary": "Viggle JST-2 是一个能够通过单个模型直接生成 3D 场景、角色及动作的 AI 工具。"
+  }
+}

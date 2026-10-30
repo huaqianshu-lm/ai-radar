@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/emmilco/us-tax-model",
+  "content_hash": "1c085a17f29e90da2091ed69e1fa620ad0663bbf5cda52bcf383b059ebb1b9eb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "102bcd83ea1ad69544eb822c96f136f6eea612f88801d09d399837f11c2d0012",
+    "title": "Show HN: 美国国税局联邦税表形式化概念验证",
+    "summary": "链接的开源仓库是 100% 的相关概念验证实现。"
+  }
+}

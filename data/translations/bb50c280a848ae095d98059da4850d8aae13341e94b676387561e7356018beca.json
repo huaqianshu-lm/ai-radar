@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/elorian",
+  "content_hash": "47c3d0ed519762894e798ca68835b6a3edca083add877e60cdcb4ad067678268",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0b10feeb1a78db817185f2cb4de8640fc446a20a7cff7125fc5b9ff36f713fff",
+    "title": "前沿模型能看穿诱饵吗？Elorian 测试视觉推理",
+    "summary": "一个新的诱饵计数基准测试揭示了“看见”与“推理”之间的差距。Elorian 的 Glimpse 试图通过用图像思考来弥合这一差距。"
+  }
+}

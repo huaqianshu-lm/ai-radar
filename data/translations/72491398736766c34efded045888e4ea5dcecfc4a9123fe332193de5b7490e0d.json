@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://labs.ycombinator.com/projects/games/index.html",
+  "content_hash": "bf8992c827a589b10a26a99515aedad2406b3decb8f57859179c7d414e0ef4c4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2cf1fb795ba0396c9bccccb3fef5e5568e0b47f7e5c2500057928a764f1aaa0e",
+    "title": "我们在 Minecraft 和 Mindustry 中运行了 AI 代理集群",
+    "summary": "介绍了在沙盒游戏 Minecraft 和 Mindustry 中运行 AI 代理群组的实验项目。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/VOASQ4LXPHOIXR",
+  "content_hash": "aac2b1b10ff329171510309dec1cde179737b1407f01e3fae18de76a1f83beb3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a61251cb02f50c1844ff5f432f394a7199fb0a201145781ad7bdf849ef27a257",
+    "title": "Product Hunt: Floot in ChatGPT — 无需离开 ChatGPT 即可构建并发布真实应用",
+    "summary": "Floot 允许用户直接在 ChatGPT 界面内构建并发布实际的应用程序。"
+  }
+}

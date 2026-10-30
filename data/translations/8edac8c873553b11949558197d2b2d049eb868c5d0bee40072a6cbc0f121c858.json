@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "content_hash": "93de852f2696151c0fafe77ac3abafda0dab0d37970bb078a643deda24ecc150",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0f01adb2acab0a67ba71c0b077a856b8d5e6ddb0aecdbfc3051cca05fba1e4d6",
+    "title": "我们如何检测前沿模型的对齐偏差",
+    "summary": "OpenAI 使用分层监控来检测前沿模型的对齐偏差和未经授权的智能体行为，以便响应人员在事件升级前进行干预。"
+  }
+}

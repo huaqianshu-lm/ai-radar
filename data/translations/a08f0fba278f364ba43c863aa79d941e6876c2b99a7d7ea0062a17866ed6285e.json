@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/beenuar/AiSOC",
+  "content_hash": "2641bbffb9122650b3b96e787d9b13eb64b93dc486a0fab160fb51d6c7442dd5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e510ab3edae1804041bd2f1789e42269d4d0534b934ebe189db4fad03c0e4673",
+    "title": "beenuar / AiSOC：开源 AI 安全运营中心",
+    "summary": "开源 AI 安全运营中心：包含警报融合、LLM 智能体分类、MITRE ATT&CK 调查，以及针对每个智能体步骤的可重放决策分类账。"
+  }
+}

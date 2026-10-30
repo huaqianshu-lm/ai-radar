@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/OPRQGVDZ6RGUVJ",
+  "content_hash": "8323770a26ceabcfbe57d6f7074865d64d21a8403c8aeb0401b5ba822cd7a10f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f686379fceee006b68fdd96a37f65eb1ab86d63272b085c64df353b1e551091f",
+    "title": "Product Hunt: Radar — 你不需要 AI SRE，给你的代理配备 Radar 即可",
+    "summary": "Radar 是一款旨在充当 AI 代理运维助手的工具产品。"
+  }
+}

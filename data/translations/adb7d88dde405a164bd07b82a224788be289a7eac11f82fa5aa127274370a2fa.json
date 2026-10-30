@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-29",
+  "content_hash": "e544b5ae3863667bd984124267dda66a8dc1497176bf90075805db062ec37849",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "db2d803cfd6c73651c416d0ba682fb0712662f76a9bc0ea28d8e1976d136a43a",
+    "title": "Gemini 4 Carbon、Nemotron Transcribe 以及基准测试者的困境",
+    "summary": "TLDR AI 2026-10-29 简讯，包含关于生产级 AI 比较指南等内容。"
+  }
+}

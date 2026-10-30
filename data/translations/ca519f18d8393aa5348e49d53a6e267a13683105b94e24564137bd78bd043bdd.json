@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/anydecisionmodel",
+  "content_hash": "61669f54e6f42a31afd1ba7feddc00d81bdc5c72a42c25f7d6131e1f2eff7964",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6394645bd5105adc5435eb92d86f0a9234c4d9608ebffb6215783e8187d812db",
+    "title": "介绍 AnySpeechRecognizer 和 AnyDecisionModel：用于 Apple 平台的开源语音和决策模型",
+    "summary": "语言模型功能强大，可以进行写作、总结等工作。"
+  }
+}

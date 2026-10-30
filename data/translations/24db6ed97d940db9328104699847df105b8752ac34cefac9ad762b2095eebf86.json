@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/ainews-gemini-4-carbon",
+  "content_hash": "9eee97efe438f3250f879f0fbf09f7aa200e5449037070997ca5b3bd443a483b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c50f3c4d5adfd4c86584109acced5327d22b743e58a5f3f4c1d19f0c3b8ae805",
+    "title": "[AINews] Gemini 4 Carbon 登顶排行榜，并面向网络防御者发布",
+    "summary": "谷歌的新前沿模型在独立评估中领先，初期访问权限仅限于受信任的防御者。"
+  }
+}

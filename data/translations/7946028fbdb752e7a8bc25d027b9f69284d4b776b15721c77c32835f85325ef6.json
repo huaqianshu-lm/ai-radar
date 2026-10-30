@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/rlaope/oh-my-hermes",
+  "content_hash": "070c30d9b889b8ebc5cd1f5bfca8e715f19179776c536a6b13e9db4c3a9806e4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "be80ae1bec07939fd6bf87931ff33e611ce0f1a8496ebde2892fb3167caf9144",
+    "title": "rlaope / oh-my-hermes：集成 Hermes Agent 的编程外设",
+    "summary": "将 Hermes Agent 接入 IDE 的编程外设工具，使用 Python 编写，今日获得 267 个星标。"
+  }
+}

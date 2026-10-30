@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "content_hash": "d143ea6f94d9891bbd8bb7f477c09eb768b2ba1d420b8406282d5459b0ddbed0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e508e29ae812fe586e8d04934be66406c6967422e675f969f84a3d3abfd18b22",
+    "title": "Granite Switch 4.1.1 — 像更新软件一样更新模型",
+    "summary": "在一周多前，我们发布了 Granite Switch 4.1，展示了我们模块化的 Switch 架构。"
+  }
+}

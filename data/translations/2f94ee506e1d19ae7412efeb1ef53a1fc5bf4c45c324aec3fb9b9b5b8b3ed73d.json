@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/mistral-large4",
+  "content_hash": "51da5718b91b87d7ac833bc316653e960ca62faaf1fa0b24923d5dacaeb588d7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b6b30743068c26272d898fb0a6f1ecbc2f9f86806ca564a0085874621ca143e5",
+    "title": "欢迎 Le Chonk：Hugging Face 上的 Mistral Large 4",
+    "summary": "Mistral Large 4（又称 Le Chonk）是 Mistral 推出的多模态、多语言、混合专家（MoE）模型。"
+  }
+}

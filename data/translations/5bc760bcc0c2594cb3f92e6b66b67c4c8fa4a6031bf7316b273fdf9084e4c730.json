@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/SheepSeb/tinyworldformer",
+  "content_hash": "81c3a431c982427e1a0b3b004252c98214bd3deb6a0662efe6e15a1c01825665",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7b84f0e97724d28a1cefcae9b3da6d7cbe5323f3bef9b34338a7182f641f6cff",
+    "title": "在 Raspberry Pi Pico 2 W 上运行游戏的微型世界模型",
+    "summary": "开源项目展示了一个能够在微型硬件树莓派 Pico 2 W 上运行游戏的微型世界模型。"
+  }
+}

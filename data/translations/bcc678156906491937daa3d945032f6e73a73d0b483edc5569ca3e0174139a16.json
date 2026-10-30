@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50291116",
+  "content_hash": "3a7ba9c0da224ee71c1da4b4e9d90869c208baa95212930db1d0495db3769a5a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "700f3e4bbfb43c82f28d7ce51a99b7f53710868cc020cfa013e382ec90b47148",
+    "title": "Launch HN: Simantic (YC F26) – 面向 AI 代理的固件仿真",
+    "summary": "HN 社区讨论：Simantic 为 AI 代理提供固件仿真服务。"
+  }
+}

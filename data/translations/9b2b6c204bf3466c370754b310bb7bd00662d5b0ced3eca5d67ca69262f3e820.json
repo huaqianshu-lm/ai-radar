@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+  "content_hash": "a8d82bdcd5fc0df97fbf96bb8caae5ca8160f5d237577700bcbc58613b85a9ef",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4890bdcdc5181b9ee648c0c0c55e271ea5e9a940bb85ecd7de01391173e628dd",
+    "title": "Grace Blackwell 需要一个新的调度程序：同一机架可多出 27% 的可用 GPU",
+    "summary": "探讨通过优化调度程序来提升 Grace Blackwell 集群 GPU 利用率的技术文章。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/mistral-large-4-oss",
+  "content_hash": "752ef411167e9d8cbe935e3068fc49be608a60a7e7e5dc2845a77dbe69e9f864",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bd03e4a483646b8532a8be38f63038c71b34c72e91048d24fad76cc874818f73",
+    "title": "我们正在发布 Mistral Large 4 的权重",
+    "summary": "HN 讨论帖，关于 Mistral 发布的开源 Mistral Large 4 模型权重。"
+  }
+}

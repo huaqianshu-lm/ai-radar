@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/lonthq/overtone-captions",
+  "content_hash": "fff6500896008ef08b7c21e47ba8486ae48ae110a93908d5ec40d904da02cedc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "56f0750699d50935fbb34d767572d14953927c647e78a14b165ab7cf280efafc",
+    "title": "Show HN: Overtone – 适用于任意屏幕形状的字幕转录、纠错与剪辑工具",
+    "summary": "HN 社区展示项目：Overtone 可以为各种屏幕形状转录、校正和裁剪字幕。"
+  }
+}

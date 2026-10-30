@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+  "content_hash": "743539ecc565471ddc374f97b222dd165560c87567b9badd6c2fc1b60db3600f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2086ec152456586631a89823eafe3942fe06b8b1110c346495af623f6aeb21e7",
+    "title": "利用基于 Claude 的抗体设计开发针对食物过敏的 IgE 干扰剂",
+    "summary": "相关研究论文探讨了借助 Claude 进行抗体设计以阻断食物过敏 IgE 的方法。"
+  }
+}

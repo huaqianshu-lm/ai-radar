@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/29/ben-hylak",
+  "content_hash": "4b52f7a48515b58ccd8f0b418fc5ae9fe373c06fd0b572decdc068e57e6bef15",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "95cafd4597e819bbe57ba74c5b4c9b77f38ef5092cf9cdaf73782b53efeb7bef",
+    "title": "引用 Ben Hylak 的观点",
+    "summary": "我使用的每个产品都应该只是一个无头模型上下文协议（MCP），输入到一个智能体中，让我完全不需要考虑底层的东西。"
+  }
+}

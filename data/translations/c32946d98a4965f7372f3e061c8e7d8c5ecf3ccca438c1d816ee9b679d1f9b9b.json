@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://martinfowler.com/bliki/LLM-Voice.html",
+  "content_hash": "a208e8f435d2f1d4c28f6f5bea384159c3d9fc5bb43b7ac7f2e805226b207e0d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "815e9f76383a90122a5efa264e464937c82e515631936c699eed9c27b99af25b",
+    "title": "LLM Voice：大语言模型语音交互探讨",
+    "summary": "关于大语言模型语音（LLM Voice）交互模式的 HN 讨论文章。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world",
+  "content_hash": "007ec3e8f4e159de8fd4351a156ea2ea2533a022d9f021854a8911e9779585bb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a41c6b1e5e903c631014638bfe27543e223a1d7bebe3f05e5649bf66747bb7ea",
+    "title": "用自主 Fable 级模型构建多人游戏世界",
+    "summary": "我如何构建了世界上最痴迷 AI 的公司。Jacob Sansbury 描述了他们如何构建相关内容的文章。"
+  }
+}
