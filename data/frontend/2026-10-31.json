@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-31",
+  "items": [
+    {
+      "id": "574dbaf7fc8731e405753fdd629edf08113dcd8a86398ab5c6140b68360db244",
+      "title": "合理使用原则惠及所有人",
+      "summary": "OpenAI 分享了来自创作者、学者、无障碍倡导者和法律专家等群体的法庭简报摘录，探讨了合理使用原则如何支持 AI 训练。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-30T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/fair-use-benefits-everyone"
+    },
+    {
+      "id": "a86d24c59c826150d16deb117d5d2c5c4ade94e1abd42be5bfff46adde0bd560",
+      "title": "社区安全报告与针对青少年的全新保护措施",
+      "summary": "OpenAI 正通过扩大安全保障、更早的干预措施以及对公共安全报告的新承诺，来加强 ChatGPT 中的暴力预防功能。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-30T09:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+    },
+    {
+      "id": "84abd1857de5dfd951d90dcfdd8cecc910571c46b00c6ecbe7661909d42cb5b5",
+      "title": "简化网站表达 AI 训练偏好的方式",
+      "summary": "OpenAI 将遵循共享的 robots.txt 信号，帮助网站运营者向参与的提供商传达其 AI 训练偏好。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-10-30T09:30:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+    },
+    {
+      "id": "3b88e631408680364ea9a152f6e9efd2ecc78ea8cf4125966179efcad826634d",
+      "title": "Google Antigravity：加速抗菌肽搜索 — Google DeepMind",
+      "summary": "利用 Google Antigravity 加速搜索抗菌肽。随着抗菌素耐药性水平不断上升，迫切需要新的抗生素...",
+      "source": "Google DeepMind Blog",
+      "source_type": "official",
+      "display_time": "2026-10-31T02:04:27Z",
+      "time_type": "fetched",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery"
+    },
+    {
+      "id": "08aa8115cb5d9c8920990d12b97d16085506bd37a1c5f14f480292bcdf0b5484",
+      "title": "SynthID Bio：用于合成生物学的数字水印方法 — Google DeepMind",
+      "summary": "介绍 SynthID Bio，这是一种为 AI 生成的蛋白质添加数字水印的概念验证方法，同时能够保持其生物学功能。",
+      "source": "Google DeepMind Blog",
+      "source_type": "official",
+      "display_time": "2026-10-31T02:04:27Z",
+      "time_type": "fetched",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio"
+    },
+    {
+      "id": "370d8453b070a7bffccc481b1ad8507eb64ebfc9e3d43f800d25d724a2c186ac",
+      "title": "Timestral：Mistral 的时间序列基础模型",
+      "summary": "Timestral 是 Mistral 的首个时间序列基础模型系列，只需少量参数即可提供最先进的概率多元预测。",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-10-31T02:04:27Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/timestral"
+    },
+    {
+      "id": "bd4df285f66a6b48989f2836c3f8f070b11887b372c1124ebfbbeb9c10fef5b7",
+      "title": "Mistral Large 4 OSS、智能体群集行为及 Sam Altman 访谈",
+      "summary": "包含 2026-10-30 AI 快讯摘要，涉及 Mistral Large 4 OSS、智能体群集行为、Sam Altman 访谈以及 AI 在用户发现漏洞前将安全修复转化为有效漏洞利用的能力等内容。",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-10-30T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-10-30"
+    },
+    {
+      "id": "1f6d67391a1445d38ade842054b403c966992a0e4829989b449be83c6ffe289e",
+      "title": "[AI新闻] 构建 AIE CODE：顶级编程智能体会议",
+      "summary": "涵盖 Mistral 的开源权重发布、前沿监控以及当天 AI 领域的 Twitter 和 Reddit 总结。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-10-30T08:24:29Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/"
+    },
+    {
+      "id": "037154e824aaff256e14aef2b586c0e511965e0336f47b9c77c9f940acb09baf",
+      "title": "nemotron-halloween：使用 NVIDIA Nemotron 开源模型构建鬼屋的项目，代号为 MonsterHouse",
+      "summary": "使用 NVIDIA Nemotron 开源模型构建鬼屋的项目，代号为 MonsterHouse。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-10-30T17:57:24Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+    },
+    {
+      "id": "3b8361d079acb9cc9e2ee8bd73fe85c871bc0d1656139f30c46b718d61040471",
+      "title": "dbreunig/nesformer：受 Divyansh Agrawal 的 qwenputer 启发，Drew Breunig 将一个运行中的任天堂红白机（NES）6502 CPU 模拟器嵌入到权重中",
+      "summary": "受 Divyansh Agrawal 的 qwenputer 启发，Drew Breunig 将一个运行中的任天堂红白机（NES）6502 CPU 模拟器嵌入到权重中。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-30T21:59:22Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/"
+    },
+    {
+      "id": "dc1245866190dc029ad36165a91c32d51c08bc3b858f467d65f192180d62bc94",
+      "title": "MemPalace / mempalace：基准测试表现最佳且完全免费的开源 AI 内存系统，使用 Python 编写，今日获得 258 个星标",
+      "summary": "基准测试表现最佳且完全免费的开源 AI 内存系统，使用 Python 编写，今日获得 258 个星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-31T02:04:27Z",
+      "time_type": "fetched",
+      "url": "https://github.com/MemPalace/mempalace"
+    },
+    {
+      "id": "248c571e4aa6053d46d087affc154bd9fe09e66fc90a26630a20581e526bd844",
+      "title": "NVIDIA-NeMo / Speech 仓库",
+      "summary": "一个可扩展的生成式 AI 框架，专为从事大语言模型、多模态和语音 AI（如自动语音识别）的研究人员和开发者构建。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-31T02:04:27Z",
+      "time_type": "fetched",
+      "url": "https://github.com/NVIDIA-NeMo/Speech"
+    },
+    {
+      "id": "82a901da1b9bedec6f38670bb587455ddbcbae1f72df25bcb5a6b8c95709a39b",
+      "title": "anthropics / skills：Agent Skills（智能体技能）的公共仓库，使用 Python 编写，今日获得 295 个星标",
+      "summary": "Agent Skills（智能体技能）的公共仓库，使用 Python 编写，今日获得 295 个星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-31T02:04:27Z",
+      "time_type": "fetched",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "id": "96896625df69445fca4cc72fdfd5f80e3631fe1f4b81b6bc73b748aa70b9da48",
+      "title": "ethanplusai / harvey：由 Claude Code 或 Codex 驱动的自主 AI 销售智能体",
+      "summary": "由 Claude Code 或 Codex 驱动的自主 AI 销售智能体。能够寻找潜在客户、编写冷邮件、发送营销活动、处理回复并预定会议，无需 API 密钥。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-31T02:04:27Z",
+      "time_type": "fetched",
+      "url": "https://github.com/ethanplusai/harvey"
+    },
+    {
+      "id": "f03b6c686a597d54579e3a4970adb17c756f024b46a5896b5654da6fb7db3df4",
+      "title": "kirodotdev / KiroCrew：一个用于开发工作的持久化工作区，能够自我改进并跨越单次会话持续运行，使用 Python 编写，今日获得 19 个星标",
+      "summary": "一个用于开发工作的持久化工作区，能够自我改进并跨越单次会话持续运行，使用 Python 编写，今日获得 19 个星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-31T02:04:27Z",
+      "time_type": "fetched",
+      "url": "https://github.com/kirodotdev/KiroCrew"
+    },
+    {
+      "id": "191947403d65ccc38b8cc6add8905e526b77fc3866f6fabaebd4561fd325c9b0",
+      "title": "langchain-ai / deepagents：功能齐全的开箱即用智能体框架，使用 Python 编写，今日获得 46 个星标",
+      "summary": "功能齐全的开箱即用智能体框架，使用 Python 编写，今日获得 46 个星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-10-31T02:04:27Z",
+      "time_type": "fetched",
+      "url": "https://github.com/langchain-ai/deepagents"
+    },
+    {
+      "id": "97c67637a7780f4fa42fecaac0ff02d7dc02744a235e7566a517bd8f2a7efdc4",
+      "title": "构建 AI 原生的工程组织",
+      "summary": "HN 讨论帖，探讨如何打造 AI 原生的工程团队。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-29T21:58:34Z",
+      "time_type": "published",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875"
+    },
+    {
+      "id": "a13f736d9894568550e2a3e179c4e467d2aa0ec46fb60b3697ef9abf9aa53388",
+      "title": "Cursor 市场上的 VS Code 扩展 Claude Code 中存在后门",
+      "summary": "HN 讨论帖，关于 Cursor 市场上官方 Claude Code VSX 插件被篡改的安全性事件。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-30T07:09:12Z",
+      "time_type": "published",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+    },
+    {
+      "id": "4046f158b923cc55ad203a2c5c6e19492455135e52b146f5ddf9e743852e99ff",
+      "title": "思科为工程师提供无限量 AI Token 以重构遗留代码",
+      "summary": "HN 讨论帖，报道思科总裁 Jeetu Patel 相关 Gen-Z 工程师使用无限量 AI 资源重构代码的新闻。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-30T14:08:20Z",
+      "time_type": "published",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/"
+    },
+    {
+      "id": "b4b5d4708ea8c5f7b0dc2cac99c63a5f5fd53584bee0aa1b4851303fc46d45e6",
+      "title": "HN 展示：Sketch Stadium – 观看你的智能体玩 Pictionary 猜画游戏",
+      "summary": "HN 展示帖，智能体可以游玩 Pictionary 猜画游戏。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-30T15:23:11Z",
+      "time_type": "published",
+      "url": "https://sketch.wakeshift.ai/games/q5ucru"
+    },
+    {
+      "id": "55737272f83db8f20c925a42cebb24bf05305780f9db527180de3677b5e23b08",
+      "title": "AI 没有在取代 SRE，而是在使其技能退化",
+      "summary": "HN 讨论帖，探讨 AI 技术对站点可靠性工程师（SRE）技能水平带来的负面影响。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-30T15:52:18Z",
+      "time_type": "published",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
+    },
+    {
+      "id": "80c33fc3e69f64ca3c2e1cc2c57118a83d3a30ad5de77ce76c8233737e33de23",
+      "title": "有些事情正在发生：来自 AI 公司的一封信",
+      "summary": "HN 讨论帖，分享一篇来自 AI 行业的观察与思考文章。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-30T15:53:42Z",
+      "time_type": "published",
+      "url": "https://alanbellows.com/some-thing-is-happening/"
+    },
+    {
+      "id": "12defed6cdddc1dd6164a2e7e7e96d7796c9f809e380015c17480c98b639f391",
+      "title": "Blackstone 称 Anthropic 在 IPO 后可能无法获得投资级评级",
+      "summary": "HN 讨论帖，报道黑石集团对 Anthropic 未来上市后信用评级的预测。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-30T17:27:25Z",
+      "time_type": "published",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f"
+    },
+    {
+      "id": "90e0873a8bd27ba4b9d18a735190b0374702726fcaa7731df1370049685dc764",
+      "title": "华尔街收盘大幅下跌，因 AI 资金烧钱担忧引发科技股抛售",
+      "summary": "HN 讨论帖，报道由于市场对 AI 巨额支出的担忧加剧，导致亚马逊和英特尔等财报及纳斯达克期货表现引发科技股遭到抛售。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-30T21:32:35Z",
+      "time_type": "published",
+      "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/"
+    },
+    {
+      "id": "d1583d47feea2ac911dbe3354e2e2bb89aae7f19512e6c71b3776dd6981ee056",
+      "title": "Product Hunt: Canva Brush — 一款用于编辑设计的视觉语言模型",
+      "summary": "Product Hunt 页面详情",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-30T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/CC5KZ2CNTCOFOY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "3b6fa2d09b1683d4c6de88229f8dde157c44bdbe6b7153d60ce89748ef0d9112",
+      "title": "Product Hunt: Chopstick — 可自动编写的 Mac 活动与操作小组件",
+      "summary": "Product Hunt 页面详情",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-30T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/IYFTKXHBVVHP2G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "8edab228d76356bdc6b8e6a530a9ef9f9a9f60591d62f7ecb81225611b10e2ee",
+      "title": "Product Hunt: Faylee — 让编码代理通过单个链接修复错误报告的工具",
+      "summary": "Product Hunt 页面详情",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-30T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/2NNSBIYKNI3BKE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "f0b6da3a7a5bf0034a52e78e79420e94a0f69aa9e6b7b8ff91794f044f828189",
+      "title": "Product Hunt: MCP Server by XWiki — 在保持控制权的同时为 AI 提供维基知识",
+      "summary": "Product Hunt 页面详情",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-30T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/HCKMTX4XJFTNMW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "87200684cd1f23772ac8bb22b33b350529e803936106d3ce5ce3235172463c25",
+      "title": "Product Hunt: SparkBots AI (Powered by Jev) — 即时提取关键细节并分析网页或 PDF 的工具",
+      "summary": "Product Hunt 页面详情",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-30T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/MSH46K62Z5PPIN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "de8c9c0caf087367d9026297451305660b7eeddfff504a71efaa33d4eb84b2ef",
+      "title": "Product Hunt: SpeakON Agent — 将自然语音转化为由代理完成的实际工作",
+      "summary": "Product Hunt 页面详情",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-30T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/GUQI7NTMSNKCWZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "90ac943fd2a9ddf4fbb190957ac463cbbbc51643e598909143ddb6b66b757ed5",
+      "title": "Product Hunt: Teable Mobile — 在手机上构建团队运行系统的移动端应用",
+      "summary": "Product Hunt 页面详情",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-30T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/63BC4PYRAMP73C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "252d8237e99e11466913cd8c782c486c14ee129f0cc6d5111ef52292a6a68957",
+      "title": "Product Hunt: Vaani Developer Platform — 您唯一需要的语音 AI 开发平台",
+      "summary": "Product Hunt 页面详情",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-30T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/PLG3DPJZGCJSAB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "5cf4b2f15448bc522a3ede0c940c4a7a8457a46b7e4fa9804cd6e3f00fdc36b4",
+      "title": "Product Hunt: fastbrowse — 运行速度最快的开源浏览器代理",
+      "summary": "Product Hunt 页面详情",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-30T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/6XWF3PRT2W3QVO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "162a4481b360dc53c9b8a63cc04e61646c7d276d74d795c88e9f325f8ccbc42d",
+      "title": "Product Hunt: ilse — 指向应用即可让 AI 代理修改代码的工具",
+      "summary": "Product Hunt 页面详情",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-30T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/JSFHGOGXTNVTBO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
