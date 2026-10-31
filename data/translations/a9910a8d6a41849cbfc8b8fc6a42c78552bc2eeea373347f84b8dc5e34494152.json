@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/30/nesformer",
+  "content_hash": "796fa3f6f386390287188c0a0c3f1b7c86c87a6660b4d456af711a0bed30b47a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3b8361d079acb9cc9e2ee8bd73fe85c871bc0d1656139f30c46b718d61040471",
+    "title": "dbreunig/nesformer：受 Divyansh Agrawal 的 qwenputer 启发，Drew Breunig 将一个运行中的任天堂红白机（NES）6502 CPU 模拟器嵌入到权重中",
+    "summary": "受 Divyansh Agrawal 的 qwenputer 启发，Drew Breunig 将一个运行中的任天堂红白机（NES）6502 CPU 模拟器嵌入到权重中。"
+  }
+}

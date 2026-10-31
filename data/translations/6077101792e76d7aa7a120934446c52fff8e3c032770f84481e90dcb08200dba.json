@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+  "content_hash": "f1047ff909cd049e785c84b2df8d62d13996424a742c1d5ab91d8c28a648c429",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "12defed6cdddc1dd6164a2e7e7e96d7796c9f809e380015c17480c98b639f391",
+    "title": "Blackstone 称 Anthropic 在 IPO 后可能无法获得投资级评级",
+    "summary": "HN 讨论帖，报道黑石集团对 Anthropic 未来上市后信用评级的预测。"
+  }
+}

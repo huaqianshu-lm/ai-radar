@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/kirodotdev/KiroCrew",
+  "content_hash": "1f92adfc3be398ebf327e7d27a84c3f77a732bdb301f11e33a52dd9a56bc345b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f03b6c686a597d54579e3a4970adb17c756f024b46a5896b5654da6fb7db3df4",
+    "title": "kirodotdev / KiroCrew：一个用于开发工作的持久化工作区，能够自我改进并跨越单次会话持续运行，使用 Python 编写，今日获得 19 个星标",
+    "summary": "一个用于开发工作的持久化工作区，能够自我改进并跨越单次会话持续运行，使用 Python 编写，今日获得 19 个星标。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://phorion.io/blog/offical-claude-code-vsx-compromise",
+  "content_hash": "8475039c649551b53c7961f52ddc41b8a9cbf45f30ef3cc8c4c7b9dcb9dde24b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a13f736d9894568550e2a3e179c4e467d2aa0ec46fb60b3697ef9abf9aa53388",
+    "title": "Cursor 市场上的 VS Code 扩展 Claude Code 中存在后门",
+    "summary": "HN 讨论帖，关于 Cursor 市场上官方 Claude Code VSX 插件被篡改的安全性事件。"
+  }
+}

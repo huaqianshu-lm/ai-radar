@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://alanbellows.com/some-thing-is-happening",
+  "content_hash": "03ecc1e627fe6b6d89adc4298dda230edccfe1259ee4d8cc8d06f04b0377f08b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "80c33fc3e69f64ca3c2e1cc2c57118a83d3a30ad5de77ce76c8233737e33de23",
+    "title": "有些事情正在发生：来自 AI 公司的一封信",
+    "summary": "HN 讨论帖，分享一篇来自 AI 行业的观察与思考文章。"
+  }
+}

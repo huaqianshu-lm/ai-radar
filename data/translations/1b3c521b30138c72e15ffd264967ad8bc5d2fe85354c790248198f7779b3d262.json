@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-10-30",
+  "content_hash": "0aa8ac6a860afb974c0a14407fbbda2799800e905d51c3ccf10f12b932712d69",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bd4df285f66a6b48989f2836c3f8f070b11887b372c1124ebfbbeb9c10fef5b7",
+    "title": "Mistral Large 4 OSS、智能体群集行为及 Sam Altman 访谈",
+    "summary": "包含 2026-10-30 AI 快讯摘要，涉及 Mistral Large 4 OSS、智能体群集行为、Sam Altman 访谈以及 AI 在用户发现漏洞前将安全修复转化为有效漏洞利用的能力等内容。"
+  }
+}

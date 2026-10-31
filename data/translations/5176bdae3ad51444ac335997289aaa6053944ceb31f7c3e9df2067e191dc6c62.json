@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/ethanplusai/harvey",
+  "content_hash": "ebc7f0c88d36d66d4ef687d553217637c1bfa534755968e2b0791f78eef93cbf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "96896625df69445fca4cc72fdfd5f80e3631fe1f4b81b6bc73b748aa70b9da48",
+    "title": "ethanplusai / harvey：由 Claude Code 或 Codex 驱动的自主 AI 销售智能体",
+    "summary": "由 Claude Code 或 Codex 驱动的自主 AI 销售智能体。能够寻找潜在客户、编写冷邮件、发送营销活动、处理回复并预定会议，无需 API 密钥。"
+  }
+}

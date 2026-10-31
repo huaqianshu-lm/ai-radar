@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+  "content_hash": "ad31bf1d8c8a8a5af98f350a12580fbdafb4df2b6819d6b47fb349266c115cdb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "84abd1857de5dfd951d90dcfdd8cecc910571c46b00c6ecbe7661909d42cb5b5",
+    "title": "简化网站表达 AI 训练偏好的方式",
+    "summary": "OpenAI 将遵循共享的 robots.txt 信号，帮助网站运营者向参与的提供商传达其 AI 训练偏好。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+  "content_hash": "8fc5162e33f7d9e105bc316e23acec7b1843b826581b836cb379bdb6884cf8b2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "037154e824aaff256e14aef2b586c0e511965e0336f47b9c77c9f940acb09baf",
+    "title": "nemotron-halloween：使用 NVIDIA Nemotron 开源模型构建鬼屋的项目，代号为 MonsterHouse",
+    "summary": "使用 NVIDIA Nemotron 开源模型构建鬼屋的项目，代号为 MonsterHouse。"
+  }
+}
