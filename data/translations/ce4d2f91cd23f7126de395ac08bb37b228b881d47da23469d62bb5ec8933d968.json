@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/hacksider/Deep-Live-Cam",
+  "content_hash": "cb86cd8452cac67f03a385b0feba0a24f6e4676da18eb8eb88628c699210f3a8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ec2a1fb5129b99e970c4810d55a7c4fe650e7f80b5916c1d201d6b3879147a96",
+    "title": "hacksider / Deep-Live-Cam：仅需单张图片即可实现实时换脸和一键视频深度伪造的工具",
+    "summary": "仅需单张图片即可实现实时换脸和一键视频深度伪造的工具。使用 Python 编写，今日获得 41 星标。"
+  }
+}

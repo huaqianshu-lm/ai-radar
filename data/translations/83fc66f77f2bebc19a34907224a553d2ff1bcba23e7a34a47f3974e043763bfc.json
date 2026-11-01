@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+  "content_hash": "2ba25f7fbe80ed6c979f84df566f45db6bb6f8dc01e322dc72d50446a1a1bc71",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1c640f88e053cb517a45732d6f16f620b91ae8dcc8c28cbe79a3d64ecb89b0a9",
+    "title": "用数学说话：我们是如何接管 ChatGPT 账户的",
+    "summary": "HN 讨论故事，原始链接指向 Parameter Labs 发布的关于发现 OpenAI 漏洞的文章，作者为 armcat，得分为 303。"
+  }
+}

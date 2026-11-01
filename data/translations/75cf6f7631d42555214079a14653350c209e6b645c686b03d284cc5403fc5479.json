@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+  "content_hash": "a046aa554976151fd426686f03d7e43891905a1d3b976b8b54208611e333ef7b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a181817ce8345f3ad63c0dce2e6c6320e50cc1297c2277d395ae6b9949a56b45",
+    "title": "我们是如何接管 ChatGPT 账户的",
+    "summary": "Parameter Labs 描述了他们针对 ChatGPT artifacts 模式实现发现的一个漏洞（OpenAI 过去称之为...）。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/paperless-ngx/paperless-ngx",
+  "content_hash": "8df57be9a9533c5e38e039c4bd17c1b56819a8d39eaa66238830d0e267854aa0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e8cd7111f3678ea8f97cd5f1c87ac7599aefdc35542dc0ab9548a1477a5ebfa0",
+    "title": "paperless-ngx / paperless-ngx：一个社区支持的功能强大的文档管理系统：扫描、索引和归档所有文档",
+    "summary": "一个社区支持的功能强大的文档管理系统：扫描、索引和归档所有文档。使用 Python 编写，今日获得 80 星标。"
+  }
+}

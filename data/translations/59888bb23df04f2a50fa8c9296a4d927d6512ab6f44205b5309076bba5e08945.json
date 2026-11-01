@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+  "content_hash": "28262b529a6d79384117ff3239670bc357ada1403a01c4d9bf041688359f8c69",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ef006b6d1900eae33747e3a0134b944c7c31f8ab9a5408e1d54692d868440d19",
+    "title": "恶意软件利用大语言模型根据受害者的价值进行排名",
+    "summary": "HN 讨论故事，原始链接指向 Cisco Talos 发布的关于 AI 模型驱动的受害者优先级排序的文章。"
+  }
+}

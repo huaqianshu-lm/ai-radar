@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/DROUHCHKOTIAJV",
+  "content_hash": "33f95dcd3a637daf12b022f48d54b55c1e709f0efcd245bb23a645bb94302a15",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c128b4f0ee9ee82c586438d9d2571c9f8a146d94b393ee1ad71d4d19af7e918b",
+    "title": "Product Hunt: telemetry.dev — 针对 AI 智能体的 LLM 可观测性工具",
+    "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/telemetry-dev"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/0x0funky/agent-sprite-forge",
+  "content_hash": "080d884b1ed6a45ea13fe492ac02e9aa49daff0a407259a20d1b43fa6ed2502f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "359808d7ce0b692e2100a2317b336bdb1946d351ff9a22cab6bc14b01da7dd6d",
+    "title": "0x0funky / agent-sprite-forge：一个 Agent 技能，用于从提示词生成 2D 精灵图集和地图、透明 PNG 帧以及动画 GIF",
+    "summary": "一个 Agent 技能，用于从提示词生成 2D 精灵图集和地图、透明 PNG 帧以及动画 GIF。使用 Python 编写，今日获得 45 星标。"
+  }
+}

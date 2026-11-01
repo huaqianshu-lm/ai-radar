@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://datavorous.com/writing/demoscener",
+  "content_hash": "45ea7bf38b60ba3ff6726d8e2ba0b816dd2763e35e213d90cc413504ae333b53",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d67775bd9897367f4e75e359bf1140bd5ab5dbf3a65e6e0a3b2356f13b4b8fd7",
+    "title": "我基于 Demoscene 对一个模型进行了后训练",
+    "summary": "HN 讨论故事，原始链接指向 datavorous.com 的文章，作者为 datavorous_，得分为 48。"
+  }
+}

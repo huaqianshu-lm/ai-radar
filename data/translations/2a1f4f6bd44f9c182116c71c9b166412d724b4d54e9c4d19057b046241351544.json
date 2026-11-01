@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/26OEM3SOKV2UVA",
+  "content_hash": "be8fb80185cfe7ab0a193e0315c7834cc06c8b7aff6978d3e76fdf44e5c9748c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cc25a4f215505f0ccc65dc59446b550c1dcd00dac29ba6080386ad486329ccd6",
+    "title": "Product Hunt：AC Bridge —— 当 Claude Code 或 Codex 需要你时，你的智能灯会亮起提示",
+    "summary": "Product Hunt 产品页面，用于连接智能灯光与 AI 编程工具的桥梁应用。"
+  }
+}

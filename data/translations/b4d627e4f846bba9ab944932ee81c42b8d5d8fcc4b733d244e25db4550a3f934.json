@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/arca",
+  "content_hash": "ab1077a541674efa71fb474f0e4d82e54de27f2583a452cfcd91df4abdab0de2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ef2450765babae8174a391c630bf49a27f510c18b26394908a7ce375deaf6bc8",
+    "title": "Agent 提示人类：在长期金融工作中使用 Agent",
+    "summary": "Arca 的 AI 负责人讨论了持久记忆、定制 harness 的优势以及跨越数天的 Agent 工作流。"
+  }
+}

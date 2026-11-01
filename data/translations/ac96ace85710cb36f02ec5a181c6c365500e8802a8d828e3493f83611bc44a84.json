@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/bregman-arie/devops-exercises",
+  "content_hash": "ae96116fb6a88c1b430d930a666dad7d639c302c58deaf52199f8c0683da0e3a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2d35d90c4382311186b71daa05b171c3e5ac79c8133fc723dca6be7ffbfe0569",
+    "title": "bregman-arie / devops-exercises：包含 Linux、Jenkins、AWS、SRE、Prometheus、Docker、Python、Ansible、Git、Kubernetes、Terraform、OpenStack、SQL、NoSQL、Azure、GCP、DNS、Elastic、网络、虚拟化等内容的 DevOps 练习合集",
+    "summary": "包含 Linux、Jenkins、AWS、SRE、Prometheus、Docker、Python、Ansible、Git、Kubernetes、Terraform、OpenStack、SQL、NoSQL、Azure、GCP、DNS、Elastic、网络、虚拟化等内容的 DevOps 练习合集。"
+  }
+}

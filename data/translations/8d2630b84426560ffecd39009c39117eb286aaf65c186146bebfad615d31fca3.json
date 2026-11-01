@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+  "content_hash": "c9b5a5b047b55166483a8b1be47d82600bf098153b9eda32716d86ead9532855",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6725a773cbcfd0fd913bcc42e2d1cf2c1b91429bf355a36026b1dd0e6b8052b0",
+    "title": "Memdoor：由 5 个 Qwen3.8-27B 模型组成的团队在 LiveCodeBench Hard 上击败了 Fable 5",
+    "summary": "HN 讨论故事，原始链接指向 memdoor 仓库中的多模型工作流示例，作者为 guregodevo。"
+  }
+}

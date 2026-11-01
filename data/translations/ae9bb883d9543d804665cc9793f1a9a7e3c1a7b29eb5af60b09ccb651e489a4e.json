@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
+  "content_hash": "fc1958cd63acc330bc1d4fd36dd4f825c20c59ee00cabd82747a51350a766625",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5433d48c0a4a7162778ef8994e8dc8a71f52c441c6af5480291803c1f0297519",
+    "title": "datasette-llm 0.1a9：发布 datasette-llm 0.1a9",
+    "summary": "发布 datasette-llm 0.1a9。Datasette Agent 的重大升级正在筹备中，在此期间，这里对用户体验进行了微小的改进。"
+  }
+}
