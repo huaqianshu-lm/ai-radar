@@ -1,0 +1,285 @@
+{
+  "date": "2026-11-01",
+  "items": [
+    {
+      "id": "70a5d3bd151a623147cfe7820f1bf2c669b232359783b71d5d7de7388a0229da",
+      "title": "Mistral x Mozilla：私密、多语言的 AI 浏览体验",
+      "summary": "今天我们宣布与 Mozilla 合作，为在线使用 AI 的用户带来隐私、控制权和选择权。Firefox Smart Window（测试版）...",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-11-01T01:56:22Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/mistral-x-mozilla"
+    },
+    {
+      "id": "e38fc58252f2de55a4628462762acb0c2f93d1601223775d882a7a5059a92d50",
+      "title": "Google 承认 AI 模式损害搜索收入；跌幅 15%、5000 亿美元市值为 2004 年上市以来最糟。AI 熊市即将来临？",
+      "summary": "事实证明，鱼与熊掌不可兼得。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-10-31T05:00:48Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/"
+    },
+    {
+      "id": "ef2450765babae8174a391c630bf49a27f510c18b26394908a7ce375deaf6bc8",
+      "title": "Agent 提示人类：在长期金融工作中使用 Agent",
+      "summary": "Arca 的 AI 负责人讨论了持久记忆、定制 harness 的优势以及跨越数天的 Agent 工作流。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-10-31T16:05:00Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/arca/"
+    },
+    {
+      "id": "5433d48c0a4a7162778ef8994e8dc8a71f52c441c6af5480291803c1f0297519",
+      "title": "datasette-llm 0.1a9：发布 datasette-llm 0.1a9",
+      "summary": "发布 datasette-llm 0.1a9。Datasette Agent 的重大升级正在筹备中，在此期间，这里对用户体验进行了微小的改进。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-31T22:10:01Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/"
+    },
+    {
+      "id": "a181817ce8345f3ad63c0dce2e6c6320e50cc1297c2277d395ae6b9949a56b45",
+      "title": "我们是如何接管 ChatGPT 账户的",
+      "summary": "Parameter Labs 描述了他们针对 ChatGPT artifacts 模式实现发现的一个漏洞（OpenAI 过去称之为...）。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-10-31T23:15:22Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+    },
+    {
+      "id": "359808d7ce0b692e2100a2317b336bdb1946d351ff9a22cab6bc14b01da7dd6d",
+      "title": "0x0funky / agent-sprite-forge：一个 Agent 技能，用于从提示词生成 2D 精灵图集和地图、透明 PNG 帧以及动画 GIF",
+      "summary": "一个 Agent 技能，用于从提示词生成 2D 精灵图集和地图、透明 PNG 帧以及动画 GIF。使用 Python 编写，今日获得 45 星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-01T01:56:22Z",
+      "time_type": "fetched",
+      "url": "https://github.com/0x0funky/agent-sprite-forge"
+    },
+    {
+      "id": "2d35d90c4382311186b71daa05b171c3e5ac79c8133fc723dca6be7ffbfe0569",
+      "title": "bregman-arie / devops-exercises：包含 Linux、Jenkins、AWS、SRE、Prometheus、Docker、Python、Ansible、Git、Kubernetes、Terraform、OpenStack、SQL、NoSQL、Azure、GCP、DNS、Elastic、网络、虚拟化等内容的 DevOps 练习合集",
+      "summary": "包含 Linux、Jenkins、AWS、SRE、Prometheus、Docker、Python、Ansible、Git、Kubernetes、Terraform、OpenStack、SQL、NoSQL、Azure、GCP、DNS、Elastic、网络、虚拟化等内容的 DevOps 练习合集。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-01T01:56:22Z",
+      "time_type": "fetched",
+      "url": "https://github.com/bregman-arie/devops-exercises"
+    },
+    {
+      "id": "6d3bd03b499863301fb73ea1a72dc2547622e7fb9eec3d9bc389454009cf250b",
+      "title": "calesthio / OpenMontage：全球首个开源的智能体视频制作系统",
+      "summary": "全球首个开源的智能体视频制作系统。包含 12 个生产管道、100 多个工具、700 多个智能体技能和生产知识文件。将你的 AI 创意转化为现实。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-01T01:56:22Z",
+      "time_type": "fetched",
+      "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "id": "ec2a1fb5129b99e970c4810d55a7c4fe650e7f80b5916c1d201d6b3879147a96",
+      "title": "hacksider / Deep-Live-Cam：仅需单张图片即可实现实时换脸和一键视频深度伪造的工具",
+      "summary": "仅需单张图片即可实现实时换脸和一键视频深度伪造的工具。使用 Python 编写，今日获得 41 星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-01T01:56:22Z",
+      "time_type": "fetched",
+      "url": "https://github.com/hacksider/Deep-Live-Cam"
+    },
+    {
+      "id": "e8cd7111f3678ea8f97cd5f1c87ac7599aefdc35542dc0ab9548a1477a5ebfa0",
+      "title": "paperless-ngx / paperless-ngx：一个社区支持的功能强大的文档管理系统：扫描、索引和归档所有文档",
+      "summary": "一个社区支持的功能强大的文档管理系统：扫描、索引和归档所有文档。使用 Python 编写，今日获得 80 星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-01T01:56:22Z",
+      "time_type": "fetched",
+      "url": "https://github.com/paperless-ngx/paperless-ngx"
+    },
+    {
+      "id": "ed7605e93ca5a9598952a9e3329d163731133f9687cbe338d70b8920f0918c7a",
+      "title": "Project Suncatcher 原型卫星的首次响应",
+      "summary": "HN 讨论故事，链接指向 Google 官方博客上的相关模型与研究文章。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-31T03:54:00Z",
+      "time_type": "published",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"
+    },
+    {
+      "id": "1c640f88e053cb517a45732d6f16f620b91ae8dcc8c28cbe79a3d64ecb89b0a9",
+      "title": "用数学说话：我们是如何接管 ChatGPT 账户的",
+      "summary": "HN 讨论故事，原始链接指向 Parameter Labs 发布的关于发现 OpenAI 漏洞的文章，作者为 armcat，得分为 303。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-31T10:30:11Z",
+      "time_type": "published",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+    },
+    {
+      "id": "778916995661ca3bd36a609c3a9fd115e6fba23c888559fdd9be01bd4f7cfac3",
+      "title": "Show HN：一个生活在引导扇区中的语言模型",
+      "summary": "HN 讨论故事，原始链接指向 GitHub 仓库 bootgpt，作者为 kerlenton，得分为 59。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-31T12:58:29Z",
+      "time_type": "published",
+      "url": "https://github.com/kerlenton/bootgpt"
+    },
+    {
+      "id": "ef006b6d1900eae33747e3a0134b944c7c31f8ab9a5408e1d54692d868440d19",
+      "title": "恶意软件利用大语言模型根据受害者的价值进行排名",
+      "summary": "HN 讨论故事，原始链接指向 Cisco Talos 发布的关于 AI 模型驱动的受害者优先级排序的文章。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-31T14:29:03Z",
+      "time_type": "published",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
+    },
+    {
+      "id": "66b1d8c95b1508c564bd73dff9c4f55461c7f656e233d16cd3ec6574a5611af8",
+      "title": "Show HN：一个为我的计算机提供电话线的 USB-C LTE 调制解调器",
+      "summary": "HN 讨论故事，原始链接指向 GitHub 仓库 koppar-lte-modem，作者为 abijahkaj，得分为 45。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-31T15:56:41Z",
+      "time_type": "published",
+      "url": "https://github.com/Koppar-AI/koppar-lte-modem"
+    },
+    {
+      "id": "d67775bd9897367f4e75e359bf1140bd5ab5dbf3a65e6e0a3b2356f13b4b8fd7",
+      "title": "我基于 Demoscene 对一个模型进行了后训练",
+      "summary": "HN 讨论故事，原始链接指向 datavorous.com 的文章，作者为 datavorous_，得分为 48。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-31T18:08:24Z",
+      "time_type": "published",
+      "url": "https://datavorous.com/writing/demoscener/"
+    },
+    {
+      "id": "3c488a5d9e8fc9b748dff7aa188e11c59b7333143151dc184d1add66c5e1b5ad",
+      "title": "Anthropic 封禁任何涉及训练更大模型的用户",
+      "summary": "HN 讨论故事，原始链接指向 Twitter 帖子，作者为 pretext，得分为 199。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-31T19:39:19Z",
+      "time_type": "published",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088"
+    },
+    {
+      "id": "4694cfbe3b290c441c2a3865ddad09f7c430f00f87310ceae49b4c1d1419250d",
+      "title": "AI 文本水印与质量损失",
+      "summary": "HN 讨论故事，原始链接指向 keyvan.net 的文章，作者为 danielfoster，得分为 20。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-31T21:50:13Z",
+      "time_type": "published",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality"
+    },
+    {
+      "id": "6725a773cbcfd0fd913bcc42e2d1cf2c1b91429bf355a36026b1dd0e6b8052b0",
+      "title": "Memdoor：由 5 个 Qwen3.8-27B 模型组成的团队在 LiveCodeBench Hard 上击败了 Fable 5",
+      "summary": "HN 讨论故事，原始链接指向 memdoor 仓库中的多模型工作流示例，作者为 guregodevo。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-10-31T22:46:12Z",
+      "time_type": "published",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
+    },
+    {
+      "id": "cc25a4f215505f0ccc65dc59446b550c1dcd00dac29ba6080386ad486329ccd6",
+      "title": "Product Hunt：AC Bridge —— 当 Claude Code 或 Codex 需要你时，你的智能灯会亮起提示",
+      "summary": "Product Hunt 产品页面，用于连接智能灯光与 AI 编程工具的桥梁应用。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-31T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/26OEM3SOKV2UVA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "963c9e6d34d09a3d47bf20b82ddbc24f2c03c3a843d099d3bb37f463684b6b12",
+      "title": "Product Hunt：Agnos —— 为 AI 清理文档，并查看删除了什么",
+      "summary": "Product Hunt 产品页面，提供面向 AI 优化和清理文档并追踪删除内容的工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-31T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/MOV2ROBFTCNRAC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "fe53fa62acd87a43cf74422f456e730938a3067012940f2d09e1b3e63a2f133e",
+      "title": "Product Hunt：Coding Wrapped —— 查看你如何真正使用 Claude Code 和 Codex 进行 vibe 编程",
+      "summary": "Product Hunt 产品页面，用于总结和回顾使用 Claude Code 与 Codex 编程体验的工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-31T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VTLVFDME6KUUWC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "6e1fe88bb03efc9fadc3f257c61f170bbb794f54507a4d65cd8f8decbd1f7808",
+      "title": "Product Hunt: GitHub Copilot Fusion — GitHub 的 AI 编程智能体，可选择并组合多个模型",
+      "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/github-copilot-fusion",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-31T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/72K5GZ4MAY5NR2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "5f1ba66ff183bc3819a9c45931cdc3a61bf0faffdef7ab423273c66614d775b6",
+      "title": "Product Hunt: Godwit — 一款开源的、AI 原生电子邮件客户端",
+      "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/godwit",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-31T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/BRBH7NULFJM3FH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "d16df92e3eb67943de6e556a8d28ee044eb40b1ee51e225923bb3f5e86a7ae12",
+      "title": "Product Hunt: Pluto Door — 带有 AI 智能体和为每个服务器提供桌面的 SSH 客户端",
+      "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/pluto-door",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-31T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/RSC6NSJS3335DA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "265832cae87fef551c6b2def0dcf16dc67d9ec50ce37164e510b1960cdb42b2e",
+      "title": "Product Hunt: SKI — 以语音为主导的编程框架",
+      "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/ski",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-31T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/YRTZMFLGRKJM3F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "7925762690ee544c281b87a70366ae36bcb53f2899366663e137d50e5632ab13",
+      "title": "Product Hunt: WinnerAdSpy — 将竞争对手的广告洞察转化为成功的应用营销活动",
+      "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/winneradspy",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-31T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/H7UZRHUBGPTV43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "c128b4f0ee9ee82c586438d9d2571c9f8a146d94b393ee1ad71d4d19af7e918b",
+      "title": "Product Hunt: telemetry.dev — 针对 AI 智能体的 LLM 可观测性工具",
+      "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/telemetry-dev",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-10-31T07:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/DROUHCHKOTIAJV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
