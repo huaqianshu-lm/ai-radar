@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://hackerbooks.org/",
+  "content_hash": "1c0039655a2187e1150a03639a3688c60459207f08040d0b31316bed401c280a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "12844ee7f8055ffe846c09b867bdbdf6977b861a9a701593c3982ac9816339bf",
+    "title": "Show HN: HackerBooks – 类似于 HackerTube，专注于 Hacker News 上提及的书籍",
+    "summary": "看到 Karpathy 的 HackerTube 后，我想做一份针对 Hacker News 上提及的书籍的聚合平台。"
+  }
+}

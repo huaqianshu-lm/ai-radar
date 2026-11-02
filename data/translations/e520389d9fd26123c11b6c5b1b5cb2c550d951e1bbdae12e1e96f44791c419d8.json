@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/RV5WCJYJUF4JTW",
+  "content_hash": "f374de8dde60400ca2fb5a78d71093a9d2d9fe74d374bf764bff8f4ee8574ad7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "19a3a4938cba8986c6198482b878e820a8f2790d76bf5a58c0c09f754f52841f",
+    "title": "Product Hunt: Precise Edit by Ideogram — 结合上下文窗口的精确编辑工具",
+    "summary": "Ideogram 推出的 Precise Edit 利用上下文窗口实现精准图像或文本编辑。"
+  }
+}

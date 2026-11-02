@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/YVXJGLHPKNUSCC",
+  "content_hash": "5a93c10aebc6c4e40f174f221a1ea56a0fd9aa6ea3fb3f1abd2c8b8a27d94a20",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "57634ed4f061d4d1ad7b2fcb19380bf7a307663850931c0fac2b650d9601e222",
+    "title": "Product Hunt: Click — 兼容任意模型的托管智能体 API",
+    "summary": "Click 是一个支持任何模型的托管智能体 API 服务。"
+  }
+}

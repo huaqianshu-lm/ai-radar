@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/kornia/kornia",
+  "content_hash": "fffae0ae4fea99d28eaea2d0c51a7f4096e110a279402f47e9ec1feb0d6eda6c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6a4c2b74532102f0c2f4c57bbfefacf1cbb5693c0160e5a93e12937328d6ca91",
+    "title": "kornia / kornia：用于空间 AI 的几何计算机视觉库（Python）",
+    "summary": "用于空间 AI 的几何计算机视觉库（Python）"
+  }
+}

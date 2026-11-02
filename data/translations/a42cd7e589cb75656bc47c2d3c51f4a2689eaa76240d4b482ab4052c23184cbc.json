@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/FlashML-org/FreeToken",
+  "content_hash": "426c503d9dd0c747fa36451ba7bc5e55b72f458f96295fa8262df12debe6400d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "89a0e1bad7861b41c47b892491cc1750195748c8b7321858cdbbff2b8d185aaa",
+    "title": "FlashML-org / FreeToken：FreeToken 将数据中心规模的模型服务带到你的桌面，让你能够在本地快速且高效地运行庞大的模型",
+    "summary": "FreeToken 将数据中心规模的模型服务带到你的桌面，让你能够在本地快速且高效地运行庞大的模型。"
+  }
+}

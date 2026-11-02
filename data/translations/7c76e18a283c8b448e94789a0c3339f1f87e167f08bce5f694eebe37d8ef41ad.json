@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury",
+  "content_hash": "62f71962bbd7b381d1d6cbed74459de193ed609f0bf950a95556d68b6d94a0bc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b72dc720cf78e3932741fadec5df3b18b40e95154124f18a2b1439cc5c313268",
+    "title": "引用 Kyle Kingsbury 的观点",
+    "summary": "更广泛地说，LLM 的使用正在侵蚀人们对文档、软件以及生产这些软件的组织的信任。也许工程师们将开始把任何内容..."
+  }
+}

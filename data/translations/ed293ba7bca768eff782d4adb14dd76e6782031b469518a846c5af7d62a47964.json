@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/OYXQ3VEP75YG64",
+  "content_hash": "d425d43e8fce6d2b35ff76063ac0ac14b91a542d25efeaa1aed5b7679c68df65",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a86beb4093182cf67a30128992daf563d688cabc47f926d865e75e61d70439c6",
+    "title": "Product Hunt: Embage — 为客户构建智能体、运行工作流并进行分析",
+    "summary": "Embage 帮助你为客户构建智能体、执行工作流并提供分析功能。"
+  }
+}

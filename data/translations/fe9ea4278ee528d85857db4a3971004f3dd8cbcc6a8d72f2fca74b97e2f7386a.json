@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first",
+  "content_hash": "68d3ff4b5514395348d7e617650ad882a950ae89fdc11af6beef7c1c277d1859",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "215d5e6ee0fa4f77b5ab55fe519c54e23d8ff326193e9709b8c380c95faa0af5",
+    "title": "如有疑问，请删除 uv.lock 文件",
+    "summary": "自从切换到 Python 3.15 以来，我偶尔会遇到令人困惑的 Python 依赖错误，我必须记住的规则是：如有疑问，请删除..."
+  }
+}

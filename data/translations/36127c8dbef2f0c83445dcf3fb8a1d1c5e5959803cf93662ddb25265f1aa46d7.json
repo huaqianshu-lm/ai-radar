@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/D4Vinci/Scrapling",
+  "content_hash": "45d85e7a00f4c02586747a0fbfccd2e97ec1a70ac29be2ac2bf2bb75705c3ed7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "df11630e65be505cc9baca77e9dc98cf13a05cbcc44466ffa557eda1573deb91",
+    "title": "D4Vinci / Scrapling：一个功能强大的网络抓取框架，能够处理从单个请求到大规模爬取的各种任务",
+    "summary": "一个功能强大的网络抓取框架，能够处理从单个请求到大规模爬取的各种任务！"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/FE6ZXGALFPL6HM",
+  "content_hash": "fa1c9d96e573bedbee4cdab07a54b3d685076a8cc9cad86a916dde309c98322f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dd9d1455b7083ab303becaea7004cedfa58a15dc52be72a5c7891031d03851a0",
+    "title": "Product Hunt: Modelpeers — 像关注人一样关注 AI 模型和智能体",
+    "summary": "Modelpeers 允许用户像关注社交网络上的用户一样追踪各种 AI 模型和智能体。"
+  }
+}
