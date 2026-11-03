@@ -1,0 +1,335 @@
+{
+  "date": "2026-11-03",
+  "items": [
+    {
+      "id": "945f879ef3a469b4aebe760cf27598de5ac153aec5be30239cc23bf038b35a21",
+      "title": "OpenAI 任命 Dan Driscoll 为国家安全现代化高级顾问",
+      "summary": "OpenAI 任命 Dan Driscoll 为顾问，就国家安全现代化、网络韧性以及与美国盟友合作的负责任 AI 提供建议。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-02T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai"
+    },
+    {
+      "id": "4094d4340f9e66f9e2fcbdf55d52c8459c6b02d6daa5c6c2ae592ebcd92aa22f",
+      "title": "Qodo 将上下文融入基于 Codex 的 AI 代码审查",
+      "summary": "Qodo 将公司知识和编码标准引入 Codex，帮助开发者在提交 pull request 之前跨仓库捕获 P0 级问题。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-02T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/qodo-codex-plugin"
+    },
+    {
+      "id": "5a014341bc3fc0f1d8b6431c4e4adac34c7a9984ff7e1d40ed22dd094e75323f",
+      "title": "LifeVal：介绍 LifeVal，这是一个用于衡量 AI 帮助人们完成日常任务（从寻找育儿服务到管理财务和政府文书工作）表现的基准测试",
+      "summary": "介绍 LifeVal，这是一个用于衡量 AI 帮助人们完成日常任务（从寻找育儿服务到管理财务和政府文书工作）表现的基准测试。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-02T09:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/lifeval"
+    },
+    {
+      "id": "5d33ed0c66ace544e65f6063efa96737fd184e0288033033361ae48877b21fc8",
+      "title": "OpenAI 推出“电网保护计划”",
+      "summary": "OpenAI 的 Grid Protectors Program 将与公用事业公司合作，帮助未来的计算园区支持电网可靠性并保护消费者的电费成本。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-02T15:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/grid-protectors-program"
+    },
+    {
+      "id": "0d297090385ad5a7245151aa36b61200b4bbf9fa9e2ae1ab47c6dc913703fe4d",
+      "title": "准备下一次安全冲刺以加固 OpenAI",
+      "summary": "OpenAI 正准备与 Cathedral Systems 开展下一次内部安全冲刺，利用 AI 测试并加强其防御能力。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-02T18:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+    },
+    {
+      "id": "bca108e4c77bd86b238b884ff1c18e5c63018f84444ba049fc49aa2f4ac03dcf",
+      "title": "用更高的漏洞赏金奖励防御者",
+      "summary": "OpenAI 正在提高安全漏洞赏金奖励，并为独立安全研究人员引入报告质量、忠诚度和优先活动奖金。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-02T18:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+    },
+    {
+      "id": "a0595c813318ccae8c08950da5c942c92349612b84631a22de879ac40ef1f743",
+      "title": "投资公共利益 Anthropic",
+      "summary": "今天，我们承诺将 Anthropic 的一部分股份捐赠给 Anthropic Public Benefit Fund，这是一个新成立的全资实体，其结构增加了利益相关者的参与度。",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-11-03T03:51:22Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/public-benefit-fund"
+    },
+    {
+      "id": "59623d61a7aaaf734c519660b1930b60bf17660ca0901f735f89f7265b7be2f9",
+      "title": "利用 AI 加速规划决策 — Google DeepMind",
+      "summary": "PlanAssist 已显示出可将规划人员评估居民申请所花费的时间缩短高达 58% 的能力。",
+      "source": "Google DeepMind Blog",
+      "source_type": "official",
+      "display_time": "2026-11-03T03:51:22Z",
+      "time_type": "fetched",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai"
+    },
+    {
+      "id": "e62f8a21a88d35f3d21afaf658f90a71e794c36290e2f19af1afeb60aaee0d0b",
+      "title": "DeepSeek 超级智能体、GPT-6 Rosalind、Google 轨道计算",
+      "summary": "关于 DeepSeek 超级智能体 🤖、GPT-6 Rosalind 🧬 以及 Google 轨道计算 🛰️ 的最新 AI 动态和技术简讯。",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-11-02T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-11-02"
+    },
+    {
+      "id": "93776c9c2a6b392fe84f2651db335868357969d9774f32a640e08a428e2a281d",
+      "title": "美国人口普查局与“超级智能”",
+      "summary": "文章回顾了 Apollo Global Management 于 2025 年 9 月发布的关于大公司 AI 采纳率呈下降趋势的图表。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-02T13:31:26Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/"
+    },
+    {
+      "id": "00a42c9331cf0d4a703db2b0b300b7bb35fc2ac0b5634336a79f069210fb861c",
+      "title": "当你看不到数据时如何构建法律智能体 - Legora CTO Jacob Lauritzen",
+      "summary": "Legora 无法读取其智能体为律师所做操作的任何痕迹，因为数据属于律师事务所的客户。在无法直接访问数据时，如何构建和测试智能体？",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-02T22:54:03Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/"
+    },
+    {
+      "id": "fe6efa0410ef5f0bb2904e76f984ba1c67d4fec5486d8dd9bb99f00ae9f522bc",
+      "title": "为律师构建 AI - Legora CTO Jacob Lauritzen",
+      "summary": "探讨了无痕迹评估、百万单元表格审查，以及计费小时作为商业模式所面临的裂痕。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-02T23:01:02Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/"
+    },
+    {
+      "id": "8fbbc27028afdfad518c41521b04b7d073ea5d4bd00d9bb33a3a07cfca79902c",
+      "title": "llm 0.37：发布了 llm 0.37 版本，该 LLM CLI 工具和 Python 库的新版本包含了约两个月来积累的功能和修复",
+      "summary": "发布了 llm 0.37 版本，该 LLM CLI 工具和 Python 库的新版本包含了约两个月来积累的功能和修复。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-02T23:49:30Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/2/llm/"
+    },
+    {
+      "id": "7d871a9968ec8d6b64c1b42d997331ec153fd17e52fcd1ac25430026bdc84a38",
+      "title": "karpathy / nanochat：一个价值 100 美元的最佳 ChatGPT 实现项目，使用 Python 语言开发，在当天获得了大量星标",
+      "summary": "一个价值 100 美元的最佳 ChatGPT 实现项目，使用 Python 语言开发，在当天获得了大量星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-03T03:51:22Z",
+      "time_type": "fetched",
+      "url": "https://github.com/karpathy/nanochat"
+    },
+    {
+      "id": "1b25c70569238f706dc5b3f52e244179a98ef69f53a35f363da07dfc67fe0a9b",
+      "title": "LongCat-2.5：面向智能体任务的原生多模态",
+      "summary": "关于 LongCat-2.5 原生多模态 AI 模型在智能体任务中应用的技术讨论。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-02T15:00:26Z",
+      "time_type": "published",
+      "url": "https://longcat.ai/blog/longcat-2.5/"
+    },
+    {
+      "id": "570f5e1efb5964ca71378f8912fd84517cb3958f6b4f348190c33995b5d684fd",
+      "title": "Momentic (YC W24) 推出：通过使用你的应用来捕获漏洞的智能体",
+      "summary": "创始人 Wei-Wei 和 Jeff 推出了 Momentic，这是一种能够通过实际使用应用来发现 Bug 的 AI 智能体。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-02T17:05:25Z",
+      "time_type": "published",
+      "url": "https://momentic.ai/"
+    },
+    {
+      "id": "b00f3c61979d2dea4922d18a9b712fc6f1c29b983a9b8149920f2091a4b92746",
+      "title": "Subvocal：无声与计算机对话",
+      "summary": "来自 The Subvocal Company (YC F26) 的 Aarush 和 Arnav 推出了 Subvocal 项目，支持用户在不发出声音的情况下与计算机进行交流。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-02T17:16:17Z",
+      "time_type": "published",
+      "url": "https://news.ycombinator.com/item?id=50340088"
+    },
+    {
+      "id": "fcfbe0256d6ca2b680d1e993af56915dfa8a7f42d7ac74115598a7bf7a7853f8",
+      "title": "AI 时代的无我数学",
+      "summary": "探讨了在人工智能时代背景下，数学研究和发展所面临的新变化与思考。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-02T18:54:44Z",
+      "time_type": "published",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"
+    },
+    {
+      "id": "3cc79194c2806ef269a426c6fc228f672694a4f81d79125b28544b64941ad894",
+      "title": "SEC 应阻止 Anthropic 的 IPO 以保护公众",
+      "summary": "讨论了美国证券交易委员会（SEC）是否应阻止 Anthropic 进行首次公开募股（IPO）以维护公众利益的观点。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-02T22:30:47Z",
+      "time_type": "published",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/"
+    },
+    {
+      "id": "b760b461aff6e50cc5276c17ee21313aa27518498ed9b7a4fe6e14322ca88e37",
+      "title": "Anthropic 的增长势头趋于平缓",
+      "summary": "分析并讨论了 Anthropic 近期业务增长速度放缓的相关情况与趋势。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-02T22:33:20Z",
+      "time_type": "published",
+      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened"
+    },
+    {
+      "id": "b191afc8db85fb9a8d2dafce7d6c489b7205ed327a229e1a6479e251e95d2ac2",
+      "title": "WorkOS 报告安全漏洞",
+      "summary": "根据 Hacker News 讨论，WorkOS 发生了安全漏洞事件。目前该信息尚未在其官方网站或信任中心更新，但用户收到了相关通报。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-02T23:30:59Z",
+      "time_type": "published",
+      "url": "https://news.ycombinator.com/item?id=50345712"
+    },
+    {
+      "id": "0504cb6dc0b8cf0b469c53e0c6a46472f9a4f5aa434cf474d56f8cdf414f3542",
+      "title": "OpenAI 的 Git 扩展",
+      "summary": "OpenAI 官方博客分享了关于在 OpenAI 内部扩展 Git 使用的文章。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-02T23:47:56Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/scaling-git-at-openai/"
+    },
+    {
+      "id": "691af28127115c36ba44d09a0727ee84a4c464b0ededf84ef0dc42e5188ae431",
+      "title": "Product Hunt: Agent Inbox — 为你的 AI Agent 提供邮箱、Slack 和 Telegram 账号",
+      "summary": "Product Hunt 新品介绍：为你的 AI 代理赋予电子邮件地址、Slack 和 Telegram 账号支持。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-02T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VVMJ7O2SOEPDB3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "2e293e5fe4a51878e79bee0949d16ec946f1b28289b6ec446777018fa09d7cb3",
+      "title": "Product Hunt: Cedric AI for Meetings — 第一个替你展示幻灯片并代你出席会议的 AI 代理",
+      "summary": "Product Hunt 新品介绍：首款能够代你出席会议并为你展示幻灯片的 AI 代理工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-02T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/3WNUZE5QLV6YEU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "4e2f66d1aabe8a3b56b5a9b7f0ad91dbf79adea4d3c7609f295a607ac30c51bc",
+      "title": "Product Hunt: CuriousLM — 在设备上运行的私密 AI，无需注册账号",
+      "summary": "Product Hunt 新品介绍：直接在本地设备上运行、注重隐私且无需创建账号的 AI 工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-02T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/SEVXAUMX6XMFDX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "87f7367883de5b336ca0eee3abc76fdf8590e780181fd7160e77d29640b0e2b2",
+      "title": "Product Hunt: Display 1.0 — 在单一工作区中使用任意 AI 代理创建文档和应用",
+      "summary": "Product Hunt 新品介绍：允许用户在同一个工作区内，通过任意 AI 代理来创建文档与应用程序。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-02T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/7NCNIIQEMH52HJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "fd09e7ed800c8c6161abe74f96347b61ad79442c280572c99ea8ce1bd36e7a7a",
+      "title": "Product Hunt: Hera — AI 创意画布",
+      "summary": "Product Hunt 新品介绍：一款主打 AI 的创意画布工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-02T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/6URUWPJU6AOJT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "e2ced495bb2f94d86d7a06c6d0bc0d78aa9a1155d546a9657aa2b097f363f4d9",
+      "title": "Product Hunt: Hyperresearch — 可靠且经过验证的智能体搜索",
+      "summary": "Product Hunt 新品介绍：持久且经过验证的 AI 代理搜索工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-02T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/PC2E463TYUYTKB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "722a1ec156b420fcae3bb4d96134d2ea2d731a6ddc7206c8470b897e33380369",
+      "title": "Product Hunt: Looper — 支持团队协作且开源的类似 Grok Bot 的工具",
+      "summary": "Product Hunt 新品介绍：如果 Grok Bot 支持团队协作并且是开源的，那就会是 Looper 这样的产品。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-02T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/UA3CSQFSDMWYN5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "d993e8e932bd361b3565c4a4ad1d0cda96194a62db70d0b2f9e2d6a50d45f836",
+      "title": "Product Hunt: Widgeteer — 描述一个小部件需求，即可在网站上生成可用的小部件",
+      "summary": "Product Hunt 新品介绍：只需通过文字描述小部件，就能直接在网站上获得一个可用的小部件。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-02T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/OOLWNA563VM35I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "71716b24f759769ac6935f138c9224bc633909c6621524439120af3c4766cf63",
+      "title": "Product Hunt: Xmind 2027 — 将你的思维导图转变为 AI 思考搭档",
+      "summary": "Product Hunt 新品介绍：让你的思维导图升级为具备 AI 功能的思考合作伙伴。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-02T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/ITN3N4YT7NIKXS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "b2d7db57cc0e218a4a758c6b650a6817de6da0e9be11e6f89ae7ee68e7100b28",
+      "title": "Product Hunt: redu.cloud — 以代理的速度而非人类的速度运行机器",
+      "summary": "Product Hunt 新品介绍：一个旨在以 AI 代理的速度来运行机器的云端平台。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-02T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/YPBFA3CWCDIK4K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "3250d598f1dbf13ab7b6f9b672a36c9bafcff318631bebbe2c360f2a50c3ac1b",
+      "title": "The Rundown AI 新闻通讯",
+      "summary": "获取最新的 AI 新闻，了解其重要性，并学习如何在工作中应用它们——每天只需 5 分钟。",
+      "source": "The Rundown AI",
+      "source_type": "curated",
+      "display_time": "2026-11-03T03:51:22Z",
+      "time_type": "fetched",
+      "url": "https://www.therundown.ai/archive"
+    }
+  ]
+}
