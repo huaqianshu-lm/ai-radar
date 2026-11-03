@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora",
+  "content_hash": "25e5384f781fbe8482d88cf3f602d7696b83acabbd1abc3c75db0a588ff020cd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "00a42c9331cf0d4a703db2b0b300b7bb35fc2ac0b5634336a79f069210fb861c",
+    "title": "当你看不到数据时如何构建法律智能体 - Legora CTO Jacob Lauritzen",
+    "summary": "Legora 无法读取其智能体为律师所做操作的任何痕迹，因为数据属于律师事务所的客户。在无法直接访问数据时，如何构建和测试智能体？"
+  }
+}

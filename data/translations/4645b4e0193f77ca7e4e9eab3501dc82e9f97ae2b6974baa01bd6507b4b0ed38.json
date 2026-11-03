@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/2/llm",
+  "content_hash": "52aed12fa0129778277a3c462851709a155f37d01f3e7d80e91ea591873667f2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8fbbc27028afdfad518c41521b04b7d073ea5d4bd00d9bb33a3a07cfca79902c",
+    "title": "llm 0.37：发布了 llm 0.37 版本，该 LLM CLI 工具和 Python 库的新版本包含了约两个月来积累的功能和修复",
+    "summary": "发布了 llm 0.37 版本，该 LLM CLI 工具和 Python 库的新版本包含了约两个月来积累的功能和修复。"
+  }
+}

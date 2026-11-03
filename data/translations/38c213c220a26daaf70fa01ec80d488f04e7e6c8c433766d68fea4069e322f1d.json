@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/OOLWNA563VM35I",
+  "content_hash": "5ee5927dc2cdae2160ba8c2ca7982318c1d2d576e4456ce2f67436f1ea6482e3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d993e8e932bd361b3565c4a4ad1d0cda96194a62db70d0b2f9e2d6a50d45f836",
+    "title": "Product Hunt: Widgeteer — 描述一个小部件需求，即可在网站上生成可用的小部件",
+    "summary": "Product Hunt 新品介绍：只需通过文字描述小部件，就能直接在网站上获得一个可用的小部件。"
+  }
+}

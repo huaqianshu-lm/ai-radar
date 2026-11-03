@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50340088",
+  "content_hash": "e98f71848b532e0b685e17487985e7524c3053b19dde6b2381d4ef226df573e1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b00f3c61979d2dea4922d18a9b712fc6f1c29b983a9b8149920f2091a4b92746",
+    "title": "Subvocal：无声与计算机对话",
+    "summary": "来自 The Subvocal Company (YC F26) 的 Aarush 和 Arnav 推出了 Subvocal 项目，支持用户在不发出声音的情况下与计算机进行交流。"
+  }
+}

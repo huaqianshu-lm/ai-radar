@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://momentic.ai/",
+  "content_hash": "a0504c29bbbd7c825c3f2477be9c426ac6780c5f0b549f476572768bd7b0b2db",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "570f5e1efb5964ca71378f8912fd84517cb3958f6b4f348190c33995b5d684fd",
+    "title": "Momentic (YC W24) 推出：通过使用你的应用来捕获漏洞的智能体",
+    "summary": "创始人 Wei-Wei 和 Jeff 推出了 Momentic，这是一种能够通过实际使用应用来发现 Bug 的 AI 智能体。"
+  }
+}

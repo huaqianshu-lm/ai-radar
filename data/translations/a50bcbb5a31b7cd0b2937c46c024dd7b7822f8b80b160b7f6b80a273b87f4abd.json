@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/VVMJ7O2SOEPDB3",
+  "content_hash": "e0e6f68e80e4cbc44f9f22ad0bc73f2fca2231ac75f4649bc5cb2f7586a4492f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "691af28127115c36ba44d09a0727ee84a4c464b0ededf84ef0dc42e5188ae431",
+    "title": "Product Hunt: Agent Inbox — 为你的 AI Agent 提供邮箱、Slack 和 Telegram 账号",
+    "summary": "Product Hunt 新品介绍：为你的 AI 代理赋予电子邮件地址、Slack 和 Telegram 账号支持。"
+  }
+}

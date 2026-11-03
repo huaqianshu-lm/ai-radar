@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/karpathy/nanochat",
+  "content_hash": "65e8e127d6ee69ee5860d7ad40dad3df1d32e5c69f9fe138fb509ce25cef9c2b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7d871a9968ec8d6b64c1b42d997331ec153fd17e52fcd1ac25430026bdc84a38",
+    "title": "karpathy / nanochat：一个价值 100 美元的最佳 ChatGPT 实现项目，使用 Python 语言开发，在当天获得了大量星标",
+    "summary": "一个价值 100 美元的最佳 ChatGPT 实现项目，使用 Python 语言开发，在当天获得了大量星标。"
+  }
+}

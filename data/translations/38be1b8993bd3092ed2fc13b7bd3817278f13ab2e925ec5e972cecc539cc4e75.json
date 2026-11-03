@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/UA3CSQFSDMWYN5",
+  "content_hash": "239c41ffb1a876cd88e8fc3198a10bae0f7663490a412d542f5b57a216d2a2d4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "722a1ec156b420fcae3bb4d96134d2ea2d731a6ddc7206c8470b897e33380369",
+    "title": "Product Hunt: Looper — 支持团队协作且开源的类似 Grok Bot 的工具",
+    "summary": "Product Hunt 新品介绍：如果 Grok Bot 支持团队协作并且是开源的，那就会是 Looper 这样的产品。"
+  }
+}

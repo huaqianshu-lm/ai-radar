@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/7NCNIIQEMH52HJ",
+  "content_hash": "5fdb539b7403536c4d7c4c491f07986b167b197f26581c34a6b7066a5e56a474",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "87f7367883de5b336ca0eee3abc76fdf8590e780181fd7160e77d29640b0e2b2",
+    "title": "Product Hunt: Display 1.0 — 在单一工作区中使用任意 AI 代理创建文档和应用",
+    "summary": "Product Hunt 新品介绍：允许用户在同一个工作区内，通过任意 AI 代理来创建文档与应用程序。"
+  }
+}

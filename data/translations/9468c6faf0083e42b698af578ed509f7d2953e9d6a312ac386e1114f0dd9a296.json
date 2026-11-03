@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://longcat.ai/blog/longcat-2.5",
+  "content_hash": "60ff338c2ceeea15de3426b12c1cf615e42ae78c2b5545b68e4b439796128a86",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1b25c70569238f706dc5b3f52e244179a98ef69f53a35f363da07dfc67fe0a9b",
+    "title": "LongCat-2.5：面向智能体任务的原生多模态",
+    "summary": "关于 LongCat-2.5 原生多模态 AI 模型在智能体任务中应用的技术讨论。"
+  }
+}

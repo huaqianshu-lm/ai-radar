@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/qodo-codex-plugin",
+  "content_hash": "3ea4c9dceebe5b8996c3db035ca7e85341af2ac226a97cf8bbe144c63d8b8a9b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4094d4340f9e66f9e2fcbdf55d52c8459c6b02d6daa5c6c2ae592ebcd92aa22f",
+    "title": "Qodo 将上下文融入基于 Codex 的 AI 代码审查",
+    "summary": "Qodo 将公司知识和编码标准引入 Codex，帮助开发者在提交 pull request 之前跨仓库捕获 P0 级问题。"
+  }
+}

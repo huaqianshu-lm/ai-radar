@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50345712",
+  "content_hash": "0486e400510eefc065f7c3b8d67b996c22052e13a083f52566f6db718425641b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b191afc8db85fb9a8d2dafce7d6c489b7205ed327a229e1a6479e251e95d2ac2",
+    "title": "WorkOS 报告安全漏洞",
+    "summary": "根据 Hacker News 讨论，WorkOS 发生了安全漏洞事件。目前该信息尚未在其官方网站或信任中心更新，但用户收到了相关通报。"
+  }
+}

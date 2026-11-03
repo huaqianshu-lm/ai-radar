@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+  "content_hash": "3131a576ca1a25bbb10b32af722af638abfdb053a7d73a4de3c842bfcfe02c84",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bca108e4c77bd86b238b884ff1c18e5c63018f84444ba049fc49aa2f4ac03dcf",
+    "title": "用更高的漏洞赏金奖励防御者",
+    "summary": "OpenAI 正在提高安全漏洞赏金奖励，并为独立安全研究人员引入报告质量、忠诚度和优先活动奖金。"
+  }
+}

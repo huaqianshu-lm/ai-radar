@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/lifeval",
+  "content_hash": "b34581bc103cbbfe436ec32a59455fba4876740d883bc9563d30228ae13cb936",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5a014341bc3fc0f1d8b6431c4e4adac34c7a9984ff7e1d40ed22dd094e75323f",
+    "title": "LifeVal：介绍 LifeVal，这是一个用于衡量 AI 帮助人们完成日常任务（从寻找育儿服务到管理财务和政府文书工作）表现的基准测试",
+    "summary": "介绍 LifeVal，这是一个用于衡量 AI 帮助人们完成日常任务（从寻找育儿服务到管理财务和政府文书工作）表现的基准测试。"
+  }
+}

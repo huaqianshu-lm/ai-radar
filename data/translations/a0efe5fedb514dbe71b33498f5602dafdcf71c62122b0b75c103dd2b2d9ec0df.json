@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+  "content_hash": "45437af06e03f09a434e64b1ccb1fd276ee8b6640ae1358ae28ca5a7e1c3a905",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0d297090385ad5a7245151aa36b61200b4bbf9fa9e2ae1ab47c6dc913703fe4d",
+    "title": "准备下一次安全冲刺以加固 OpenAI",
+    "summary": "OpenAI 正准备与 Cathedral Systems 开展下一次内部安全冲刺，利用 AI 测试并加强其防御能力。"
+  }
+}

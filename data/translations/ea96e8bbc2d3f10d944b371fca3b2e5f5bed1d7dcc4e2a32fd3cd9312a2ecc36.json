@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai",
+  "content_hash": "04e391012005fba7ef8e8c8af1d86c4718062f41433fee3071687a70f837a0d2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "59623d61a7aaaf734c519660b1930b60bf17660ca0901f735f89f7265b7be2f9",
+    "title": "利用 AI 加速规划决策 — Google DeepMind",
+    "summary": "PlanAssist 已显示出可将规划人员评估居民申请所花费的时间缩短高达 58% 的能力。"
+  }
+}

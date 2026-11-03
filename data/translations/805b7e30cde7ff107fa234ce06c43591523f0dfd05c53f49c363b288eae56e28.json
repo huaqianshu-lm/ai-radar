@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence",
+  "content_hash": "77ca02d6453f71afcf43e178acd367271529d5d39d201821e0fa8ef9a33f501d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "93776c9c2a6b392fe84f2651db335868357969d9774f32a640e08a428e2a281d",
+    "title": "美国人口普查局与“超级智能”",
+    "summary": "文章回顾了 Apollo Global Management 于 2025 年 9 月发布的关于大公司 AI 采纳率呈下降趋势的图表。"
+  }
+}

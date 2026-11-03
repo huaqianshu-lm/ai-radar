@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/scaling-git-at-openai",
+  "content_hash": "00095b2902c504175138687f1cb8503c28dcc7e9fe844aa122c72ba5f74a7f3f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0504cb6dc0b8cf0b469c53e0c6a46472f9a4f5aa434cf474d56f8cdf414f3542",
+    "title": "OpenAI 的 Git 扩展",
+    "summary": "OpenAI 官方博客分享了关于在 OpenAI 内部扩展 Git 使用的文章。"
+  }
+}
