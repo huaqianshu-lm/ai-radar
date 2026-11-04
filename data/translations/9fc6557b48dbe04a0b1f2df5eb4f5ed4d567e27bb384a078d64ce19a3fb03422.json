@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/cisco-cyber",
+  "content_hash": "435690b3dcd6f66f025817fd6201fd40e0c64050110d236b9ef18af63473c21c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "34e7d62615202d0de65fe802c6c6ca14703e67df603d58e71ec501e575fe9eda",
+    "title": "Cisco 如何通过 OpenAI 以机器速度进行防御",
+    "summary": "Cisco 将网络智能与 OpenAI 模型相结合，以增强企业安全性。了解其如何构建更具适应性的防御体系。"
+  }
+}

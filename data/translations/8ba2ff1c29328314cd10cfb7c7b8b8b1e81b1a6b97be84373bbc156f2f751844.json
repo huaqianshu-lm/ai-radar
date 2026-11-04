@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
+  "content_hash": "95f5071e6cfca28f9faa5c9d0566622b0729133ab10a07d0383ba299049c274b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f1a111e72742f0df3d87170744905f30e0f5c3f2747ffe8f1c7993b540d8d137",
+    "title": "Qwen 3.8 27B 也能在笔记本电脑上解释模型权重",
+    "summary": "Hacker News 讨论帖，探讨了 Qwen 3.8 27B 模型在本地笔记本电脑上运行并解释模型权力的相关内容。"
+  }
+}

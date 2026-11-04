@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location",
+  "content_hash": "98f0c6dfe44bf79c5ee509ff080bdc55be9a983e1ac24475b4442f76e061d188",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dcf65f4aed7f78c16de0aee493912ccf5f4d99904ed626a7019a66983da9b61e",
+    "title": "我发现了一个会泄露你确切位置的声音（而且无处不在） - YouTube",
+    "summary": "Colsto 进行的一项绝妙的开源情报（OSINT）分析，展示了你如何能够获取几乎..."
+  }
+}

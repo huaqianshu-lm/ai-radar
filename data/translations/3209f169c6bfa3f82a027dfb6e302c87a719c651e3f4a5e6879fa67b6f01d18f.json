@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/cwe-bench",
+  "content_hash": "6eeab697259218c0ae84a3eb1ef1337a705942e8a7cab1de9fbed51ddecd3645",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "63945bc794809749828fed7a75412a51f17402e819c90a409ec9b785e40cb075",
+    "title": "CWE-bench v2：更高的覆盖率、质量和透明度",
+    "summary": "CWE-bench 旨在测试前沿网络能力的极限。在我们持续推动..."
+  }
+}

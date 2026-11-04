@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+  "content_hash": "1de7eef9cc28f85a7b20f2c278d5649450a71a75194d63b12e7698df40b1d78d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "23c4f130369cb97228de41513e9312b1e0dc594d86d03dc60f268cab647b367c",
+    "title": "结合 Google Antigravity 的智能化学信息学 — Google DeepMind",
+    "summary": "设计新药物需要整理来自图表、数字和文献的复杂数据，训练预测模型..."
+  }
+}

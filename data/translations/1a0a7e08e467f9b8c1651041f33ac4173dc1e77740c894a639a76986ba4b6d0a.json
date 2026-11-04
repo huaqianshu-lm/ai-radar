@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons",
+  "content_hash": "bbe9494b87cc07082bce1f78a7a114cb531fe9b041e1bbfea15ba7ba0fed78bf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8c90cb22ab59898f5f68f2a3547aca725e9afe4b9089d81e1f423d3dfd1fbcf6",
+    "title": "不存在后训练数据公共资源库",
+    "summary": "HN 讨论帖：探讨关于开源及后训练数据公共资源（posttraining data commons）的相关文章与观点。"
+  }
+}

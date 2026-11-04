@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://hackertv.org/",
+  "content_hash": "6d9ae2a83cf207692cdaebbac00a47938344e62efcd10b76c8942dbc33f58df3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "29690e41bb1d9cd4edaeb32fc34bf82f53fbb431b4d177d80d5078708344d00d",
+    "title": "Show HN：HackerTV – 将 Hacker News 最推荐的 Youtube 视频转化为 24/7 电视频道",
+    "summary": "HN 讨论帖以及关于 HackerTV 网站的项目分享与评分内容。"
+  }
+}

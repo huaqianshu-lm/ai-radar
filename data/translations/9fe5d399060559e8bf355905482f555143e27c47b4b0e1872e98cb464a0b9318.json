@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/transformers-mic",
+  "content_hash": "e68258673645307618ebbb8cf8d7b5dd38788512054073b5ab7a4e30663b5ef9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a6f54d325d31634f891659b5f3c8f6d5a46072f111d8835330333b2acd151981",
+    "title": "Transformers 模型集成契约",
+    "summary": "在 2026 年 7 月 30 日，Transformers 为 T5 启用了 PyTorch 的缩放点积注意力（SDPA）。作为副作用，UMT5 的..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "content_hash": "c90dc5edcb9406806498c997f74aad1e3df68a3414991ef8ce1807b6b7af175e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4d3938441f216409a8f1b94cf7b0fdb4871145e54a0ab57799f0fbd11992bc85",
+    "title": "Palette：教导小模型构建符合你设计语言的幻灯片",
+    "summary": "向大模型索要一份幻灯片，你会得到一份不错的作品。但如果索要十份，它们的表现会..."
+  }
+}

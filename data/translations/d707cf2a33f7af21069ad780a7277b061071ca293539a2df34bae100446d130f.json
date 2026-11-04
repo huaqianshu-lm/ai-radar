@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-03",
+  "content_hash": "54ab26c3fc503f4fa43dcfcfddcfaf8641f1dec85724fe6b3accfb170ff01ef6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "37120509dee2b39a4c7558e01800b90846bc5e7842e35ad3e8a3a394e78a6613",
+    "title": "Claude 消息线程 🧵、发现 Astra 6.2 👀、Anthropic 接近 RSI 🔄",
+    "summary": "您的 AI 代理能做的不仅仅是解决工单。通过 Parloa，它们可以创造更满意的客户、提升忠诚度，并帮助支持团队构建更高价值的关系..."
+  }
+}

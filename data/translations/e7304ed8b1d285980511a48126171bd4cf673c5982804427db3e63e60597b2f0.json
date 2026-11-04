@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Usagi-org/ai-goofish-monitor",
+  "content_hash": "8eeae81452f20a025407f9e42875246a6e1f651c0a0eec34c218f44ba8add5c0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "df77d7d30024cf6f0d98d60cc1efeb51e9cd9386ecf475207b1e920f09f8486f",
+    "title": "Usagi-org / ai-goofish-monitor：基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI",
+    "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 - Language: Python - 228 stars today"
+  }
+}

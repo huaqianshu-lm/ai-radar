@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2605.29713",
+  "content_hash": "b0010a07cf2e7d255a9c34cd41a7de520efa3ab3bc00c6080a2153d97a32f180",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "01b1e45f222dec5edce91e9f286b6ecdf2aeede4326d9eecd2ea68c5139c8784",
+    "title": "生成式 AI 基础小书：直观的数学入门",
+    "summary": "Hacker News 讨论帖，分享了一篇关于生成式 AI 基础的直观数学入门 arXiv 论文。"
+  }
+}

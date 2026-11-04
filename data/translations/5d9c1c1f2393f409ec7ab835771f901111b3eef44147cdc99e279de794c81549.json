@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/derv82/wifit3",
+  "content_hash": "3ab79c45a318b7f0f800612f80a7ab7a7c2b0b6f4ce5a5b45a5fa06c56efdb0a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "98b3b5cc544e913a15c5ebd67c20badce633aed5e5310c3f2372f93b85ae91d9",
+    "title": "derv82 / wifit3：类似于 Wifite 但仅限 USB 且支持跨平台的无线网络安全工具",
+    "summary": "类似于 Wifite 但仅限 USB 且支持跨平台的无线网络安全工具。 - Language: Python - 61 stars today"
+  }
+}

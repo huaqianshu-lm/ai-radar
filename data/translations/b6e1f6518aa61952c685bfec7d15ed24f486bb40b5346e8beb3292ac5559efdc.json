@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+  "content_hash": "9cd0f1edca7ccd9eac9a58b4ad8208c1db5e723f83f73ad4aba388155900ee23",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "25493a43cba550c7fe81484acae2a066a0e92a0ab7396a9764a18c9bb949ba12",
+    "title": "加速物理世界的工程设计",
+    "summary": "了解 ChatGPT 和 Codex 如何帮助工程师在物理世界的 CAD、PCB 设计、仿真和其他工作流程中加速开发。"
+  }
+}

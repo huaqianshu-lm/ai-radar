@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of",
+  "content_hash": "51a3f16a1b0fda403e183da07c48c4d245da3e9b7b0f624d35740ee7b5c43001",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f14e00213ff02ea833757c9a2b4e139b913e5659a458a8a600f9b80673569f41",
+    "title": "[AINews] LLM 可以读写神经网络权重：“权重空间编程”将 Autoresearch 剔除出 RSI 循环",
+    "summary": "编辑 Qwen 的权重以减少推理循环、DeepSeek 的超级代理原型以及 GDPx 基准测试。"
+  }
+}

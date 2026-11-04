@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/statebench",
+  "content_hash": "d3200a3ba5f03c4bf80aa60a64c9e418223cbd7518b1242f9becf0776d399af1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8d86676710497099b1091deb38df79f93e8f69b79a1b2cfae325c64584a4dfbe",
+    "title": "StateBench：测试语言模型如何在长文档中跟踪状态变化",
+    "summary": "📄 技术报告 | 🤗 数据 | 💻 代码 我们推出了 **StateBench**，这是一个基准测试..."
+  }
+}

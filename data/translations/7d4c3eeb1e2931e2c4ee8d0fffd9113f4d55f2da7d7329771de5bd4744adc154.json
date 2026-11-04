@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/W6TDK4JYTKTPLW",
+  "content_hash": "8903ac35bcff7373404fce094d245823c3e6c04fac8211a55f23aa5b8a777d01",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9185b94b7ad364adf4dd7bb36eac662be32ac8d35749624833081dc2c132f79e",
+    "title": "Product Hunt: Infino AI — 针对 AI 代理的单份 Parquet 副本搜索、向量和 SQL 工具",
+    "summary": "Product Hunt 新品推荐：Infino AI 为 AI 代理提供基于单一 Parquet 副本的搜索、向量及 SQL 查询功能。"
+  }
+}

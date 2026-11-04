@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+  "content_hash": "47d4935fcd7a8a4792d6f9086f00ab6a7bc446e8f643eaab3f1ea9cd0ee3ca0a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "210b26f029f33a3ef7fe3515ece25538b3c2fd8043720d57f14f3a706409d450",
+    "title": "Postman 悄悄自动安装 AI 插件并尝试共享所有 API 数据",
+    "summary": "HN 讨论帖：反映 Postman 软件自动安装 AI 插件并试图共享 API 数据的相关 GitHub 问题反馈。"
+  }
+}
