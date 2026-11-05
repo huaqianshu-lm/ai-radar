@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Thysrael/Horizon",
+  "content_hash": "d889482700c2ba4c099382082041b653c171b5546179809ca88a5e6afca925e1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eeed1c410282f5ab07353b6de9ee87984bc9f776689ba9f5e65dcaafb533f89e",
+    "title": "Thysrael / Horizon (AI 新闻雷达)",
+    "summary": "你专属的 AI 新闻雷达。生成中英文每日简报。用 AI 构建你专属的新闻雷达 - 语言：Python - 今日获得 121 星标"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/4/datasette-apps",
+  "content_hash": "c49c352277c60cc4dbc235ff8171b255e920200918378c3ea85e11aededc15ff",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8265b69742e725bac3ffed26d932c4aa15338eb37f3be97e02e34db7a7bf60d3",
+    "title": "datasette-apps 0.3a0：版本发布：datasette-apps 0.3a0",
+    "summary": "版本发布：datasette-apps 0.3a0。Datasette Apps 增加了对在 Datasette 内部托管和编辑自定义 HTML 应用程序的支持。这些可以手动创建..."
+  }
+}

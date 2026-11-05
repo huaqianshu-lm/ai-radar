@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/research/provable-inference",
+  "content_hash": "76a4c980973c8c0c4e01ed3ca7a43bd4fc119145e2e2ec899dbfb32128ec6ded",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "43862ef771dfba655e31d47f5f3fba512fc1609345b0a2f5a572fe4e8eddc516",
+    "title": "Progress on provable inference for large language models：原文摘要",
+    "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50368626 Original URL: https://www.anthropic.com/research/provable-inference Author: ltononro Score: 182"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/personal-agents-visibility-control",
+  "content_hash": "a939a24afedbd08551c2aabec18783777e376452af681e22d4724769bc7740b0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d13fbfe75d78ae195ccfdcf78356d3039de126e7992bf5608cc202f12759f701",
+    "title": "查看代理，设定条款：为个人代理提供新的可见性和控制权",
+    "summary": "个人 AI 代理改变了用户与网络交互的方式，模糊了自动化流量与人类流量之间的界限。了解 Cloudflare 如何为网站所有者提供帮助..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/NVIDIA/auto-ontology",
+  "content_hash": "a43b30d573f67dc42c36338dbfac23905181f107e377eab9d6ad8753cc11bb04",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "834f867a452076917a1448502a1c78d4650ca86407ac9cf19309bdc4deb9a04f",
+    "title": "NVIDIA / auto-ontology：Auto Ontology 是一个 Python 框架，用于在数据之上构建语义图推理层",
+    "summary": "Auto Ontology 是一个 Python 框架，用于在数据之上构建语义图推理层。它支持确定性查询生成和更好的上下文检索..."
+  }
+}

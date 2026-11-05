@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/3/llm",
+  "content_hash": "148f19ecb306fdb3f731bead04efb29bb5e2b490a3485c49cb28e8e39f47a44a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "aac81467646f1d039bd25b6e95c3bacf1c2e7e857ea227b6e0b04ff7fb5729cc",
+    "title": "llm 0.37.1：版本发布：llm 0.37.1",
+    "summary": "版本发布：llm 0.37.1。这是一个针对 LLM 的错误修复版本，由 Steven Huang、Tao An、Arjan Mossel 和 XQ 共同贡献。标签：llm"
+  }
+}

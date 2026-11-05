@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "content_hash": "f2323d6d3951b1f66ed32825ee4c8d0c8eb89f3abc97e54134285f4dd17a2de2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0604d6a7a7d7afd211057472d17446a4b77717dd71519d95d3358d9316782061",
+    "title": "harry0703 / MoneyPrinterTurbo (AI 短视频生成工具)",
+    "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。语言：Python - 今日获得 617 星标"
+  }
+}

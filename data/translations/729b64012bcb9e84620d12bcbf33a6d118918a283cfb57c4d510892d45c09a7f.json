@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+  "content_hash": "d58d07fb567fec601a9d538cb35f3f5d2a78411dc20a45139a7e9001b6ffeb39",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "86d5c720b5bd89c83e644ef4fa8b65095c449c109db6c038350b0cfc37ec280b",
+    "title": "A thousand fewer paths to root（通往 root 权限的路径减少了一千条）",
+    "summary": "来自 Hacker News 的讨论，源自 OpenAI 的文章《A thousand fewer paths to root》，当前得分为 167 分。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/product",
+  "content_hash": "a6fffc2ac42fb0a7af75b4e5abd176c74800ee4cc31fb2d3cff587febaad1d93",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "62791a623aed557b705f2d4e809f1890700e6c3fd6a5426db5db6d7cb21a0c9b",
+    "title": "Anthropic 产品",
+    "summary": "我们正在向 Agentic AI Foundation 捐赠 Agent Skills（为 AI 代理提供专业知识和工作流的开放标准）。超过 70 个代理平台..."
+  }
+}

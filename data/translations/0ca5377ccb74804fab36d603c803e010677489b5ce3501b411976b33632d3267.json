@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-04",
+  "content_hash": "d6620ae256fabbed52455b2de3498436e9b2aa66546da519a4a5bc44d88d7b17",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1deadd637af6be710597404ad04502ec08afaa7b9e54821cde9f67139206dd6e",
+    "title": "Siri AI 开发者 🍎，Gemini Notebook API 👨‍💻，可证明推理 ⚡",
+    "summary": "AI 简报 2026-11-04。合作伙伴：Fireworks 的 Nexus 在 Vals AI 路由器上排名第一..."
+  }
+}

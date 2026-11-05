@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/voxtral-3",
+  "content_hash": "70c6843f3aaa8066f95b6aa38c06eb41bb26794eea84a966223c66d156b7390b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4c6292fc5ecba5f2e0a9084156b47d5dbe0a85c39204b9c1840be9eb7e97963a",
+    "title": "Voxtral 3：语音转文本、TTS 与语音代理 | Mistral",
+    "summary": "请为这位患者做皮肤科会诊。当前治疗：氢化可的松乳膏。Martin 医生，帕克诊所。代理说：“Merci de...”"
+  }
+}

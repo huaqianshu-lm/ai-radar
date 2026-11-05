@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50366117",
+  "content_hash": "c5aa6efb40f687d31c40a5c0468262275771caf16a3d1afe979c2bd7a779a8a7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d7d9a2a25df6ba5386fde18a0f872abfae6e86b29805b9ad390f902f51b6b820",
+    "title": "Ask HN: 你目前的 AI agent 设置是什么？",
+    "summary": "作者 eggbrain 在 Hacker News 上发帖询问大家日常如何使用 AI，并整理了一份相关清单。"
+  }
+}

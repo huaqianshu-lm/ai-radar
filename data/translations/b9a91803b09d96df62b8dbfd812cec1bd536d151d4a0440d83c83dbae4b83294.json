@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+  "content_hash": "9b299672e6f3040b0df3fdd8e2c108d854600d1193517165b0abf41efb878455",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "32d4e91d243ef07f0795379b14445becfcb04565dd858a765f3d75a5b4c512ce",
+    "title": "Dharma Field Extractor：输入任意文档，输出结构化 JSON 字段",
+    "summary": "一个拥有 20 亿参数的模型，能够从任何文档中准确提取你所要求的字段..."
+  }
+}

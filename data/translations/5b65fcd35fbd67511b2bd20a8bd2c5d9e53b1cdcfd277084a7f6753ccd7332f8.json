@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/4/datasette-llm",
+  "content_hash": "8ca6fab0f067c7f99f6074d74d9dcb6cd2e514be66fbad68bb1fa7b996a2a50e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6b1c4708310c50a052ce3a27137d5bf91cbfe6a70ec7c4d3a03a1ae2e22bb168",
+    "title": "datasette-llm 0.1a10：版本发布：datasette-llm 0.1a10",
+    "summary": "版本发布：datasette-llm 0.1a10。修复了一个影响我的 agent.datasette.io 演示网站的错误，在该错误中，可用 LLM 模型集未被正确限制为..."
+  }
+}

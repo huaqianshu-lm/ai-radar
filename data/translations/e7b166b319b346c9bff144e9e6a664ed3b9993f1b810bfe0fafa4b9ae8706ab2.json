@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/announcements",
+  "content_hash": "909f6a079c294268efd4265a009c25be1a13a51b2c6e3a6e440fdaed2464b752",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5232879038119e5daf1cea5da747152ebf5fd117959d59aecaae6299dca923ae",
+    "title": "Anthropic 公告",
+    "summary": "2026年10月21日公告：实验物理学家 Christopher Stubbs 博士加入 Anthropic 的长期利益信托（Long-Term Benefit Trust）..."
+  }
+}

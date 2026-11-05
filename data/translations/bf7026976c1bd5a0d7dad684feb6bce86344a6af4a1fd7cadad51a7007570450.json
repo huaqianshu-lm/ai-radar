@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+  "content_hash": "739d1a86fec9ca44434e2d28a724ebe8bae61023d5a922e000f1081c84b2b87d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f4a904d03d800a16a7770eb45e6294e17d198382b354ef891a63e5cd21dfe6b8",
+    "title": "Kimi K3.1 Pro 模型权重已发布",
+    "summary": "Hacker News 讨论链接：https://news.ycombinator.com/item?id=50366999，原始链接：https://huggingface.co/moonshotai/Kimi-K3.1-Pro，作者：abrarthought，得分：406"
+  }
+}

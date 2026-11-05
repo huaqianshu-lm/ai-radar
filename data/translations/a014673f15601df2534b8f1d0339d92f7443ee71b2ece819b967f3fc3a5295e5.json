@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/3/datasette-agent",
+  "content_hash": "cca68da63ca3e48f1de2f38dd71ce558ba06c3fab840430dede0bf65aaa37498",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "abbb96cf14716a168d8896a47f6e56f40f84940bb7862f38c7f2421c72f9eb4d",
+    "title": "datasette-agent 0.5a0：版本发布：datasette-agent 0.5a0",
+    "summary": "版本发布：datasette-agent 0.5a0。这是 Datasette Agent 的一个重要版本，最值得注意的新功能被称为 panel，它允许代理进行开放式聊天..."
+  }
+}

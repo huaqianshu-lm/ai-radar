@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/The-PR-Agent/pr-agent",
+  "content_hash": "82f7ecc31ed8b1bb46f2edb81f40f09247ca147aa0e511ab4eeb32318e04d453",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "19c1fb556084b78651bb83375132db531264f8ab7bcd80d13f5716f31bd8632f",
+    "title": "The-PR-Agent / pr-agent (开源 PR 审查工具)",
+    "summary": "PR Agent：最初的开源 PR 审查器。该项目不是 Qodo 免费层。语言：Python，今日获得 280 星标"
+  }
+}

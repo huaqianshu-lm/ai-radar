@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/devrev-enterprise-self-service",
+  "content_hash": "64a4e9eb3c17f65c0b63bafe180475778ce9c60a99325c3c9fc73afc14489846",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "981785a01550309d0739d8f0393613130409c9a98cd0180f1072e2be43156c86",
+    "title": "DevRev 推出搭载 GPT-6.1 Sol 的自主自助服务",
+    "summary": "DevRev 使用 GPT-6.1 Sol 驱动 Computer 和 Operator，在企业服务的推理、速度和成本之间取得平衡。"
+  }
+}

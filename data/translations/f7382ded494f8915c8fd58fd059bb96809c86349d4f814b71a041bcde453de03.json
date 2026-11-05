@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+  "content_hash": "98f3385604a4c35daf3bc9f1ca094639456d1b19be15fdde6d240b345825cda2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a3433e936d2c04bfa7722c64f05b5efdfdc6024634f8a182254f80d5e66c1036",
+    "title": "Daybreak Red 现已登陆 AWS GovCloud (US-East)",
+    "summary": "Daybreak Red 通过 Amazon Bedrock 将 GPT-5.6 Cyber 带给 AWS GovCloud (US-East) 中获得授权的客户，用于经批准的网络安全工作。"
+  }
+}
