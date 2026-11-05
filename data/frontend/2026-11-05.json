@@ -1,0 +1,385 @@
+{
+  "date": "2026-11-05",
+  "items": [
+    {
+      "id": "981785a01550309d0739d8f0393613130409c9a98cd0180f1072e2be43156c86",
+      "title": "DevRev 推出搭载 GPT-6.1 Sol 的自主自助服务",
+      "summary": "DevRev 使用 GPT-6.1 Sol 驱动 Computer 和 Operator，在企业服务的推理、速度和成本之间取得平衡。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-04T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/devrev-enterprise-self-service"
+    },
+    {
+      "id": "a3433e936d2c04bfa7722c64f05b5efdfdc6024634f8a182254f80d5e66c1036",
+      "title": "Daybreak Red 现已登陆 AWS GovCloud (US-East)",
+      "summary": "Daybreak Red 通过 Amazon Bedrock 将 GPT-5.6 Cyber 带给 AWS GovCloud (US-East) 中获得授权的客户，用于经批准的网络安全工作。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-04T07:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+    },
+    {
+      "id": "5232879038119e5daf1cea5da747152ebf5fd117959d59aecaae6299dca923ae",
+      "title": "Anthropic 公告",
+      "summary": "2026年10月21日公告：实验物理学家 Christopher Stubbs 博士加入 Anthropic 的长期利益信托（Long-Term Benefit Trust）...",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-11-05T03:15:53Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/announcements"
+    },
+    {
+      "id": "ce196ca9fba47cb74cfc05ef18f0dcbf7c7151c0953dbe85144aa090e6310f31",
+      "title": "Anthropic 合作伙伴关系",
+      "summary": "2026年10月27日合作伙伴关系：扩大与 GSA 的合作，将 Claude 引入各级政府...",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-11-05T03:15:53Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/partnerships"
+    },
+    {
+      "id": "62791a623aed557b705f2d4e809f1890700e6c3fd6a5426db5db6d7cb21a0c9b",
+      "title": "Anthropic 产品",
+      "summary": "我们正在向 Agentic AI Foundation 捐赠 Agent Skills（为 AI 代理提供专业知识和工作流的开放标准）。超过 70 个代理平台...",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-11-05T03:15:53Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/product"
+    },
+    {
+      "id": "4c6292fc5ecba5f2e0a9084156b47d5dbe0a85c39204b9c1840be9eb7e97963a",
+      "title": "Voxtral 3：语音转文本、TTS 与语音代理 | Mistral",
+      "summary": "请为这位患者做皮肤科会诊。当前治疗：氢化可的松乳膏。Martin 医生，帕克诊所。代理说：“Merci de...”",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-11-05T03:15:53Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/voxtral-3"
+    },
+    {
+      "id": "aac81467646f1d039bd25b6e95c3bacf1c2e7e857ea227b6e0b04ff7fb5729cc",
+      "title": "llm 0.37.1：版本发布：llm 0.37.1",
+      "summary": "版本发布：llm 0.37.1。这是一个针对 LLM 的错误修复版本，由 Steven Huang、Tao An、Arjan Mossel 和 XQ 共同贡献。标签：llm",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-03T21:41:42Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/3/llm/"
+    },
+    {
+      "id": "abbb96cf14716a168d8896a47f6e56f40f84940bb7862f38c7f2421c72f9eb4d",
+      "title": "datasette-agent 0.5a0：版本发布：datasette-agent 0.5a0",
+      "summary": "版本发布：datasette-agent 0.5a0。这是 Datasette Agent 的一个重要版本，最值得注意的新功能被称为 panel，它允许代理进行开放式聊天...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-03T23:13:45Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/"
+    },
+    {
+      "id": "1deadd637af6be710597404ad04502ec08afaa7b9e54821cde9f67139206dd6e",
+      "title": "Siri AI 开发者 🍎，Gemini Notebook API 👨‍💻，可证明推理 ⚡",
+      "summary": "AI 简报 2026-11-04。合作伙伴：Fireworks 的 Nexus 在 Vals AI 路由器上排名第一...",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-11-04T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-11-04"
+    },
+    {
+      "id": "8265b69742e725bac3ffed26d932c4aa15338eb37f3be97e02e34db7a7bf60d3",
+      "title": "datasette-apps 0.3a0：版本发布：datasette-apps 0.3a0",
+      "summary": "版本发布：datasette-apps 0.3a0。Datasette Apps 增加了对在 Datasette 内部托管和编辑自定义 HTML 应用程序的支持。这些可以手动创建...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-04T00:29:36Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/"
+    },
+    {
+      "id": "d13fbfe75d78ae195ccfdcf78356d3039de126e7992bf5608cc202f12759f701",
+      "title": "查看代理，设定条款：为个人代理提供新的可见性和控制权",
+      "summary": "个人 AI 代理改变了用户与网络交互的方式，模糊了自动化流量与人类流量之间的界限。了解 Cloudflare 如何为网站所有者提供帮助...",
+      "source": "Cloudflare AI Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-04T14:00:00Z",
+      "time_type": "published",
+      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/"
+    },
+    {
+      "id": "6b1c4708310c50a052ce3a27137d5bf91cbfe6a70ec7c4d3a03a1ae2e22bb168",
+      "title": "datasette-llm 0.1a10：版本发布：datasette-llm 0.1a10",
+      "summary": "版本发布：datasette-llm 0.1a10。修复了一个影响我的 agent.datasette.io 演示网站的错误，在该错误中，可用 LLM 模型集未被正确限制为...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-04T15:26:02Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/"
+    },
+    {
+      "id": "32d4e91d243ef07f0795379b14445becfcb04565dd858a765f3d75a5b4c512ce",
+      "title": "Dharma Field Extractor：输入任意文档，输出结构化 JSON 字段",
+      "summary": "一个拥有 20 亿参数的模型，能够从任何文档中准确提取你所要求的字段...",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-04T17:50:10Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+    },
+    {
+      "id": "15e4bf3711d7905e166e58e8ce647650d5e84bb7b99e99ebaa5c2b226a070a54",
+      "title": "[AINews] 走近潜在空间：Kill My SaaS、Jev 与 2026 年的 AI | AIEi 上海",
+      "summary": "2026年11月3日——在平静的一天里，我们分享一些幕后花絮。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-04T19:17:30Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/"
+    },
+    {
+      "id": "834f867a452076917a1448502a1c78d4650ca86407ac9cf19309bdc4deb9a04f",
+      "title": "NVIDIA / auto-ontology：Auto Ontology 是一个 Python 框架，用于在数据之上构建语义图推理层",
+      "summary": "Auto Ontology 是一个 Python 框架，用于在数据之上构建语义图推理层。它支持确定性查询生成和更好的上下文检索...",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-05T03:15:53Z",
+      "time_type": "fetched",
+      "url": "https://github.com/NVIDIA/auto-ontology"
+    },
+    {
+      "id": "19c1fb556084b78651bb83375132db531264f8ab7bcd80d13f5716f31bd8632f",
+      "title": "The-PR-Agent / pr-agent (开源 PR 审查工具)",
+      "summary": "PR Agent：最初的开源 PR 审查器。该项目不是 Qodo 免费层。语言：Python，今日获得 280 星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-05T03:15:53Z",
+      "time_type": "fetched",
+      "url": "https://github.com/The-PR-Agent/pr-agent"
+    },
+    {
+      "id": "eeed1c410282f5ab07353b6de9ee87984bc9f776689ba9f5e65dcaafb533f89e",
+      "title": "Thysrael / Horizon (AI 新闻雷达)",
+      "summary": "你专属的 AI 新闻雷达。生成中英文每日简报。用 AI 构建你专属的新闻雷达 - 语言：Python - 今日获得 121 星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-05T03:15:53Z",
+      "time_type": "fetched",
+      "url": "https://github.com/Thysrael/Horizon"
+    },
+    {
+      "id": "0604d6a7a7d7afd211057472d17446a4b77717dd71519d95d3358d9316782061",
+      "title": "harry0703 / MoneyPrinterTurbo (AI 短视频生成工具)",
+      "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。语言：Python - 今日获得 617 星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-05T03:15:53Z",
+      "time_type": "fetched",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+      "id": "4c4e9e4faa27af447c21e3cae4fe0c205a09de24a0122483b3c8dcbaca59fd69",
+      "title": "scenario-labs / skills：从任何 AI 代理获取可用于生产环境的图像、视频、音频和 3D：这些技能可以挑选正确的模型、在花费前评估价格，并保持角色和品牌的一致性...",
+      "summary": "从任何 AI 代理获取可用于生产环境的图像、视频、音频和 3D：这些技能可以挑选正确的模型、在花费前评估价格，并保持角色和品牌的一致性...",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-05T03:15:53Z",
+      "time_type": "fetched",
+      "url": "https://github.com/scenario-labs/skills"
+    },
+    {
+      "id": "857e942cc1110bf466bd604f7ab53e12e55e499bb6199d142bb42c790f2292e7",
+      "title": "AI 正在迫使我们偿还 40 年的技术债务",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=50364336 原始网址：https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability 作者：pseudolus...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-04T11:52:17Z",
+      "time_type": "published",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+    },
+    {
+      "id": "d7d9a2a25df6ba5386fde18a0f872abfae6e86b29805b9ad390f902f51b6b820",
+      "title": "Ask HN: 你目前的 AI agent 设置是什么？",
+      "summary": "作者 eggbrain 在 Hacker News 上发帖询问大家日常如何使用 AI，并整理了一份相关清单。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-04T14:37:22Z",
+      "time_type": "published",
+      "url": "https://news.ycombinator.com/item?id=50366117"
+    },
+    {
+      "id": "27c884392a2cbbbbb440168da08a770aa9a9ebe8e0ce721fb85369e326b5f725",
+      "title": "OpenAI to acquire Pierre Computer Company：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50366863 Original URL: https://openai.com/index/openai-to-acquire-pierre/ Author: itunpredictable Score: 202 http...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-04T15:21:21Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/"
+    },
+    {
+      "id": "f4a904d03d800a16a7770eb45e6294e17d198382b354ef891a63e5cd21dfe6b8",
+      "title": "Kimi K3.1 Pro 模型权重已发布",
+      "summary": "Hacker News 讨论链接：https://news.ycombinator.com/item?id=50366999，原始链接：https://huggingface.co/moonshotai/Kimi-K3.1-Pro，作者：abrarthought，得分：406",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-04T15:30:30Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    },
+    {
+      "id": "43862ef771dfba655e31d47f5f3fba512fc1609345b0a2f5a572fe4e8eddc516",
+      "title": "Progress on provable inference for large language models：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50368626 Original URL: https://www.anthropic.com/research/provable-inference Author: ltononro Score: 182",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-04T17:17:46Z",
+      "time_type": "published",
+      "url": "https://www.anthropic.com/research/provable-inference"
+    },
+    {
+      "id": "44cd1b0540a7c509f47f6b2ae4673827272a6001ac9e904131ebbdefdd944b71",
+      "title": "Launch HN: Kino AI (YC S23) – AI 媒体管理器和视频编辑器",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=50368804 作者：lukeigel 得分：73 大家好！我是 Kino ( https://kino.ai ) 的 Luke。Kino 可以让你制作出色的视频...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-04T17:31:53Z",
+      "time_type": "published",
+      "url": "https://news.ycombinator.com/item?id=50368804"
+    },
+    {
+      "id": "3a41f9480808b68557197066692a0e9ca966549c3ab609d92fa0fd90845b1157",
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50370654 Original URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Author: peter_d_sherman S...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-04T19:55:14Z",
+      "time_type": "published",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+    },
+    {
+      "id": "86d5c720b5bd89c83e644ef4fa8b65095c449c109db6c038350b0cfc37ec280b",
+      "title": "A thousand fewer paths to root（通往 root 权限的路径减少了一千条）",
+      "summary": "来自 Hacker News 的讨论，源自 OpenAI 的文章《A thousand fewer paths to root》，当前得分为 167 分。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-04T23:33:14Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+    },
+    {
+      "id": "9e49ad7916ca6612b9dfa6e76fae527d50094b5c45c1cc9f475867cf684052fb",
+      "title": "Images 2.6：图片生成与处理工具更新",
+      "summary": "HN 讨论帖链接：https://news.ycombinator.com/item?id=50372945，原始链接：https://openai.com/index/introducing-images-2-6/，作者：davidbarker，得分：145",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-04T23:35:44Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/introducing-images-2-6/"
+    },
+    {
+      "id": "1177cc165efdf161f1d00c12a7c17441de11c22cfe14f58cf107cf07d6240207",
+      "title": "Product Hunt: Dessn — The design canvas that runs your real code.：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/dessn-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-04T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/7JYRTXILDPLL4U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "134f80e323ce7dacba426de1fef803543f23d0f4c3b8cf06f929821945178029",
+      "title": "Product Hunt: Floot Payments — 在使用 ChatGPT 和 Claude 构建的应用中接受支付",
+      "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-04T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/DP7N4LLA6MSIQI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "fe1194615e56cd97d3321154ad6cb8d73981138b943ae6822d58509cd4cf3626",
+      "title": "Product Hunt: KREV AI — An AI team that runs your ecommerce brand：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/krev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%2...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-04T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/CMCGNRX7T36FKR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "c6aa3b875adae9d8556ffc7c669b3830f59d49725dba8e53f7218311f9c584b2",
+      "title": "Product Hunt: OpenMail — Give your AI agents an identity through email：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/openmail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-04T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VT4VTQFYQVI4ZW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "26c4f8fefe4de8243c04acf210808372fd2b551e0c594b6d4211c2ab8a3d7fec",
+      "title": "Product Hunt: OpusClip 4.0 — Turn raw footage into ready-to-publish videos with AI：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/opusclip?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-04T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/KFBPHGUX5EBAT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "1735a6320def264195fffc1a8d1c2dacf161087e62af7f4318186523fe20ddf1",
+      "title": "Product Hunt: Orphex MCP — Run your entire digital marketing stack via one unified MCP：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Applicat...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-04T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/BP2JPQXX3JGH6X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "ed52f4ee7eec387e38e7d51cc1d4759da5c13575cdc8a85c82164b68374f5874",
+      "title": "Product Hunt: Prelulu — Be the main character: chat & video roleplay any story：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/prelulu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-04T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/AS3PV7P3375YRL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "2e487bb9207ca98f9f8eb7d206a25a2e04732ffc6daafe30f5c3920ad338e3e7",
+      "title": "Product Hunt: Render Sandboxes — A computer for every agent：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/render?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-04T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/RD6Q6GMJFZIXDH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "e385c87a3fe94289bccfcde0a8262e780662a9771494491c2255c2e867e742ba",
+      "title": "Product Hunt: Wanaka Studio — Make and publish 3D games with the first AI game engine：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-04T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "6b9385edefcbaef848a98a561db484faaa73a58e9fb26846d430fe52d26140c6",
+      "title": "Product Hunt: Zero Wire — Check your exposure to critical CVEs with one agent prompt：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-04T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/GEBEO64BGH7VHH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
