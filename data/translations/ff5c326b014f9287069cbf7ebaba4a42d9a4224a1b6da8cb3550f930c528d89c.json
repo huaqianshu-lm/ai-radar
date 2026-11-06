@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.linum.ai/field-notes/pjit-21k",
+  "content_hash": "8d1c2f32675756a03ab7f2ce63d0e4bc9ec970d68bee32b010f273d6119a4544",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "34333f558f70f948f1e6f55b19256f50d03639917426f9b3912157a99c3a2585",
+    "title": "Show HN：以约 2 万美元训练出的体面文生图模型（Apache 2.0 权重）",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=50368208 原始网址：https://www.linum.ai/field-notes/pjit-21k 作者：schopra909 评分：164"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/KQUCUSDESBKSUO",
+  "content_hash": "6fc53ac658786166ddf6d5fb55dc03d05b20ac8dc90e4e7c7ae38c1c7e9b736b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "00e4685f7878f74f8ce04efcb9024e81f42ca33901cb85a9a1296d8b2b63a528",
+    "title": "Product Hunt: Polylane for Google Cloud — Google Cloud 应用的 AI 运维工程师",
+    "summary": "Polylane 是一款专门针对 Google Cloud 应用的 AI 值班运维工程师工具。"
+  }
+}

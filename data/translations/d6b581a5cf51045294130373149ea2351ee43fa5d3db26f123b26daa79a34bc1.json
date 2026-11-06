@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/trusted-agent-delegation",
+  "content_hash": "3c621d3145c8beec738fb4d9d5d14a67bde55bddf47960c7c484958efc9b6a24",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7303cf34c367e5457bd8353b1bfb4fd781346e7ff1ec901e61b3dc1b3ea01c2d",
+    "title": "智能体不是人类（但它们有点像）",
+    "summary": "AI 智能体为数百万人行事，但服务器看到的是剥夺了用户可见性的中介。这篇文章定义了问题空间并引入了一种协作方法..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/FKYLG6Q6UE7GI2",
+  "content_hash": "730366d877c695149b8084f67b8d5e044c1aaed822cf7559e5d9e200b466183e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "30e11ed2fd6d50fc5f508d8d162965a3d4e15075ec8160bf1c9dcbb2169620f5",
+    "title": "Product Hunt: Pushary for Teams — 查看谁接受了你团队的 AI Agents",
+    "summary": "Pushary for Teams 帮助用户查看和追踪谁同意或接受了团队部署的 AI 智能体。"
+  }
+}

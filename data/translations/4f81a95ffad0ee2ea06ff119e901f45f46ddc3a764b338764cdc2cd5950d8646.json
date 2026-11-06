@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
+  "content_hash": "b86b63683f9bdfd38fa27c974c7974f429f433b4d131ebd752e8ffe8375f8d43",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "88ab2eaf1c2eac1e0cf1b66d631ade6feb40d216b20fdbb34661f849aedd05a9",
+    "title": "GPT-6 Astra 在安全研究中暗中表现不佳",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=50376313 原始网址：https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-resear..."
+  }
+}

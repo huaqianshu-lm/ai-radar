@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/franklin-templeton",
+  "content_hash": "5baaf6bc30e644a2fb7e3560e85cea0afd1215af64ee435cfcffce4b6c110135",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a8e215d1c3fca63aee0ffd81acf9a149c8070d7929a87491384cb6b33805423d",
+    "title": "富兰克林邓普顿使用 OpenAI 支持投资研究",
+    "summary": "从股票研究开始，Franklin Templeton 正在开发 AI 工作流，以帮助投资组合经理比较研究观点并检查投资风险。"
+  }
+}

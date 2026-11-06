@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/aws/agent-toolkit-for-aws",
+  "content_hash": "d29a9536385a921f832b7330c6c901b70d7be6bfa9db08c71f63963f92d03a01",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a50b0e08dbaee74af997319eb7bc2d82766fc401d2c736bacd0f7a5ff98b4ecd",
+    "title": "aws / agent-toolkit-for-aws：AWS 智能体工具包",
+    "summary": "官方支持的 AWS MCP 服务器、技能和插件，可帮助 AI 智能体在 AWS 上进行构建 - 语言：Python"
+  }
+}

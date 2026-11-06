@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+  "content_hash": "2206c81590af62da5903f48cbe9f138f64c4ca806c363016efe8560c80ee1da8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2bae9b1f767db0945e28868e3655092c7cb6a370ccc23414053f8d3deb06c5f5",
+    "title": "Cuban：Facebook 明知故犯投放 AI 深度伪造诈骗广告；文件显示诈骗收入达 160 亿美元",
+    "summary": "Mark Cuban 指出 Facebook 明知故犯地运行 AI 深度伪造骗局广告，相关文件显示其诈骗收入高达 160 亿美元。"
+  }
+}

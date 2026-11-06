@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/FLQZ3AXUUI5C2T",
+  "content_hash": "2ecdb7a02ab95f60ebd019a7873146b2377577a8223b7f254e00967894d2b1af",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dc64925c53ab8094e6e1a6052b8b4c7d95f28dc9eaa89d4b2d1f084db2ba3868",
+    "title": "Product Hunt: Living Brain — 面向智能体 AI 的互操作、高效内存层",
+    "summary": "Living Brain 为智能体 AI 提供具备互操作性和高效能的内存层服务。"
+  }
+}

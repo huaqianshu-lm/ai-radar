@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/introducing-gpt-6-cyber",
+  "content_hash": "fba5563981cddb92ebab93438540f66471fb04d5f72c3089ae0aeafdeda2d173",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "14e90e72d3401ddf817f6448fcef8d95a77a43c8c720ccf3b66937d995ee0634",
+    "title": "GPT-6 Cyber：推进对齐网络安全智能体的边界",
+    "summary": "介绍 GPT-6 Cyber，这是 OpenAI 的网络安全模型，用于寻找可利用的漏洞并开发修复程序，经过训练可保持在授权范围内。"
+  }
+}

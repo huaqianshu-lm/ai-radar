@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/build-with-studio",
+  "content_hash": "91aa0477993cfff1eaeb445d60d9caf34c1fa17a9259bb4250fbfc242b6b2cf4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5bd02a39074589ea287cbb3366029f6e2bf7736e86fb59723fcd5e861472d65a",
+    "title": "在 Mistral Studio 中构建企业智能体、工作流与应用",
+    "summary": "Mistral Large 4 (Le Chonk) 通过先进的编码、网络安全等功能增强了企业级 AI..."
+  }
+}

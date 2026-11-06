@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/rivet-dev/rivet",
+  "content_hash": "35f42050b0a9c4f6e9b05221d2edc84cf9e72ee0949651a411ea75b71de05eb8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "335e94a0914635a16cbbdf38c0fd20694f0daa6e3b11930fd2fde7d5d4da4a42",
+    "title": "Launch HN: Rivet (YC W23) – 在 S3 上规模化并编排 Agents",
+    "summary": "Rivet (YC W23) 团队介绍了如何在 S3 上规模化部署和编排 AI 智能体。"
+  }
+}

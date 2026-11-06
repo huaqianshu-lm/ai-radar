@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/microsoft/VibeVoice",
+  "content_hash": "599e2dcf9598203fbb6d26c97bfc274b64e8d7d6b4c38dc941bb416f35cc855b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6a1e74497465541deccbffb2283c34979f3d7ba6fa3197a3280904dcb8198ea3",
+    "title": "microsoft / VibeVoice：开源前沿语音 AI",
+    "summary": "开源前沿语音 AI - 语言：Python"
+  }
+}

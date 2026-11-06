@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://axiommath.ai/research/the-stacks-project-formalized",
+  "content_hash": "69aef94e4d32975c4d20e1a1a5890bbd63d451a611edc35cf598405979f972d7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "283d10232c6cc000df8c34b6c10ff97e9587db4f99cadb271f16d55841b8d64b",
+    "title": "使用 Lean 形式化 The Stacks Project",
+    "summary": "关于在 Lean 证明助手及数学研究领域中对 The Stacks Project 进行形式化的相关讨论。"
+  }
+}

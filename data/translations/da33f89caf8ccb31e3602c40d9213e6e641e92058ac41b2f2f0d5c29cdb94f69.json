@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai",
+  "content_hash": "efa66d7790d4f6282e917ea27546cb27579789ccddce110c60b995ac1ca750b4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f11fe407018d39f53eb9f65d06b7201b40b51895f4a965eca81eabe8ad24cdef",
+    "title": "Hackintosh 的重生",
+    "summary": "探讨结合 AI 技术的 Hackintosh（黑苹果）在现代的重新崛起与应用。"
+  }
+}

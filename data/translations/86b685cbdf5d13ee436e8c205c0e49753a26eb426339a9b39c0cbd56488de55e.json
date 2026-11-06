@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/AK6GQ4EPT7KYYX",
+  "content_hash": "648e395626754a2be170b91694dd311cf9ce1925b28ac99bebf90040f5bfa583",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bf821b8d0a529e429ae0097d5d468e32ca73c9d4eecb9c8b3c9275fb62197b43",
+    "title": "Product Hunt: Wingmen — 具备真实意图数据的智能体触达工具",
+    "summary": "Wingmen 利用真实意图数据，提供智能体驱动的客户触达和拓展服务。"
+  }
+}

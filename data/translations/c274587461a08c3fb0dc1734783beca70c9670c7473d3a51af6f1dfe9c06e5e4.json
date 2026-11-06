@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/phonon-tts",
+  "content_hash": "b6b386a244b9e4f34bcc6750a9dbc749bd9d5287e18290770cab0bc5c8985f35",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c65c7708e93995ca45416c5ef4b52b70460b293ce45783d81126b519537db1b3",
+    "title": "深入了解 Phonon TTS：推出名列榜首的高质量端侧语音",
+    "summary": "两周前，我们开放了我们的小型文本转语音模型 Phonon..."
+  }
+}

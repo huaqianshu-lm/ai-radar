@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-05",
+  "content_hash": "f7c1ca18b28d457a1b9d03af321fe2108fd6d2159ee38cf1d9c8dbd8df56922c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6ab956a7ac3508ea02908e0e9312525cda3056984bded305ffaeee1aaf542db0",
+    "title": "GPT-Image-2.6 🖼️、Meta 收购 Conductor 💻、Cognition SWE-2 Flash ⚡",
+    "summary": "OpenAI 推出了带有 GIF 和图像参考功能的 Images 2.6..."
+  }
+}

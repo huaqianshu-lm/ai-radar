@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/LXZBKU4W5VMFPL",
+  "content_hash": "06c2e06db25b85aa7276720e136de34db66f37a97a02b9f890bfde05a4c8a779",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d7d561261b51dc5866ab801527a4fdf2f3d4105ee6b295c81ff47c07bec1bfbb",
+    "title": "Product Hunt: Maritime — 为任意 AI 智能体提供定制化的云端电脑",
+    "summary": "Maritime 根据用户需求定制，为各类 AI 智能体提供云端计算环境。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/RH3SUY5Z3KCC6L",
+  "content_hash": "fe3151a5c518ef56085a272bfb976c45cf6a629a6d05b1b5eca508361a0fa1cd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "db95dcdf86a2bd6935eef7a5100f0c0772832a0e1cff8d13a322cd7f05765b4d",
+    "title": "Product Hunt: Stitch.ai — 用于邮件、日历、笔记、任务等的 AI 工作区",
+    "summary": "Stitch.ai 是一个集成了邮件、日历、笔记和任务管理等功能的 AI 工作空间。"
+  }
+}
