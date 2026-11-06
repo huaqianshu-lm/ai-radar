@@ -1,385 +1,415 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "items": [
     {
-      "id": "981785a01550309d0739d8f0393613130409c9a98cd0180f1072e2be43156c86",
-      "title": "DevRev 推出搭载 GPT-6.1 Sol 的自主自助服务",
-      "summary": "DevRev 使用 GPT-6.1 Sol 驱动 Computer 和 Operator，在企业服务的推理、速度和成本之间取得平衡。",
+      "id": "a8e215d1c3fca63aee0ffd81acf9a149c8070d7929a87491384cb6b33805423d",
+      "title": "富兰克林邓普顿使用 OpenAI 支持投资研究",
+      "summary": "从股票研究开始，Franklin Templeton 正在开发 AI 工作流，以帮助投资组合经理比较研究观点并检查投资风险。",
       "source": "OpenAI News",
       "source_type": "official",
-      "display_time": "2026-11-04T00:00:00Z",
+      "display_time": "2026-11-05T00:00:00Z",
       "time_type": "published",
-      "url": "https://openai.com/index/devrev-enterprise-self-service"
+      "url": "https://openai.com/index/franklin-templeton"
     },
     {
-      "id": "a3433e936d2c04bfa7722c64f05b5efdfdc6024634f8a182254f80d5e66c1036",
-      "title": "Daybreak Red 现已登陆 AWS GovCloud (US-East)",
-      "summary": "Daybreak Red 通过 Amazon Bedrock 将 GPT-5.6 Cyber 带给 AWS GovCloud (US-East) 中获得授权的客户，用于经批准的网络安全工作。",
+      "id": "2d1d326185a62641bed05bf7f26ce7de70018d67127b0626b6b2080acbead4c8",
+      "title": "Flipsnack 通过转化优化增加产品注册量",
+      "summary": "Flipsnack 将其 ChatGPT Ads 广告系列的重点放在吸引人们试用其产品上，在降低每次注册成本的同时增加了注册量。",
       "source": "OpenAI News",
       "source_type": "official",
-      "display_time": "2026-11-04T07:00:00Z",
+      "display_time": "2026-11-05T00:45:15Z",
       "time_type": "published",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+      "url": "https://openai.com/ads/customers/flipsnack"
     },
     {
-      "id": "5232879038119e5daf1cea5da747152ebf5fd117959d59aecaae6299dca923ae",
-      "title": "Anthropic 公告",
-      "summary": "2026年10月21日公告：实验物理学家 Christopher Stubbs 博士加入 Anthropic 的长期利益信托（Long-Term Benefit Trust）...",
-      "source": "Anthropic News",
+      "id": "25fa4dd18ec78a48a9233cc009a7e10d7c8c98f49986ed2e5b02c4eebf5890b1",
+      "title": "为负责任的 AI 基础设施设定新标准",
+      "summary": "OpenAI 推出了国家社区契约和计算园区政策蓝图，以保护当地资源、创造就业机会并指导负责任的 AI 基础设施...",
+      "source": "OpenAI News",
       "source_type": "official",
-      "display_time": "2026-11-05T03:15:53Z",
-      "time_type": "fetched",
-      "url": "https://www.anthropic.com/news/announcements"
+      "display_time": "2026-11-05T02:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
     },
     {
-      "id": "ce196ca9fba47cb74cfc05ef18f0dcbf7c7151c0953dbe85144aa090e6310f31",
-      "title": "Anthropic 合作伙伴关系",
-      "summary": "2026年10月27日合作伙伴关系：扩大与 GSA 的合作，将 Claude 引入各级政府...",
-      "source": "Anthropic News",
+      "id": "db9792e954d447010915e606e8fdb998d92778fb38af9f5ff78336a8db2d0092",
+      "title": "Merge 使用 OpenAI 技术构建产品和业务工具",
+      "summary": "Merge 使用 GPT-6 Astra、ChatGPT 和 Codex 来审查产品代码并支持市场营销。其团队还使用 AI 来规划高管晚宴和准备销售更新...",
+      "source": "OpenAI News",
       "source_type": "official",
-      "display_time": "2026-11-05T03:15:53Z",
-      "time_type": "fetched",
-      "url": "https://www.anthropic.com/news/partnerships"
+      "display_time": "2026-11-05T08:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/merge-builds-with-openai"
     },
     {
-      "id": "62791a623aed557b705f2d4e809f1890700e6c3fd6a5426db5db6d7cb21a0c9b",
-      "title": "Anthropic 产品",
-      "summary": "我们正在向 Agentic AI Foundation 捐赠 Agent Skills（为 AI 代理提供专业知识和工作流的开放标准）。超过 70 个代理平台...",
-      "source": "Anthropic News",
+      "id": "14e90e72d3401ddf817f6448fcef8d95a77a43c8c720ccf3b66937d995ee0634",
+      "title": "GPT-6 Cyber：推进对齐网络安全智能体的边界",
+      "summary": "介绍 GPT-6 Cyber，这是 OpenAI 的网络安全模型，用于寻找可利用的漏洞并开发修复程序，经过训练可保持在授权范围内。",
+      "source": "OpenAI News",
       "source_type": "official",
-      "display_time": "2026-11-05T03:15:53Z",
-      "time_type": "fetched",
-      "url": "https://www.anthropic.com/news/product"
+      "display_time": "2026-11-05T09:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber"
     },
     {
-      "id": "4c6292fc5ecba5f2e0a9084156b47d5dbe0a85c39204b9c1840be9eb7e97963a",
-      "title": "Voxtral 3：语音转文本、TTS 与语音代理 | Mistral",
-      "summary": "请为这位患者做皮肤科会诊。当前治疗：氢化可的松乳膏。Martin 医生，帕克诊所。代理说：“Merci de...”",
+      "id": "616c68177b707eae60eb2b7e618a86105e3926c540e149caa916945e5a2342dd",
+      "title": "澳大利亚大学正在培养具备 AI 原生能力的毕业生",
+      "summary": "澳大利亚大学正在扩大对 ChatGPT 的访问权限，并将 AI 引入教学中，以让学生为具备 AI 能力的劳动力市场做好准备。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-05T17:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates"
+    },
+    {
+      "id": "bbd492caba72ca544b8bac3280d7afac87555fa4b30c0b12388bcfae24236fa4",
+      "title": "Cult.fit 使用 Codex 增强运营能力",
+      "summary": "Cult.fit 正在使用 Codex 帮助各职能部门的团队构建工具、提高行动速度并改变工作完成的方式。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-05T20:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/cultfit-builds-with-codex"
+    },
+    {
+      "id": "5bd02a39074589ea287cbb3366029f6e2bf7736e86fb59723fcd5e861472d65a",
+      "title": "在 Mistral Studio 中构建企业智能体、工作流与应用",
+      "summary": "Mistral Large 4 (Le Chonk) 通过先进的编码、网络安全等功能增强了企业级 AI...",
       "source": "Mistral AI News",
       "source_type": "official",
-      "display_time": "2026-11-05T03:15:53Z",
+      "display_time": "2026-11-06T03:15:50Z",
       "time_type": "fetched",
-      "url": "https://mistral.ai/news/voxtral-3"
+      "url": "https://mistral.ai/news/build-with-studio"
     },
     {
-      "id": "aac81467646f1d039bd25b6e95c3bacf1c2e7e857ea227b6e0b04ff7fb5729cc",
-      "title": "llm 0.37.1：版本发布：llm 0.37.1",
-      "summary": "版本发布：llm 0.37.1。这是一个针对 LLM 的错误修复版本，由 Steven Huang、Tao An、Arjan Mossel 和 XQ 共同贡献。标签：llm",
-      "source": "Simon Willison",
-      "source_type": "developer",
-      "display_time": "2026-11-03T21:41:42Z",
-      "time_type": "published",
-      "url": "https://simonwillison.net/2026/Nov/3/llm/"
+      "id": "71c778fc837a506c9836bf32924bf0ed0f9274d66ad7a553f4d7959ac5c03868",
+      "title": "Anthropic 功能特性",
+      "summary": "新闻特性 3 篇文章 最新的标题 描述 日期 形势报告：一种罕见的埃博拉病毒株正在刚果民主共和国传播，目前尚无确定的疫苗。全球...",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-11-06T03:15:50Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/features"
     },
     {
-      "id": "abbb96cf14716a168d8896a47f6e56f40f84940bb7862f38c7f2421c72f9eb4d",
-      "title": "datasette-agent 0.5a0：版本发布：datasette-agent 0.5a0",
-      "summary": "版本发布：datasette-agent 0.5a0。这是 Datasette Agent 的一个重要版本，最值得注意的新功能被称为 panel，它允许代理进行开放式聊天...",
-      "source": "Simon Willison",
-      "source_type": "developer",
-      "display_time": "2026-11-03T23:13:45Z",
-      "time_type": "published",
-      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/"
+      "id": "856c26ca4c2d04bcedc9cb9fdb44809b32952d1d2e61bb97c33ffc0e2dda8f57",
+      "title": "Mistral 携手 NVIDIA 推进工程领域 AI 发展 | Mistral",
+      "summary": "思考摘要：Mistral 与 NVIDIA 正在合作，通过将 Mistral 的 AI 模型与 NVIDIA 的加速计算集成，彻底改变工程工作流程。",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-11-06T03:15:50Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering"
     },
     {
-      "id": "1deadd637af6be710597404ad04502ec08afaa7b9e54821cde9f67139206dd6e",
-      "title": "Siri AI 开发者 🍎，Gemini Notebook API 👨‍💻，可证明推理 ⚡",
-      "summary": "AI 简报 2026-11-04。合作伙伴：Fireworks 的 Nexus 在 Vals AI 路由器上排名第一...",
-      "source": "TLDR AI",
-      "source_type": "curated",
-      "display_time": "2026-11-04T00:00:00Z",
-      "time_type": "published",
-      "url": "https://tldr.tech/ai/2026-11-04"
-    },
-    {
-      "id": "8265b69742e725bac3ffed26d932c4aa15338eb37f3be97e02e34db7a7bf60d3",
-      "title": "datasette-apps 0.3a0：版本发布：datasette-apps 0.3a0",
-      "summary": "版本发布：datasette-apps 0.3a0。Datasette Apps 增加了对在 Datasette 内部托管和编辑自定义 HTML 应用程序的支持。这些可以手动创建...",
-      "source": "Simon Willison",
-      "source_type": "developer",
-      "display_time": "2026-11-04T00:29:36Z",
-      "time_type": "published",
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/"
-    },
-    {
-      "id": "d13fbfe75d78ae195ccfdcf78356d3039de126e7992bf5608cc202f12759f701",
-      "title": "查看代理，设定条款：为个人代理提供新的可见性和控制权",
-      "summary": "个人 AI 代理改变了用户与网络交互的方式，模糊了自动化流量与人类流量之间的界限。了解 Cloudflare 如何为网站所有者提供帮助...",
-      "source": "Cloudflare AI Blog",
-      "source_type": "developer",
-      "display_time": "2026-11-04T14:00:00Z",
-      "time_type": "published",
-      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/"
-    },
-    {
-      "id": "6b1c4708310c50a052ce3a27137d5bf91cbfe6a70ec7c4d3a03a1ae2e22bb168",
-      "title": "datasette-llm 0.1a10：版本发布：datasette-llm 0.1a10",
-      "summary": "版本发布：datasette-llm 0.1a10。修复了一个影响我的 agent.datasette.io 演示网站的错误，在该错误中，可用 LLM 模型集未被正确限制为...",
-      "source": "Simon Willison",
-      "source_type": "developer",
-      "display_time": "2026-11-04T15:26:02Z",
-      "time_type": "published",
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/"
-    },
-    {
-      "id": "32d4e91d243ef07f0795379b14445becfcb04565dd858a765f3d75a5b4c512ce",
-      "title": "Dharma Field Extractor：输入任意文档，输出结构化 JSON 字段",
-      "summary": "一个拥有 20 亿参数的模型，能够从任何文档中准确提取你所要求的字段...",
+      "id": "c65c7708e93995ca45416c5ef4b52b70460b293ce45783d81126b519537db1b3",
+      "title": "深入了解 Phonon TTS：推出名列榜首的高质量端侧语音",
+      "summary": "两周前，我们开放了我们的小型文本转语音模型 Phonon...",
       "source": "Hugging Face Blog",
       "source_type": "developer",
-      "display_time": "2026-11-04T17:50:10Z",
+      "display_time": "2026-11-05T00:00:00Z",
       "time_type": "published",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+      "url": "https://huggingface.co/blog/phonon-tts"
     },
     {
-      "id": "15e4bf3711d7905e166e58e8ce647650d5e84bb7b99e99ebaa5c2b226a070a54",
-      "title": "[AINews] 走近潜在空间：Kill My SaaS、Jev 与 2026 年的 AI | AIEi 上海",
-      "summary": "2026年11月3日——在平静的一天里，我们分享一些幕后花絮。",
+      "id": "6ab956a7ac3508ea02908e0e9312525cda3056984bded305ffaeee1aaf542db0",
+      "title": "GPT-Image-2.6 🖼️、Meta 收购 Conductor 💻、Cognition SWE-2 Flash ⚡",
+      "summary": "OpenAI 推出了带有 GIF 和图像参考功能的 Images 2.6...",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-11-05T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-11-05"
+    },
+    {
+      "id": "ce1929f850b351805ffc3e4b96c90a9523bc9c5abee886ee8bae1ee726ebaa23",
+      "title": "[AI新闻] 切换季节到来",
+      "summary": "2026年11月4日 — OpenAI 的 Linux 内核安全工作、Kimi K3.1 Pro 的开源权重以及 Ricursive 的 Ripple-65B。",
       "source": "Latent Space",
       "source_type": "developer",
-      "display_time": "2026-11-04T19:17:30Z",
+      "display_time": "2026-11-05T06:24:09Z",
       "time_type": "published",
-      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/"
+      "url": "https://latent.space/p/ainews-it-s-swapping-season/"
     },
     {
-      "id": "834f867a452076917a1448502a1c78d4650ca86407ac9cf19309bdc4deb9a04f",
-      "title": "NVIDIA / auto-ontology：Auto Ontology 是一个 Python 框架，用于在数据之上构建语义图推理层",
-      "summary": "Auto Ontology 是一个 Python 框架，用于在数据之上构建语义图推理层。它支持确定性查询生成和更好的上下文检索...",
+      "id": "7303cf34c367e5457bd8353b1bfb4fd781346e7ff1ec901e61b3dc1b3ea01c2d",
+      "title": "智能体不是人类（但它们有点像）",
+      "summary": "AI 智能体为数百万人行事，但服务器看到的是剥夺了用户可见性的中介。这篇文章定义了问题空间并引入了一种协作方法...",
+      "source": "Cloudflare AI Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-05T17:03:04Z",
+      "time_type": "published",
+      "url": "https://blog.cloudflare.com/trusted-agent-delegation/"
+    },
+    {
+      "id": "ff14400f2913b0a2ac034ce7f1f006cb09e9d56d858efdc947343477caa4ec92",
+      "title": "引用 Paul Ford 的话",
+      "summary": "网络浏览器是非常、非常、非常强大的应用程序软件，而且获取这种力量的成本似乎每天都在下降。——Paul Ford...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-05T17:34:03Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/5/paul-ford/"
+    },
+    {
+      "id": "f25b9201ad6bdcc6fc966e82e19169484871d5662fdac1ebb6313d2e0a7a1d5f",
+      "title": "用于交互式世界模拟的新 NVIDIA Cosmos 3 开源模型",
+      "summary": "NVIDIA Cosmos 世界模型开发平台增加了四个新的开源权重检查点...",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-05T19:35:16Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+    },
+    {
+      "id": "a7d71b83b1ba51baa236ae23f6386cf3a808a678868281064eeeedf148788fd9",
+      "title": "NVIDIA / Model-Optimizer：一个统一的 SOTA 模型优化技术库，包含量化、蒸馏、剪枝、神经架构搜索、投机解码等",
+      "summary": "一个统一的 SOTA 模型优化技术库，包含量化、蒸馏、剪枝、神经架构搜索、投机解码等。它汇集了...",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-11-05T03:15:53Z",
+      "display_time": "2026-11-06T03:15:50Z",
       "time_type": "fetched",
-      "url": "https://github.com/NVIDIA/auto-ontology"
+      "url": "https://github.com/NVIDIA/Model-Optimizer"
     },
     {
-      "id": "19c1fb556084b78651bb83375132db531264f8ab7bcd80d13f5716f31bd8632f",
-      "title": "The-PR-Agent / pr-agent (开源 PR 审查工具)",
-      "summary": "PR Agent：最初的开源 PR 审查器。该项目不是 Qodo 免费层。语言：Python，今日获得 280 星标",
+      "id": "a50b0e08dbaee74af997319eb7bc2d82766fc401d2c736bacd0f7a5ff98b4ecd",
+      "title": "aws / agent-toolkit-for-aws：AWS 智能体工具包",
+      "summary": "官方支持的 AWS MCP 服务器、技能和插件，可帮助 AI 智能体在 AWS 上进行构建 - 语言：Python",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-11-05T03:15:53Z",
+      "display_time": "2026-11-06T03:15:50Z",
       "time_type": "fetched",
-      "url": "https://github.com/The-PR-Agent/pr-agent"
+      "url": "https://github.com/aws/agent-toolkit-for-aws"
     },
     {
-      "id": "eeed1c410282f5ab07353b6de9ee87984bc9f776689ba9f5e65dcaafb533f89e",
-      "title": "Thysrael / Horizon (AI 新闻雷达)",
-      "summary": "你专属的 AI 新闻雷达。生成中英文每日简报。用 AI 构建你专属的新闻雷达 - 语言：Python - 今日获得 121 星标",
+      "id": "f4e0adf84666b0c986e73ecd014507f8272b73a8f70ec02ba2be2a9423ebe5c7",
+      "title": "github / spec-kit：规范工具包",
+      "summary": "帮助您开始使用 SDD 或任何其他流程的工具包！ - 语言：Python",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-11-05T03:15:53Z",
+      "display_time": "2026-11-06T03:15:50Z",
       "time_type": "fetched",
-      "url": "https://github.com/Thysrael/Horizon"
+      "url": "https://github.com/github/spec-kit"
     },
     {
-      "id": "0604d6a7a7d7afd211057472d17446a4b77717dd71519d95d3358d9316782061",
-      "title": "harry0703 / MoneyPrinterTurbo (AI 短视频生成工具)",
-      "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。语言：Python - 今日获得 617 星标",
+      "id": "ad904a51b17698545e1f9452b2e8893f7d715786e5e5ed8175f8d76ac6a47693",
+      "title": "google / skills：谷歌产品智能体技能",
+      "summary": "适用于谷歌产品和技术的智能体技能 - 语言：Python",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-11-05T03:15:53Z",
+      "display_time": "2026-11-06T03:15:50Z",
       "time_type": "fetched",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+      "url": "https://github.com/google/skills"
     },
     {
-      "id": "4c4e9e4faa27af447c21e3cae4fe0c205a09de24a0122483b3c8dcbaca59fd69",
-      "title": "scenario-labs / skills：从任何 AI 代理获取可用于生产环境的图像、视频、音频和 3D：这些技能可以挑选正确的模型、在花费前评估价格，并保持角色和品牌的一致性...",
-      "summary": "从任何 AI 代理获取可用于生产环境的图像、视频、音频和 3D：这些技能可以挑选正确的模型、在花费前评估价格，并保持角色和品牌的一致性...",
+      "id": "6a1e74497465541deccbffb2283c34979f3d7ba6fa3197a3280904dcb8198ea3",
+      "title": "microsoft / VibeVoice：开源前沿语音 AI",
+      "summary": "开源前沿语音 AI - 语言：Python",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-11-05T03:15:53Z",
+      "display_time": "2026-11-06T03:15:50Z",
       "time_type": "fetched",
-      "url": "https://github.com/scenario-labs/skills"
+      "url": "https://github.com/microsoft/VibeVoice"
     },
     {
-      "id": "857e942cc1110bf466bd604f7ab53e12e55e499bb6199d142bb42c790f2292e7",
-      "title": "AI 正在迫使我们偿还 40 年的技术债务",
-      "summary": "HN 故事：https://news.ycombinator.com/item?id=50364336 原始网址：https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability 作者：pseudolus...",
+      "id": "34333f558f70f948f1e6f55b19256f50d03639917426f9b3912157a99c3a2585",
+      "title": "Show HN：以约 2 万美元训练出的体面文生图模型（Apache 2.0 权重）",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=50368208 原始网址：https://www.linum.ai/field-notes/pjit-21k 作者：schopra909 评分：164",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-04T11:52:17Z",
+      "display_time": "2026-11-04T16:45:11Z",
       "time_type": "published",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+      "url": "https://www.linum.ai/field-notes/pjit-21k"
     },
     {
-      "id": "d7d9a2a25df6ba5386fde18a0f872abfae6e86b29805b9ad390f902f51b6b820",
-      "title": "Ask HN: 你目前的 AI agent 设置是什么？",
-      "summary": "作者 eggbrain 在 Hacker News 上发帖询问大家日常如何使用 AI，并整理了一份相关清单。",
+      "id": "88ab2eaf1c2eac1e0cf1b66d631ade6feb40d216b20fdbb34661f849aedd05a9",
+      "title": "GPT-6 Astra 在安全研究中暗中表现不佳",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=50376313 原始网址：https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-resear...",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-04T14:37:22Z",
+      "display_time": "2026-11-05T07:44:30Z",
       "time_type": "published",
-      "url": "https://news.ycombinator.com/item?id=50366117"
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
     },
     {
-      "id": "27c884392a2cbbbbb440168da08a770aa9a9ebe8e0ce721fb85369e326b5f725",
-      "title": "OpenAI to acquire Pierre Computer Company：原文摘要",
-      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50366863 Original URL: https://openai.com/index/openai-to-acquire-pierre/ Author: itunpredictable Score: 202 http...",
+      "id": "283d10232c6cc000df8c34b6c10ff97e9587db4f99cadb271f16d55841b8d64b",
+      "title": "使用 Lean 形式化 The Stacks Project",
+      "summary": "关于在 Lean 证明助手及数学研究领域中对 The Stacks Project 进行形式化的相关讨论。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-04T15:21:21Z",
+      "display_time": "2026-11-05T16:16:59Z",
       "time_type": "published",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/"
+      "url": "https://axiommath.ai/research/the-stacks-project-formalized/"
     },
     {
-      "id": "f4a904d03d800a16a7770eb45e6294e17d198382b354ef891a63e5cd21dfe6b8",
-      "title": "Kimi K3.1 Pro 模型权重已发布",
-      "summary": "Hacker News 讨论链接：https://news.ycombinator.com/item?id=50366999，原始链接：https://huggingface.co/moonshotai/Kimi-K3.1-Pro，作者：abrarthought，得分：406",
+      "id": "64b454fa51b65ab3d9b54b2d6a544280292e418d0f5d506de5a9101df82da17c",
+      "title": "我的双侧人工耳蜗用户的心理物理学体验",
+      "summary": "作为双侧人工耳蜗植入用户，作者分享了自己关于心理物理学的见解和个人体验。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-04T15:30:30Z",
+      "display_time": "2026-11-05T16:21:12Z",
       "time_type": "published",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf"
     },
     {
-      "id": "43862ef771dfba655e31d47f5f3fba512fc1609345b0a2f5a572fe4e8eddc516",
-      "title": "Progress on provable inference for large language models：原文摘要",
-      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50368626 Original URL: https://www.anthropic.com/research/provable-inference Author: ltononro Score: 182",
+      "id": "335e94a0914635a16cbbdf38c0fd20694f0daa6e3b11930fd2fde7d5d4da4a42",
+      "title": "Launch HN: Rivet (YC W23) – 在 S3 上规模化并编排 Agents",
+      "summary": "Rivet (YC W23) 团队介绍了如何在 S3 上规模化部署和编排 AI 智能体。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-04T17:17:46Z",
+      "display_time": "2026-11-05T17:17:42Z",
       "time_type": "published",
-      "url": "https://www.anthropic.com/research/provable-inference"
+      "url": "https://github.com/rivet-dev/rivet"
     },
     {
-      "id": "44cd1b0540a7c509f47f6b2ae4673827272a6001ac9e904131ebbdefdd944b71",
-      "title": "Launch HN: Kino AI (YC S23) – AI 媒体管理器和视频编辑器",
-      "summary": "HN 故事：https://news.ycombinator.com/item?id=50368804 作者：lukeigel 得分：73 大家好！我是 Kino ( https://kino.ai ) 的 Luke。Kino 可以让你制作出色的视频...",
+      "id": "f11fe407018d39f53eb9f65d06b7201b40b51895f4a965eca81eabe8ad24cdef",
+      "title": "Hackintosh 的重生",
+      "summary": "探讨结合 AI 技术的 Hackintosh（黑苹果）在现代的重新崛起与应用。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-04T17:31:53Z",
+      "display_time": "2026-11-05T19:08:22Z",
       "time_type": "published",
-      "url": "https://news.ycombinator.com/item?id=50368804"
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/"
     },
     {
-      "id": "3a41f9480808b68557197066692a0e9ca966549c3ab609d92fa0fd90845b1157",
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s：原文摘要",
-      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50370654 Original URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Author: peter_d_sherman S...",
+      "id": "b4f7b72028bdbbac75d92beda0dfa100f230cd43aa9adc5e396b956489f40007",
+      "title": "腾讯发布 Hy4，跻身全球领先的开源 AI 模型行列",
+      "summary": "腾讯推出了开源 AI 模型 Hy4，成为全球领先的开源人工智能模型之一。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-04T19:55:14Z",
+      "display_time": "2026-11-05T20:21:43Z",
       "time_type": "published",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
     },
     {
-      "id": "86d5c720b5bd89c83e644ef4fa8b65095c449c109db6c038350b0cfc37ec280b",
-      "title": "A thousand fewer paths to root（通往 root 权限的路径减少了一千条）",
-      "summary": "来自 Hacker News 的讨论，源自 OpenAI 的文章《A thousand fewer paths to root》，当前得分为 167 分。",
+      "id": "199af8aea5b61129022fe080e48927778cfec869ca504d65378933049c27baf7",
+      "title": "Claude Code 会将您的电子邮件地址发送给网站",
+      "summary": "关于 Claude Code 项目的一项问题反馈，指出其会将用户的电子邮件地址发送给相关网站。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-04T23:33:14Z",
+      "display_time": "2026-11-05T22:17:15Z",
       "time_type": "published",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+      "url": "https://github.com/anthropics/claude-code/issues/107757"
     },
     {
-      "id": "9e49ad7916ca6612b9dfa6e76fae527d50094b5c45c1cc9f475867cf684052fb",
-      "title": "Images 2.6：图片生成与处理工具更新",
-      "summary": "HN 讨论帖链接：https://news.ycombinator.com/item?id=50372945，原始链接：https://openai.com/index/introducing-images-2-6/，作者：davidbarker，得分：145",
+      "id": "2bae9b1f767db0945e28868e3655092c7cb6a370ccc23414053f8d3deb06c5f5",
+      "title": "Cuban：Facebook 明知故犯投放 AI 深度伪造诈骗广告；文件显示诈骗收入达 160 亿美元",
+      "summary": "Mark Cuban 指出 Facebook 明知故犯地运行 AI 深度伪造骗局广告，相关文件显示其诈骗收入高达 160 亿美元。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-04T23:35:44Z",
+      "display_time": "2026-11-05T23:09:57Z",
       "time_type": "published",
-      "url": "https://openai.com/index/introducing-images-2-6/"
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
     },
     {
-      "id": "1177cc165efdf161f1d00c12a7c17441de11c22cfe14f58cf107cf07d6240207",
-      "title": "Product Hunt: Dessn — The design canvas that runs your real code.：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/dessn-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
-      "source": "Product Hunt AI",
-      "source_type": "community",
-      "display_time": "2026-11-04T08:01:00Z",
+      "id": "e5707d4ca802e66e659ddabcc124d3ac50d7d53cb1244a004e2c2747570f97cb",
+      "title": "Inkling 2 Small：Thinking Machines 推出的 Inkling 2 Small 模型相关动态",
+      "summary": "Thinking Machines 推出的 Inkling 2 Small 模型相关动态。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-06T00:00:24Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/7JYRTXILDPLL4U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/"
     },
     {
-      "id": "134f80e323ce7dacba426de1fef803543f23d0f4c3b8cf06f929821945178029",
-      "title": "Product Hunt: Floot Payments — 在使用 ChatGPT 和 Claude 构建的应用中接受支付",
-      "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
+      "id": "d2621bc1e3fa54f43c3dd6a8ddb5ef4fbcec0da606be7b1a7911b2116de46054",
+      "title": "Product Hunt: Bridge — 智能体时代的视频会议工具",
+      "summary": "Bridge 是一款专为智能体时代打造的视频会议工具。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-04T08:01:00Z",
+      "display_time": "2026-11-05T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/DP7N4LLA6MSIQI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/PBNZKRHUASBSC5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "fe1194615e56cd97d3321154ad6cb8d73981138b943ae6822d58509cd4cf3626",
-      "title": "Product Hunt: KREV AI — An AI team that runs your ecommerce brand：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/krev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%2...",
+      "id": "85676a3e30298ce9ef67885b7696a3492c63f39f5d86b3b5718113aa6df26edf",
+      "title": "Product Hunt: Clocknext — 针对 AI Agents 的定价与计费基础设施",
+      "summary": "Clocknext 为 AI 智能体提供定价与计费基础设施服务。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-04T08:01:00Z",
+      "display_time": "2026-11-05T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/CMCGNRX7T36FKR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/7IUKMVZUC4C7ZY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "c6aa3b875adae9d8556ffc7c669b3830f59d49725dba8e53f7218311f9c584b2",
-      "title": "Product Hunt: OpenMail — Give your AI agents an identity through email：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/openmail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "id": "2289a4847f4fae94cdddbb3382454cf0fb1d515c425966f5edd1970fedaad310",
+      "title": "Product Hunt: Glasshand — 为你的 Agent 提供真实的 iPhone 和 Mac",
+      "summary": "Glasshand 旨在为你的 AI 智能体配备真实的 iPhone 和 Mac 设备进行操作。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-04T08:01:00Z",
+      "display_time": "2026-11-05T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/VT4VTQFYQVI4ZW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/4HPTGSLZ23MFLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "26c4f8fefe4de8243c04acf210808372fd2b551e0c594b6d4211c2ab8a3d7fec",
-      "title": "Product Hunt: OpusClip 4.0 — Turn raw footage into ready-to-publish videos with AI：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/opusclip?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "id": "dc64925c53ab8094e6e1a6052b8b4c7d95f28dc9eaa89d4b2d1f084db2ba3868",
+      "title": "Product Hunt: Living Brain — 面向智能体 AI 的互操作、高效内存层",
+      "summary": "Living Brain 为智能体 AI 提供具备互操作性和高效能的内存层服务。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-04T08:01:00Z",
+      "display_time": "2026-11-05T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/KFBPHGUX5EBAT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/FLQZ3AXUUI5C2T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "1735a6320def264195fffc1a8d1c2dacf161087e62af7f4318186523fe20ddf1",
-      "title": "Product Hunt: Orphex MCP — Run your entire digital marketing stack via one unified MCP：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Applicat...",
+      "id": "d7d561261b51dc5866ab801527a4fdf2f3d4105ee6b295c81ff47c07bec1bfbb",
+      "title": "Product Hunt: Maritime — 为任意 AI 智能体提供定制化的云端电脑",
+      "summary": "Maritime 根据用户需求定制，为各类 AI 智能体提供云端计算环境。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-04T08:01:00Z",
+      "display_time": "2026-11-05T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/BP2JPQXX3JGH6X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/LXZBKU4W5VMFPL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "ed52f4ee7eec387e38e7d51cc1d4759da5c13575cdc8a85c82164b68374f5874",
-      "title": "Product Hunt: Prelulu — Be the main character: chat & video roleplay any story：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/prelulu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
+      "id": "00e4685f7878f74f8ce04efcb9024e81f42ca33901cb85a9a1296d8b2b63a528",
+      "title": "Product Hunt: Polylane for Google Cloud — Google Cloud 应用的 AI 运维工程师",
+      "summary": "Polylane 是一款专门针对 Google Cloud 应用的 AI 值班运维工程师工具。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-04T08:01:00Z",
+      "display_time": "2026-11-05T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/AS3PV7P3375YRL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/KQUCUSDESBKSUO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "2e487bb9207ca98f9f8eb7d206a25a2e04732ffc6daafe30f5c3920ad338e3e7",
-      "title": "Product Hunt: Render Sandboxes — A computer for every agent：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/render?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "id": "30e11ed2fd6d50fc5f508d8d162965a3d4e15075ec8160bf1c9dcbb2169620f5",
+      "title": "Product Hunt: Pushary for Teams — 查看谁接受了你团队的 AI Agents",
+      "summary": "Pushary for Teams 帮助用户查看和追踪谁同意或接受了团队部署的 AI 智能体。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-04T08:01:00Z",
+      "display_time": "2026-11-05T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/RD6Q6GMJFZIXDH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/FKYLG6Q6UE7GI2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "e385c87a3fe94289bccfcde0a8262e780662a9771494491c2255c2e867e742ba",
-      "title": "Product Hunt: Wanaka Studio — Make and publish 3D games with the first AI game engine：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A...",
+      "id": "5de99d85261c3dca62d32cc2729eb29ce64f7d3e02ee725e934c01f75de7783c",
+      "title": "Product Hunt: Rerun — 将你的 AI 订阅转化为同事团队",
+      "summary": "Rerun 能够将各种 AI 订阅服务整合并转化为你的同事团队。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-04T08:01:00Z",
+      "display_time": "2026-11-05T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/RMMH5HQHCIQO64?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "6b9385edefcbaef848a98a561db484faaa73a58e9fb26846d430fe52d26140c6",
-      "title": "Product Hunt: Zero Wire — Check your exposure to critical CVEs with one agent prompt：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29...",
+      "id": "db95dcdf86a2bd6935eef7a5100f0c0772832a0e1cff8d13a322cd7f05765b4d",
+      "title": "Product Hunt: Stitch.ai — 用于邮件、日历、笔记、任务等的 AI 工作区",
+      "summary": "Stitch.ai 是一个集成了邮件、日历、笔记和任务管理等功能的 AI 工作空间。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-04T08:01:00Z",
+      "display_time": "2026-11-05T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/GEBEO64BGH7VHH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/RH3SUY5Z3KCC6L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "bf821b8d0a529e429ae0097d5d468e32ca73c9d4eecb9c8b3c9275fb62197b43",
+      "title": "Product Hunt: Wingmen — 具备真实意图数据的智能体触达工具",
+      "summary": "Wingmen 利用真实意图数据，提供智能体驱动的客户触达和拓展服务。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-05T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/AK6GQ4EPT7KYYX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     }
   ]
 }
