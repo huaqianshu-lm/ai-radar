@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/RJGZPEQMUG2EJU",
+  "content_hash": "4917411e2be63d75f53d075af622ace072ad2a8c66018b5a4e2d4afa23354c54",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "26a4d71bf7eedbad28bab6de5b8516fc0407261dd834f3931bcd214e78a37559",
+    "title": "Product Hunt: Wonder Dev View — 并行运行多个 Claude Code 和 Codex 代理",
+    "summary": "Product Hunt 新品介绍：Wonder Dev View，支持同时并行运行多个 Claude Code 与 Codex 代理的开发视图工具。"
+  }
+}

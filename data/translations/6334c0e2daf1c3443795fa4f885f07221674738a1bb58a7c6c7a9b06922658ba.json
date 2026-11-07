@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/7SEPZ5VCCE4AEJ",
+  "content_hash": "1d251ddef0de27c89baf7ce8b9b7c28d1bd09584b5e29c9ab6d8a8713ecfd4ed",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c1b543b516a7a68d8c456dfbeab30b08daae1ae2bf3181c5c8f897d26e9c871f",
+    "title": "Product Hunt: Koltrix — 由您控制的 AI 代理运行整个邮件技术栈",
+    "summary": "Product Hunt 新品介绍：Koltrix，由用户控制的 AI 代理来管理整个电子邮件系统。"
+  }
+}

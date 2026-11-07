@@ -1,0 +1,30 @@
+---
+title: "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying"
+url: "https://github.com/piercefreeman/waymark"
+source_url: "https://news.ycombinator.com/item?id=50379221"
+canonical_url: "https://github.com/piercefreeman/waymark"
+source: "Hacker News AI"
+source_type: "discovery"
+published_at: "2026-11-05T14:06:31+00:00"
+fetched_at: "2026-11-07T02:34:36+00:00"
+content_type: "markdown"
+is_list_page: false
+---
+
+HN story: https://news.ycombinator.com/item?id=50379221
+Original URL: https://github.com/piercefreeman/waymark
+Author: icyfox
+Score: 44
+
+Hey everyone! @mozgiii and I have been working on Waymark for the better part of the last year. Waymark’s an open source durable execution library with similar functionality to Temporal or DBOS.
+I fell in love with durable execution a few years ago, after working at a company with a heavy pubsub architecture. In comparison to job orchestrators that force a certain task design or special syntax, many of these durable libs lets you write business logic in regular code: `asyncio.gather` to parallelize tasks, `for` loops, conditionals, and let the runtime figure out how to run them efficiently across a cluster of nodes. But most of the current solutions require a heavy broker, runtime hacks to try to ensure deterministic workflow logic, and feel like you have to learn a whole new ecosystem just to get started.
+A few unique design decisions in waymark:
+— Write jobs in normal code (right now Python but JS coming soon). Instead of running control flow as-is, which requires booting up an interpreter to replay past state, we’ll just compile your code directly. We walk your AST and map your logic to our stackless VM bytecode. We support variables, conditionals, await, sleep, helper functions, loops... basically what you’d expect in workflow logic.
+— Since we’re compiling a language subset, we can proactively flag errors in your workflows locally instead of when they run in production.
+— It only requires Postgres as the task broker. We’ve spent a lot of time tuning our design to play nicely with its strengths and limitations; our current benchmarks show around 1500 workflows/second but we still have some more optimization work to do here.
+— Actions plug-and-play with FastAPI’s dependency injection syntax. So if you already have an ecosystem based on typehinting/DI, it should fit like a glove.
+It allows for parallelization of workflows across one machine or a whole cluster. The bulk of the work per node is done by our central Rust core - which distributes workflows to properly saturate all cores. The idea is to be as batteries included as possible with the broker, webapp, and runtime.
+What to use it for? It works great as the runner loop controlling agents, but it also works well for basically any task that you need to kick off in the background. It’s largely replaced our way of writing api code. Most frontend actions at this point just push to a simple REST endpoint that kick off a background job.
+I spent an embarrassing amount of time making our
+https://waymark.sh
+site interactive - it’s probably the best place to learn more. We’re starting with Python support and looking for community input on what language to ship next. Would love to hear your thoughts!

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/psf/requests",
+  "content_hash": "b7a617a7d28e66f54e22afb2da4e10d8b9611176aa2c5efaea53cb78f9b6088b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0d1a89c543bad402b2da9493dc3df7eaf07bc622e08d135e5a42c7fde10626a0",
+    "title": "psf / requests HTTP 库",
+    "summary": "一个简单而优雅的 HTTP 库。- 编程语言：Python - 今日获得 119 个 Star"
+  }
+}

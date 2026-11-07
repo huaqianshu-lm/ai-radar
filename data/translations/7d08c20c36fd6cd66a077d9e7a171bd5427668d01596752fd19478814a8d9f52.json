@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "content_hash": "3ef840c8b0ad393ad0a2ee69c0d1522f63157e061f6bbb4cf0f478c75fe1ce2b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5f721228af3682c2417b4131d4680ee3211f1024fcf682ecae1568fe5c5140e2",
+    "title": "衡量 AI 智能体处理日常湿实验室科学的能力",
+    "summary": "OpenAI 推出了 BioBasicsBench，这是一个包含 100 个任务的基准测试，用于衡量 AI 智能体解释原始实验数据以及处理日常湿实验室科学的能力。"
+  }
+}

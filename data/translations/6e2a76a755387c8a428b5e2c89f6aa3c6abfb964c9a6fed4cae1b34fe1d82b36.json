@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/onnx/onnx",
+  "content_hash": "c9bd300d1dc6d1d67e4d1c533d56f36a93503f7770c5335d3f28a8986d178fe4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3f6eb2865858d1815a6405c38fd9fbf89bfc138278a500d7b53262e4b77533d4",
+    "title": "onnx / onnx 机器学习互操作性标准",
+    "summary": "机器学习互操作性的开放标准 - 编程语言：Python - 今日获得 9 个 Star"
+  }
+}

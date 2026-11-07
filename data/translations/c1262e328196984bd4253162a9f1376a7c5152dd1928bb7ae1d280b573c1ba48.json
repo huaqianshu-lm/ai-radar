@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/HR5O75MMTH7BFU",
+  "content_hash": "b2ed71f401c65640fdad029ca3a2632f18b0351937ff95ee153b3b42b59e2e9e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e41e8ee290c0f0791ea140a5b1cd348cedab9b2c9ea8364a8f32e24b6a6be015",
+    "title": "Product Hunt: Any Video to Text — 粘贴视频链接，秒级获取文字记录",
+    "summary": "Product Hunt 新品介绍：Any Video to Text，用户只需粘贴视频链接即可在几秒钟内获得文字转录。"
+  }
+}

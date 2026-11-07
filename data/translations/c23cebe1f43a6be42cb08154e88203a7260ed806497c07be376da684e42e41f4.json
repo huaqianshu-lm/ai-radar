@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://pwn.ai/blog/firecracker-escape",
+  "content_hash": "ea28b10d7f19ca2147e4f7e2991861a4011633878b1c7a496759381ca68aec5b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "19e5a3d3b856bd20631f2915f952d33dca57ea6d0337ea7ea2ea61d42199dcf5",
+    "title": "Firecracker VM 逃逸：PwnEscape 第二部分",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=50397219 原始 URL：https://pwn.ai/blog/firecracker-escape 作者：SerCe 得分：180"
+  }
+}

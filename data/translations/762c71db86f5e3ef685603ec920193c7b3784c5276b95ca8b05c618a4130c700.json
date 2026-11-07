@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/apache/airflow",
+  "content_hash": "fd363d664512c395a63f89f23b1e4b6b54904eebd24d85b310dd10e945ee0763",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "88c3606113f4102a3acb27e4b29c713466732ac55e32b16d384ae6a059592fbf",
+    "title": "apache / airflow 工作流编排平台",
+    "summary": "Apache Airflow - 用于以编程方式编写、调度和监控工作流的平台 - 编程语言：Python - 今日获得 21 个 Star"
+  }
+}

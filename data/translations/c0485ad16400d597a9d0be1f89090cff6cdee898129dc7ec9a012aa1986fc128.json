@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/SMATDWTWIVYASQ",
+  "content_hash": "a18b12a855ef5ef560745257f073f6d019b683b6ccc18420f5d7bad7ecb14d63",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8e3c063808a21296ae4aebf77f41705b94ce3796daa3eb89931bf052bd1002a7",
+    "title": "Product Hunt: TraceX — 针对生产环境问题的 AI 工程师",
+    "summary": "Product Hunt 新品介绍：TraceX，充当生产环境故障排查的专职 AI 工程师。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/airbytehq/airbyte",
+  "content_hash": "aabaa24ea5eb679946a543015a545819e25d054968e1b403efc1c2feb8f3cda8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "abb91b5bf9da156ac07866895f51dfe138383dfdfa0f711f572e02e068d57491",
+    "title": "airbytehq / airbyte 数据集成项目",
+    "summary": "用于 ELT 管道和 AI 智能体的开源数据传输工具——支持从 API、数据库和文件到数据仓库、数据湖和 AI 应用，提供自托管和 Cloud 版本。"
+  }
+}

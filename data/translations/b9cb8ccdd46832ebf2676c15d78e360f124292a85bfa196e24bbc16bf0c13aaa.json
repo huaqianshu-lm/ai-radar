@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-06",
+  "content_hash": "5f9ef03a59f0d4045ffcc2ae5351c1ebe2f2f5b784a615fbeeb66eab28310bd2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "81474e06476bf04545ab9f496bc7b388a23bac7f55fadce85cd13873cf096c97",
+    "title": "Anthropic 研发加速、GPT-6 Cyber、Inkling 2 Small",
+    "summary": "# TLDR AI 2026-11-06 ## Anthropic 研发加速 📈、GPT-6 Cyber 🔐、Inkling 2 Small 🧠 ### GPT-6 Cyber (13 分钟阅读) OpenAI 推出了 GPT-6 Cyber，一个网络安全..."
+  }
+}

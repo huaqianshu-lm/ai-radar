@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/python-poetry/poetry",
+  "content_hash": "6d85636ed4870709a968e5b37f9224cb78f341c1290fec1a7954c5674e43cfa1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f9fac150be5083bba391158eba2944f829f5a5ee7697a90f303be12f8ea9e603",
+    "title": "python-poetry / poetry 依赖管理工具",
+    "summary": "让 Python 打包和依赖管理变得轻松 - 编程语言：Python - 今日获得 133 个 Star"
+  }
+}

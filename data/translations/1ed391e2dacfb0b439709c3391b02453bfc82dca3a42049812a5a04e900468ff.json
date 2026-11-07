@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark",
+  "content_hash": "23caa55233453a3bc715783deeea16306183ba43602f9f68ffbdc6258a3733ef",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b0388d69473dd7911d5dbb1de076a7f02a11e952e86a8112339d105cad2f6606",
+    "title": "Inkling 2 Small：使用 12T Token 在 68 小时内训练完成的 17A-594B 模型，超越 Muse Spark",
+    "summary": "2026 年 11 月 5 日 — 深入了解 Inkling 2 Small 的训练过程以及 METR 对 Anthropic AI 研究的研究。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/partnering-with-hacktron",
+  "content_hash": "cfec130ec4f752e853ba1591fd1f6da12b3330b74dce308974bcd5abbd22b534",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a0a44ed09dc9a1089b4e099f4e0fbf8e71ea906b8e386a1df3e114e9f9678292",
+    "title": "与 Hacktron 合作寻找 OpenAI 系统的漏洞",
+    "summary": "OpenAI 正在与 Hacktron 合作，以发现漏洞、测试与第三方服务的连接，并利用前沿 AI 加强防御。"
+  }
+}

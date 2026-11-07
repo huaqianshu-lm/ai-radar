@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/toyblocks",
+  "content_hash": "f9f163ac11629ffd3ab12ad4f6226af2ed93a0e0cab7fc5c4aa0a907450c9429",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5a90caffb2c87d2e6e8eb5c3f6e99436fe1d4b1da4789f4c2ad70b79f5a9dd5d",
+    "title": "ToyBlocks：用于机器人学习与评估的可控世界",
+    "summary": "# ToyBlocks：用于机器人学习与评估的可控世界 💻 代码 | 📊 数据 | 🤖 模型 | 📖 文档 机器人正在学习折叠衣物、分拣零件..."
+  }
+}

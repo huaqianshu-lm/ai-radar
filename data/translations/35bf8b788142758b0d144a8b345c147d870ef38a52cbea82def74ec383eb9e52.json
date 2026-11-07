@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+  "content_hash": "da8baefba7bff29d4af519247d0171325f5c77abff72451287f9f9d1ffb0186a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "13e4c95dcbaa6d34090ed25c81da95ae0ecffa6f5294ed82e0ecb8b302653aea",
+    "title": "埃及和尼日利亚英语加入 Open ASR Leaderboard",
+    "summary": "#### RW-Voice EQ ASR 探索并比较英语语音识别模型的性能 几个月前，我们将私有数据添加到了 Open ASR Leaderboard..."
+  }
+}

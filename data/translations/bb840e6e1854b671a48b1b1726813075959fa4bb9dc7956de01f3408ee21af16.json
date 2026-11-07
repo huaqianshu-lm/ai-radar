@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+  "content_hash": "273b97e59ff680ec9ef23c872ec70e70925da25b8f70b712f4a25ef327a8a70e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5b5f4925f1b37cdff3018dcede7b5cc3d92953d04e1968e6740a11ad2fcffb68",
+    "title": "ChatGPT 静默传递数据与安全悬赏讨论",
+    "summary": "HN 讨论指出 ChatGPT 在连接器之间静默路由数据，相关安全讨论涉及身份验证需求。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://developers.openai.com/api/docs/guides/voice-sip",
+  "content_hash": "09d1f52a79285133c6899af7ef7bc775705ff45924012b6c955b1c9b47d41a1d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6c7a92be9a6ef007c09d3881c1ef42a4211f25d300f1dfa103a71efe1068b6cb",
+    "title": "外呼 SIP 呼叫现已向所有组织开放",
+    "summary": "OpenAI 开发者 API 更新，宣布外呼 SIP 呼叫功能现在对所有组织可用。"
+  }
+}

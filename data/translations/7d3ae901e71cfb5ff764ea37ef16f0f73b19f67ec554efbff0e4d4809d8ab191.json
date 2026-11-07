@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/pandas-dev/pandas",
+  "content_hash": "acc832b40223532f53c169d118e242919c14327eb8d4fe22e3e8d4d2e05b3aa6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e2312a11b048c332c540db81c39a403a29b18392e0f5b977db3169fb686c9ef9",
+    "title": "pandas-dev / pandas 数据分析库",
+    "summary": "为 Python 提供灵活且强大的数据分析/处理库，提供类似于 R 语言 data.frame 对象的带标签数据结构以及统计函数等..."
+  }
+}
