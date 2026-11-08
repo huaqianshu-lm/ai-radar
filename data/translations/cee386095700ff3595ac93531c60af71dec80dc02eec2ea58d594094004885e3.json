@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/7/link-rel-next",
+  "content_hash": "6dd9d7385b15eb6ae6c63d944ce88582128b97d3851e512f1035d020f54d7170",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fe1f6a98c50b61102525fdc5f0ef63ad605badfd66f1392a72294512d94c4a9e",
+    "title": "datasette #3046：不要向 Firefox 的 HTML 页面发送 link: rel=next HTTP 标头",
+    "summary": "datasette #3046：不要向 Firefox 的 HTML 页面发送 link: rel=next HTTP 标头。我今天在查看 Firefox 网络面板时注意到请求..."
+  }
+}

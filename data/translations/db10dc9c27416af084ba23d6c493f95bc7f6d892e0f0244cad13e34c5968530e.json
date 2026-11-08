@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/5RK3D7YQJWFI4V",
+  "content_hash": "ed27e6dd91517c5add06ad022616bf783c17d2899bf7af0ba5131fe2174bf224",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a6c85939896f2deb45a02b9f1f24084fddcc71fefdd04a021caee31cd286125c",
+    "title": "Product Hunt: Trace by Context.dev — 每周网页抓取 API 基准测试",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2..."
+  }
+}

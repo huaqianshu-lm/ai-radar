@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/spotDL/spotify-downloader",
+  "content_hash": "7ed31e30f0ed0d7980385bafe6e750fae4c3d0458b860c338664876ef93f288b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "80a1342b1329bd418435fa0284822ccde63490890d51d14c6dcd13b53f21368a",
+    "title": "spotDL / spotify-downloader：下载你的 Spotify 播放列表和歌曲以及专辑封面和元数据（如果找到匹配项则从 YouTube 下载）",
+    "summary": "下载你的 Spotify 播放列表和歌曲以及专辑封面和元数据（如果找到匹配项则从 YouTube 下载）。 - 语言：Python - 今日获得 59 个星标"
+  }
+}

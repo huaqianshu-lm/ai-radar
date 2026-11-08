@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/mbillow/localthings",
+  "content_hash": "d9659414f31e4417edc5f8a2fc8b16cebe5b1a12968f889488ee96de9325b4a2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5695107db5e6e6f7d2eb60ed003855a021d7f983eebfe4335fda934b792b0629",
+    "title": "mbillow / localthings：通过家庭网络在 Home Assistant 中控制你的三星家电，无需云端账户",
+    "summary": "通过家庭网络在 Home Assistant 中控制你的三星家电，无需云端账户。 - 语言：Python - 今日获得 186 个星标"
+  }
+}

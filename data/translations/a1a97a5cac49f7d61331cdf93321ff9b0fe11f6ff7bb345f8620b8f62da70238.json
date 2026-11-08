@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+  "content_hash": "c757b518237b16be5c9deac29378d5f0e2ceffcf9f2bdfdfbd9ea372957a65f4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "10bdc73097cfd2386d0a762b95dc77e518c680989d890e766788d398671a3536",
+    "title": "Claude Code 的“不再询问”功能导致 1,122 个公开 GitHub 文件泄露密码",
+    "summary": "HN 讨论：https://news.ycombinator.com/item?id=50407882 原文链接：https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again 作者：shmulc..."
+  }
+}

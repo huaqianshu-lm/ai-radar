@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/jamiepine/voicebox",
+  "content_hash": "56eb382a5377f2b27ab5acb5e01eb6e6f7d0034f27f42e427de24029bfc6a9cf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ca722902e449ecc12a84a971bf704ca64ef48e59a43ec11767f228faad5b7b19",
+    "title": "jamiepine / voicebox：开源 AI 语音工作室",
+    "summary": "开源 AI 语音工作室。支持克隆、听写与创作。 - 语言：Python - 今日获得 378 个星标"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+  "content_hash": "de605c44d62efeb319b4437ffa772f7d2070df1ad5a61fe3e133c0ad51a4792d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b228101c3e9d88f964f3eda06ad7024b5a192a11a1df8b06c92b675ac655f7a3",
+    "title": "Show HN：我们将一个 31B 的视频+音频扩散模型压缩到了 14B、6 步、INT8",
+    "summary": "HN 讨论：https://news.ycombinator.com/item?id=50405263 原文链接：https://github.com/Video-Rebirth/hyperflow-h3-flash 作者：jiant 得分：58"
+  }
+}

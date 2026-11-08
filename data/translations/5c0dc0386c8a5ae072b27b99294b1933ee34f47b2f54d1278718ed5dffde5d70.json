@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/research/components-of-agent-memory",
+  "content_hash": "ea92509fd38687c3d771f08043442acfb8fc5a8ece07c781e4877a4a92480a4f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f0247d2be6d23fda27989bba50a71943168bf8e5f68168df2bbd40b50bab75f3",
+    "title": "Agent 记忆的组成部分",
+    "summary": "HN 讨论：https://news.ycombinator.com/item?id=50402212 原文链接：https://www.anthropic.com/research/components-of-agent-memory 作者：geoffbp 得分：151"
+  }
+}
