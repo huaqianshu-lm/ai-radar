@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-08",
+  "items": [
+    {
+      "id": "77dbd07e8e9c66d4e218f29b95368118a595a036b5c50afb1e2172b8b2fbc449",
+      "title": "[AINews] Anthropic IPO：将走向何方？",
+      "summary": "2026年11月6日 — ARC Prize 测试了 Inkling 2 Small，同时 Thinking Machines 解释了其如何捕获绕过安全护栏的早期检查点。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-07T03:04:53Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/"
+    },
+    {
+      "id": "fe1f6a98c50b61102525fdc5f0ef63ad605badfd66f1392a72294512d94c4a9e",
+      "title": "datasette #3046：不要向 Firefox 的 HTML 页面发送 link: rel=next HTTP 标头",
+      "summary": "datasette #3046：不要向 Firefox 的 HTML 页面发送 link: rel=next HTTP 标头。我今天在查看 Firefox 网络面板时注意到请求...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-07T23:57:46Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/"
+    },
+    {
+      "id": "d503d54580067867180a3bb41d052db992e738d320a23f9035657bf4e0e7e9bb",
+      "title": "EbookFoundation / free-programming-books：📚 自由可用的编程书籍 - 语言：Python - 今日获得 165 个星标",
+      "summary": "📚 自由可用的编程书籍 - 语言：Python - 今日获得 165 个星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-08T02:05:50Z",
+      "time_type": "fetched",
+      "url": "https://github.com/EbookFoundation/free-programming-books"
+    },
+    {
+      "id": "68507e79e06cd90305c36206e74305578b529baff8a8ba634fb96a561b2f9f6a",
+      "title": "django / django：为有紧迫期限的完美主义者准备的 Web 框架",
+      "summary": "为有紧迫期限的完美主义者准备的 Web 框架。 - 语言：Python - 今日获得 99 个星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-08T02:05:50Z",
+      "time_type": "fetched",
+      "url": "https://github.com/django/django"
+    },
+    {
+      "id": "ed0e57b2dc0792e49b38643805df6108d4cd9defe38eb6dd593905f8457052bd",
+      "title": "elder-plinius / OBLITERATUS：消除束缚你的枷锁 - 语言：Python - 今日获得 57 个星标",
+      "summary": "消除束缚你的枷锁 - 语言：Python - 今日获得 57 个星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-08T02:05:50Z",
+      "time_type": "fetched",
+      "url": "https://github.com/elder-plinius/OBLITERATUS"
+    },
+    {
+      "id": "ca722902e449ecc12a84a971bf704ca64ef48e59a43ec11767f228faad5b7b19",
+      "title": "jamiepine / voicebox：开源 AI 语音工作室",
+      "summary": "开源 AI 语音工作室。支持克隆、听写与创作。 - 语言：Python - 今日获得 378 个星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-08T02:05:50Z",
+      "time_type": "fetched",
+      "url": "https://github.com/jamiepine/voicebox"
+    },
+    {
+      "id": "5695107db5e6e6f7d2eb60ed003855a021d7f983eebfe4335fda934b792b0629",
+      "title": "mbillow / localthings：通过家庭网络在 Home Assistant 中控制你的三星家电，无需云端账户",
+      "summary": "通过家庭网络在 Home Assistant 中控制你的三星家电，无需云端账户。 - 语言：Python - 今日获得 186 个星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-08T02:05:50Z",
+      "time_type": "fetched",
+      "url": "https://github.com/mbillow/localthings"
+    },
+    {
+      "id": "3619c42254a9370454c84e21c432a76f22f91afe93a1fa3517e5f042fc463a96",
+      "title": "sherlock-project / sherlock：通过用户名在各大社交网络上追踪社交媒体账号 - 语言：Python - 今日获得 1,766 个星标",
+      "summary": "通过用户名在各大社交网络上追踪社交媒体账号 - 语言：Python - 今日获得 1,766 个星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-08T02:05:50Z",
+      "time_type": "fetched",
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "id": "80a1342b1329bd418435fa0284822ccde63490890d51d14c6dcd13b53f21368a",
+      "title": "spotDL / spotify-downloader：下载你的 Spotify 播放列表和歌曲以及专辑封面和元数据（如果找到匹配项则从 YouTube 下载）",
+      "summary": "下载你的 Spotify 播放列表和歌曲以及专辑封面和元数据（如果找到匹配项则从 YouTube 下载）。 - 语言：Python - 今日获得 59 个星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-08T02:05:50Z",
+      "time_type": "fetched",
+      "url": "https://github.com/spotDL/spotify-downloader"
+    },
+    {
+      "id": "f0247d2be6d23fda27989bba50a71943168bf8e5f68168df2bbd40b50bab75f3",
+      "title": "Agent 记忆的组成部分",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50402212 原文链接：https://www.anthropic.com/research/components-of-agent-memory 作者：geoffbp 得分：151",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-07T06:39:04Z",
+      "time_type": "published",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory"
+    },
+    {
+      "id": "ef313c34ae184d15b23a8ec6ebbee6d9e12dae97f562e0a1d653d20460b8291c",
+      "title": "每台 Mac 都自带一个（未文档化的）家庭成员分类器",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50403097 原文链接：https://8rank.ai/game/apple-intelligence-personal-knowledge-graph 作者：infwhispers 得分...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-07T09:46:03Z",
+      "time_type": "published",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
+    },
+    {
+      "id": "b228101c3e9d88f964f3eda06ad7024b5a192a11a1df8b06c92b675ac655f7a3",
+      "title": "Show HN：我们将一个 31B 的视频+音频扩散模型压缩到了 14B、6 步、INT8",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50405263 原文链接：https://github.com/Video-Rebirth/hyperflow-h3-flash 作者：jiant 得分：58",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-07T15:16:01Z",
+      "time_type": "published",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash"
+    },
+    {
+      "id": "dff9b7a159183f5ba33eb6d63a9836cc22a1c44453356609b4525c892364f8d0",
+      "title": "MaxxBench – “不错的 DeepSWE 分数。但它是真的吗？”",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50406222 原文链接：https://maxxbench.unlap.ai/research/why-maxxbench/ 作者：antiuniverse 得分：205",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-07T17:19:00Z",
+      "time_type": "published",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/"
+    },
+    {
+      "id": "8017ce29f6d88c8d95a2209177888f3f25a01062fdf68e0d0a30026ee2c203ba",
+      "title": "微软研究院 AI Frontiers 组的终结",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50406563 原文链接：https://hunch.net/?p=13764006 作者：srean 得分：389 https://archive.is/AaY5O",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-07T18:02:17Z",
+      "time_type": "published",
+      "url": "https://hunch.net/?p=13764006"
+    },
+    {
+      "id": "10bdc73097cfd2386d0a762b95dc77e518c680989d890e766788d398671a3536",
+      "title": "Claude Code 的“不再询问”功能导致 1,122 个公开 GitHub 文件泄露密码",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50407882 原文链接：https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again 作者：shmulc...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-07T20:45:32Z",
+      "time_type": "published",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+    },
+    {
+      "id": "2d0f77b80e4094290960b65cecc4f4459c5885e93c9f18e8f9f1e3dac542b9c0",
+      "title": "Show HN：一款离线桌面伴侣，帮助维持健康的眨眼频率",
+      "summary": "HN 讨论：https://news.ycombinator.com/item?id=50408350 原文链接：https://eyesrhythm.com/ 作者：prnysoni 得分：27 适用于软件工程师等职业...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-07T21:47:47Z",
+      "time_type": "published",
+      "url": "https://eyesrhythm.com/"
+    },
+    {
+      "id": "7e873ca63c5ddfe2dea233e7e92071e684a706dfc485139d0bdb2e18b6162cd4",
+      "title": "Product Hunt: ChatGPT Images 2.6 — 使用 AI 创建、编辑和给图像制作动画",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-07T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/ZYSSWGXHU4P32K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "6f03f34095ad02d4585ae4c30b7b78def829b60f3f57bff8d2d47a952de4eacd",
+      "title": "Product Hunt: ClarifierAI for Chrome — 在 Chrome 中使用 AI 进行写作和翻译",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/clarifierai-rewrite-text-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-r...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-07T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/CYPGOTWEMKSBYK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "30daf8a566161e8fc243cbef17d10042c9c38fc3f7be938c8277835603f6c933",
+      "title": "Product Hunt: Exa Monitors v2 — 按计划进行网络搜索并呼叫你的 Agent，2美元/1千次运行",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/exa-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-07T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/TAD4DNQRSJ5L2K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "7b7bb513fc57967920698a2ab46497440aaa13fe5b054075dbb6b0312aceb8fb",
+      "title": "Product Hunt: GPT‑6 Cyber — OpenAI 的网络安全模型，为防御者提供经过审查的访问权限",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-07T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/EQ2CDO3EYPSTVU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "e0b9a8c4e15939e3c28352268dde300af60d5c3db6ab1a8181058691045daa64",
+      "title": "Product Hunt: Google Omni 1.2 Flash — Gemini Omni 1.2 Flash：以每秒 0.07 美元的价格生成 15 秒 AI 视频",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/google-omni-1-2-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-07T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/EAQRQBPBLUGUTY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "00bdcf420e08fb390185a86fcd0c2f45fb26371546c39785614976b43b4e1805",
+      "title": "Product Hunt: Instagram Edits for Desktop — Instagram 推出的带 AI 智能体的免费桌面端视频编辑器",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/instagram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-07T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/TPRFPBACJLO5RW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "3fd5b6370a0cd9ceaed49d283fa62ef9c2fdc75472204981dea766da890c8f08",
+      "title": "Product Hunt: LiveReview — 免费且具风险意识的代码审查工具：自动批准低风险更改",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/livereview?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-07T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/UKG4GEUB6PLHOQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "d3b81e2ca8ba4185021294fc088a1f0fe148f286bdfb113b990408e1cd2f391e",
+      "title": "Product Hunt: Muse Realtime Avatar — 将与 Muse 的语音聊天转为实时视频通话",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/meta-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-07T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/CEQNYNERKKN54Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "e17aa1701588c3d25d3ef83839be7a79b56d4e46d87ae276411d5dd3b68a39ab",
+      "title": "Product Hunt: Quest — 助你过上有目标生活的个人 AI 顾问",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=App...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-07T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/FFHQV6QCOEHH7N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "a6c85939896f2deb45a02b9f1f24084fddcc71fefdd04a021caee31cd286125c",
+      "title": "Product Hunt: Trace by Context.dev — 每周网页抓取 API 基准测试",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-07T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/5RK3D7YQJWFI4V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
