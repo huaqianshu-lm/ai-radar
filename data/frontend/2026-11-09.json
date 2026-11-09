@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-09",
+  "items": [
+    {
+      "id": "d9dfd9512d8f2a6c7807a7bb37805a79f1e23e6d7fb0d0994355f022d5af8d04",
+      "title": "[百万AI工程师专栏] 斯坦福如何教授AI原生工程 — Mihail Eric, Monaco",
+      "summary": "当编程Agent能够用一个Prompt完成去年的家庭作业时，我们该布置什么作业？在斯坦福的CS146S第二期课程中，Mihail Eric引入了开源项目……",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-08T21:23:29Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/"
+    },
+    {
+      "id": "3e677dd44b58a882a3c28a80531edccc278a042d49dcc878a434e480f8178528",
+      "title": "斯坦福如何教授AI原生工程 — Mihail Eric, Monaco",
+      "summary": "当学生们可以用单次Prompt完成去年的家庭作业时会发生什么？深入了解CS146S以及Monaco的工程团队。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-08T21:41:44Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/cs146s/"
+    },
+    {
+      "id": "a86fe963d82ab9637cc7f4a0fa1d3b1249ad7c8cbc329328529cc3a84ba19a44",
+      "title": "作为SQLite扩展的 parse_number()：C 与 Rust 的对比",
+      "summary": "研究：作为SQLite扩展的 parse_number()：C 与 Rust。我在遛狗时突然好奇，编写一个 SQLite C 语言扩展会有多容易或多难……",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-08T22:26:00Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
+    },
+    {
+      "id": "33e832a8220039039a50ab19abcb1d224f4be979af57dbfb83dc985226efdfca",
+      "title": "BigBodyCobain / Shadowbroker：面向全球态势的开源情报工具",
+      "summary": "面向全球态势的开源情报工具。在一个统一界面中追踪从富豪的公务/私人飞机、间谍卫星到地震活动的一切信息。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-09T02:25:51Z",
+      "time_type": "fetched",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker"
+    },
+    {
+      "id": "f1a82f8367a76cdd566d8bc383f1279686dfdc710ee5b587acefbf28dadf95eb",
+      "title": "XiaoYouChR / Ghost-Downloader-3：你唯一需要的下载器",
+      "summary": "你唯一需要的下载器。下载器的集大成者。 - 语言：Python - 今日获得 53 个Star",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-09T02:25:51Z",
+      "time_type": "fetched",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+    },
+    {
+      "id": "b3731f96b1a0159dac974dc62180413e90ef957522a7f8ed1c8fa6a31e18d18c",
+      "title": "anthropics / claude-quickstarts：一系列旨在帮助开发者使用 Claude API 快速上手构建可部署应用的精选项目 - 语言：Python - 今日获得 32 个Star",
+      "summary": "一系列旨在帮助开发者使用 Claude API 快速上手构建可部署应用的精选项目 - 语言：Python - 今日获得 32 个Star",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-09T02:25:51Z",
+      "time_type": "fetched",
+      "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+      "id": "cc2152070c02e2abbe74425a42cf4c1a3737bdd38e9582c26ce554bbc4f6e903",
+      "title": "bradautomates / claude-video：赋予 Claude 观看任意视频的能力",
+      "summary": "赋予 Claude 观看任意视频的能力。/watch 命令会下载视频、提取帧、转写音频，并将所有内容交由 Claude 处理。 - 语言：Python - 今日获得 92 个Star",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-09T02:25:51Z",
+      "time_type": "fetched",
+      "url": "https://github.com/bradautomates/claude-video"
+    },
+    {
+      "id": "bc4abca6ef318699c381a333dafe8efc7dd521cefc7a191275e76190f339f54d",
+      "title": "googlecolab / google-colab-cli：用于与 Google Colab 运行时进行交互的命令行工具 (CLI) - 语言：Python - 今日获得 104 个Star",
+      "summary": "用于与 Google Colab 运行时进行交互的命令行工具 (CLI) - 语言：Python - 今日获得 104 个Star",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-09T02:25:51Z",
+      "time_type": "fetched",
+      "url": "https://github.com/googlecolab/google-colab-cli"
+    },
+    {
+      "id": "0cd067b75907534120d3668d799ace9f740d503ba8e144e9a8a0f06d1c8c75c9",
+      "title": "neuml / txtai：💡 用于语义搜索、LLM 编排和语言模型工作流的多合一 AI 框架 - 语言：Python - 今日获得 56 个Star",
+      "summary": "💡 用于语义搜索、LLM 编排和语言模型工作流的多合一 AI 框架 - 语言：Python - 今日获得 56 个Star",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-09T02:25:51Z",
+      "time_type": "fetched",
+      "url": "https://github.com/neuml/txtai"
+    },
+    {
+      "id": "149c124f7b07d2a10e3ffaa75f4c05dcc2955d8ea85e57aa9f715501d394f537",
+      "title": "告别 Claude，拥抱 Pi",
+      "summary": "HN 讨论热点：https://news.ycombinator.com/item?id=50410107 原文链接：https://caleb.software/posts/claude-to-pi.html 作者：karagenit 得分：704",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-08T03:11:48Z",
+      "time_type": "published",
+      "url": "https://caleb.software/posts/claude-to-pi.html"
+    },
+    {
+      "id": "96571aa39f8d3b2f00f21a8296d8aae4de15821c042ee7dde866d91b009c5c75",
+      "title": "Agent 内存需要属于它的 OpenTelemetry 时刻",
+      "summary": "HN 讨论热点：https://news.ycombinator.com/item?id=50411467 原文链接：https://www.lorekit.io/blog/open-agent-memory-format 作者：mthines 得分：175",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-08T08:40:23Z",
+      "time_type": "published",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format"
+    },
+    {
+      "id": "64d6a4efd836b9d998536b8e17614d62fd170318601ac1c2790fbe8db888563e",
+      "title": "我不太喜欢 Deno 的安全模型 (2024)",
+      "summary": "HN 讨论热点：https://news.ycombinator.com/item?id=50413769 原文链接：https://goldstein.lol/posts/deno-security/ 作者：maxloh 得分：88",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-08T14:42:38Z",
+      "time_type": "published",
+      "url": "https://goldstein.lol/posts/deno-security/"
+    },
+    {
+      "id": "fe5fdb83e1ea95f1b42419b0848c6704005c1a0d97bf5b622b17271058205ad1",
+      "title": "高盛正在禁止其银行家和交易员使用 Claude Code",
+      "summary": "HN 讨论热点：https://news.ycombinator.com/item?id=50415628 原文链接：https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers 作者：TheWig... 得分暂略",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-08T18:16:07Z",
+      "time_type": "published",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+    },
+    {
+      "id": "8b18a5361e6d14a958f6230dacc6693daecb7b825dba1d303670f9618e563a8a",
+      "title": "我是如何对抗 AI 带来的大脑倦怠的",
+      "summary": "HN 讨论热点：https://news.ycombinator.com/item?id=50416363 原文链接：https://sergeykuhne.com/blog/fighting-ai-brain-fry 作者：kyunez 得分：159",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-08T19:37:42Z",
+      "time_type": "published",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
+    },
+    {
+      "id": "3c21dbfc6436aa839a99cd09e34b1b19542fc53d5141b31dd42d08da3f319ab6",
+      "title": "我不认为 AI 泡沫存在",
+      "summary": "HN 讨论热点：https://news.ycombinator.com/item?id=50418975 原文链接：https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html 作者暂略 得分暂略",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-08T23:44:36Z",
+      "time_type": "published",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
+    },
+    {
+      "id": "8f93bde7fcddcc7ccc3311bd71c392b95e28de0a6fff63b36c17b7f315d34832",
+      "title": "Product Hunt: AXL — 面向 AI 产品创始人的 GTM 副驾驶：通过 MCP 实现 1,200 多个操作",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/axl-2（用于 AI 产品创始人的市场进入策略(GTM)副驾驶工具）",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-08T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/I2M2MPP6UQVT6W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "e07fa219bab78ce326b70dc19024e5f4f9a04a168d044f141e4a3874cd0e65ca",
+      "title": "Product Hunt: Agent Clan — 通过手势指挥你的 Claude Code 和 Codex Agent",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/agent-clan（通过手势控制 Claude Code 和 Codex Agent 的工具）",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-08T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/FM5JX2VIU22Z3M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "80a03546cb2131c9396c2539e1cee36ab5fcc084acd748bce7cfbeecc3f9ab57",
+      "title": "Product Hunt: World Labs 推出的 Frameboy — 使用 Atlas 进行交互式世界探索",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/marble-by-world-labs（由 World Labs 开发的、使用 Atlas 进行交互式世界探索的 Frameboy）",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-08T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/ZWDWXSQTYCO2EA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "61130e553bbde156de263137021665029483ef2446f5cc9513dfc76d84d37ad5",
+      "title": "Product Hunt: Inkling 2 Small — 一个能够观察并完善其所构建内容的模型",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/tinker-2（具备观察并精炼其构建内容能力的 Inkling 2 Small 模型）",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-08T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/R4MZ6WWP7QAB6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "cfbe2728cc242d976fb113c9c84ada57029aa756cb24def6443fb19a63e6e86e",
+      "title": "Product Hunt: Memorias — 将你的故事转化为书籍的 AI 传记作家",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/memorias-3（能够将用户的个人故事转化为书籍的 AI 传记工具 Memorias）",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-08T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/QBKB3D2WTMT3FE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "49cf75ad4c54fd31d260f96494bd404c2ded9f82d06708b4d7167bd914a9108b",
+      "title": "NoMac：Product Hunt 页面：NoMac —— 为您的 AI agent 提供专属 Mac，按分钟计费，无需订阅",
+      "summary": "Product Hunt 页面：NoMac —— 为您的 AI agent 提供专属 Mac，按分钟计费，无需订阅。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-08T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/LV54W7UK6JWYO7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "d319c62a85bee645f29d03a2e604fe19a4eda3158632d8d81aa14de5194571b8",
+      "title": "Sage2 by Levanto Labs：Product Hunt 页面：Sage2 by Levanto Labs —— 将实时对话转化为结构化数据与即时操作",
+      "summary": "Product Hunt 页面：Sage2 by Levanto Labs —— 将实时对话转化为结构化数据与即时操作。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-08T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/ZVZ33J42Q2NP4A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "b749583d90bfdbbf5d13e8904e0187f615a8f98b97c1356b38d8924f62ea6870",
+      "title": "outages.live：Product Hunt 页面：outages.live —— 为您的 agent 提供免费的实时服务中断动态流",
+      "summary": "Product Hunt 页面：outages.live —— 为您的 agent 提供免费的实时服务中断动态流。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-08T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/SO7EMFRAKO7TPP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
