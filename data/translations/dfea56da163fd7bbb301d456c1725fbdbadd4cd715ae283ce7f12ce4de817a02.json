@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.lorekit.io/blog/open-agent-memory-format",
+  "content_hash": "a007765b792c4af19d160a2f7966ea3c52b9cf63cb1371f9a5142e8c093afcaa",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "96571aa39f8d3b2f00f21a8296d8aae4de15821c042ee7dde866d91b009c5c75",
+    "title": "Agent 内存需要属于它的 OpenTelemetry 时刻",
+    "summary": "HN 讨论热点：https://news.ycombinator.com/item?id=50411467 原文链接：https://www.lorekit.io/blog/open-agent-memory-format 作者：mthines 得分：175"
+  }
+}

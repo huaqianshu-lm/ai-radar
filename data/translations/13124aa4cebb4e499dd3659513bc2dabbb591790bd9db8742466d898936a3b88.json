@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/BigBodyCobain/Shadowbroker",
+  "content_hash": "7cbcc1c518ecf41f090849a63b07b400602a244a765d27e3c880dc84bb314e99",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "33e832a8220039039a50ab19abcb1d224f4be979af57dbfb83dc985226efdfca",
+    "title": "BigBodyCobain / Shadowbroker：面向全球态势的开源情报工具",
+    "summary": "面向全球态势的开源情报工具。在一个统一界面中追踪从富豪的公务/私人飞机、间谍卫星到地震活动的一切信息。"
+  }
+}

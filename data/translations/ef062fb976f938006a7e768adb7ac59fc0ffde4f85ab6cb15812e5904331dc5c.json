@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust",
+  "content_hash": "2079525e890cf96af5df04e1bd3afdace2d502f03c48f2a8ea19fafe6ea64148",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a86fe963d82ab9637cc7f4a0fa1d3b1249ad7c8cbc329328529cc3a84ba19a44",
+    "title": "作为SQLite扩展的 parse_number()：C 与 Rust 的对比",
+    "summary": "研究：作为SQLite扩展的 parse_number()：C 与 Rust。我在遛狗时突然好奇，编写一个 SQLite C 语言扩展会有多容易或多难……"
+  }
+}

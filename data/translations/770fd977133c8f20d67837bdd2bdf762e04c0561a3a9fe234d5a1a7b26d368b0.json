@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://goldstein.lol/posts/deno-security",
+  "content_hash": "3ac4b778294eff33d0bb5f94109eee5d21beb50a2fe662e1863e2cd7d49e9b4f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "64d6a4efd836b9d998536b8e17614d62fd170318601ac1c2790fbe8db888563e",
+    "title": "我不太喜欢 Deno 的安全模型 (2024)",
+    "summary": "HN 讨论热点：https://news.ycombinator.com/item?id=50413769 原文链接：https://goldstein.lol/posts/deno-security/ 作者：maxloh 得分：88"
+  }
+}

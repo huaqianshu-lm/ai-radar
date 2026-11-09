@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/FM5JX2VIU22Z3M",
+  "content_hash": "2d77cfb9cbb32fd8fb72a752b142801c73840159c0085980014970f6bc129708",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e07fa219bab78ce326b70dc19024e5f4f9a04a168d044f141e4a3874cd0e65ca",
+    "title": "Product Hunt: Agent Clan — 通过手势指挥你的 Claude Code 和 Codex Agent",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/agent-clan（通过手势控制 Claude Code 和 Codex Agent 的工具）"
+  }
+}

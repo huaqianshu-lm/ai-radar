@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/bradautomates/claude-video",
+  "content_hash": "cbe9c78f667506df666a1410afb5f6df1b88a2d3d818662dfc2e6bf99c59304b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cc2152070c02e2abbe74425a42cf4c1a3737bdd38e9582c26ce554bbc4f6e903",
+    "title": "bradautomates / claude-video：赋予 Claude 观看任意视频的能力",
+    "summary": "赋予 Claude 观看任意视频的能力。/watch 命令会下载视频、提取帧、转写音频，并将所有内容交由 Claude 处理。 - 语言：Python - 今日获得 92 个Star"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/cs146s",
+  "content_hash": "dac68b2d07aa6b198223cdcb62b0801401a097043cd24f24b73c9f186247916a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3e677dd44b58a882a3c28a80531edccc278a042d49dcc878a434e480f8178528",
+    "title": "斯坦福如何教授AI原生工程 — Mihail Eric, Monaco",
+    "summary": "当学生们可以用单次Prompt完成去年的家庭作业时会发生什么？深入了解CS146S以及Monaco的工程团队。"
+  }
+}
