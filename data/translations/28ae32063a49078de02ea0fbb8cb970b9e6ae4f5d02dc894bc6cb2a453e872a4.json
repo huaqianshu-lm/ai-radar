@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx",
+  "content_hash": "b60c81fb4d25cf4f41c4366257a30b20c6066d56631464eae3c42bbbf2f323e3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e9950a58c8925934c58a1e8f535dff9f10228ce40da6705b5bd0ac23b0c5bb22",
+    "title": "TPU 8tx 与 TPU 8i Max",
+    "summary": "Google 发布的关于 TPU 8tx 和 TPU 8i Max 基础设施与云端网络的更新内容。"
+  }
+}

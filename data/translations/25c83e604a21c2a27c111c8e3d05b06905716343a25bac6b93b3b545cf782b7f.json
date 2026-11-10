@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/coderabbit-codex-daybreak",
+  "content_hash": "3231d2ff7e490ace206b47bfead64f11355effa79c41459ccf7752f59697500d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "02e9abf47eaf3fa01f98fe0d8703230a8e6faa4dd4f2fb401bd0d8381c4ff554",
+    "title": "CodeRabbit 扩展了智能体软件开发并实现了 20 倍的交付提升",
+    "summary": "CodeRabbit 使用 OpenAI 模型来管理和信任 AI 生成的代码，并利用 Codex 在保持相同工程团队规模的情况下，将软件交付效率提升了 20 倍。"
+  }
+}

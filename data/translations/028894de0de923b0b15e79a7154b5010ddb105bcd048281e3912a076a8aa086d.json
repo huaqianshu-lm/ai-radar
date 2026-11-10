@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/9/llm-anthropic",
+  "content_hash": "d1b98d499d724eb0c6407debf5a61729e9e8a9f67af6f6887c63fa8b9d5d96ed",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "86b4ba3155e4ca0c3b2ffc222d1b305cbbb8c04d34065f7fc932df4a8e4ce2f7",
+    "title": "llm-anthropic 0.31：版本发布：llm-anthropic 0.31",
+    "summary": "版本发布：llm-anthropic 0.31。Anthropic 今天发布了 Fable 5.2 和 Mythos 5.2。我已经将它们添加到了 llm-anthropic 中，因此你现在可以通过 Fable 5.2 运行提示词..."
+  }
+}

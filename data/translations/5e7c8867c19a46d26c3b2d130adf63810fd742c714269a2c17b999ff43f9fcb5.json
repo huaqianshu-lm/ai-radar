@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "content_hash": "b83c5f099bd98600fc5e23a11a45bf041303165b38901bfe054adc3506af5a35",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "55d059b88c6c576a2f3d9ab40518505078744d93ab6e7c4bc3d7b8ab49056416",
+    "title": "你的专家拥有搭档。有 HOPE 可以让他们保持在一起",
+    "summary": "# 你的专家拥有搭档。有 HOPE 可以让他们保持在一起 ## 混合专家语言模型中高阶专家剪枝（Higher-Order Pruning of Experts in Mixture-of-Experts Language Models） ### 简介 M..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/homeassistant-ai/ha-mcp",
+  "content_hash": "acbfd0ec82ac79b9b6b64798158e46e199edfd749a69f99fb8555699f4e559f3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d4296af1a97fe98ced4066cd2d66fd5048771737ef2ac3996c14fb3e7e449c8a",
+    "title": "homeassistant-ai / ha-mcp：使用 Claude、ChatGPT 和其他 AI 助手配置和自动化 Home Assistant",
+    "summary": "使用 Claude、ChatGPT 和其他 AI 助手配置和自动化 Home Assistant。- 语言：Python - 今日获得 31 个 Star"
+  }
+}

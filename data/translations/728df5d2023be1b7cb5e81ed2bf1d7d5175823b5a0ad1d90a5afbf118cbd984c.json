@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+  "content_hash": "9b8ffd487ae5337ef092040865aba6a6fa5581f231ffd97ec2ca43d529861b07",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e7d9d1552b0e69602474771fc2334499b10f4c2f34c6e1ba92ee0f901589a2fd",
+    "title": "随着 AI 信贷压力上升，CoreWeave 债券收益率突破 16%",
+    "summary": "由于市场对 AI 领域的信贷压力感到担忧，CoreWeave 的债券收益率大幅攀升并突破 16%。"
+  }
+}

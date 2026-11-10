@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/QC2MD2OS3ZT23L",
+  "content_hash": "34bb9a5f1479a0e30ebbbe076b89a0a9d6b695a59d2f22fc11b32908a06a8f2d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "afb744f24d1d3393b15ba408438580aff788b304218325fd469d06f88f47418a",
+    "title": "Product Hunt: MCP1 – 为每个 MCP 服务器提供单一 URL",
+    "summary": "Product Hunt 上的 MCP1 产品，旨在简化 MCP 服务器的访问与管理。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-09",
+  "content_hash": "37431bca10cfa355a6e1477803387975561f75624585308cd52673b7a83780a5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9488dc747f290e052ede5ddc22b9812f64949e8ea0308dec4a8c430bd3729d81",
+    "title": "AI 研发加速 📈，OpenAI 估值达 1.25T 💰，GitHub 的多玩家工具 harness 🤖",
+    "summary": "每个人都在谈论瓶颈的转移……我们的客户在规模扩大时只想要一些稳定的东西，具备真正优秀的开发者体验（DX），并且不碍事。"
+  }
+}

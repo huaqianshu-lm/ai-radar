@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/control-room",
+  "content_hash": "7c404cc6fca51f206ab8bebd73d81960c9e8a09376d933664bb35ed59944773f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "952d2516af2e905436adea3bc1ec3df5f6a7559eef98c6b3c275da646bdd61ac",
+    "title": "Control Room：用于在研究基础设施中跟踪和停止模型工作负载的中心系统",
+    "summary": "了解 OpenAI 的 Control Room 如何在研究基础设施中跟踪模型工作负载，并在出现安全或安保隐患时能够迅速将其停止。"
+  }
+}

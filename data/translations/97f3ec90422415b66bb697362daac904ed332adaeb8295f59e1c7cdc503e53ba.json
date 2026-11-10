@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/SQJXVLATW6UFHE",
+  "content_hash": "b444a5c0c7f1c8027821a1b91e9da2c28fda7be7fd75f6acc007d31d14d62fdc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "80b91ef8c6c17794fb556c07cbf2ec5bb3ae6c6eaac5a1f9343575d6a4f67cf5",
+    "title": "Product Hunt: Higgsfield Miracle – 局部修改视频而不改变其余部分",
+    "summary": "Product Hunt 上的 Higgsfield Miracle，支持对视频任意部分进行单独编辑而保持其他画面不变。"
+  }
+}

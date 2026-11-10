@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim",
+  "content_hash": "b5db51a1ea421c9f1fa641331ab1c2bcf163026189863ebc339ab8f8683820e4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "389a3fd204fb60a25c39667bfb7cc5b4a918446aad1ed00f8bd8155ef366beb1",
+    "title": "DeepX 宣称在 5W 以下功耗下实现高达 100B 参数的推理",
+    "summary": "DeepX 推出第二代芯片项目，展示出极高的能效比与性能表现。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50427934",
+  "content_hash": "9d12c0c9ff40e22dd4c2b59f5f8ef27e7f2726e659aa64e1fb8f65851b03bee0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f770723aae2a629355d48f1b5eb902bac73fa898c847b080dc6d2842c152d2b5",
+    "title": "Show HN：DBDelve – 使用 Rust 和 GPUI 制作的开源数据库客户端",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=50427934 作者：shayan_abbas 得分：97 嗨 HN，我是 Shayan，几个月前我开始构建一个数据库客户端 DBD..."
+  }
+}

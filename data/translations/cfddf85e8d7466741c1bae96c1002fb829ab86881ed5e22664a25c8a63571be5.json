@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/kuken",
+  "content_hash": "a952617d2c7b1bff16d118c1bad61be8f3cc45c9bfd6e5c0ddcbe608bc374bbe",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2e34e84f0999c607fcd026638ba274edf1639ff07c6ab06d851f57d1a6442eba",
+    "title": "Kuken Industries 在几分钟内搜索了 70 年的图纸",
+    "summary": "Kuken Industries 使用 OpenAI API 搜索了 70 年的冷却塔图纸。工程师查找维修图纸的时间从将近...缩短至 4.5 分钟。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/9/details-summary",
+  "content_hash": "5428eb32739b33494b53eea35d75a42052e6b6bd0e585819b6d3603ba72eff22",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cfd192eda4f22e6c6e731ed715a75ed915714ebf44f0260dae6481c4fade932f",
+    "title": "将平庸的 PR 描述隐藏在 <details><summary> 标签后",
+    "summary": "这些天我对自己项目所做的大部分修改，都是通过 Claude Code 或 Codex 为我打开的 PR（Pull Request）来实现的。PR 是我的工作单元——我用它们来构建..."
+  }
+}

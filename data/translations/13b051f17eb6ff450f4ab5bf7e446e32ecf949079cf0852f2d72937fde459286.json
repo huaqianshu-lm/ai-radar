@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+  "content_hash": "85629694b69eead3129666c5e869f5a08bda13710df6a9ad936e871ba95fa476",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ac8f18750241a65f1eaff59406bf9b8d8a419cb23f6d29d213a586908db91264",
+    "title": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计与金融背景的合成数据集",
+    "summary": "# Nemotron-Personas-Finance-Japan：捕捉日本人口统计与金融背景的合成数据集 *基于日本人物画像的复合 AI 方法..."
+  }
+}

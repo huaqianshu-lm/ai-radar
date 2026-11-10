@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Dodaios/ste80-humanizer",
+  "content_hash": "cffcbd1f1a338b54a21be88d0f7fa7b56818134b2c44db889ba56ce8e3c4d74a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eee402332b6dfec316632ec2f4d2c68589f703a1f251a39f9e14443644a5b420",
+    "title": "Show HN: STE80 Humanizer – 去除AI文本痕迹工具",
+    "summary": "HN 讨论帖，介绍通过将文本以 80% 的程度转换为 ASD-STE100 标准来去除 AI 痕迹的项目。"
+  }
+}

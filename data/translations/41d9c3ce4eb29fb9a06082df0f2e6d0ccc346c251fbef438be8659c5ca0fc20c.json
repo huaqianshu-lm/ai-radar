@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/AK5JMQTTDBGMD4",
+  "content_hash": "6fea1e07968f501e364d3d6c977236037375743b2f3453eab326d18c86bd5f8f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8875fa5d48ec622bae0ad25fc2c19e5c2064679f12ab06a0e140e1bf8fe89c99",
+    "title": "Product Hunt: ProtoMap – 避免 AI Token 浪费在重复发现依赖项上",
+    "summary": "Product Hunt 上的 ProtoMap，帮助开发者在使用 AI 时更高效地处理代码依赖。"
+  }
+}

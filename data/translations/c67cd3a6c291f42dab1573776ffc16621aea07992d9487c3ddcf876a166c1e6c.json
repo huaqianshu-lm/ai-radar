@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/VT6JRMB2LSBNQT",
+  "content_hash": "d057883b1ad57124c731e1b266aef363d463bad28e41aa26df21512f6e511379",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d0c88798aa2e1673d82e3cd971bb21c0ab3d5044fadd9788a2eea53fdec134e3",
+    "title": "Product Hunt: Arcjet AI security models – 专为编程智能体定制的安全模型系列",
+    "summary": "Product Hunt 上展示的 Arcjet AI 安全模型，是一系列专为编码 Agent 训练的安全模型。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/DECOX5K4UP7P3G",
+  "content_hash": "616df7542f89ad16c30e19c6cbe863edb657f625c480736b8e9b1750185e4727",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3dd0ebf11089aca4833931b54744f3384206d79df6969bf556ce391f18a390b0",
+    "title": "Product Hunt: Voyager – ✴️ 用于导航工作上下文的 Agent 式文件浏览器",
+    "summary": "Product Hunt 上的 Voyager，一款能够理解工作上下文并具备 Agent 能力的文件浏览器。"
+  }
+}
