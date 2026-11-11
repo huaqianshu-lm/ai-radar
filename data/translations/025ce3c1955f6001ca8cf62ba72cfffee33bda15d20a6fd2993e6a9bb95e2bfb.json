@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/resend",
+  "content_hash": "7e3ceedc4b25b6e7c309811771155007cf541fb9fef074d888889d79a7079841",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b24e66b8fe96eeb7aec9fbb75131d869fdd1435cde1169f46d2944e03a01b2c8",
+    "title": "为智能体设计 — Zeno Rocha, Resend",
+    "summary": "回答引擎优化（AEO）在哪里结束，智能体体验又从哪里开始？深入Resend，从帮助Claude Code选择电子邮件API的文档到其工具..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-10",
+  "content_hash": "ce253a241ca3c0305db5c2c76b925ca5c9bb0fd388ad19cdf06d22f576c3d257",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c7e02003d9d7ab2194a2786847baa4449e9472e55eb511387d46e2f4bd74bfca",
+    "title": "Claude Fable 5.2、Meta Ember与Google的新款TPU",
+    "summary": "AI快讯 2026-11-10。内容涵盖Claude Fable 5.2、Meta Ember、Google的新TPU以及保护AI智能体安全的基础知识（赞助内容）。"
+  }
+}

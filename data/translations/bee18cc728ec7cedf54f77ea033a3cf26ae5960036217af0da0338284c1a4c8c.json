@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52",
+  "content_hash": "897bf6e1419c1ce1b4843ec959cd4ca1a2bcb7bd30aa9875af83ec4918dca0ea",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f932ce86887297f16c587a0230fd32498898380011abb85ac57fcfd51b944259",
+    "title": "关于Claude Fable 5.2提示词引用的探讨",
+    "summary": "Claude Fable 5.2对提示词中关于其编写代码归属权的说明做出了密切响应。在Anthropic的小型编码任务测试中，当提示词指定..."
+  }
+}

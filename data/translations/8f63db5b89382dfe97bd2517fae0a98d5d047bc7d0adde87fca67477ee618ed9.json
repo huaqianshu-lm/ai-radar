@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://alexwang.ai/posts/reasoning-as-pathfinding",
+  "content_hash": "a58a8b81bedec9bf2ed8a4ab57b9581c87152c784742b76913718c8991d1f3e0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "242c2c5235cec9434be2b2140035aefdddf5bd41ba66c422c480eb6779f9a94c",
+    "title": "推理究竟在解决什么目标？",
+    "summary": "探讨 AI 推理过程在解决什么样的问题目标。"
+  }
+}

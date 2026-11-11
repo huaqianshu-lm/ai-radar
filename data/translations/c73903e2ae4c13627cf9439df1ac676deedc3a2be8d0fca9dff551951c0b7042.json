@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/hub-gcp-marketplace",
+  "content_hash": "06d02027025df430a8911887d5c7b71ef2fbd1626a960ccfc7c06fcbcae41260",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cb93d68b445c05b0e3dc3bb4de519fde744154508905db1326dcde436121a9ef",
+    "title": "使用Google Cloud账号支付Hugging Face Hub费用",
+    "summary": "您现在可以将Hugging Face组织关联到您的Google Cloud账号，以便支付Hugging Face的费用。"
+  }
+}

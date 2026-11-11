@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+  "content_hash": "fec8ffef3195942ac080e63392022c621c7c436672d351b9ee488e8d1fd5f41d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6b6709b612e5913e3ffca54a85bc91991cc77a4b3fa814c431fece64c1da4ed4",
+    "title": "Gemini Robotics 2.5：加速物理智能 — Google DeepMind",
+    "summary": "Gemini Robotics 2.5加速了现实世界的通用灵巧性，使机器人能够更快地适应现实世界，从日常技能到工厂车间..."
+  }
+}

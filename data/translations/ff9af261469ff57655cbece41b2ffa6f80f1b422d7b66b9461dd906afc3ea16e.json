@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/10/llm-gemini",
+  "content_hash": "83796fc8a8b17c2004c48c3d08d488444fc470977121b669b46be60df6ec28eb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e5607ea9b345667894ace36b4e620db28d0071cb9cf377af8302cfcec0f9e31e",
+    "title": "llm-gemini 0.36发布",
+    "summary": "版本发布：llm-gemini 0.36。Gemini 4 Carbon两周前宣布面向“网络防御者子集”推出，但今天它向所有人开放。这是Google的..."
+  }
+}

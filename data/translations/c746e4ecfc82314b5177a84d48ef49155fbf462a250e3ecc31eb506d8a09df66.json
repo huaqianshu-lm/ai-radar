@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/naiveai",
+  "content_hash": "97def6e61017aa6f8902f009c880b9e8b7f7f9f948ba7979ca945e4a2f179da4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d2e51838c141f63be6541ae471729493ba7dbe8c55acf6a616b54ed1597fa77c",
+    "title": "NaiveAI承诺每秒2,100个Token，其代码编写能力如何？",
+    "summary": "NaiveAI的运行速度有望在Artificial Analysis的速度排名中名列前茅。我们的实测表明其编码质量与DeepSeek不相上下。"
+  }
+}

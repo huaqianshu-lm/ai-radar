@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/opensandbox-group/OpenSandbox",
+  "content_hash": "02bbb3f9d2f28ff92cfaff162a7d23d0761e53e81a18fb5f0b4dc7473dc3ad51",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "85770dc561132e9d0a57736fc0cb81168c1ca16fca4d811b06aac333da96f718",
+    "title": "opensandbox-group / OpenSandbox：一个面向AI智能体的安全、快速且可扩展的沙箱运行时",
+    "summary": "一个面向AI智能体的安全、快速且可扩展的沙箱运行时。语言：Python，今日收获323个星标。"
+  }
+}

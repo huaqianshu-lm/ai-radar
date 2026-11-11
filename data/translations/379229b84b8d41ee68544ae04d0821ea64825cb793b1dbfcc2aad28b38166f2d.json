@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/HWOHHCDD334GSS",
+  "content_hash": "3916e9545f223a53b33206a7a05401c9b21cf6aa897cd804dd1a1338d3cef7cf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "134b875e7b21027538225893b5b7141073cc0a295b2bd3e17e73cfa19c8effce",
+    "title": "Product Hunt: Co-Review — 用构建它的 Agent 阅读整个代码库",
+    "summary": "Co-Review 允许用户使用构建代码库的同一个 AI Agent 来阅读和审查整个仓库。"
+  }
+}

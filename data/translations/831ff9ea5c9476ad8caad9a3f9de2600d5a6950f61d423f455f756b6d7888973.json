@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/LMHIUZD4KWZDR5",
+  "content_hash": "0917d79c914814a69f77597931f5d017c1071fddbf733a8bb313da3b70edeeb1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "940e880026e47250528802d5e264ebf13e16a380f3a7818a908522b4440e8b04",
+    "title": "Product Hunt: Latch.ai — 无需任何提示词即可自动化复杂的会计工作",
+    "summary": "Latch.ai 能够帮助用户自动化处理复杂的会计工作，且全程无需手动编写 Prompt。"
+  }
+}

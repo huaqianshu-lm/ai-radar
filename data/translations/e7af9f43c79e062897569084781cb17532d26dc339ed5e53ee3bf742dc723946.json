@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/GoogleChrome/modern-web-guidance",
+  "content_hash": "27ef67aa951170fe0d4fe9dc25073d2ddfc02b5404519a8069b8bb14d7a5312e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a4978faa7e166cdb12b818c5397aad221fe34e5d74e2dc0c479fe886ef474c07",
+    "title": "Show HN: 摆脱 ~2019 年的 JavaScript，让你的编码 Agent 使用现代 Web 原语",
+    "summary": "探讨如何让浏览器的编码 Agent 升级并使用现代 Web 基础功能。"
+  }
+}

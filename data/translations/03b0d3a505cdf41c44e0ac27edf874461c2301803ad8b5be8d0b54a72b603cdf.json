@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://docs.modelplane.ai/guides/inference-guide",
+  "content_hash": "ed7fb6f4cec725e1e8d088e17373d7959e12577fc8c6d69a5d9a748c7ed62cc3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "64c65c510d530b1f1077a1c4904adf7270ca6999d6689c4e14b70246cdee277a",
+    "title": "推理工程开源指南",
+    "summary": "这是一份关于推理工程（Inference Engineering）的开放指南。"
+  }
+}

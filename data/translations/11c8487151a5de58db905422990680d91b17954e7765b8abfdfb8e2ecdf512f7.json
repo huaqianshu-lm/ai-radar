@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/6777NBXG6GHZDS",
+  "content_hash": "564ff83d7a1035ee0a0a988d954c60562547289247d608e10f9e2eada702cf62",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fabe60db9e8af403348cedefc250d791b384318024e2671ea6a76e0e5b201882",
+    "title": "Product Hunt: Alsona — 将购买信号转化为预约销售电话的 AI Agent",
+    "summary": "Alsona 能够通过 AI 智能体将潜在客户的购买信号转化为已预定的销售通话。"
+  }
+}

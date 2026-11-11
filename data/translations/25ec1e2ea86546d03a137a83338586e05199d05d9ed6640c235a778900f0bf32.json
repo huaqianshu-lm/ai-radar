@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/RNRC2UWHCYFCBR",
+  "content_hash": "4a8f96cfa5cf49d7212491854e2aefab914dd6a78ea26650ac7c10323f6e73a0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "43c715ede18475d5a440c197a456f8f3a1b3d380c6b69f788efef715e4b345bc",
+    "title": "Product Hunt: AppuBot — 完全免费运行在你自己的 AI 上的 Grok Bot 替代品",
+    "summary": "AppuBot 是一款开源且免费运行在用户自己的 AI 模型上的 Grok Bot 替代产品。"
+  }
+}

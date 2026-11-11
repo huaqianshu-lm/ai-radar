@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2611.10866",
+  "content_hash": "a5d2e99de4c0f1c3c3380498f5f63746ceca00aacdf00b66f83017c03e1e6149",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "579a115bfd9bf64ff5c21d42e4cf25389f54904b4041f142b8b5f73f7d4d2db9",
+    "title": "在大模型后训练中删除权重的惊人效果",
+    "summary": "探讨在大语言模型后训练阶段删除部分权重所带来的出人意料的效果。"
+  }
+}

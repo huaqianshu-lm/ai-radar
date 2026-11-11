@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/decision",
+  "content_hash": "47d5569ab14083397af7b1d1e2dec6df15240989e2ae4324de5ba019ce6ab831",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5f3963726dbe36e6ccf9753b6647e286ea2d25f750c2d86a74f9ab28836d655f",
+    "title": "Hugging Face中的决策模型",
+    "summary": "大型语言模型（LLM）在生成文本方面极其出色。我们用它们来回答问题、编写代码以及进行推理..."
+  }
+}

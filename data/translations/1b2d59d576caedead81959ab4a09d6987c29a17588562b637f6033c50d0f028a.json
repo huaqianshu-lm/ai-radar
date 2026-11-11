@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/introducing-alphaproof-code",
+  "content_hash": "5e34a1e42325bf9c217ae2ccdc61885181210adf4a9d04ccedbc4ab51bfcc094",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0e9fb0eb84f13acffdc59012e1c88f7c2f202f69132c55eacdf5e3a2b2ad057d",
+    "title": "使用Gemini对Signal协议进行形式化验证 — Google DeepMind",
+    "summary": "介绍AlphaProof Code：在深度验证复杂软件方面取得的突破。Google DeepMind研究人员如何构建了一个新的智能体框架来正式验证..."
+  }
+}

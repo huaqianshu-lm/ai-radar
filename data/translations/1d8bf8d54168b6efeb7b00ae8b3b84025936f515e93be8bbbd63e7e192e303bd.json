@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+  "content_hash": "bbe1cd87ef7d189857a5b9836d821216e58a2e6be94722ea35507d497d71b458",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2b1a51c62db6caf6b7980237937255c7fdd673a7ce146660ea91c5356da2a01a",
+    "title": "经过 7 个月后，Glasswing 用令人失望的发现让维护者应接不暇",
+    "summary": "关于 Anthropic Glasswing 在 11 月更新后的相关进展与评价。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/2UXMI3OLO46MVI",
+  "content_hash": "5e13671539dbe40048e977a0c605546d7f6947913b6fcd8b88d284620990f062",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d50a44969867908f675b1a2937a586aaaa223ff24ed2076e3edc583c1148929e",
+    "title": "Product Hunt: ForAgent — 用于 AI 智能体之间相互通话的私密电话号码",
+    "summary": "ForAgent 提供专门的私密电话号码，使不同的 AI 智能体能够彼此进行语音通话。"
+  }
+}

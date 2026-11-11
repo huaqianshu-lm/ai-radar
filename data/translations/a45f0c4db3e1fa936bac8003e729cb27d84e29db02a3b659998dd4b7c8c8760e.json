@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/ZJTLSRRL35EF2J",
+  "content_hash": "8e094a30a3d7d75035f87c690e080a2933c386a0e20fa3a7dd08f0031990ed4b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a1edf3c0f6af669889928c79d1198179e83e206c57153c93e6dd7b7e035bf509",
+    "title": "Product Hunt: MuJoCo 4 — 带有专属工作室的机器人物理引擎",
+    "summary": "MuJoCo 4 是一个面向机器人的物理引擎，并配备了专属的开发工作室。"
+  }
+}

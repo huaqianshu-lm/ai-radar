@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/RPNOP3ZZNQ6M6M",
+  "content_hash": "fa8ecc44384e2f41ffe4bd53d316161ebbb94075d890574cd5072b242c00363a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e4a6bdaaea84bbf30e2a9ce635582a4672cb5d1fbd36079ded5131d8bf043af6",
+    "title": "Product Hunt: Seldon — 像客户一样使用产品的行为测试 AI 智能体",
+    "summary": "Seldon 能够像真实客户一样使用软件产品，从而执行行为测试和质量保证（QA）。"
+  }
+}

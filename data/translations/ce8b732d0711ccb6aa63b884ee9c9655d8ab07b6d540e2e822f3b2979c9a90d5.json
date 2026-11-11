@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+  "content_hash": "28c996b0e0cae9fbe7ddedb37edddc562ce8852a4c6147dad85532ffa0e0317d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "001cd33c965241bc733395330dc1002dceba1895316b2079b3357cff11fd774d",
+    "title": "Claude Whiteboards、Claude Sheets 和 Claude Data",
+    "summary": "关于 Claude 的白板、表格和数据相关功能或资源的介绍。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news",
+  "content_hash": "803ccebc83e0823a328efc1dffc05a738c19f7adce0cc8b10bf7840658c1db56",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b704ee168870794b440df94fab002f155a6447163b380011218c3d60ed9e29dc",
+    "title": "AI 正在成为信息网关，但受众仍然不希望它来编写新闻",
+    "summary": "分析虽然 AI 逐渐成为信息入口，但受众并不希望由 AI 来为其生成新闻内容。"
+  }
+}
