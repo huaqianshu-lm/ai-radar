@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/X2BEUWEGGSVMCM",
+  "content_hash": "5e81b80715b7099f01eb725bdd4c47f0acbd2b7eeb2e471de34658bee2661eb7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5aa5babf85ee844aa77b0a97ad107778b778c7449d69b27b89f01a1748466142",
+    "title": "Product Hunt: Skillbox —— 用于管理 AI 技能的统一库，并可同步至所有 Agent",
+    "summary": "Skillbox 是一个用于集中管理 AI 技能的统一库，能够将技能同步分发给所有的 AI 代理。"
+  }
+}

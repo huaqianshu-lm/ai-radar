@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+  "content_hash": "d805ccd7f7186aa30f2e9c43b12a6398e49b976d9588d7b8b72f25cfc06aaae3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ba0fcf4e325b4115c73c9ef83ebd1ffebf008c30d8d75edc5ffce3b5226c5537",
+    "title": "AlphaGenome 2：解读细胞如何读取 DNA 以更好地理解疾病 —— Google DeepMind",
+    "summary": "AlphaGenome 2：解读细胞如何读取 DNA 以更好地理解疾病。我们的下一代 DNA 序列模型弥合了单细胞生物学与人类遗传学之间的差距..."
+  }
+}

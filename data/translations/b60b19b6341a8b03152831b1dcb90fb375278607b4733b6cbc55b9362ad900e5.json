@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/aws/aws-emulator",
+  "content_hash": "b1aa50d23c166cc8ef011a9136e9368e55bd89bbafce0983ddf07fab54a19241",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "78b8986836f7bb24ddaa17fd143a0358f1821b41500b58ce0ae1f9aab05130b2",
+    "title": "AWS 模拟器",
+    "summary": "AWS 官方开源的 aws-emulator 项目，在 Hacker News 上获得了 731 分的高分关注。"
+  }
+}

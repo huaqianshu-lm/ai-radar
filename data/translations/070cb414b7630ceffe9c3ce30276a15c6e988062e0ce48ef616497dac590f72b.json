@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/token-pooling",
+  "content_hash": "d930e1fc906658a3742703b1b11601377b36b8acdde4dafd08df151f86447b82",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "11568aa8dfcf9a3c07504fe25196e1495017d378dc1ddce0dd1b3a34d4b9b5b8",
+    "title": "面向多向量嵌入模型的 Token 池化感知训练",
+    "summary": "面向多向量嵌入模型的 Token 池化感知训练。多向量嵌入模型为每个查询 token 提供了在文档中寻找匹配项的独立机会..."
+  }
+}

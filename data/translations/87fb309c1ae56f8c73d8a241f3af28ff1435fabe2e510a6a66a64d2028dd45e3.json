@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/krahets/hello-algo",
+  "content_hash": "713c753f4826f382daf1a72c6a0940d81f0c493d837dd62c542e208f3fbbf6fd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0cd4e25205e9e68806bcd878ba599141d9e455949d68706bcaad528260892122",
+    "title": "krahets / hello-algo (《Hello 算法》开源教程)",
+    "summary": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 - 语言：Python - 今日获得 75 个 star"
+  }
+}

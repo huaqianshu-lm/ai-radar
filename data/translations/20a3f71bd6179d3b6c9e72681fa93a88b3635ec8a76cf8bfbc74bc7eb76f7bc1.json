@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+  "content_hash": "a749083fa03151af42b992dace7d22e3e755c77d983d85ac8636aad69baeadf5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9085c4cc9f2275d3b9b8e00494abb1dea2024eae92d433e7b577a6458c693294",
+    "title": "Modern Web Guidance 1.0：你的编程 Agent 所缺失的 Web 平台专业知识",
+    "summary": "Chrome 开发者博客发布了 Modern Web Guidance 1.0，旨在补足代码编写 Agent 在现代 Web 平台开发方面的知识短板。"
+  }
+}

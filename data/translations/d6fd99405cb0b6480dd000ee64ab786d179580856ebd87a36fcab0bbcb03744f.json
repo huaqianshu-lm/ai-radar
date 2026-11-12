@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/UIPBIBZW2SKX2W",
+  "content_hash": "a802b8ff5dc17e1b16e8d31604848df30305d9b6ec683d80ddbc77c781c13000",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ea4e9b7e3b29bcd09855110805845ad99dff2160bca78debec29c61a3efdfa9f",
+    "title": "Product Hunt: Seedream 5.5 by ByteDance —— 字节跳动专为百轮编辑打造的 AI 图像模型",
+    "summary": "字节跳动发布的 Seedream 5.5 是一款专为支持长达 100 轮连续编辑而构建的 AI 图像生成模型。"
+  }
+}

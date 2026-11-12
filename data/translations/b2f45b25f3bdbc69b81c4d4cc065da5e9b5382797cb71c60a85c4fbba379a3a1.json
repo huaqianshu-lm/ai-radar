@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/4HM3TRIWLZXN7K",
+  "content_hash": "9c3ba3a374ecd132d5596a933b40c0e4a6aafde1194627e593a0b1fecad166c4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3fca03278a19db060f52562e93262ed175789e7333a4306cddf92a9acd461419",
+    "title": "Product Hunt: MiniMax H3-Image —— 将 4K 图像生成带入 10 秒时代的 AI 模型",
+    "summary": "MiniMax 推出的 H3-Image 图像生成模型，旨在将 4K 图像生成带入 10 秒钟的新时代。"
+  }
+}

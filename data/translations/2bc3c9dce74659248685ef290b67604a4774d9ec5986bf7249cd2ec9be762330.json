@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/sgl-project/sglang-omni",
+  "content_hash": "f270a6b556b3cf6d992d91356b598594afc4b9b1a48d6f4824a85da3e3bb4bda",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "56a53d59bd9c92f85bca5b46da40e1adcb766ea1242a445ad27527c4dc192fb1",
+    "title": "sgl-project / sglang-omni (高性能交互式超级智能系统推理运行时)",
+    "summary": "用于交互式超级智能系统的高性能服务运行时 - 语言：Python - 今日获得 15 个 star"
+  }
+}

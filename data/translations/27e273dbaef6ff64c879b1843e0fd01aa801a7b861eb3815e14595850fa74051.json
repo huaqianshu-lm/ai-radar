@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://machinelearning.apple.com/research/faster-retrieval",
+  "content_hash": "ce9489e90e6452eccfb9ce1e861f90d071864a967f02d0d74baa1f077a26f700",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b21fa54b837dba6b3505f76961e5e0c8433748c069a6448982cb59402022e336",
+    "title": "更快的检索以实现更好、更高效的 RAG",
+    "summary": "Apple 机器学习团队发布研究文章，探讨如何通过更快的检索来构建更好、更高效的 RAG（检索增强生成）系统，在 HN 上获得 172 分。"
+  }
+}

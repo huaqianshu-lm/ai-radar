@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/AminBlg/SimpleEnglish",
+  "content_hash": "a5a2bd31c5d045bb86ef9e3d7de64c9f094aea9de2c3e5f9f4ccb8a4a0fa6a3b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3c5c702b79553bd950f75172048ab78aa073a08a163ca3a9ea83db14eb38f751",
+    "title": "AminBlg / SimpleEnglish (简化英语文档编写智能体技能)",
+    "summary": "智能体技能：使 LLM 能够以 ASD-STE100 简化技术语言编写文档 - 语言：Python - 今日获得 33 个 star"
+  }
+}

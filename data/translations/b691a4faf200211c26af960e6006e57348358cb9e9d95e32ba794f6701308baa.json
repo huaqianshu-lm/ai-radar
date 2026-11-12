@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/codex-work",
+  "content_hash": "59a516ee691a9dca4bd907029b2a5ad93d5f3299b439db1e79326b065b642005",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a545d27a2f90bfa6152c53cd27eb663f7f5238ea0d44bb669771475fb681399e",
+    "title": "AI 工程师代码峰会：OpenAI 谈论使用 Codex 的新工作方式",
+    "summary": "在 AIE Code Summit 的第一天，OpenAI 展示了开发者如何通过语音操控 Codex、将工作交由云端处理以及利用 dots。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/NH66BMRYJHZFJH",
+  "content_hash": "b618fad2bbf39529aab3abf11d42899d6aa06c1fd0d075d90338e16368bcb87d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9d95f073cf202a9104b31b83e3d9b0dfedd32cf3a33f273ad05922bb815077f2",
+    "title": "ProductHunt: Relay —— AI 代理的 DocSend：带上下文发送和接收文档",
+    "summary": "Relay 是一款面向 AI 代理的文档协作工具，被称为 AI 代理专属的 DocSend，支持携带上下文发送和接收文档。"
+  }
+}

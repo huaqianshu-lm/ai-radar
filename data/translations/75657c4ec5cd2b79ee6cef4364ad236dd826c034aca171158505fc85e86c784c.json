@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/huawei-csl/MACaQ",
+  "content_hash": "4b0eb8159fbb173b85784803ec595b183b1dfb4b4bfb94b939ce69e09d4c4b9b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d0e5cfeb79c6e585719b991ec98cc669d4469c627120f6d5f768eefc2f63d899",
+    "title": "华为发布用于本地推理的内部量化工具 MACaQ",
+    "summary": "华为 CSL 团队开源了其用于本地模型推理的内部量化器 MACaQ，在 Hacker News 上获得 67 分。"
+  }
+}

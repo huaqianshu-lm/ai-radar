@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/BVJTK5BATUSE7H",
+  "content_hash": "bd153372111aec100afca8ab73ef554f55fbe4531e8c6e57598160b491e4c72b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "88c5ded4318992d436924c04051b8a84c753d6ac4353a903e6d023a91843c8bd",
+    "title": "Product Hunt: Nod by n8n —— 拥有独立计算机的开源个人 Agent",
+    "summary": "由 n8n 推出的开源个人 Agent 产品 Nod，能够连接并管理其自己的计算机环境。"
+  }
+}

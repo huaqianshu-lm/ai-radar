@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+  "content_hash": "b6a3e626d720221768b034cf8999b3ea7c78521f991d4df73f548e61adfedb48",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5518ef5f75c82c68c027075099e57c7f45b2c4e91b1637f92c5d9d491b343ccb",
+    "title": "美联航禁止 AI 代理代旅客预订航班",
+    "summary": "美联航发布政策，禁止 AI 代理（AI agents）代表旅客进行机票预订，相关新闻引发讨论。"
+  }
+}

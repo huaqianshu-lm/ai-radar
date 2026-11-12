@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/FrigadeHQ/yogurt",
+  "content_hash": "ffa2b730f0334864a68598d47f2e6a3b8a6c28edce6d2c936b90d74bb4fa8282",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e40297c9b5a8aa9019bb2c0af4d139202655e3d67fd7e9252fdd403af59b2217",
+    "title": "Show HN: Yogurt —— 免费、私密且开源的 Granola 替代品",
+    "summary": "作者 Eric 在 Hacker News 上分享了 Yogurt 项目，这是一个免费、私密且开源的 Granola 替代工具，获得了 190 分。"
+  }
+}

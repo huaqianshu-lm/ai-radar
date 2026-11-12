@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
+  "content_hash": "3dbee6960472cec1c9598cd085fd8a1d3f3181321c7dec278970f3d6b3e1f53d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "967141e571a3a88a0b6520bfa4b6725595d2c09b5ec9389cd3ec5663d3fd3ce2",
+    "title": "aws-emulator (AWS 模拟器工具)",
+    "summary": "aws-emulator。最后，AWS 推出了一个官方模拟器，用于针对其多种不同服务的本地克隆运行测试，而无需配置付费的 API k..."
+  }
+}

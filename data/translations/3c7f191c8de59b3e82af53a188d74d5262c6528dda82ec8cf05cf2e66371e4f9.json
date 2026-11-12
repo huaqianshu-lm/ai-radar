@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/qvac/botpsy",
+  "content_hash": "bfdf387e25112bc9e949a2189d45b8a4b86cb6e897175a6e7a55990162b9627a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "19b4fcb1faac9c9bdbccd358c8d8e12a9188d32981764b2e3beec26a5de09e66",
+    "title": "BotPsy：采用十亿参数以下智能体语言模型的端侧个人助手",
+    "summary": "BotPsy：采用十亿参数以下智能体语言模型的端侧个人助手。前沿云端 LLM 具有高昂且可能波动的运营成本..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/jiostar-vijay-seshadri",
+  "content_hash": "a0223e0eebb03f3a083e50c4b00ef152244d161f48370b57fd2ef9275038b5df",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "55ff14dc4213127df72a8039620109cd467ed21c91f1958dfd8ce815a783074c",
+    "title": "JioStar 的首席架构师谈论 5 亿用户规模下的 AI 探索",
+    "summary": "JioStar 的 Vijay Seshadri 解释了在 5 亿用户规模下的 AI 探索。阅读他在评估、安全护栏以及将 AI 投入生产方面的经验教训。"
+  }
+}

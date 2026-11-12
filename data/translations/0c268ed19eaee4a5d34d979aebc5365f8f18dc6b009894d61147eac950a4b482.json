@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/5KPGASERAIN5AK",
+  "content_hash": "f6f8962eaf2ac7f6d2ea6dbc45a4d5fbb423c2237020be92eeaee73e3c945a80",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "282c8335aec02fb6f19792508f7098507946f63460b9a51b4cf9155009db5eee",
+    "title": "Product Hunt: Scribe v3 by ElevenLabs —— 支持 90 多种语言、错误率降低 27% 的语音转文本工具",
+    "summary": "ElevenLabs 推出的 Scribe v3 语音转文本（Speech-to-text）模型，在 90 多种语言支持下将错误率降低了 27%。"
+  }
+}

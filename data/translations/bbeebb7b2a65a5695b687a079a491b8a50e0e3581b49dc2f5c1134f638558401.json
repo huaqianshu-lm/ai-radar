@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50455811",
+  "content_hash": "bf1ad27a47a3abbd561b75480dfd58f7a17835a30f43781d27fd4dc2cfa4b2b2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "04f1f74e8fe8352066e78cca818163d533c0a3f0977bb21d709572141562ce1d",
+    "title": "Launch HN: Pomerado (YC F26) —— 将任意网站转为 Agent 的 MCP",
+    "summary": "来自 YC F26 的 Pomerado 团队在 Hacker News 上发布了他们的项目，旨在将任何网站转化为适用于 Agent 的 MCP（模型上下文协议）。"
+  }
+}

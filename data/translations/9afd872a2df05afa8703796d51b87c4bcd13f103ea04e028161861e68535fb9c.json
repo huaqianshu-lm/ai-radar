@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/browser-use/browser-use",
+  "content_hash": "2c495059a1954ad08a25cdfc086c8c025777781ca39e20f54688b6e498df1f39",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c1af6b58492f9bf434d283140c089cd8bec568302933f45108ba7657de9dd41a",
+    "title": "browser-use / browser-use (开源 AI 浏览器智能体 Python 库)",
+    "summary": "用于 AI 浏览器的开源 Python 库，外加 Browser Use Cloud：隐身浏览器和托管的智能体 API。- 语言：Python - 今日获得 172 个 star"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/11/llm",
+  "content_hash": "54f28b0ca230cc549479d9590fe0fe0fd47c56c5d2a3f9336136f0cbfb281935",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "460872e68e9eeabbb2b493e0fd5d9bb2f3c3120a59dddc8c9d92c69c64b3475c",
+    "title": "llm 0.37.2：发布：llm 0.37.2",
+    "summary": "发布：llm 0.37.2。修复了 Daniel de Araujo 在 GHSA-v9h7-jj4g-f862 和 GHSA-r639-rr7r-x72w 中报告的安全问题。LLM 拥有一个名为 extra-openai 的机制..."
+  }
+}

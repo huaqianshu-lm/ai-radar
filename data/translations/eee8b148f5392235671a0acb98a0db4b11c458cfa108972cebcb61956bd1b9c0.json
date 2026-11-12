@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/O5CCMW2HHMPSXJ",
+  "content_hash": "bbca096edd641b92b82dfd07c502f28ec3e44205bbb9ca3ab829d14c001f8520",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1fcca6809af1e88b78bde2b342e07639ac449c85769fb640aebf493757d2cbb6",
+    "title": "Product Hunt: Muse Ember by Meta —— Meta 针对高频 Agent 任务推出的低成本 AI 模型",
+    "summary": "Meta 推出的 Muse Ember 是一款低成本的 AI 模型，专门针对高并发、高容量的 Agent 任务进行优化。"
+  }
+}
