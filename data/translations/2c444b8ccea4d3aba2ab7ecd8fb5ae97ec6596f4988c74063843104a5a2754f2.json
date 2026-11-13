@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/business/customer-stories/amplitude",
+  "content_hash": "0a192c0d24d146d00df0bb4f3047540f24e37f5a2ff680ad6eeafbad8688a6c8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "67672a694e389b29af5588bf1be29a978063408e3c6a0262fcadf6da500500d7",
+    "title": "Amplitude 如何利用 OpenAI 在 1-2 天内推出产品改进",
+    "summary": "Amplitude 的主动式产品智能体 Wave 主要基于 OpenAI 模型构建，它能识别构建内容、利用编码智能体帮助团队发布变更并进行衡量..."
+  }
+}

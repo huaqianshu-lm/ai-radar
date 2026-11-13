@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/openai/whisper",
+  "content_hash": "635154d43df86aa51d389bd3d7aa761cfedb1502e792d7064a5b7d69797d6d73",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "24d2ebb24ff35b75f31b1ebea440e9a7ede373c9794c62b2d92a1b95f87d8255",
+    "title": "openai / whisper：语音识别模型",
+    "summary": "通过大规模弱监督实现强大的语音识别 - 编程语言: Python - 今日获得 113 星标"
+  }
+}

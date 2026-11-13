@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/3d-lora-finetuning",
+  "content_hash": "15268a53eda709f3a43b565afe527f8f4914fc72eb1a5cbdbdf6d283123a25c3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cbda9238a3684b28e47a3f036110852a357804594dae3b990092eac946cda973",
+    "title": "3D生成模型微调指南",
+    "summary": "本文提供了用于微调热门3D生成模型 TRELLIS.2 的微调脚本和容器。"
+  }
+}

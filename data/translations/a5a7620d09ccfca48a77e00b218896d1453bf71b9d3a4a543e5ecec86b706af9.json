@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/ainews-d-day-decision-models-day",
+  "content_hash": "1524279b146a815f0d34a05b910e75e1da3afc0a65ff57f829429f12c68cd382",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "51cca3e361b05b7b418f61b13ddcd0851012d875be3b36c11b69fe860a8dd987",
+    "title": "[AI新闻] D-Day (决策模型日)",
+    "summary": "2026年11月11日——Google 进入决策模型市场。在 AI Engineer 会议上，Cloudflare 展示了分类器可以处理构建失败的哪些部分。TypeSaf..."
+  }
+}

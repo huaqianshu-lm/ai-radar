@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-12",
+  "content_hash": "ebc988abe6027604e8eeaf1bfd03953c69d8193fbdb783056d9554a27b6b7df8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1e8cb2d266c4c1478d7b48507492dacb47e76f815991465b1c789797bbf62bf9",
+    "title": "Grok Bot 1.0 🤖、AlphaGenome 2 🧬 与 Gemini Decisions 🧠",
+    "summary": "Google 推出了 Gemini Decisions API，提供快速且经过校准的多模态决策能力。"
+  }
+}

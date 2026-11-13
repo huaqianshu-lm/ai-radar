@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/12/llm-gemini",
+  "content_hash": "4d7db04c63b3a4d16ec18361e24252837be346220503a12686300cc533922690",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5b86eed0286e0e3b833c14ec5bb4fb0aa60d664b795fa186347dd9c4243b9dc5",
+    "title": "llm-gemini 0.37：原文摘要",
+    "summary": "原文摘要：Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its..."
+  }
+}

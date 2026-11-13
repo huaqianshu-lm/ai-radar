@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+  "content_hash": "6e7c64a79327c560bdd58984d8f3ab4b4ab926c928547e28d9738642bc847c69",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "84ec87286cb35a64f463f0646caa372ff180d409581b33a91619e73354134567",
+    "title": "LLMON: 一种 LLM 原生标记语言，现已登陆 Granite 4.1 3B 和 8B",
+    "summary": "介绍 LLMON 这种大语言模型原生标记语言，并宣布其现已集成到 Granite 4.1 3B 和 8B 模型中。"
+  }
+}
