@@ -1,0 +1,395 @@
+{
+  "date": "2026-11-13",
+  "items": [
+    {
+      "id": "d7c1da8cb7dc41da688b7a9908111a63cf9fb297a134e952ad2db42224ad8dc2",
+      "title": "支持 AI 与儿童安全的研究",
+      "summary": "OpenAI 承诺投入 200 万美元用于 AI 与儿童安全的研究。这项工作支持用于衡量年轻人风险与机遇的共享工具。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-12T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/children-first-declaration"
+    },
+    {
+      "id": "4922ca6fb0dd92994c349853518621d0422aac137e6c9a194fc01e08fc5408aa",
+      "title": "Holiday Extras 正在重新思考如何利用 Codex 构建应用",
+      "summary": "通过 Codex，Holiday Extras 正在将客户专业知识转化为更好的应用程序、更高的预订转化率以及新的增长可能性。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-12T09:30:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+    },
+    {
+      "id": "b9840fd67063a36a400d5e1d91fe182c1b415df6997c889b681a58ba22957843",
+      "title": "Gondola：借助 Codex 团队开发效率翻倍，实现收入翻番",
+      "summary": "Gondola 帮助创意人员获得署名并被录用，其中 Codex 将其首席工程师的产出提高了 50%，ChatGPT 则简化了日常工作。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-12T12:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/business/customer-stories/gondola"
+    },
+    {
+      "id": "67672a694e389b29af5588bf1be29a978063408e3c6a0262fcadf6da500500d7",
+      "title": "Amplitude 如何利用 OpenAI 在 1-2 天内推出产品改进",
+      "summary": "Amplitude 的主动式产品智能体 Wave 主要基于 OpenAI 模型构建，它能识别构建内容、利用编码智能体帮助团队发布变更并进行衡量...",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-12T20:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/business/customer-stories/amplitude"
+    },
+    {
+      "id": "e63c44ee253751eb72aef3f2b8bd6200913735fee19428e07e0f2cafc0129b53",
+      "title": "AI for Science 扩展至更多基金会与机构 —— Anthropic",
+      "summary": "我们正重点介绍来自全球的 20 家科学基金会、机构和研究小组，我们已与他们达成合作，以推进 AI for Science 的发展...",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-11-13T03:13:32Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
+    },
+    {
+      "id": "ee4dc087c20018324226a16e2a13651b155ce78c88fcc91e4606b45fe6d0efda",
+      "title": "Mistral 在慕尼黑开设枢纽以推进德国的工业 AI",
+      "summary": "Mistral 在欧洲最大经济体的慕尼黑开设德国枢纽，以推进工业 AI 的发展。",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-11-13T03:13:32Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/hallo-deutschland"
+    },
+    {
+      "id": "1e8cb2d266c4c1478d7b48507492dacb47e76f815991465b1c789797bbf62bf9",
+      "title": "Grok Bot 1.0 🤖、AlphaGenome 2 🧬 与 Gemini Decisions 🧠",
+      "summary": "Google 推出了 Gemini Decisions API，提供快速且经过校准的多模态决策能力。",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-11-12T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-11-12"
+    },
+    {
+      "id": "cbda9238a3684b28e47a3f036110852a357804594dae3b990092eac946cda973",
+      "title": "3D生成模型微调指南",
+      "summary": "本文提供了用于微调热门3D生成模型 TRELLIS.2 的微调脚本和容器。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-12T00:00:00Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning"
+    },
+    {
+      "id": "43655ce3c34369b03939e5f92c7e6832bd5f93bf9fe91a9ea95a003832b424be",
+      "title": "Jev 革命：工程师们正用 System One 模型构建什么",
+      "summary": "在 AI Engineer Code Summit 上，Jev 核心创建者 Diogo Almeida 呼吁开发者自动化一切。此外，Glean 等公司也展示了他们如何使用 Jev。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-12T05:08:20Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/jev-revolution/"
+    },
+    {
+      "id": "51cca3e361b05b7b418f61b13ddcd0851012d875be3b36c11b69fe860a8dd987",
+      "title": "[AI新闻] D-Day (决策模型日)",
+      "summary": "2026年11月11日——Google 进入决策模型市场。在 AI Engineer 会议上，Cloudflare 展示了分类器可以处理构建失败的哪些部分。TypeSaf...",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-12T05:26:54Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day/"
+    },
+    {
+      "id": "84ec87286cb35a64f463f0646caa372ff180d409581b33a91619e73354134567",
+      "title": "LLMON: 一种 LLM 原生标记语言，现已登陆 Granite 4.1 3B 和 8B",
+      "summary": "介绍 LLMON 这种大语言模型原生标记语言，并宣布其现已集成到 Granite 4.1 3B 和 8B 模型中。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-12T19:07:35Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+    },
+    {
+      "id": "5b86eed0286e0e3b833c14ec5bb4fb0aa60d664b795fa186347dd9c4243b9dc5",
+      "title": "llm-gemini 0.37：原文摘要",
+      "summary": "原文摘要：Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-12T22:55:19Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+    },
+    {
+      "id": "9d67ce648f6a891927c40000a0c553d9941ecabd9e2fd694c6dc165955049364",
+      "title": "Alishahryar1 / free-claude-code 开源仓库",
+      "summary": "在终端、应用、IDE 或手机中免费使用 Claude Code、Codex、Antigravity、VSCode、Pi 和 OpenCode（以及其他 6 种封装工具），并获得 13 亿以上的免费 Token。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-13T03:13:32Z",
+      "time_type": "fetched",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+      "id": "98255810d4c42dd8fd407b9e83937fc7b31f7dd13b1c79e5a9e3ff7ba2758937",
+      "title": "NVIDIA / SkillSpector：用于 AI 智能体技能的安全扫描器",
+      "summary": "用于 AI 智能体技能的安全扫描器。可检测其中的漏洞、恶意模式、安全风险、提示词注入、数据外泄以及供应链风险...",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-13T03:13:32Z",
+      "time_type": "fetched",
+      "url": "https://github.com/NVIDIA/SkillSpector"
+    },
+    {
+      "id": "f9ecc9a5597baab2636d566e13bb342933f2b8340b57a11aebbe383d74f440a4",
+      "title": "fastapi / fastapi：Python 高性能 Web 框架",
+      "summary": "FastAPI 框架，高性能、易学习、编码快、可用于生产环境。使用语言：Python，今日获得 82 个 star。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-13T03:13:32Z",
+      "time_type": "fetched",
+      "url": "https://github.com/fastapi/fastapi"
+    },
+    {
+      "id": "b88590c43555a909e1ff4309ecbf7f5564518a8eeb8290dba5726961f2fe41cc",
+      "title": "mvanhorn / last30days-skill 项目",
+      "summary": "一个 AI agent 技能，可跨 Reddit、X、YouTube、HN、Polymarket 和全网研究任意主题，并合成基于事实的摘要。使用 Python 编写。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-13T03:13:32Z",
+      "time_type": "fetched",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "id": "62d5b8ae660dea308da908f1916ed20d4d0f0ba5c8f41fbdfea71159f900cc5c",
+      "title": "oaustegard / claude-skills：个人收集的 Claude skills 项目，使用 Python 语言开发，今日获得 34 个 Star",
+      "summary": "个人收集的 Claude skills 项目，使用 Python 语言开发，今日获得 34 个 Star。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-13T03:13:32Z",
+      "time_type": "fetched",
+      "url": "https://github.com/oaustegard/claude-skills"
+    },
+    {
+      "id": "24d2ebb24ff35b75f31b1ebea440e9a7ede373c9794c62b2d92a1b95f87d8255",
+      "title": "openai / whisper：语音识别模型",
+      "summary": "通过大规模弱监督实现强大的语音识别 - 编程语言: Python - 今日获得 113 星标",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-13T03:13:32Z",
+      "time_type": "fetched",
+      "url": "https://github.com/openai/whisper"
+    },
+    {
+      "id": "cd1cb5b5b252b6c0501c02dad1be20fd63a3bd6999fdbef0f8a1fff0bf8d6d80",
+      "title": "python / cpython：Python 编程语言项目仓库，今日新增 72 枚星标",
+      "summary": "Python 编程语言项目仓库，今日新增 72 枚星标。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-13T03:13:32Z",
+      "time_type": "fetched",
+      "url": "https://github.com/python/cpython"
+    },
+    {
+      "id": "a16cf66c04abcd1df6626be2e071db8669bfa77aa805628cd11af124036df20a",
+      "title": "Anthropic IPO 相关动态",
+      "summary": "HN 讨论帖，链接指向 https://ipo.anthropic.com/us/，作者 josephljohnston，得分为 842",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-12T11:46:41Z",
+      "time_type": "published",
+      "url": "https://ipo.anthropic.com/us/"
+    },
+    {
+      "id": "bc816e16a4a037cf7d361cd920d7db318c0669f9714259e3bccf1060276456c6",
+      "title": "Jensen Huang 辞职",
+      "summary": "HN 讨论帖及相关新闻报道链接。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-12T13:52:29Z",
+      "time_type": "published",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+    },
+    {
+      "id": "2b40b585359d01240fbcc64a17ac837dcd189e4377ba008ed831cab70434e017",
+      "title": "Show HN: Kapso – Iterative learning from enterprise data：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50471281 Author: alirezamshi Score: 39 Hey HN! We're Alireza and Majid building Leeroo ( https://leeroo.com/ ). P...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-12T17:51:23Z",
+      "time_type": "published",
+      "url": "https://news.ycombinator.com/item?id=50471281"
+    },
+    {
+      "id": "80edea19d5fdcf288e5967e3d9af20e5c3ff27e2927225a3ec9ac2028fbc5769",
+      "title": "Gemini 4 Hydrogen：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50471431 Original URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-12T18:01:48Z",
+      "time_type": "published",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "id": "9f652a2c4d20a371de9dbfcaa747971bb4bb46763c385e01d8ff66240f0a494b",
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50471650 Original URL: https://github.com/Parcha-ai/agentrun/blob/main/README.md Author: miguelrios Score: 82 We...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-12T18:15:48Z",
+      "time_type": "published",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md"
+    },
+    {
+      "id": "226483c2eb286b9aaafe8fcaba31d37b70d61f046ae6a7f0c0eb5b6e9b1deb09",
+      "title": "Gemini 4 Hydrogen and Orchestrator：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50472260 Original URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Author: jonbaer S...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-12T18:52:01Z",
+      "time_type": "published",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+    },
+    {
+      "id": "b1c7febb39e1226c18254980b3de8e7ed8147fc8094c892677a1935c7e45cc02",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50474311 Original URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-12T21:09:49Z",
+      "time_type": "published",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+    },
+    {
+      "id": "3cd205dede17a2b9233b7afde3b32f4c16edbd4d1047be5910c482a59e57e676",
+      "title": "Foundation Models framework：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50474361 Original URL: https://developer.apple.com/foundation-models-framework/ Author: kermatt Score: 146",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-12T21:13:26Z",
+      "time_type": "published",
+      "url": "https://developer.apple.com/foundation-models-framework/"
+    },
+    {
+      "id": "076934ef461be2b954dba572893fb5f40ae22001098ff8f6135cabaaf477c54b",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50474883 Original URL: https://unemploymentlabs.com/checkpoint-forensics Author: firloop Score: 191",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-12T21:56:11Z",
+      "time_type": "published",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics"
+    },
+    {
+      "id": "4e10e32134f86500f7ca5d42b6cf8b3a1735666c38b8695ba9dd546cdf8a9537",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50475713 Original URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-12T23:06:17Z",
+      "time_type": "published",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+    },
+    {
+      "id": "baa6294b94aa45efc04d2068f2a6a58ada41e3e13c2dd546f567b83e01d83a89",
+      "title": "Product Hunt: Adobe AI Assistant — Create and edit faster with AI across Adobe apps：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/adobe-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-12T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/JNEKEVQ6BLFATT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "0975ef339471c9c399bddb688c060d67e27b4e35de82158e176bd7d59e04fa6d",
+      "title": "Product Hunt: Didit MCP — The MCP server for identity verification and fraud checks：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/didit-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-12T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/WVZL5FSCARCMZW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "6889b671367e3dccf9b273f9b000a706cf36eded8f7f3c9829a8c71decfacb96",
+      "title": "Product Hunt: Grok Bot 1.0 — Bots work together alongside your team：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%2...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-12T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/NWK5UR5IABTBCA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "cc17443f6b3baa26ffc504c9cfb8a9309688e8c73af82464a6a4f42daee96a04",
+      "title": "Product Hunt: Harness Memory — Long-term memory for agents, across every harness：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-12T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/UBLUY4WRXJJWPR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "902543e888248646986049572bde04c45a7681ed899c029667394983790683c2",
+      "title": "Product Hunt: Insight7 Voice AI Agents — AI voice agents that call your customers for you：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/insight7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-12T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/UIVFMOW562A5UK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "b14f71d40fc5c5ab090454e74c7e4d7680456fc4f2dc8cd17b2a7e9630390706",
+      "title": "Product Hunt: Plurai Simulation — A simulated world that makes your agent improve on every run：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-12T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/ZBKQ4BKXEJCORU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "da39e05d714fe1f3586e66c10322261a22e62f5f6b49aebacda1bfa8d436df57",
+      "title": "Product Hunt: Sendr V4: Lovable for GTM — Your AI GTM engineer to build signal based go-to-market：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/sendr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-12T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/4QMYJB4ZG55IBM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "2fa3d1d5d55f38a0b0416dd35a0f7a7adb759b199da267fd26b0d33478f72443",
+      "title": "Product Hunt: Spacefast by Automattic — Give your AI agents a place to build, run, and ship：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/spacefast-by-automattic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-rada...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-12T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/O2SFBIBKNXJMBD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "dbea673d5302dbaa55daf3a12453fc1b78f83eaf9fe59422007497d6961cbacf",
+      "title": "Product Hunt: YouArt Desktop App — Codex for creative team：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/youart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-12T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/5TX6YWUYYRHQUE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "2a56c8d0d42de95a5dc879f9d824ee982f9076a663442044a5155be982260202",
+      "title": "Product Hunt: three.dev — Find out how your AI agent fails. Before your users do.：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/three-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-12T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/RV5447RLDSTXAS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
