@@ -1,0 +1,385 @@
+{
+  "date": "2026-11-14",
+  "items": [
+    {
+      "id": "a99dfdd20d85acbbb850aa77912a8df97b492b8fb6a1e7bebe1dab199cebab4f",
+      "title": "Shield 借助 OpenAI 帮助技术人员移交遗留门户工作",
+      "summary": "Shield 使用 OpenAI 来帮助 IT 技术人员在遗留门户中移交工作。其 Forge 代理可以导航系统，以便技术人员能够专注于需要他们处理的问题。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-13T08:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/business/customer-stories/shield"
+    },
+    {
+      "id": "7d4d71d056da02862d0b2ec1b87dadd7019731481c576401840bf8ff718ee663",
+      "title": "推出 ChatGPT Wallet",
+      "summary": "推出 ChatGPT Wallet，这是一种安全的方式，供 ChatGPT Work、Codex 和 dots 中的代理在获得用户批准以及利用现有卡片保护的情况下完成购买。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-13T15:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "id": "5a25565ab71a8d06b3b9b7c297f43e971826147872a9d3b2d4139c7630900b65",
+      "title": "Mistral Large 4 (Le Chonk) 现已开源权重",
+      "summary": "Mistral 发布了 Mistral Large 4 (Le Chonk)，这是一个拥有 1 万亿参数的多模态模型，现已开放权重。",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-11-14T02:55:58Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/mistral-large-4-oss"
+    },
+    {
+      "id": "1972a6107d7cc016e042577c535c6d7718b92a32634391969262b9d5dec605c7",
+      "title": "PARDIG 和 SatWeave：用于地球科学的基础数据集——Google DeepMind",
+      "summary": "我们正在发布 PARDIG 和 SatWeave，以帮助研究人员和开发人员构建新的天气、水文和气候模型。",
+      "source": "Google DeepMind Blog",
+      "source_type": "official",
+      "display_time": "2026-11-14T02:55:58Z",
+      "time_type": "fetched",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models"
+    },
+    {
+      "id": "187d0c5b9cd27c89e1dc909b4751702b8a0845d72a53d8dc6ecdee9350483817",
+      "title": "Gemini 4 Hydrogen、自托管 Claude 代理、Replit 代理商务",
+      "summary": "AI 快讯：介绍了 Gemini 4 Hydrogen、自托管的 Claude 代理以及 Replit 的代理商务功能。",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-11-13T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-11-13"
+    },
+    {
+      "id": "68811c4e6ccf667ccec984e250b4efc904c0a0be1e71ca8101a5b245aa261577",
+      "title": "AI 雄心：ArtCraft 克隆了 Photoshop 并希望“重建一切”",
+      "summary": "ArtCraft 使用 AI 将 Photoshop 重写为开源软件。对于 CEO Brandon Thomas 而言，其愿景更为宏大：夺回互联网！",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-13T04:17:25Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/artcraft/"
+    },
+    {
+      "id": "f55817b72e9782bde528ea10ef69dd3a844f2dceed7ff35b8f93620bf8db887e",
+      "title": "[AINews] 黄仁勋在领导 NVIDIA 33 年后卸任",
+      "summary": "2026年11月12日——Colette Kress 接任临时 CEO。开源和美国 AI 领导地位将何去何从？",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-13T09:04:13Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/"
+    },
+    {
+      "id": "6841e619fcd7e8d9370258a227590a244c9afe604f7f173c18d14806c323db86",
+      "title": "llama.cpp v1.0.0：本地 AI 生态系统更坚实的基础",
+      "summary": "llama.cpp 使得在各种硬件（从小型设备到大型服务器）上运行多模态大语言模型成为可能。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-13T14:05:22Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+    },
+    {
+      "id": "96c7f67bef86f8316048a87fd511efdf23e6f81e02406769c1ce381b73c81b1f",
+      "title": "XYBench：帮助解决问题背后的问题",
+      "summary": "真正有用的 AI 助手不仅需要帮助提出正确问题的用户，还需要能够帮助提出错误引导问题的用户。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-13T17:02:35Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/allenai/xybench"
+    },
+    {
+      "id": "cdc8eef67bc55a0d0fa5ca86f75a39576cb4cd55b8ad20129c59ea60f80062cd",
+      "title": "使用 SimReady 资产构建机器人抓取放置仿真",
+      "summary": "本教程展示了一个饮料罐抓取和放置任务，使用了 UR17G 机械臂、Robotiq 2F 夹爪等资产。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-13T18:00:39Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+    },
+    {
+      "id": "5ab783dcdbdb11e34d6e4f91adc4120298465d114f154beec35cf47ffca4b831",
+      "title": "Kitesurf 现已开源",
+      "summary": "我们用于 AI 代理的实验性浏览器引擎 Kitesurf 现已开源。您可以检查其代码、在本地运行，或在 Cloudflare Workers 上部署您自己的实例。",
+      "source": "Cloudflare AI Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-13T20:20:21Z",
+      "time_type": "published",
+      "url": "https://blog.cloudflare.com/kitesurf-open-source/"
+    },
+    {
+      "id": "e1058067669e2b5f7fa97923c90e01e3704a45c93d35586c94ba3e2098919ace",
+      "title": "datasette-leaflet 0.3：发布 datasette-leaflet 0.3 版本",
+      "summary": "发布 datasette-leaflet 0.3 版本。OpenStreetMap 拥有非常合理的政策，即对其托管瓦片服务器的请求应发送 referrer 标头。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-13T22:30:54Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/"
+    },
+    {
+      "id": "4cb58a6ed2a63999aea770e169eea7dbaf89a0b5a6aa49256c3f5e5fd8d6f7ba",
+      "title": "datasette-cluster-map 0.19：发布 datasette-cluster-map 0.19 版本",
+      "summary": "发布 datasette-cluster-map 0.19 版本。这是 Datasette 最古老且最受欢迎的插件之一，现已支持 Datasette 1.0a42。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-13T23:02:45Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
+    },
+    {
+      "id": "79ca8b1721b21776ea072f11a93c5a82639c8c425feadad323d2c3d33b126f08",
+      "title": "Tencent-Hunyuan / Hy-MT2：腾讯混元大模型相关开源项目 Hy-MT2，使用 Python 编写",
+      "summary": "腾讯混元大模型相关开源项目 Hy-MT2，使用 Python 编写。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-14T02:55:58Z",
+      "time_type": "fetched",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-MT2"
+    },
+    {
+      "id": "587c68a1307478c20d6cdd9a2bcecc617a199455561a81fd65f8d010f4bd38ac",
+      "title": "ahujasid / mcp-for-blender：一个社区插件，用于通过你选择的任何 LLM 来控制 Blender 3D",
+      "summary": "一个社区插件，用于通过你选择的任何 LLM 来控制 Blender 3D。与官方 Blender 基金会无关，使用 Python 编写。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-14T02:55:58Z",
+      "time_type": "fetched",
+      "url": "https://github.com/ahujasid/mcp-for-blender"
+    },
+    {
+      "id": "02eab667df4489976a499bf550e4fab233b0ccde136fd84ec95a0f9994fd83af",
+      "title": "anthropics / claude-plugins-official：Anthropic 官方管理的优质 Claude Code 插件目录，使用 Python 编写",
+      "summary": "Anthropic 官方管理的优质 Claude Code 插件目录，使用 Python 编写。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-14T02:55:58Z",
+      "time_type": "fetched",
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "id": "716cf9e2237ac9dba9f7993e884032ddbadffec668566008ae5e1341e1ada2e6",
+      "title": "asgeirtj / system_prompts_leaks：泄露了 ChatGPT、Claude、Gemini 等大模型的系统提示词",
+      "summary": "泄露了 ChatGPT、Claude、Gemini 等大模型的系统提示词。包含每个热门聊天机器人的隐藏系统提示词完整版本（2025年5月以来的每个版本）。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-14T02:55:58Z",
+      "time_type": "fetched",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+      "id": "8401e1633051e8eec311d91134841a1e3d5457cfd701d41ba300d103c9bb3920",
+      "title": "avenoxai / avenoxbeyin：通过单个命令构建你的 AI 第二大脑——采用开源 Obsidian + Claude Code 系统，具备跨会话持久记忆功能",
+      "summary": "通过单个命令构建你的 AI 第二大脑——采用开源 Obsidian + Claude Code 系统，具备跨会话持久记忆功能。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-14T02:55:58Z",
+      "time_type": "fetched",
+      "url": "https://github.com/avenoxai/avenoxbeyin"
+    },
+    {
+      "id": "25bff0b4a0ece6bc72b2c2ab688fa3ae9985c30ec323867c92db748975e01cc8",
+      "title": "davila7 / claude-code-templates：用于 Claude Code 组件的开源注册表和 CLI 工具：包括代理、命令、技能、钩子、MCP、设置和模组等",
+      "summary": "用于 Claude Code 组件的开源注册表和 CLI 工具：包括代理、命令、技能、钩子、MCP、设置和模组等。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-14T02:55:58Z",
+      "time_type": "fetched",
+      "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+      "id": "668711a6e10728221dfc0e58ed3e65581e60a3a7cd968a3e9110412dde1b6442",
+      "title": "headroomlabs-ai / headroom：在工具输出、日志、文件和 RAG 块到达大模型之前对其进行压缩",
+      "summary": "在工具输出、日志、文件和 RAG 块到达大模型之前对其进行压缩。编码智能体可减少 20% 的 token，JSON 可减少 60-95% 的 token，同时保持相同回答。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-14T02:55:58Z",
+      "time_type": "fetched",
+      "url": "https://github.com/headroomlabs-ai/headroom"
+    },
+    {
+      "id": "f9da1acd54ca38642ffd36796b0883cecfa94494cd898bd897e3677735cfdb28",
+      "title": "tradermonty / claude-trading-skills：面向股票投资者和交易员的 Claude Code 技能工具——提供市场分析、技术图表、经济日历、筛选器以及交易策略开发功能",
+      "summary": "面向股票投资者和交易员的 Claude Code 技能工具——提供市场分析、技术图表、经济日历、筛选器以及交易策略开发功能。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-14T02:55:58Z",
+      "time_type": "fetched",
+      "url": "https://github.com/tradermonty/claude-trading-skills"
+    },
+    {
+      "id": "1a09f77a4836fe9e9b63e1846c4241089e4b286c926d0a423e70fba9e18d45ac",
+      "title": "claude.ai、Claude Code 与 platform.claude.com 出现错误率升高",
+      "summary": "HN 讨论与状态页面显示相关服务出现错误率升高的问题。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-13T10:18:13Z",
+      "time_type": "published",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn"
+    },
+    {
+      "id": "0d4c924e64373813139c6f4102115e56791fa42cc7712f94c4fd2cec8448b7d2",
+      "title": "为什么 Google 正在将无 AI 学校排除在 Google Search 之外？以下是一些推测",
+      "summary": "探讨了关于 Google 针对无 AI 学校限制搜索访问的相关理论与背景。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-13T15:29:10Z",
+      "time_type": "published",
+      "url": "https://text.npr.org/nx-s1-6029408"
+    },
+    {
+      "id": "12990af15e181ab96cfcd59af6eb8fe359a02784c42db964df77ea8b1b569aeb",
+      "title": "AI 破解哥德尔手稿，其中包含数百个已证明的定理",
+      "summary": "人工智能技术帮助解密了数学家库尔特·哥德尔的笔记本，据称其中包含数百个已证实的定理。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-13T17:30:10Z",
+      "time_type": "published",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+    },
+    {
+      "id": "7bd2e8e7a52ec0a28a11e74790e0cbfff1600f9e6eb3a4edddb6ef782e29e8ca",
+      "title": "OpenAI 解散机器人团队，因其通用模型开始直接驱动机器人",
+      "summary": "随着通用 AI 模型开始直接应用并运行机器人，OpenAI 决定解散其专门的机器人团队。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-13T17:55:23Z",
+      "time_type": "published",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+    },
+    {
+      "id": "8c9ba4b267174e41c37c50baa2e878b0df4f9a6124bf2347d933cd077b56380e",
+      "title": "经过 600 次实验，我对 JEPA 世界模型有了这些发现",
+      "summary": "作者分享了在进行了 600 次实验后，对 JEPA 世界模型的研究发现和总结。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-13T17:55:28Z",
+      "time_type": "published",
+      "url": "https://haddyalchaer.com/jepa"
+    },
+    {
+      "id": "5a06cd56282b89f9ddf5079ee417d27f2a5f2608624ed1be1074174f97e4b523",
+      "title": "Isometric SF – 旧金山湾区的像素风地图",
+      "summary": "一个展示旧金山湾区像素艺术地图的 Show HN 项目及相关技术文章。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-13T17:58:37Z",
+      "time_type": "published",
+      "url": "https://isometricsf.com/"
+    },
+    {
+      "id": "b6c6cdb45a036bcc244f5430cece78eb71a573e5f03137e29c5a8a214bb0edfc",
+      "title": "Perplexity Decider v1.3：训练、评估与用例",
+      "summary": "介绍了 Perplexity Decider v1.3 版本的模型训练、评估方法以及具体使用场景。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-13T19:24:47Z",
+      "time_type": "published",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider"
+    },
+    {
+      "id": "5c4f352f53a33584cfef88d5c3ebaff668dd3d1e9ec324d6eb05b5b0ce5f2603",
+      "title": "Google Search 将开始在登录墙后锁定搜索",
+      "summary": "用户反馈在部分 ISP 的 CGNAT IP 地址使用 Google Search 时遇到了登录限制相关情况。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-13T23:26:24Z",
+      "time_type": "published",
+      "url": "https://news.ycombinator.com/item?id=50491617"
+    },
+    {
+      "id": "8b981141b76904904e870a0e5c44c3a2eae1852e5fdd792b134b61442627312e",
+      "title": "Unsloth Qwen3.8-27B 量化版本 – 动态 v3.1 更新",
+      "summary": "介绍了 Unsloth 针对 Qwen3.8-27B 模型量化版本的动态 v3.1 更新内容。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-14T00:06:04Z",
+      "time_type": "published",
+      "url": "https://unsloth.ai/docs/models/qwen3.8"
+    },
+    {
+      "id": "845cc78cbca545d7f72d64584bf33df20e70793922bdea8bb659ee1ffcc0ae27",
+      "title": "Anthropic 升级 Claude Code 项目，支持免手预运行并行 AI 工作线程",
+      "summary": "Anthropic 对 Claude Code 项目进行了升级，使其能够无需人工干预地运行并行 AI 工作流任务。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-14T00:28:11Z",
+      "time_type": "published",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free"
+    },
+    {
+      "id": "cba95bd313a11ff912b6703cc8e9731e62740db79256b98ee9b3681249e7d7d1",
+      "title": "Claude Meetings — 将 Claude 添加到通话中，在对话时开始工作",
+      "summary": "Product Hunt 产品：将 Claude 引入通话会议中，支持在交流的同时展开相关工作。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-13T08:00:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/BBCWQILYWRBAP6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "8f39e9cebe1fc8d4a946e7d8ac14a06b96de6b2d5667e2d73879457a3c8c7c01",
+      "title": "Aven App Agent — 引导用户使用您应用的 AI 代理",
+      "summary": "Product Hunt 产品：一款通过人工智能引导用户熟悉和使用应用程序的代理工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-13T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/MGLYXUMWD5BQTH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "5db92aa36ffe6b75674d4e0fee044fc407823aa7094306edafad795b83e3f685",
+      "title": "Burnstate — 在菜单栏实时追踪 Claude Code、Codex 与 Cursor 的使用额度",
+      "summary": "ProductHunt 产品：在菜单栏中显示并跟进 Claude Code、Codex 和 Cursor 限制额度的工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-13T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/H2T26HYRCIEWMM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "140b6d77b470049003810f88b18da9737a1c66221d3fd2b829feec09facef87c",
+      "title": "GAtrends — 在 Telegram、Claude、ChatGPT 中接收关键词飙升提醒",
+      "summary": "Product Hunt 产品：为 Telegram、Claude 以及 ChatGPT 提供关键词趋势和激增提醒的服务。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-13T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/KGFXAXOXP52YCO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "535418788dda71bf6265444ec8cd773b7b3eb09febd1677b150394574b646acc",
+      "title": "Gemini 4 Hydrogen — 为程序员提供快速的智能体开发体验",
+      "summary": "Product Hunt 产品：面向程序员的快速智能体（Agentic）开发工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-13T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/A2CQHZMKSW455X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "cf696ff362ee0e564027ec5133945cc6a168301e89179859ac2131de107bbe70",
+      "title": "Paxper — 可视化创建云基础设施并审查每次变更",
+      "summary": "Product Hunt 产品：支持可视化创建云端基础设施并对每次修改进行审查的工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-13T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/AHT6BFH3RQ27QR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "71df8807ccb9c67da48d0a26b2c061baac23098a638913fef7f736eb1fdc3993",
+      "title": "Trainn MCP — 从任意 AI 聊天中创建产品视频和课程",
+      "summary": "Product Hunt 产品：利用任意 AI 聊天内容一键生成产品演示视频与课程的 MCP 工具。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-13T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/BYPQ26JPIEII6M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
