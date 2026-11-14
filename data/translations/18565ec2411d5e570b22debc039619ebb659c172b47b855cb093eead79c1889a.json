@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "content_hash": "60e507f0b428f74d43e13e674628c8473b820435489b6e020237fa859c133150",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "716cf9e2237ac9dba9f7993e884032ddbadffec668566008ae5e1341e1ada2e6",
+    "title": "asgeirtj / system_prompts_leaks：泄露了 ChatGPT、Claude、Gemini 等大模型的系统提示词",
+    "summary": "泄露了 ChatGPT、Claude、Gemini 等大模型的系统提示词。包含每个热门聊天机器人的隐藏系统提示词完整版本（2025年5月以来的每个版本）。"
+  }
+}

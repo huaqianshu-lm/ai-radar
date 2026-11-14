@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/BBCWQILYWRBAP6",
+  "content_hash": "2a428d96c6f71effc7d13b6526689b90d662765f6d20d3ad58c1efb8d28e892f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cba95bd313a11ff912b6703cc8e9731e62740db79256b98ee9b3681249e7d7d1",
+    "title": "Claude Meetings — 将 Claude 添加到通话中，在对话时开始工作",
+    "summary": "Product Hunt 产品：将 Claude 引入通话会议中，支持在交流的同时展开相关工作。"
+  }
+}

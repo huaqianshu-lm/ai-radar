@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/tradermonty/claude-trading-skills",
+  "content_hash": "e867c77f96e69f8afef32174a0733ccc7782b7bbc53864d13126e8b262a5c635",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f9da1acd54ca38642ffd36796b0883cecfa94494cd898bd897e3677735cfdb28",
+    "title": "tradermonty / claude-trading-skills：面向股票投资者和交易员的 Claude Code 技能工具——提供市场分析、技术图表、经济日历、筛选器以及交易策略开发功能",
+    "summary": "面向股票投资者和交易员的 Claude Code 技能工具——提供市场分析、技术图表、经济日历、筛选器以及交易策略开发功能。"
+  }
+}

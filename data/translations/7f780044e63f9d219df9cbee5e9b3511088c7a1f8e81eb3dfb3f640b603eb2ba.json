@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
+  "content_hash": "6652ee5c51068c3674668017293ca676b773b646b91ccba768b77f48fca85aab",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1972a6107d7cc016e042577c535c6d7718b92a32634391969262b9d5dec605c7",
+    "title": "PARDIG 和 SatWeave：用于地球科学的基础数据集——Google DeepMind",
+    "summary": "我们正在发布 PARDIG 和 SatWeave，以帮助研究人员和开发人员构建新的天气、水文和气候模型。"
+  }
+}

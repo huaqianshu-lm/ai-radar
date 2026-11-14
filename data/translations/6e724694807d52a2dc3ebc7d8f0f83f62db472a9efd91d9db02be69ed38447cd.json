@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://mistral.ai/news/mistral-large-4-oss",
+  "content_hash": "a49ba77f51c189a529136ed112f435ffa13891939edd9babaeb1bf0bbc108e5a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5a25565ab71a8d06b3b9b7c297f43e971826147872a9d3b2d4139c7630900b65",
+    "title": "Mistral Large 4 (Le Chonk) 现已开源权重",
+    "summary": "Mistral 发布了 Mistral Large 4 (Le Chonk)，这是一个拥有 1 万亿参数的多模态模型，现已开放权重。"
+  }
+}

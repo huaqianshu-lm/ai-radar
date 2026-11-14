@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/KGFXAXOXP52YCO",
+  "content_hash": "7f1ee0cf095b3efdd280259c4ce82c3cfd9b38bacfcf59435bd7485e06759dee",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "140b6d77b470049003810f88b18da9737a1c66221d3fd2b829feec09facef87c",
+    "title": "GAtrends — 在 Telegram、Claude、ChatGPT 中接收关键词飙升提醒",
+    "summary": "Product Hunt 产品：为 Telegram、Claude 以及 ChatGPT 提供关键词趋势和激增提醒的服务。"
+  }
+}

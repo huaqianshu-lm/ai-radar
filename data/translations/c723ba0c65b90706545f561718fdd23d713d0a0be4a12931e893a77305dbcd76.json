@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://status.claude.com/incidents/nn11wk485zfn",
+  "content_hash": "28baa372d923fb6527b55bbc500b071cf1c10aa96ed4f296b0170e5e0de66400",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1a09f77a4836fe9e9b63e1846c4241089e4b286c926d0a423e70fba9e18d45ac",
+    "title": "claude.ai、Claude Code 与 platform.claude.com 出现错误率升高",
+    "summary": "HN 讨论与状态页面显示相关服务出现错误率升高的问题。"
+  }
+}

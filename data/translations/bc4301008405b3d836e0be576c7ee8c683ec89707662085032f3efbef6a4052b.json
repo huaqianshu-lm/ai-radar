@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+  "content_hash": "36020b78cb2365b09c74109a85d1b162b6c680a9c0825765d179b6e6549b7de1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7bd2e8e7a52ec0a28a11e74790e0cbfff1600f9e6eb3a4edddb6ef782e29e8ca",
+    "title": "OpenAI 解散机器人团队，因其通用模型开始直接驱动机器人",
+    "summary": "随着通用 AI 模型开始直接应用并运行机器人，OpenAI 决定解散其专门的机器人团队。"
+  }
+}

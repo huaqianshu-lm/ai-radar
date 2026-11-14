@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-13",
+  "content_hash": "9afb0acac26b64ab5eac098cbc2cf37fb63575ccfd7de45f659291e2d13758e3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "187d0c5b9cd27c89e1dc909b4751702b8a0845d72a53d8dc6ecdee9350483817",
+    "title": "Gemini 4 Hydrogen、自托管 Claude 代理、Replit 代理商务",
+    "summary": "AI 快讯：介绍了 Gemini 4 Hydrogen、自托管的 Claude 代理以及 Replit 的代理商务功能。"
+  }
+}

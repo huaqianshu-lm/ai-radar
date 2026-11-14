@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "content_hash": "715e2222dbfde9bb443a2db4868e1999f4f4fe4ac5d5235d6d028bb62f7043a3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cdc8eef67bc55a0d0fa5ca86f75a39576cb4cd55b8ad20129c59ea60f80062cd",
+    "title": "使用 SimReady 资产构建机器人抓取放置仿真",
+    "summary": "本教程展示了一个饮料罐抓取和放置任务，使用了 UR17G 机械臂、Robotiq 2F 夹爪等资产。"
+  }
+}

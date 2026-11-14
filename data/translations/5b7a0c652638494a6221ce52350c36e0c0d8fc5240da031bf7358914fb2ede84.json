@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+  "content_hash": "0c6ee34efa3b7fcca6e04a758a8b56f66a7fff6bf5f096faa87754d7862bdb2c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "12990af15e181ab96cfcd59af6eb8fe359a02784c42db964df77ea8b1b569aeb",
+    "title": "AI 破解哥德尔手稿，其中包含数百个已证明的定理",
+    "summary": "人工智能技术帮助解密了数学家库尔特·哥德尔的笔记本，据称其中包含数百个已证实的定理。"
+  }
+}

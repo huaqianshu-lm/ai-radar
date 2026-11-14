@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet",
+  "content_hash": "858b2fe9dab1c3358585bf658c07184b2c9ffeac285b360e0b96782075fb82b8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e1058067669e2b5f7fa97923c90e01e3704a45c93d35586c94ba3e2098919ace",
+    "title": "datasette-leaflet 0.3：发布 datasette-leaflet 0.3 版本",
+    "summary": "发布 datasette-leaflet 0.3 版本。OpenStreetMap 拥有非常合理的政策，即对其托管瓦片服务器的请求应发送 referrer 标头。"
+  }
+}

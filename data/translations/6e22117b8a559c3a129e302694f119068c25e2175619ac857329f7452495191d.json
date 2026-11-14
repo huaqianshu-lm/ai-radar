@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/AHT6BFH3RQ27QR",
+  "content_hash": "e1b52afcf57b6d38f8acc22797e6355f2db36f97f2200c65ee31425edfc3f6d2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cf696ff362ee0e564027ec5133945cc6a168301e89179859ac2131de107bbe70",
+    "title": "Paxper — 可视化创建云基础设施并审查每次变更",
+    "summary": "Product Hunt 产品：支持可视化创建云端基础设施并对每次修改进行审查的工具。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/MGLYXUMWD5BQTH",
+  "content_hash": "b41b7cc4e23816047371741455f7a6898381ce3605b8ee3fd1b1d75cc2312916",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8f39e9cebe1fc8d4a946e7d8ac14a06b96de6b2d5667e2d73879457a3c8c7c01",
+    "title": "Aven App Agent — 引导用户使用您应用的 AI 代理",
+    "summary": "Product Hunt 产品：一款通过人工智能引导用户熟悉和使用应用程序的代理工具。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+  "content_hash": "f5d628da3ec5c01fc25e55e530f9618a7943c32d3854ef3e8a5b6efc39186e04",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b6c6cdb45a036bcc244f5430cece78eb71a573e5f03137e29c5a8a214bb0edfc",
+    "title": "Perplexity Decider v1.3：训练、评估与用例",
+    "summary": "介绍了 Perplexity Decider v1.3 版本的模型训练、评估方法以及具体使用场景。"
+  }
+}

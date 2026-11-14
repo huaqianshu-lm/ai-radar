@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/xybench",
+  "content_hash": "f714313e67d3bfb396de53b01a9786998305e1452f0bb6f55e4680469d542286",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "96c7f67bef86f8316048a87fd511efdf23e6f81e02406769c1ce381b73c81b1f",
+    "title": "XYBench：帮助解决问题背后的问题",
+    "summary": "真正有用的 AI 助手不仅需要帮助提出正确问题的用户，还需要能够帮助提出错误引导问题的用户。"
+  }
+}

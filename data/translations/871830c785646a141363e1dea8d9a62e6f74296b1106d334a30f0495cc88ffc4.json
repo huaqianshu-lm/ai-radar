@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/avenoxai/avenoxbeyin",
+  "content_hash": "9ca73b2319bb66bd92f904fe21f8d8fa64725231d8d70161ba8419fa7d96c8c9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8401e1633051e8eec311d91134841a1e3d5457cfd701d41ba300d103c9bb3920",
+    "title": "avenoxai / avenoxbeyin：通过单个命令构建你的 AI 第二大脑——采用开源 Obsidian + Claude Code 系统，具备跨会话持久记忆功能",
+    "summary": "通过单个命令构建你的 AI 第二大脑——采用开源 Obsidian + Claude Code 系统，具备跨会话持久记忆功能。"
+  }
+}

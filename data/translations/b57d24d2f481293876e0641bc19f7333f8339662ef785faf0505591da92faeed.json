@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/business/customer-stories/shield",
+  "content_hash": "5cf12d2d9f476ba985604debf6adc46e84f0dc874404182a503fd0377ed28dbf",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a99dfdd20d85acbbb850aa77912a8df97b492b8fb6a1e7bebe1dab199cebab4f",
+    "title": "Shield 借助 OpenAI 帮助技术人员移交遗留门户工作",
+    "summary": "Shield 使用 OpenAI 来帮助 IT 技术人员在遗留门户中移交工作。其 Forge 代理可以导航系统，以便技术人员能够专注于需要他们处理的问题。"
+  }
+}

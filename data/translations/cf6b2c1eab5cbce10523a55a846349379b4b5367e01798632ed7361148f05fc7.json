@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50491617",
+  "content_hash": "c17f97bfbd2b2b4974e4be4eb42bab6bc43de5e18ea08754429d46e5c1e757c0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5c4f352f53a33584cfef88d5c3ebaff668dd3d1e9ec324d6eb05b5b0ce5f2603",
+    "title": "Google Search 将开始在登录墙后锁定搜索",
+    "summary": "用户反馈在部分 ISP 的 CGNAT IP 地址使用 Google Search 时遇到了登录限制相关情况。"
+  }
+}

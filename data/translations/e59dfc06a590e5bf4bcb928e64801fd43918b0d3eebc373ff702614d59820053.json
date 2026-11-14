@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
+  "content_hash": "7ec3e42b55338a279bff65845d743031970dd84db6ba3b7fd3a5d183384d231d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "79ca8b1721b21776ea072f11a93c5a82639c8c425feadad323d2c3d33b126f08",
+    "title": "Tencent-Hunyuan / Hy-MT2：腾讯混元大模型相关开源项目 Hy-MT2，使用 Python 编写",
+    "summary": "腾讯混元大模型相关开源项目 Hy-MT2，使用 Python 编写。"
+  }
+}

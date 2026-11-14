@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://text.npr.org/nx-s1-6029408",
+  "content_hash": "11f8726b50f74ace4fa72b1d8033aa68b0b76cbcabac6d45e75dec00ca6f5fbe",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0d4c924e64373813139c6f4102115e56791fa42cc7712f94c4fd2cec8448b7d2",
+    "title": "为什么 Google 正在将无 AI 学校排除在 Google Search 之外？以下是一些推测",
+    "summary": "探讨了关于 Google 针对无 AI 学校限制搜索访问的相关理论与背景。"
+  }
+}

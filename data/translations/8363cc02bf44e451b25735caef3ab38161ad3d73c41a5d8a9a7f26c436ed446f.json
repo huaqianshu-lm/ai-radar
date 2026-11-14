@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://unsloth.ai/docs/models/qwen3.8",
+  "content_hash": "80fc8a155ab8fb89f3ffbbb5a1af1628e8d02004855db9e367dc61ebe03f7823",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8b981141b76904904e870a0e5c44c3a2eae1852e5fdd792b134b61442627312e",
+    "title": "Unsloth Qwen3.8-27B 量化版本 – 动态 v3.1 更新",
+    "summary": "介绍了 Unsloth 针对 Qwen3.8-27B 模型量化版本的动态 v3.1 更新内容。"
+  }
+}

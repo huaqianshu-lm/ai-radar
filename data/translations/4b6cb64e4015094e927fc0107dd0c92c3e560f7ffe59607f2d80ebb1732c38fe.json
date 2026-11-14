@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "content_hash": "8e05dd383d6f0bf637471d80dc4fcde7bf1cf7c8516426c393cf165e0e009c41",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6841e619fcd7e8d9370258a227590a244c9afe604f7f173c18d14806c323db86",
+    "title": "llama.cpp v1.0.0：本地 AI 生态系统更坚实的基础",
+    "summary": "llama.cpp 使得在各种硬件（从小型设备到大型服务器）上运行多模态大语言模型成为可能。"
+  }
+}

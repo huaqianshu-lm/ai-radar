@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/H2T26HYRCIEWMM",
+  "content_hash": "0accde1a9473c20ba21d3338a0a6731b96350da8866e44e0f5cb0ec79dde95bd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5db92aa36ffe6b75674d4e0fee044fc407823aa7094306edafad795b83e3f685",
+    "title": "Burnstate — 在菜单栏实时追踪 Claude Code、Codex 与 Cursor 的使用额度",
+    "summary": "ProductHunt 产品：在菜单栏中显示并跟进 Claude Code、Codex 和 Cursor 限制额度的工具。"
+  }
+}

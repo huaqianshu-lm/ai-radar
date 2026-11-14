@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+  "content_hash": "45b1a43b608d60fcc5592fe159e8843e8fe94faf9e5a6c4ff1164bc238f8b679",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "845cc78cbca545d7f72d64584bf33df20e70793922bdea8bb659ee1ffcc0ae27",
+    "title": "Anthropic 升级 Claude Code 项目，支持免手预运行并行 AI 工作线程",
+    "summary": "Anthropic 对 Claude Code 项目进行了升级，使其能够无需人工干预地运行并行 AI 工作流任务。"
+  }
+}

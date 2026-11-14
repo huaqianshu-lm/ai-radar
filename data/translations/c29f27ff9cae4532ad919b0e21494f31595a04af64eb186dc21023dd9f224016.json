@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map",
+  "content_hash": "f3d2285c0c88df81e2bbba425bdd6e0e71f00fcd663353bbba02205882342566",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4cb58a6ed2a63999aea770e169eea7dbaf89a0b5a6aa49256c3f5e5fd8d6f7ba",
+    "title": "datasette-cluster-map 0.19：发布 datasette-cluster-map 0.19 版本",
+    "summary": "发布 datasette-cluster-map 0.19 版本。这是 Datasette 最古老且最受欢迎的插件之一，现已支持 Datasette 1.0a42。"
+  }
+}

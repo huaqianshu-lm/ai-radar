@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/kitesurf-open-source",
+  "content_hash": "03218310e1e81fda7b82039798a491e922fef3f8f62075c198abc26ccdddd059",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5ab783dcdbdb11e34d6e4f91adc4120298465d114f154beec35cf47ffca4b831",
+    "title": "Kitesurf 现已开源",
+    "summary": "我们用于 AI 代理的实验性浏览器引擎 Kitesurf 现已开源。您可以检查其代码、在本地运行，或在 Cloudflare Workers 上部署您自己的实例。"
+  }
+}

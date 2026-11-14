@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/davila7/claude-code-templates",
+  "content_hash": "f9217064730f48f7f422dc3c6540aa926fbadb03e8462d859c5ef6be8b80727c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "25bff0b4a0ece6bc72b2c2ab688fa3ae9985c30ec323867c92db748975e01cc8",
+    "title": "davila7 / claude-code-templates：用于 Claude Code 组件的开源注册表和 CLI 工具：包括代理、命令、技能、钩子、MCP、设置和模组等",
+    "summary": "用于 Claude Code 组件的开源注册表和 CLI 工具：包括代理、命令、技能、钩子、MCP、设置和模组等。"
+  }
+}
