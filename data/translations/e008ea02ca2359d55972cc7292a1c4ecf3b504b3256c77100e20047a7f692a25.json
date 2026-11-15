@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/pnnbao97/VieNeu-TTS",
+  "content_hash": "15780bff2f4315781e125c4dd758c86950d9596862c5139cf81bbaf0c080c470",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7605f87d0eec1de9a26a411a66bbf18855ba7556d0bc5c63970e8bc3c071e093",
+    "title": "pnnbao97 / VieNeu-TTS：越南语语音合成工具",
+    "summary": "支持即时声音克隆的越南语 TTS 模型。具备端侧运行、实时 CPU 推理、48kHz 音频质量以及文字转语音等特性。"
+  }
+}

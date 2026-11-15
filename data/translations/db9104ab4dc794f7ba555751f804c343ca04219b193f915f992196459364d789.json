@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/ZSOONCTWBQPHUV",
+  "content_hash": "0c7a6918d991fa9c801e73a82a7471cc8cf8a8ced396002c9b0ccd6f4df9e04e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8c91d9837f37b5f47aef6ff0fc7f07d6f0d7528e5c4f58d930eec087df957325",
+    "title": "Product Hunt: Antelog — 阻止 AI 编程代理泄露或破坏您的数据",
+    "summary": "Product Hunt 页面链接，介绍了 Antelog 产品，用于防止 AI 编程代理泄露或破坏数据。"
+  }
+}

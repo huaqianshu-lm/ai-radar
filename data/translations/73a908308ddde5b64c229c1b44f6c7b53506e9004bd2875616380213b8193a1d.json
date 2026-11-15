@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/microsoft/PyRIT",
+  "content_hash": "c94a1521b4c93000b709c0e5ee6915db86ad3ee41ce30a98e5e090e5f4e35dd5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "aba597ea427eddd8b4b7f25ee2ff26ec97e2075e15ed1820e66342220dc0b24b",
+    "title": "microsoft / PyRIT: 开源 AI 红队工具包",
+    "summary": "来自微软的开源 AI 红队工具包。可通过自动化扫描、自适应多轮攻击以及 Web UI 来测试生成式 AI 系统。"
+  }
+}

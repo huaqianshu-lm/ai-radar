@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/NVIDIA/SkillEvaluator",
+  "content_hash": "5b902e4a468c2a919dc8e6e85764c8c541cc75c8a20cd5cba901db53691dff74",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d17b0500bab017dea395420898dc4c278b4eb9ac68b6b862bd45c539545ddf8b",
+    "title": "NVIDIA / SkillEvaluator：AI 智能体技能评估框架",
+    "summary": "这是一个多层级框架，用于评估 AI 智能体技能，具备质量关卡、语义重叠检测、合成评估数据集生成以及实时智能体评估等功能。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/14/datasette-vega",
+  "content_hash": "98851e12ee5d0d22bea14d961491f92cef21f5c1640ec20de0ad5b1f5bdffba4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4f7f1f7fcbbee0ff7587fce583ea60e6ee6692e5857f0477a634711b34549196",
+    "title": "datasette-vega 0.7 发布",
+    "summary": "datasette-vega 0.7 发布。这是 Datasette 历史最久且未被修改的插件的新版本，用于针对表或自定义查询中的数据渲染图表（使用 Vega-Lite）。"
+  }
+}

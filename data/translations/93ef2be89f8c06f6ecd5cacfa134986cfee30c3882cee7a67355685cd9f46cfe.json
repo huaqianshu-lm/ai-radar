@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "content_hash": "ec10ac50b87214c13fb9dc1cbe73d13b3d8be2b7f698b5881a7b330ac134e246",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f6c3adbf52c79b3178a8fe68d8bad68c272c64a5562b25346326a9a8e9cf0302",
+    "title": "elementalsouls / Claude-BugHunter 漏洞挖掘与红队工具包",
+    "summary": "一个用于漏洞挖掘和外部红队工作的 Claude Code 技能包，包含 82 个技能、15 个斜杠命令以及从 24 个核心漏洞中筛选出的 681 种已披露报告模式。"
+  }
+}

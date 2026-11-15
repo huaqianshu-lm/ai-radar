@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://gitlab.com/snipedbywifi/terminactory",
+  "content_hash": "4bd9224c48824bb3124155e38f4324a98af4ac7f40c43b7b020e56cdc3497b09",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "529d65553fb48fbffe328b2665628eafc332e4e64d8680bba07bc71ae5c2c324",
+    "title": "Terminactory：终端原生空闲工厂游戏",
+    "summary": "使用 Rust 和 ratatui 编写的终端原生空闲工厂游戏。"
+  }
+}

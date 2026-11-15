@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/paul-nameless/agweb",
+  "content_hash": "f320547558d1ccb1663cf575164b6607b3a16e0b78cb7d0c49656c1e13809b13",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "af7f8d8cd3854a599b3ab421d5233f6dc3f1639e5547e45c4641768cdbf677f2",
+    "title": "Show HN: Agweb – 一个不干扰用户的 Agent 浏览器",
+    "summary": "HN 讨论帖：https://news.ycombinator.com/item?id=50497147，原始链接：https://github.com/paul-nameless/agweb，作者：paul_nameless，得分：87"
+  }
+}

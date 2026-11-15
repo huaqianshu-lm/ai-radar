@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/U3HA4BYJWKX45B",
+  "content_hash": "71ff852801ffe889a6b2063f9259ac269e84d74d4e5d5c8ad0e78250dd444807",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "91eb463442886a2830503969f4102ec2239a6b2850d300b2f9dd312520274e88",
+    "title": "Product Hunt: FreeFlow Dictation — 支持 Claude Code 语音调用的本地 Mac 听写工具",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/freeflow-dictation?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28..."
+  }
+}
