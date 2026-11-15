@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-15",
+  "items": [
+    {
+      "id": "370d8453b070a7bffccc481b1ad8507eb64ebfc9e3d43f800d25d724a2c186ac",
+      "title": "Timestral：Mistral 的时间序列基础模型",
+      "summary": "Timestral 是 Mistral 的首个时间序列基础模型系列，只需少量参数即可提供最先进的概率多元预测。",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-11-15T02:26:17Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/timestral"
+    },
+    {
+      "id": "e5d92387184214879e29be2f21debb08075920038764b7eb0d52aeb7c40c148c",
+      "title": "[AINews] The No AI Slop Manifesto（反 AI 垃圾内容宣言）",
+      "summary": "2026年11月13日，AIE 演讲者联合起来阐述如何打击 AI 垃圾内容。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-14T08:31:02Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/"
+    },
+    {
+      "id": "4f7f1f7fcbbee0ff7587fce583ea60e6ee6692e5857f0477a634711b34549196",
+      "title": "datasette-vega 0.7 发布",
+      "summary": "datasette-vega 0.7 发布。这是 Datasette 历史最久且未被修改的插件的新版本，用于针对表或自定义查询中的数据渲染图表（使用 Vega-Lite）。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-14T17:09:09Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/"
+    },
+    {
+      "id": "e9477865501b0215260c38f88fa655ccd36aa7382eb73debe9b70119c540d786",
+      "title": "datasette-llm 0.1a11 发布",
+      "summary": "datasette-llm 0.1a11 发布。datasette-llm 是 Datasette 的一个中间插件，支持配置 LLM 以供其他 Datasette 插件使用。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-14T23:59:28Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
+    },
+    {
+      "id": "d17b0500bab017dea395420898dc4c278b4eb9ac68b6b862bd45c539545ddf8b",
+      "title": "NVIDIA / SkillEvaluator：AI 智能体技能评估框架",
+      "summary": "这是一个多层级框架，用于评估 AI 智能体技能，具备质量关卡、语义重叠检测、合成评估数据集生成以及实时智能体评估等功能。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-15T02:26:17Z",
+      "time_type": "fetched",
+      "url": "https://github.com/NVIDIA/SkillEvaluator"
+    },
+    {
+      "id": "b120ebd626696256ad76c7d15c2efd05162f9a8afdcd6811995f12f488359dd2",
+      "title": "andrewyng / openworker 开源项目",
+      "summary": "无项目描述 - 编程语言: Python - 今日新增 100 个 star",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-15T02:26:17Z",
+      "time_type": "fetched",
+      "url": "https://github.com/andrewyng/openworker"
+    },
+    {
+      "id": "f6c3adbf52c79b3178a8fe68d8bad68c272c64a5562b25346326a9a8e9cf0302",
+      "title": "elementalsouls / Claude-BugHunter 漏洞挖掘与红队工具包",
+      "summary": "一个用于漏洞挖掘和外部红队工作的 Claude Code 技能包，包含 82 个技能、15 个斜杠命令以及从 24 个核心漏洞中筛选出的 681 种已披露报告模式。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-15T02:26:17Z",
+      "time_type": "fetched",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "id": "aba597ea427eddd8b4b7f25ee2ff26ec97e2075e15ed1820e66342220dc0b24b",
+      "title": "microsoft / PyRIT: 开源 AI 红队工具包",
+      "summary": "来自微软的开源 AI 红队工具包。可通过自动化扫描、自适应多轮攻击以及 Web UI 来测试生成式 AI 系统。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-15T02:26:17Z",
+      "time_type": "fetched",
+      "url": "https://github.com/microsoft/PyRIT"
+    },
+    {
+      "id": "7605f87d0eec1de9a26a411a66bbf18855ba7556d0bc5c63970e8bc3c071e093",
+      "title": "pnnbao97 / VieNeu-TTS：越南语语音合成工具",
+      "summary": "支持即时声音克隆的越南语 TTS 模型。具备端侧运行、实时 CPU 推理、48kHz 音频质量以及文字转语音等特性。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-15T02:26:17Z",
+      "time_type": "fetched",
+      "url": "https://github.com/pnnbao97/VieNeu-TTS"
+    },
+    {
+      "id": "529d65553fb48fbffe328b2665628eafc332e4e64d8680bba07bc71ae5c2c324",
+      "title": "Terminactory：终端原生空闲工厂游戏",
+      "summary": "使用 Rust 和 ratatui 编写的终端原生空闲工厂游戏。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-14T14:05:54Z",
+      "time_type": "published",
+      "url": "https://gitlab.com/snipedbywifi/terminactory"
+    },
+    {
+      "id": "af7f8d8cd3854a599b3ab421d5233f6dc3f1639e5547e45c4641768cdbf677f2",
+      "title": "Show HN: Agweb – 一个不干扰用户的 Agent 浏览器",
+      "summary": "HN 讨论帖：https://news.ycombinator.com/item?id=50497147，原始链接：https://github.com/paul-nameless/agweb，作者：paul_nameless，得分：87",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-14T14:08:12Z",
+      "time_type": "published",
+      "url": "https://github.com/paul-nameless/agweb"
+    },
+    {
+      "id": "8c91d9837f37b5f47aef6ff0fc7f07d6f0d7528e5c4f58d930eec087df957325",
+      "title": "Product Hunt: Antelog — 阻止 AI 编程代理泄露或破坏您的数据",
+      "summary": "Product Hunt 页面链接，介绍了 Antelog 产品，用于防止 AI 编程代理泄露或破坏数据。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-14T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/ZSOONCTWBQPHUV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "554692e0485820a83200d1a7a961be5a4011f416427f447eb0f91e05be18430f",
+      "title": "Product Hunt: Businesses in ChatGPT — 帮助客户通过 ChatGPT 发现您的业务",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-14T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/4GOWHK6UYKH5KX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "91eb463442886a2830503969f4102ec2239a6b2850d300b2f9dd312520274e88",
+      "title": "Product Hunt: FreeFlow Dictation — 支持 Claude Code 语音调用的本地 Mac 听写工具",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/freeflow-dictation?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-14T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/U3HA4BYJWKX45B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "06391a6ac0ee6f5b4df211de11409bdb8fc0ffb188b9e18cb67b9c0a25ebb807",
+      "title": "Product Hunt: Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/gemini-robotics-2-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%2...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-14T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/7TJIY2TFO3PDX3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "4be28a043cd207dcac344cca75696b280d883a6f54d78e032843835aa257bbeb",
+      "title": "HiringNow: 抢先一步寻找并申请工作的 AI 求职代理",
+      "summary": "Product Hunt 页面: https://www.producthunt.com/products/hiringnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-14T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/WSO7S2YHKPGAXY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "47783071a37eee8060f8ef15a3fba9515df41b375a3b4a2d2e9ff6962560e695",
+      "title": "Product Hunt: Kokonut UI — Open-source UI components for your AI agent：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/kokonutui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-14T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/WBXQ3VO2K7G57E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "f5d9159c044742ec81f714f97359b7828bcbf918aa87d5192bbf2e455ffb762e",
+      "title": "MAP & GO! — 在地图上查看你的日程",
+      "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/expert-chase-deleted-1107920?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-14T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/UDCD6MOMOZEVIL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "95cc9c80acdffe5d28c27cc330e2d450a91e5eb57f01411e95a973ac16ff66b1",
+      "title": "Product Hunt: Tabletop by Google Labs —— 使用 AI 构建互动群组体验",
+      "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-14T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/SSPQTPIPJUEZC7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "b3b231953904e9469f6dc813eed2b84d896f451f60c3172931242e09a5fe66f3",
+      "title": "Product Hunt: Thunder — 一个极速且持久化的键值 AI 工作负载数据库",
+      "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/thunder-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-14T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/3LYMRMIGFRDJCY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
