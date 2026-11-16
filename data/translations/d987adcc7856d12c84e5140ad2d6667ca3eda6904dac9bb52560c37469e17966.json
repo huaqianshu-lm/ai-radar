@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
+  "content_hash": "983ad91adff5de1091c6a2dc6ae619fb038edbab1882ac8e947a18ce523e89e6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "018ac20c79d4eebaed801b8dfa7214e72f6d6940719551268d4c5f25c78f94b3",
+    "title": "LLM 推理的高效前沿",
+    "summary": "探讨大语言模型推理效率与量化等技术之间平衡的博客文章。"
+  }
+}

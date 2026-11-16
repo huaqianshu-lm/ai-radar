@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/bojieli/ai-infra-book",
+  "content_hash": "4a61f1abdaa8ece9c49a666a864b379b7fa36c9893c9071862c4733d3aa4d4c8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5ea1503fa8e6ce3596cd6870e8a0f83d6b8a4bba4a873c9d12b8d887d21f5623",
+    "title": "bojieli / ai-infra-book：《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计",
+    "summary": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验。语言：Python。今日获得 127 个星标。"
+  }
+}

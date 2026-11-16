@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/Q6RWTAO4FCYFSE",
+  "content_hash": "bd09b702b9a0d9f59151854e8b70da8c8577f8ee75f5e32ac7797835665d58b9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f6811164c6ffc464be31a56564088be7b6633404200dcd6cb409ea36108e127f",
+    "title": "Product Hunt: ByteAsk Cloud Agents — 在大型代码库中寻找修复方案，并从 Slack 直接发布",
+    "summary": "Product Hunt 产品介绍：ByteAsk Cloud Agents，帮助开发者在大型代码库中寻找修复并从 Slack 进行发布的云端 AI 代理工具。"
+  }
+}

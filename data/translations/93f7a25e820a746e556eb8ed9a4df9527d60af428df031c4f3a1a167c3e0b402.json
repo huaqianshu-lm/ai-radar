@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+  "content_hash": "bda34e949658ddb52286ded40f3c48617d10f32435e9b7a6f245fb4edc7a057c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8b9fd5e8fcaa556d10bf8aab6eded463309ec1ff5b8af8531ee20b235eddc1e8",
+    "title": "所有 AI 生成的代码都应该是开源的",
+    "summary": "探讨所有由人工智能生成的代码是否均应采用开源形式发布的技术博客文章。"
+  }
+}

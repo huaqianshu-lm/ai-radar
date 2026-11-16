@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/15/datasette-agent",
+  "content_hash": "88868e880c4b92007a758695d4e1993f30abe67ed226bc3dbbadf5183a985e05",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d47427f5a2b9c3b358fac05ba993a91daa8620a4c9919fbfc32503fc426e300e",
+    "title": "datasette-agent 0.6a0：发布：datasette-agent 0.6a0",
+    "summary": "发布：datasette-agent 0.6a0。包含针对 Datasette Agent 的一系列小型修复，这是作者为 Datasette 开发的代理插件，可让你针对数据提出问题。"
+  }
+}

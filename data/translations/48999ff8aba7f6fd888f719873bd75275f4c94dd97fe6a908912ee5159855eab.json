@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/our-new-blog-for-science",
+  "content_hash": "6675afb81a52539208a1614488f9434cba2c2ab77fcee6c7ee644a43ed914f01",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "33b95c2112c46efd095543028e60f6116680e85e464182b74c65e43667746d78",
+    "title": "我们全新的科学博客",
+    "summary": "OpenAI 科学博客分享了使用 AI 推进科学发现的研究人员的新发现、实用方法和一手经验。"
+  }
+}

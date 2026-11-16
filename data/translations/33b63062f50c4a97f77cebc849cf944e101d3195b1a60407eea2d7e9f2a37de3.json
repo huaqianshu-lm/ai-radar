@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/15/datasette-apps",
+  "content_hash": "e359aad4a7f15cb4d8afc00308ec8da2a74cd84fb29a63d2c00dca7a06f2abf1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "81dba6fe40f7c0eb3a32cc16ca4154b6734fe487cdfff32342bc05a96e8eb026",
+    "title": "datasette-apps 0.4a0：发布：datasette-apps 0.4a0",
+    "summary": "发布：datasette-apps 0.4a0。Datasette Apps 是运行在 Datasette 内部的沙盒化 HTML 和 JavaScript 应用程序，类似于 Claude Artifacts。"
+  }
+}

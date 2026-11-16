@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/PrefectHQ/fastmcp",
+  "content_hash": "e788bf8cf9952ffc4f9fd23bed4f43ee32ca47a2abdd6c2e6d141811eca741e1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2bd11e9b6557176ee1b7299fbd6ae3ea57fed5fd4a52a59897e5bf45b89771a4",
+    "title": "PrefectHQ / fastmcp：构建 MCP 服务器和客户端的快速、Python 风格的方式",
+    "summary": "构建 MCP 服务器和客户端的快速、Python 风格的方式。语言：Python。今日获得 82 个星标。"
+  }
+}

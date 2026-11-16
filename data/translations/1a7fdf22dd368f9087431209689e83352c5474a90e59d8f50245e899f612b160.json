@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/15/datasette",
+  "content_hash": "cba901dfa4fea8a48a8a44fa3ee3d67b6d03185b04385cca3d33bb35cdb9018c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0139ca5c534e35bb8a1d3a995d638b789c4c3df7f4d6bb576ae3e2575849fc44",
+    "title": "datasette 1.0a43：发布：datasette 1.0a43",
+    "summary": "发布：datasette 1.0a43。我一直在严重依赖 Claude Fable 5.2 来协助完成 1.0 里程碑的目标，目前进度已完成 53%。"
+  }
+}

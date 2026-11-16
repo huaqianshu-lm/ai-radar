@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre",
+  "content_hash": "1a0a9b27d8682535c69b46a59513b4bcfb6295cfb59b392c1f0e5336c9ef6796",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3c506afcbc502083310802073434c9f493e431745e7deee8da9ced47b8bb0a29",
+    "title": "datasette-maplibre 0.1a0：发布：datasette-maplibre 0.1a0",
+    "summary": "发布：datasette-maplibre 0.1a0。这是许久以来首个 Datasette 地理空间插件，它将优秀的 MapLibre GL 库与 OpenFreeM... 相结合。"
+  }
+}

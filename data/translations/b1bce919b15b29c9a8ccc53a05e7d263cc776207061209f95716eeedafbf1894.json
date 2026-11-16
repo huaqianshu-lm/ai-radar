@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/kajisho5/ffmpeg-skill",
+  "content_hash": "fc3358935bb227bddc0f86a126ed32f1a2983733cb83d9fe044af651d2daf6d2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bd036b2924d3b3d21ca3cfbe5df363238b096f4bd73193109635326ce35a236d",
+    "title": "kajisho5 / ffmpeg-skill：面向编码代理的本地视频编辑器：包含 42 个带有机器可读契约的 FFmpeg 工具以及一个 MCP 服务器，适用于 Claude Code、Cursor 和 Codex",
+    "summary": "面向编码代理的本地视频编辑器：包含 42 个带有机器可读契约的 FFmpeg 工具以及一个 MCP 服务器，适用于 Claude Code、Cursor 和 Codex。"
+  }
+}

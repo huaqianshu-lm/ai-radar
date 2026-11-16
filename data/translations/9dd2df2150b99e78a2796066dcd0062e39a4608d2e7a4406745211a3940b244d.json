@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/huytieu/COG-second-brain",
+  "content_hash": "4507737c8d73201c05625b9a77bf46eeb1655d89452069d1b535cdc47b53f805",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "633f274b9f21c6786f92ed98cd848e4fb0e03c9ef90fcff96c1ba92379e69835",
+    "title": "huytieu / COG-second-brain：具备 35 种 AI 技能、10 个代理以及人员 CRM 的自我进化第二大脑",
+    "summary": "具备 35 种 AI 技能、10 个代理以及人员 CRM 的自我进化第二大脑。闭环框架：采用 V 模型验证生命周期，确保工作者从不自行评分。"
+  }
+}

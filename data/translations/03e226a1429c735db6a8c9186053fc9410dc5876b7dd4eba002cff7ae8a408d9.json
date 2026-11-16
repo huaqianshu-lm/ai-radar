@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+  "content_hash": "237c1f19d2d59567603bcb9e83ae1c4c065bb0064479a8cca02eaae2bc59beb7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0cf390e5319b5e871622620bc1205b27e9dd0771210c5e7df826a41a64cd9222",
+    "title": "Lutnick 曾施压削弱与其家族企业重叠的芯片规则",
+    "summary": "相关新闻报道，讨论了政界人士对与其家族业务相关的芯片监管规则所施加的影响。"
+  }
+}

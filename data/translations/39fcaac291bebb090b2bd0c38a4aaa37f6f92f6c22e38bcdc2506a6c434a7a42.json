@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+  "content_hash": "e386475c7d1f8260181adc964d17593177209c8ea91db76f992fccd7df910b62",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2e8f421d2ee2a3dfd36bfcc5be1c93ba1a42b98e60398a99d5e21362ce523fd9",
+    "title": "向在晶格上定义标准模型迈出的一步",
+    "summary": "探索标准模型的一个候选非微扰晶格定义，以及 GPT-6 Astra 如何帮助将该想法转化为详细的证明。"
+  }
+}

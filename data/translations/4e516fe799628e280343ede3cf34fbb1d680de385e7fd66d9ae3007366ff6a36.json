@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/15/datasette-2",
+  "content_hash": "861899ab6ed92ab56b978e3d3a5adf84b7fec81af6687ad73021e2031f0175a1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9f458effb436880f96cc8c0a33558942fca24b182dd15a384595f0a456c9b696",
+    "title": "datasette 0.65.6：发布：datasette 0.65.6",
+    "summary": "发布：datasette 0.65.6。从 1.0a43 后向移植了一个小的安全修复：修复了一个安全问题，即使用 add_database(db, name=..., rou...) 注册的数据库存在漏洞。"
+  }
+}
