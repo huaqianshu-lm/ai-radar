@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/science-at-the-frontier",
+  "content_hash": "6bdef020ef920655b779169c3f0d5f2cfaf42e6270a0bdbcc2687af6703595bb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d91fd06de7b8771ee8ad78bbe6c6a0f8795962915436321f9652c6b42b553b9c",
+    "title": "前沿科学：科学家如何使用 ChatGPT",
+    "summary": "探索超过 1,800 名科学家如何在研究中使用 ChatGPT，并了解关于日常工作流程、报告的生产力以及对科学发现的期望的相关调查结果。"
+  }
+}

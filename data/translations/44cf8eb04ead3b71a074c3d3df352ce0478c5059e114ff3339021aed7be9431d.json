@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+  "content_hash": "5b1de37c124bb065a2170a3ac2210295c0ae96cd1b74c02d051678382fe1256b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3d4aeac88b69acfaa9cd944cf75b07a9d89f3c8d684549bae7f0b762916da940",
+    "title": "在 Holiday Extras，Dots 在无人要求时便已开始工作",
+    "summary": "Dots 会在未被提示的情况下提交发布报告，标记人们可能忽略的问题，并在通勤路上讨论即将到来的会议。"
+  }
+}

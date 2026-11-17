@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/16/llm",
+  "content_hash": "b21c6b7e2dfcd471e9437ad62448972035f0b10225ceec973ac5b009e265b048",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a50437ccc021c623712f2923fc5b1ac5fbdee7de50378f8f6091763c03c8a298",
+    "title": "llm 0.37.3：原文摘要",
+    "summary": "原文摘要：Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest S..."
+  }
+}

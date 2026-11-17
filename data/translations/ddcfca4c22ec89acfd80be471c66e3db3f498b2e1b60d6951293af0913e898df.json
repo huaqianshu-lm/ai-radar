@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/bfl",
+  "content_hash": "07c2b366c62d6cd06b752aab01870453ef256efe1b43f61ca518c001848b83de",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "daab8049af8f93301427dba6443a3d5b67c5031f2d3781b20e202eaf109d8f15",
+    "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs：原文摘要",
+    "summary": "原文摘要：Black Forest Labs’ case for learning AGI from pixels, motion and sound."
+  }
+}

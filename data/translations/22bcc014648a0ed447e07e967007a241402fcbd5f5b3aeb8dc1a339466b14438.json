@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/google-research/paper-orchestra",
+  "content_hash": "c6de1451e17f493eca674e639c92bb141d628cae32ee9b5637a2802202cd2267",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "16db77652cb13e5ec6a74612e39f11f88b8e31ddcc936113c112bf5da2139104",
+    "title": "google-research / paper-orchestra: 自动AI研究论文写作的多智能体框架",
+    "summary": "PaperOrchestra是一个用于自动化AI研究论文写作的多智能体框架。使用Python语言编写，今日获得313颗星标。"
+  }
+}

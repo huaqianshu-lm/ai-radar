@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+  "content_hash": "18fd2bee40ab87dcccb181a3f87aa591efca6bfb478d06db4500c806a7201eb6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9d6a8a996943e3e009cb03858cd2cfb26ca91f56a3d7725a0d00313eb3664b80",
+    "title": "OpenAI 的嵌入式评估第一阶段",
+    "summary": "关于 OpenAI 嵌入式评估第一阶段的故事，链接至 Hacker News 讨论及 OpenAI 官方原文。"
+  }
+}

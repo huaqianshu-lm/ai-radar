@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/openrouter",
+  "content_hash": "51a68532b97ad4555ffcb48c9fd66463e6fd47e598a66acec8167e772fdbd71e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8ec21efa2c62273428cb36f48412c205c966c9e1c9840d1b4a0d5276d99867ca",
+    "title": "Hugging Face 与 OpenRouter 合作简化开源权重模型的运行",
+    "summary": "Hugging Face 和 OpenRouter 正在联合起来，使开源权重模型的运行变得更加简单。"
+  }
+}

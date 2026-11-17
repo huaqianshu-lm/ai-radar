@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://get.mem.ai/blog/mem-is-shutting-down",
+  "content_hash": "9e42c2572387f3e973160751e4b88cc959946780d2c386168a29f43f13b954df",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cd3f9f2cc97c05f9f5b96d3595e40296f0428d0281788edc0ac2ff149d2ae91c",
+    "title": "Mem 宣布关闭",
+    "summary": "Mem 官方博客宣布该服务正在关闭。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.antonio.cx/running-agents-with-lend",
+  "content_hash": "e7978bcf56cb2985cc42471150914253e97b76f6ab6337166228cea342c671e6",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f07a8c1dd48959b919645aa8a107f432129fb68d8b675587b750a626f26a225d",
+    "title": "Running coding agents without handing them my credentials：原文摘要",
+    "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50526152 Original URL: https://blog.antonio.cx/running-agents-with-lend Author: antoniomika Score: 69"
+  }
+}

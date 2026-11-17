@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+  "content_hash": "1e04829277624552460609f13c67ce67e4c590e13ab59e2856e1700b7e32e44d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "21e886491b30cfff0403f0b9b226dc169269e7194d3a973fb9f92f6fcc6f75b9",
+    "title": "使用 ChatGPT for Healthcare 推进医疗服务的新途径",
+    "summary": "推出了计算机操作代理（computer-use agents）、改进的临床答案以及可在医疗软件中运行以完成实际工作的新医疗插件。"
+  }
+}

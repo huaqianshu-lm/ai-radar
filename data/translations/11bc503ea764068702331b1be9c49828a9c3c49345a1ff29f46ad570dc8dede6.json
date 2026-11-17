@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/isair/jarvis",
+  "content_hash": "bfd6c6f1dc50d18d9e981be50e854194b4fad946575c945970ca7b5cfb3d5dc3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b25b05719ef1607686c8be67fa711a5b992ad37c376c40aa6f73dac59327f985",
+    "title": "isair / jarvis 桌面AI助手",
+    "summary": "一款面向桌面端的100%私密且本地化的AI助手。它常驻后台，能够随时参与对话，并支持无限量的MCP工具和无限内存..."
+  }
+}
