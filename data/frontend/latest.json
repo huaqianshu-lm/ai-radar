@@ -1,295 +1,335 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "items": [
     {
-      "id": "33b95c2112c46efd095543028e60f6116680e85e464182b74c65e43667746d78",
-      "title": "我们全新的科学博客",
-      "summary": "OpenAI 科学博客分享了使用 AI 推进科学发现的研究人员的新发现、实用方法和一手经验。",
+      "id": "3d4aeac88b69acfaa9cd944cf75b07a9d89f3c8d684549bae7f0b762916da940",
+      "title": "在 Holiday Extras，Dots 在无人要求时便已开始工作",
+      "summary": "Dots 会在未被提示的情况下提交发布报告，标记人们可能忽略的问题，并在通勤路上讨论即将到来的会议。",
       "source": "OpenAI News",
       "source_type": "official",
-      "display_time": "2026-11-15T22:00:00Z",
+      "display_time": "2026-11-16T00:00:00Z",
       "time_type": "published",
-      "url": "https://openai.com/index/our-new-blog-for-science"
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots"
     },
     {
-      "id": "2e8f421d2ee2a3dfd36bfcc5be1c93ba1a42b98e60398a99d5e21362ce523fd9",
-      "title": "向在晶格上定义标准模型迈出的一步",
-      "summary": "探索标准模型的一个候选非微扰晶格定义，以及 GPT-6 Astra 如何帮助将该想法转化为详细的证明。",
+      "id": "60f3c7381bc61eae5e3d002a0ecfce30c3913c926a7778f89e799b4b1d0cc1eb",
+      "title": "The King’s Trust and OpenAI launch £1m partnership：原文摘要",
+      "summary": "原文摘要：The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
       "source": "OpenAI News",
       "source_type": "official",
-      "display_time": "2026-11-15T22:00:01Z",
+      "display_time": "2026-11-16T00:00:00Z",
       "time_type": "published",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+      "url": "https://openai.com/index/the-kings-trust-and-openai"
     },
     {
-      "id": "70a5d3bd151a623147cfe7820f1bf2c669b232359783b71d5d7de7388a0229da",
-      "title": "Mistral x Mozilla：私密、多语言的 AI 浏览体验",
-      "summary": "今天我们宣布与 Mozilla 合作，为在线使用 AI 的用户带来隐私、控制权和选择权。Firefox Smart Window（测试版）...",
-      "source": "Mistral AI News",
+      "id": "21b4758ab52123ac78ffa3dbca8705003ed9e3a44cc34d1840f5a51cf6e091d0",
+      "title": "Advancing computer-use agents for healthcare teams：原文摘要",
+      "summary": "原文摘要：https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "OpenAI News",
       "source_type": "official",
-      "display_time": "2026-11-16T02:36:10Z",
-      "time_type": "fetched",
-      "url": "https://mistral.ai/news/mistral-x-mozilla"
+      "display_time": "2026-11-16T06:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
     },
     {
-      "id": "d47427f5a2b9c3b358fac05ba993a91daa8620a4c9919fbfc32503fc426e300e",
-      "title": "datasette-agent 0.6a0：发布：datasette-agent 0.6a0",
-      "summary": "发布：datasette-agent 0.6a0。包含针对 Datasette Agent 的一系列小型修复，这是作者为 Datasette 开发的代理插件，可让你针对数据提出问题。",
+      "id": "21e886491b30cfff0403f0b9b226dc169269e7194d3a973fb9f92f6fcc6f75b9",
+      "title": "使用 ChatGPT for Healthcare 推进医疗服务的新途径",
+      "summary": "推出了计算机操作代理（computer-use agents）、改进的临床答案以及可在医疗软件中运行以完成实际工作的新医疗插件。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-16T06:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+    },
+    {
+      "id": "ff7833693fa2a06713dc923ab6354b82d0a99faf362cef1531beb712e1bb1855",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI：原文摘要",
+      "summary": "原文摘要：LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-16T09:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/lvmh-media-division-partnership"
+    },
+    {
+      "id": "d91fd06de7b8771ee8ad78bbe6c6a0f8795962915436321f9652c6b42b553b9c",
+      "title": "前沿科学：科学家如何使用 ChatGPT",
+      "summary": "探索超过 1,800 名科学家如何在研究中使用 ChatGPT，并了解关于日常工作流程、报告的生产力以及对科学发现的期望的相关调查结果。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-16T12:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/science-at-the-frontier"
+    },
+    {
+      "id": "2d7a5d6b20fff3cd431e56c6c45800450e6e12e3351b563ba22db14d6cc86266",
+      "title": "为科学家扩大 AI 访问权限",
+      "summary": "我们正在扩展 ChatGPT for Academic Researchers 项目，向全球 20,000 名研究人员提供免费使用我们前沿模型的权限。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-16T17:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+    },
+    {
+      "id": "b8de1a9db60c406f5523150864ee88617d1452d1edebb45633d54b10ff646d59",
+      "title": "ChatGPT Wallet 💳、Devin Apps 🛠️ 与全天候运行的 Agent ⚡",
+      "summary": "全天候运行的推理 Agent 对基础设施提出了新的要求。11月9日，Google 首席技术官 Amin Vahdat 及其他产品负责人展示了 G...",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-11-16T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-11-16"
+    },
+    {
+      "id": "8ec21efa2c62273428cb36f48412c205c966c9e1c9840d1b4a0d5276d99867ca",
+      "title": "Hugging Face 与 OpenRouter 合作简化开源权重模型的运行",
+      "summary": "Hugging Face 和 OpenRouter 正在联合起来，使开源权重模型的运行变得更加简单。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-16T00:00:00Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/openrouter"
+    },
+    {
+      "id": "daab8049af8f93301427dba6443a3d5b67c5031f2d3781b20e202eaf109d8f15",
+      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs：原文摘要",
+      "summary": "原文摘要：Black Forest Labs’ case for learning AGI from pixels, motion and sound.",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-16T21:38:03Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/bfl/"
+    },
+    {
+      "id": "a50437ccc021c623712f2923fc5b1ac5fbdee7de50378f8f6091763c03c8a298",
+      "title": "llm 0.37.3：原文摘要",
+      "summary": "原文摘要：Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest S...",
       "source": "Simon Willison",
       "source_type": "developer",
-      "display_time": "2026-11-15T03:49:47Z",
+      "display_time": "2026-11-16T23:57:26Z",
       "time_type": "published",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/"
+      "url": "https://simonwillison.net/2026/Nov/16/llm/"
     },
     {
-      "id": "81dba6fe40f7c0eb3a32cc16ca4154b6734fe487cdfff32342bc05a96e8eb026",
-      "title": "datasette-apps 0.4a0：发布：datasette-apps 0.4a0",
-      "summary": "发布：datasette-apps 0.4a0。Datasette Apps 是运行在 Datasette 内部的沙盒化 HTML 和 JavaScript 应用程序，类似于 Claude Artifacts。",
-      "source": "Simon Willison",
-      "source_type": "developer",
-      "display_time": "2026-11-15T04:02:45Z",
-      "time_type": "published",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/"
-    },
-    {
-      "id": "9f458effb436880f96cc8c0a33558942fca24b182dd15a384595f0a456c9b696",
-      "title": "datasette 0.65.6：发布：datasette 0.65.6",
-      "summary": "发布：datasette 0.65.6。从 1.0a43 后向移植了一个小的安全修复：修复了一个安全问题，即使用 add_database(db, name=..., rou...) 注册的数据库存在漏洞。",
-      "source": "Simon Willison",
-      "source_type": "developer",
-      "display_time": "2026-11-15T23:18:17Z",
-      "time_type": "published",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-2/"
-    },
-    {
-      "id": "0139ca5c534e35bb8a1d3a995d638b789c4c3df7f4d6bb576ae3e2575849fc44",
-      "title": "datasette 1.0a43：发布：datasette 1.0a43",
-      "summary": "发布：datasette 1.0a43。我一直在严重依赖 Claude Fable 5.2 来协助完成 1.0 里程碑的目标，目前进度已完成 53%。",
-      "source": "Simon Willison",
-      "source_type": "developer",
-      "display_time": "2026-11-15T23:20:27Z",
-      "time_type": "published",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette/"
-    },
-    {
-      "id": "3c506afcbc502083310802073434c9f493e431745e7deee8da9ced47b8bb0a29",
-      "title": "datasette-maplibre 0.1a0：发布：datasette-maplibre 0.1a0",
-      "summary": "发布：datasette-maplibre 0.1a0。这是许久以来首个 Datasette 地理空间插件，它将优秀的 MapLibre GL 库与 OpenFreeM... 相结合。",
-      "source": "Simon Willison",
-      "source_type": "developer",
-      "display_time": "2026-11-15T23:58:36Z",
-      "time_type": "published",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
-    },
-    {
-      "id": "d528e97f4ac5c2675478f6707be14fcbf6c08152cb2434aa740b35810d88a0ef",
-      "title": "HKUDS / AutoSwarm：AutoSwarm：统一你的所有代理",
-      "summary": "AutoSwarm：统一你的所有代理。打破上下文壁垒。看着它们为你协同工作。语言：Python。今日获得 64 个星标。",
+      "id": "16db77652cb13e5ec6a74612e39f11f88b8e31ddcc936113c112bf5da2139104",
+      "title": "google-research / paper-orchestra: 自动AI研究论文写作的多智能体框架",
+      "summary": "PaperOrchestra是一个用于自动化AI研究论文写作的多智能体框架。使用Python语言编写，今日获得313颗星标。",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-11-16T02:36:10Z",
+      "display_time": "2026-11-17T04:58:19Z",
       "time_type": "fetched",
-      "url": "https://github.com/HKUDS/AutoSwarm"
+      "url": "https://github.com/google-research/paper-orchestra"
     },
     {
-      "id": "2bd11e9b6557176ee1b7299fbd6ae3ea57fed5fd4a52a59897e5bf45b89771a4",
-      "title": "PrefectHQ / fastmcp：构建 MCP 服务器和客户端的快速、Python 风格的方式",
-      "summary": "构建 MCP 服务器和客户端的快速、Python 风格的方式。语言：Python。今日获得 82 个星标。",
+      "id": "53d940334a2a5afd27d78fb59bceaf01f5f0ea79a980039f18952e6ca7208d56",
+      "title": "huggingface / transformers：Transformers：用于文本、视觉、音频和多模态等最新机器学习模型的模型定义框架，支持推理等功能",
+      "summary": "Transformers：用于文本、视觉、音频和多模态等最新机器学习模型的模型定义框架，支持推理等功能。",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-11-16T02:36:10Z",
+      "display_time": "2026-11-17T04:58:19Z",
       "time_type": "fetched",
-      "url": "https://github.com/PrefectHQ/fastmcp"
+      "url": "https://github.com/huggingface/transformers"
     },
     {
-      "id": "260a41dc64951ed41f62ad025cf810c6a11a8818cef0279faa533aa52dff3091",
-      "title": "SnailSploit / Claude-Red：claude-red 是一个为 Claude 技能系统设计的精选红蓝对抗（攻击性安全）技能库",
-      "summary": "claude-red 是一个为 Claude 技能系统设计的精选红蓝对抗（攻击性安全）技能库。每个技能都是一个结构化的 SKILL.md 文件，用于引导 Claude...",
+      "id": "b25b05719ef1607686c8be67fa711a5b992ad37c376c40aa6f73dac59327f985",
+      "title": "isair / jarvis 桌面AI助手",
+      "summary": "一款面向桌面端的100%私密且本地化的AI助手。它常驻后台，能够随时参与对话，并支持无限量的MCP工具和无限内存...",
       "source": "GitHub Trending Python",
       "source_type": "developer",
-      "display_time": "2026-11-16T02:36:10Z",
+      "display_time": "2026-11-17T04:58:19Z",
       "time_type": "fetched",
-      "url": "https://github.com/SnailSploit/Claude-Red"
+      "url": "https://github.com/isair/jarvis"
     },
     {
-      "id": "5ea1503fa8e6ce3596cd6870e8a0f83d6b8a4bba4a873c9d12b8d887d21f5623",
-      "title": "bojieli / ai-infra-book：《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计",
-      "summary": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验。语言：Python。今日获得 127 个星标。",
-      "source": "GitHub Trending Python",
-      "source_type": "developer",
-      "display_time": "2026-11-16T02:36:10Z",
-      "time_type": "fetched",
-      "url": "https://github.com/bojieli/ai-infra-book"
-    },
-    {
-      "id": "633f274b9f21c6786f92ed98cd848e4fb0e03c9ef90fcff96c1ba92379e69835",
-      "title": "huytieu / COG-second-brain：具备 35 种 AI 技能、10 个代理以及人员 CRM 的自我进化第二大脑",
-      "summary": "具备 35 种 AI 技能、10 个代理以及人员 CRM 的自我进化第二大脑。闭环框架：采用 V 模型验证生命周期，确保工作者从不自行评分。",
-      "source": "GitHub Trending Python",
-      "source_type": "developer",
-      "display_time": "2026-11-16T02:36:10Z",
-      "time_type": "fetched",
-      "url": "https://github.com/huytieu/COG-second-brain"
-    },
-    {
-      "id": "bd036b2924d3b3d21ca3cfbe5df363238b096f4bd73193109635326ce35a236d",
-      "title": "kajisho5 / ffmpeg-skill：面向编码代理的本地视频编辑器：包含 42 个带有机器可读契约的 FFmpeg 工具以及一个 MCP 服务器，适用于 Claude Code、Cursor 和 Codex",
-      "summary": "面向编码代理的本地视频编辑器：包含 42 个带有机器可读契约的 FFmpeg 工具以及一个 MCP 服务器，适用于 Claude Code、Cursor 和 Codex。",
-      "source": "GitHub Trending Python",
-      "source_type": "developer",
-      "display_time": "2026-11-16T02:36:10Z",
-      "time_type": "fetched",
-      "url": "https://github.com/kajisho5/ffmpeg-skill"
-    },
-    {
-      "id": "88ae2cfdd6f592722f0248e22175c86694f8e51246497b8c89cd0f3ef3df4a60",
-      "title": "法院驳回了撤销 DRAM 价格操纵案的动议",
-      "summary": "HN 故事链接，涉及相关反垄断与串谋诉讼的进展。",
+      "id": "9d6a8a996943e3e009cb03858cd2cfb26ca91f56a3d7725a0d00313eb3664b80",
+      "title": "OpenAI 的嵌入式评估第一阶段",
+      "summary": "关于 OpenAI 嵌入式评估第一阶段的故事，链接至 Hacker News 讨论及 OpenAI 官方原文。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-15T01:18:36Z",
+      "display_time": "2026-11-16T16:07:20Z",
       "time_type": "published",
-      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
     },
     {
-      "id": "0cf390e5319b5e871622620bc1205b27e9dd0771210c5e7df826a41a64cd9222",
-      "title": "Lutnick 曾施压削弱与其家族企业重叠的芯片规则",
-      "summary": "相关新闻报道，讨论了政界人士对与其家族业务相关的芯片监管规则所施加的影响。",
+      "id": "dad90d6ba30449fe60c55792325454be6042c05a627091df4aaeda55b43bf369",
+      "title": "加强打击网络儿童性虐待",
+      "summary": "OpenAI发布关于加强在线儿童安全的文章，讨论相关打击措施与进展。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-15T11:40:51Z",
+      "display_time": "2026-11-16T18:12:48Z",
       "time_type": "published",
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"
+      "url": "https://openai.com/index/strengthening-online-child-safety/"
     },
     {
-      "id": "8b9fd5e8fcaa556d10bf8aab6eded463309ec1ff5b8af8531ee20b235eddc1e8",
-      "title": "所有 AI 生成的代码都应该是开源的",
-      "summary": "探讨所有由人工智能生成的代码是否均应采用开源形式发布的技术博客文章。",
+      "id": "c7269fe254e12ffe2bb8effda2789653ede52dc953696ad136778bfb45fdea7c",
+      "title": "Axonnic (YC F26)：追踪手指并估算力量的套袖",
+      "summary": "HN 故事链接：https://news.ycombinator.com/item?id=50522776 作者：arshpatankar 得分：35 大家好，HN！我们是 Axonnic (https://axonnic.com) 的创始人 Arsh 和 Max...",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-15T14:46:58Z",
+      "display_time": "2026-11-16T20:29:48Z",
       "time_type": "published",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+      "url": "https://news.ycombinator.com/item?id=50522776"
     },
     {
-      "id": "819c44e6a693e421867a58173439372684e34949010a16c6c4f305beb96bb5f6",
-      "title": "Show HN: Skillset: 轻松策划和安装代理技能集合",
-      "summary": "开源项目介绍：用于轻松策划和安装 agent 技能集合的工具。",
+      "id": "cc198026e3a4c56ff5f76f763f15c2192b8a9c28307d6c82a9c23bc8ddef6a16",
+      "title": "Show HN: Open-source, real-time object tracking for live video feeds：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50523377 Original URL: https://github.com/aryamandarda/tamserve Author: aryaman_darda Score: 17 I type \"forklift\"...",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-15T22:53:37Z",
+      "display_time": "2026-11-16T21:14:39Z",
       "time_type": "published",
-      "url": "https://github.com/itsmeyaw/skillset"
+      "url": "https://github.com/aryamandarda/tamserve"
     },
     {
-      "id": "018ac20c79d4eebaed801b8dfa7214e72f6d6940719551268d4c5f25c78f94b3",
-      "title": "LLM 推理的高效前沿",
-      "summary": "探讨大语言模型推理效率与量化等技术之间平衡的博客文章。",
+      "id": "8331a3aa13cbf4dc7e51e2434a4ae7680cb2bd83ad86a0e565eea0aec7de59bb",
+      "title": "OpenCode Browse：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50523459 Original URL: https://opencode.ai/product/browse Author: mfiguiere Score: 174",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-15T23:55:50Z",
+      "display_time": "2026-11-16T21:20:37Z",
       "time_type": "published",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization"
+      "url": "https://opencode.ai/product/browse"
     },
     {
-      "id": "ab4fc5bd1909d3d7162735f0302f89edd8509d293b7f1d37a8fea1987cca36e2",
-      "title": "随着 AI 触及一半的工作岗位，“谁在招聘？”发帖量停滞在 12 年来的低点附近",
-      "summary": "分析就业市场趋势的数据文章，指出人工智能对招聘岗位数量产生了显著影响。",
+      "id": "d4515e27dcb7f19202c3ebee18a437bf6475c2425e0f54e2e42acb10f0c3aecd",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50524736 Original URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Author: cwaffles Score: 383",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-16T01:31:30Z",
+      "display_time": "2026-11-16T22:58:20Z",
       "time_type": "published",
-      "url": "https://www.hntrends.com/2026/november.html"
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
     },
     {
-      "id": "f6811164c6ffc464be31a56564088be7b6633404200dcd6cb409ea36108e127f",
-      "title": "Product Hunt: ByteAsk Cloud Agents — 在大型代码库中寻找修复方案，并从 Slack 直接发布",
-      "summary": "Product Hunt 产品介绍：ByteAsk Cloud Agents，帮助开发者在大型代码库中寻找修复并从 Slack 进行发布的云端 AI 代理工具。",
-      "source": "Product Hunt AI",
-      "source_type": "community",
-      "display_time": "2026-11-15T08:00:00Z",
+      "id": "f07a8c1dd48959b919645aa8a107f432129fb68d8b675587b750a626f26a225d",
+      "title": "Running coding agents without handing them my credentials：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50526152 Original URL: https://blog.antonio.cx/running-agents-with-lend Author: antoniomika Score: 69",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-17T01:18:56Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/Q6RWTAO4FCYFSE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://blog.antonio.cx/running-agents-with-lend"
     },
     {
-      "id": "967fc98d971c1c8d2f9242f9451ae96a866a0b13cdfdd65087943f0970a501bd",
-      "title": "Product Hunt: Perit Marketplace — 向前沿 AI 实验室出售你的数据和 RL 任务",
-      "summary": "Product Hunt 产品介绍：Perit Marketplace，一个向顶尖 AI 实验室出售数据和强化学习任务的交易市场。",
-      "source": "Product Hunt AI",
-      "source_type": "community",
-      "display_time": "2026-11-15T08:00:00Z",
+      "id": "ba59527fde1390462f01d0eee6ac73032e6e9f22586a572955c4756d08a5d352",
+      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days：原文摘要",
+      "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50526264 Original URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-m...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-17T01:35:16Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/KPIYGDOPJZWXWT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat"
     },
     {
-      "id": "bf443b8320555694c7717a65fdb078fb26822f83a5ed216d3ad62c1cb4a44256",
-      "title": "Product Hunt: Polylane for Security — 在代码发布前捕获可利用的安全漏洞",
-      "summary": "Product Hunt 页面: https://www.producthunt.com/products/polylane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
-      "source": "Product Hunt AI",
-      "source_type": "community",
-      "display_time": "2026-11-15T08:00:00Z",
+      "id": "cd3f9f2cc97c05f9f5b96d3595e40296f0428d0281788edc0ac2ff149d2ae91c",
+      "title": "Mem 宣布关闭",
+      "summary": "Mem 官方博客宣布该服务正在关闭。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-17T02:13:41Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/QCBQLOKEAWHPOR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://get.mem.ai/blog/mem-is-shutting-down"
     },
     {
-      "id": "0ea65fa1a60791c245b3d4e49ac88b7da5a8b51774e2b58007e3a8515870ace2",
-      "title": "Product Hunt: Canvas by AgentGrid.io — 智能体设计画布，一种与 AI 协作的可视化方式",
-      "summary": "Product Hunt 页面: https://www.producthunt.com/products/agentgrid-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+...",
+      "id": "b22ad026a26048aad0db739e0ae9da78e581c7b71632c9cb9f6ffbf944cc47ff",
+      "title": "Product Hunt: Boost.space AgentOS — One operating system for all your AI agents：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/boost-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-15T08:01:00Z",
+      "display_time": "2026-11-16T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/OI335FP7TS27LE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/76XJJBTD4NW3OM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "93d7e4083aafaaa3b991bb33fe2ed0254280b39ee712d20e11f5a68e7f07191a",
-      "title": "Product Hunt: Frevana Multiplayer — 与您的团队一起成长业务的 AI",
-      "summary": "Product Hunt 页面: https://www.producthunt.com/products/frevana-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "id": "7bbca6d3f5f92cd0fefc726c3f9ee4bacadc2f49b1db7e2e235e82638ad4248f",
+      "title": "Product Hunt: ByteVoice — 与你的 coding agents 进行语音交互",
+      "summary": "Product Hunt 页面: https://www.producthunt.com/products/bytevoice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-15T08:01:00Z",
+      "display_time": "2026-11-16T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/FT7MX33UAAVCZC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/PX5N57QFL6GGIL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "aee9968b823282deaf39e8956101fad92a34ad44c775b7861b851046439ce35b",
-      "title": "Product Hunt: Pixel Office — 在像素风办公室中运行 AI 智能体团队",
-      "summary": "Product Hunt 页面: https://www.producthunt.com/products/pixel-office-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3...",
+      "id": "a5a4226ab3fd4dad9fd80971c951ef16ca09ffb0e2fdab9cc403e6f84d653666",
+      "title": "Product Hunt: Cal.com v7 — Cal.com now has events, discover, an assistant + more：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/cal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-15T08:01:00Z",
+      "display_time": "2026-11-16T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/TTIJRKG7V2JYX3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/6OEY6HJXNWQWUC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "4b8342d1bff0d2b69b37628d6ca5ff70edd6ffb6b7507b7597323ec48f16d582",
-      "title": "Product Hunt: Rakazo — 您真正拥有的开源 Grok Bot 替代方案",
-      "summary": "Product Hunt 页面: https://www.producthunt.com/products/rakazo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "id": "9fd56ed8c9f1895897496e20b0f1985985765b28edc6ee62960e48f54602d734",
+      "title": "Product Hunt: ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/chatgpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-15T08:01:00Z",
+      "display_time": "2026-11-16T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/JJD4SYA4D3EAB6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/GSPNGEIHJHVZKC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "c73c8f48caa5dcb626fdcf8f619428d81a0e1f5d09d1872c968775461fcfffec",
-      "title": "Product Hunt: Spiik — 用于会议和讲座的 AI 笔记工具，通话中无需机器人",
-      "summary": "Product Hunt 页面: https://www.producthunt.com/products/spiik?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
+      "id": "4af050a281f82480305a17f63a9612861a56c2eb7a88830f4f1a011e4b8b4d8f",
+      "title": "Product Hunt: OpenBot — Grok Bot alternative: self-host, fully customize, any stack：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/copilotkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-15T08:01:00Z",
+      "display_time": "2026-11-16T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/XFFMUQQ7FVBVCU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/IVRBK72SWJ3GFA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "0bbcf869a2bfb03efabb4bb7cceba119859ed22ee94039909c3cdc04ffd7a8b2",
-      "title": "Product Hunt: Tulvo — 智能自适应工作区，用于管理您的所有工作",
-      "summary": "Product Hunt 页面: https://www.producthunt.com/products/tulvo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
+      "id": "8ded6f12372f9eed60ebac4bbf002b277118b1a92962e3d3a48296a14a7adca6",
+      "title": "Product Hunt: OpenFrame — AI agents that run your IT. You approve every fix.：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/openframe-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-15T08:01:00Z",
+      "display_time": "2026-11-16T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/YYVWZN3VGDME5C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/IN3WYQBAT773W4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "b2f05fc3ad94b14786c317dba89a5b3c13df1c4bcfe1c5e2fc72e821de16a8c7",
+      "title": "Product Hunt: Pharen Hub — One AI workspace for your whole company：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/pharen-hub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-16T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/6B3J75VNZS7YOK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "64e98f5224e8fa4a24f825fbf9a271bbfb140808cd3cb154b56b9c811b6f307d",
+      "title": "Product Hunt: StateWeave — Test your AI agent on working clones of the apps it uses：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/stateweave?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-16T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/BX7KYDPFK5GVAM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "f19dd6c86ab16889252c3fdb8a108fd72966b60d3ca8bc73f0860265579f659f",
+      "title": "Product Hunt: Zoom Slides — Turn your Zoom meetings into ready-to-present slides：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/zoom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%2...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-16T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/EZUGWR53JD3PM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "81a5cb14d7010b1366d50ee0504888634594f8385bed8192bd92c3c1484267ef",
+      "title": "Product Hunt: readywhen — Your personal assistant that lives in email around the clock：原文摘要",
+      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-16T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/55JJFHJGIO46RN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     }
   ]
 }
