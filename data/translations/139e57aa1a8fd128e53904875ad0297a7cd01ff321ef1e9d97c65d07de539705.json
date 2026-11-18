@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/17/datasette-lite",
+  "content_hash": "bda3fd3d49b49d656e9e067a98898b9e75d9559943848aae8d16f4d5a8eb2d51",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9e24bec0316d82cc334b61d9ba3ce770ed7a3f2b0a6d7125047c875c29e4838e",
+    "title": "使用 Service Workers 和 Pyodide 在浏览器中运行完整的服务端 Datasette Python 应用",
+    "summary": "Datasette Lite 是我对 Datasette Python 应用的移植，可直接使用 WebAssembly 和 Pyodide 在浏览器中运行。我发布了代码的完全重写版本……"
+  }
+}

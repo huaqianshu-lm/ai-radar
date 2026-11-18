@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
+  "content_hash": "8d3b598e9ccb0f854218a3b01a9f46e50f3a8cd4dcfc8de044978fca4cf0302e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1ed525b777a52b12b89e104750e4fc3a315188fefe7ccb95fbd7298d6a85927a",
+    "title": "哈佛研究人员发现 AI 编程智能体将瓶颈转移到了代码审查",
+    "summary": "来自 Hacker News 的讨论与相关研究报道，指出 AI 编程智能体的使用将开发流程的瓶颈带到了代码审查环节。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+  "content_hash": "52f1e8bd6d655a4eb6b80f4166a3a1b7ce5c94f9697d6045d08dc2aa3d94f90c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3c25963477ac1c88f238d8bdcf4ecd1e1678d4137b15bd01a43f9ad606d089bb",
+    "title": "Cerebras Disaggregated Inference：来自 Hacker News 的讨论与官方博客，介绍 Cerebras 推出的分离式推理技术",
+    "summary": "来自 Hacker News 的讨论与官方博客，介绍 Cerebras 推出的分离式推理技术。"
+  }
+}

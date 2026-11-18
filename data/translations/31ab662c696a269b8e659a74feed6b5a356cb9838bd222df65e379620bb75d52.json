@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://hy.tencent.ai/research/hy4-flash",
+  "content_hash": "732fd4118eb205fe3a2a0f336f284e004adb3a22b4135ffa07f9eeaec495fe68",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "85e628cc5ceac4060ad87cb5b93a62e99e4b4655ad7a28bbf07a397664c5862f",
+    "title": "Tencent Hy4 Flash：来自 Hacker News 的讨论，源链接指向腾讯相关研究页面",
+    "summary": "来自 Hacker News 的讨论，源链接指向腾讯相关研究页面。"
+  }
+}

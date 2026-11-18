@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/Y6VJNN2FTLFYJW",
+  "content_hash": "e63d2b177cdff259842c09b69a3eabdb0ad953f98c882de9e22ad361f9c7de84",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "4cc539851ee7e36997002b832a60e4acdb4d978ed3dfef5138f276cf6d5a4320",
+    "title": "Product Hunt: Link.bio — 粘贴您的链接，我们为您构建由 AI 运行的页面",
+    "summary": "Link.bio 在 Product Hunt 上线，用户只需粘贴链接，即可构建由 AI 驱动和运行的专属页面。"
+  }
+}

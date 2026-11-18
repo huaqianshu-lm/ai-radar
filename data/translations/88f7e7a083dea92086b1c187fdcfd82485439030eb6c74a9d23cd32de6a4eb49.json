@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/17/go-proverbs",
+  "content_hash": "2de4afa1fd17d55dc395a76f3a082b79f38823fbdd8566dda4a6154967330674",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "38f599c774ee5c8eb26da5260009b3dd2c4986fb6838f9ec7e67f66bcf0c288e",
+    "title": "引用 Go 谚语",
+    "summary": "少一点复制，好过少一点依赖。——Go 谚语，通过标签：go，编程"
+  }
+}

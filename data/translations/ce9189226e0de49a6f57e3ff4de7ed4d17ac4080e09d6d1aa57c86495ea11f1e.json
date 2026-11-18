@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/jingyaogong/minimind",
+  "content_hash": "c88f9fbcc8ed120626f144f49c62885381be00942ed6ede8be1bf172d38c1619",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b03e856411c0697d16197b2f4a0ae82209cac26de8d5709a9f44bd4978f524ec",
+    "title": "jingyaogong / minimind 大模型训练项目",
+    "summary": "🧠 仅需 2 小时从头训练一个 64M 参数的 LLM！ - 语言：Python - 今日获得 192 个星标"
+  }
+}

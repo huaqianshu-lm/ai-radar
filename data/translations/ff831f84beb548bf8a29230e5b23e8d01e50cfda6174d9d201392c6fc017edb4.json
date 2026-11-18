@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/dograh-hq/dograh",
+  "content_hash": "de3818fd06cbb28452612f466cd10134179ca4d7e9ebeb3e3929da2edd3cadd4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6ea9e0fbab097163ee0b3862146f22425d078e1143497041997b5b4a2bd4b625",
+    "title": "dograh-hq / dograh 开源语音 AI 平台",
+    "summary": "开源语音 AI 平台。Vapi 和 Retell 的自托管替代方案。支持本地部署，跨 Speech to Speech 或 LLM/STT/TTS 的 BYOK，带有可视化工作流构建器……"
+  }
+}

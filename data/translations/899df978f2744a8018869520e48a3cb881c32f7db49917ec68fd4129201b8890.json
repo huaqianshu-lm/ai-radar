@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/7I4IVFKD6V2MUV",
+  "content_hash": "3f1aba5018cc2adfe3234526025985f6696a75e2fffdc8e25713d05fcd2e9df7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "02ad98529794bd4fea54653b9dca9630a804da72092e32dfd56c2b679b2c11e5",
+    "title": "Product Hunt: Liquid d1.2 — 返回校准概率的决策模型",
+    "summary": "Liquid d1.2 在 Product Hunt 上线，是一套能够输出校准概率的决策模型工具。"
+  }
+}

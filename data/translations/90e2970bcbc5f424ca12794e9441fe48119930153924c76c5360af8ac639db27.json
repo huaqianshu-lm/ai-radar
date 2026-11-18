@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/cloudflare",
+  "content_hash": "64abd0085f3466ba7d6b1c5a12a3b7ef253d7e687333c78312012b5dd86dee50",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6c93287c551f6b2c4c58655a46628b2d2a86f964eb7490dab10806c5e76a56d9",
+    "title": "Cloudflare 加入 Jevolution 并自称为 Neolab",
+    "summary": "Cloudflare 因加速网络而闻名。现在它正在构建 System One 模型，以在毫秒内做出决策并提取数据。"
+  }
+}

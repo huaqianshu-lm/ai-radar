@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/BGFPFYASAMFD4B",
+  "content_hash": "1bd9c0b26029ff63270fda479c896bb7a83cc35ff588e90df8a93d42be0e4442",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2450773fabafdf194d68e4270485f253f11ffffcb4447f6cc1d0054ec8552910",
+    "title": "Product Hunt: Pinecall — 开源语音 AI 智能体平台",
+    "summary": "Pinecall 在 Product Hunt 上线，是一个用于构建和管理语音 AI 智能体的开源平台。"
+  }
+}

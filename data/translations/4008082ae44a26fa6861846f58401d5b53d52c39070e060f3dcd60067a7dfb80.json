@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/M72KKG4HWPUR7G",
+  "content_hash": "41f7990467f95afd083286a7eeb12cd0beba5a6d0c0ae4a18c8b9bb7a768c19c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c7c69aa18e5927a01e0fdba2aac41f5cf99acb6c28d4f43cdbc8ed662f0f9d06",
+    "title": "Product Hunt: Agents API by Recall.ai — 派送您的 AI 智能体参加会议",
+    "summary": "Recall.ai 的 Agents API 在 Product Hunt 上线，允许用户将自己的 AI 智能体发送到会议中。"
+  }
+}

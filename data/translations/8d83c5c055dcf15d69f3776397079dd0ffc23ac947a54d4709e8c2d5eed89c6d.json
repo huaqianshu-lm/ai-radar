@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents",
+  "content_hash": "245d24554eb445cb0ddecfc7876eac8df2498b6e10911fe78e5668433d261beb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b4439a7527ca175b45e558714e0c076936f57c7b83f7c3dca55c2d93f6736ea5",
+    "title": "面向编码代理的外部沙盒",
+    "summary": "我一直在探索对代理执行的代码进行沙盒化的新方法，重点是让尝试本地模型变得更安全……"
+  }
+}

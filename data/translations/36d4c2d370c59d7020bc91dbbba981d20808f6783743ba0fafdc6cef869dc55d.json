@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://starsling.dev/",
+  "content_hash": "9b442b0311a737725528344dbf0ba55d47a9d1515c19eff14372c7a19e912bfa",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7bd4069e0ff535c07b41df1b31d22a8a1515b3bf753990e4fa227fb33ba93adf",
+    "title": "Launch HN：StarSling (YC P25) – 针对代理生成代码库的自改进 CI",
+    "summary": "HN 讨论帖：https://news.ycombinator.com/item?id=50536468，原始网址：https://starsling.dev，作者：yonasb，得分：62。我们是 Yonas 和 Daniel，我们正在构建 S..."
+  }
+}

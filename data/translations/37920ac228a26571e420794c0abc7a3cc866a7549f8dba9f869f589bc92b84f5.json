@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/4U3S4XIEYDOCDN",
+  "content_hash": "5cacdc77668ec37b9e0bf088caf78f935ea608d56e4285a910001fd8d7454df8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "16e2d994689a95d41950e7d006b989535f480627ce946500650993c39cd35ede",
+    "title": "Product Hunt: Appxiom — 用于 AI 编程智能体的上下文层，可检测并修复错误",
+    "summary": "Appxiom 在 Product Hunt 上线，是一个为 AI 编程智能体提供上下文层以检测和修复错误的工具。"
+  }
+}

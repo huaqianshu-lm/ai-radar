@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-17",
+  "content_hash": "7e3a43971c7e473cf68dfbccbdd00a9219470048a12c2ee476b0724503447bdc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "80b70ff7919d3bf845fa6e1ab43cec3e4a105196aec0b9acc3b760f40f457090",
+    "title": "Perplexity Research 🧪、NVIDIA Rubin HPC 🖥️、OpenAI 安全评估 👨‍💻",
+    "summary": "三个代理正在竞相赢得互联网。Muse、Dots 和 Duet 正在将代理式浏览和购物带入主流。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://newsletter.posthog.com/p/decision-models",
+  "content_hash": "19d55fa6312893d3bb69f599d5d4d34ef5968e2064508d63a4a58b89b1115a41",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "233f4988e8c3601e84ee2f063f23a5f6c6d7f30234984fe40b8586cc6da1de86",
+    "title": "并非所有事物都需要 LLM",
+    "summary": "HN 讨论帖：https://news.ycombinator.com/item?id=50535740，原始网址：https://newsletter.posthog.com/p/decision-models，作者：speckx，得分：113"
+  }
+}

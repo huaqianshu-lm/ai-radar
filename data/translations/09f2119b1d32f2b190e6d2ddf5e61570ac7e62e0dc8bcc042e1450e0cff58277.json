@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/UXLAJKIOFASLOH",
+  "content_hash": "7323a3fca0f49eecbf1590dc5e47d92e2efc79767e04c4b06c7fd15b55db2d5b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6fa270daf331b10261f2095e3847b29ceeebe864fa4df2716767101f916ec474",
+    "title": "Product Hunt: Superhands — 设计系统，而非单一输出",
+    "summary": "Superhands 在 Product Hunt 上线，主打设计底层系统而非单纯控制单个输出结果的 AI 理念。"
+  }
+}

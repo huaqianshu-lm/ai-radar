@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1",
+  "content_hash": "c67b7f9a47f96efc34269dab72d59c5d613d5892503a60c54558c84dce5497c4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "de86fe1708919f4d8767c5ecff56f94feddb1ad4748f4aac08aee6d0e6b1f1bd",
+    "title": "每个模型的最佳评测框架是什么？",
+    "summary": "HN 讨论帖：https://news.ycombinator.com/item?id=50532191，原始网址：https://runta.com/blog/introducing-frontierharness-eval-v1-1/，作者：Edward40，得分：344"
+  }
+}
