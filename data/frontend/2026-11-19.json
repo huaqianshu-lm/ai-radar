@@ -1,0 +1,405 @@
+{
+  "date": "2026-11-19",
+  "items": [
+    {
+      "id": "a1de396d3910fa2e0f79d5fc1596f0a162b45e4ee5be0f06557fa126a8cc5915",
+      "title": "Le Groupe Figaro 与 OpenAI 达成合作，将 Le Figaro 的新闻内容引入 ChatGPT",
+      "summary": "Le Groupe Figaro 与 OpenAI 合作，通过摘要、节选以及指向原文的链接，将 Le Figaro 的新闻报道引入 ChatGPT。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-18T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+    },
+    {
+      "id": "99be0c0a7e074380d1a5d6cdb0953a68d68217eb3d8f50443a74e9d288a8cea0",
+      "title": "管理前沿 AI 风险：从训练到部署",
+      "summary": "OpenAI 解释了如何通过模型对齐、沙盒、拦截安全防护和监控，来管理从训练到部署的全流程前沿 AI 风险。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-18T06:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/managing-frontier-ai-risk"
+    },
+    {
+      "id": "53d809d7420a3923e8bad7c3bd224d7d2c9da9cb37fe0d761411713f6da0b90e",
+      "title": "住友生命保险的领导者如何帮助团队采用 ChatGPT Enterprise",
+      "summary": "住友生命保险使用 ChatGPT Enterprise 来研究保险公司、准备提案并起草用于投资分析的代码。高管的早期使用有助于推动普及...",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-18T08:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life"
+    },
+    {
+      "id": "67952d9a918d2536a7bf3b37b6c05ec5dc7c7c22fdf68db178458bb74b4d4f2d",
+      "title": "Codex 沙盒内部机制",
+      "summary": "了解 Codex 如何在你的机器上运行命令，同时在 macOS、Linux 和 Windows 上强制执行你所控制的文件系统和网络限制。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-18T08:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/inside-the-codex-sandbox"
+    },
+    {
+      "id": "58da586369f33999eb920dc2411502d48d9dc9ca37a4ab1a788d83ffd176938a",
+      "title": "研究加速：参差不齐的前沿",
+      "summary": "OpenAI 评估了编程智能体如何加速 AI 研究、其性能在哪些方面仍然不均衡，以及这向递归自我改进发出了什么信号。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-18T08:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier"
+    },
+    {
+      "id": "184d931227f2504de1a33bebb5615518a5072d45e1bfb93a37850e8332740e3a",
+      "title": "无声的共识",
+      "summary": "OpenAI 战略未来主管 Dean Ball 探讨了更强大的 AI 将如何重塑社会，以及人们如何保持对其机构的控制。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-18T10:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/the-silent-consensus"
+    },
+    {
+      "id": "23c4f130369cb97228de41513e9312b1e0dc594d86d03dc60f268cab647b367c",
+      "title": "结合 Google Antigravity 的智能化学信息学 — Google DeepMind",
+      "summary": "设计新药物需要整理来自图表、数字和文献的复杂数据，训练预测模型...",
+      "source": "Google DeepMind Blog",
+      "source_type": "official",
+      "display_time": "2026-11-19T03:59:32Z",
+      "time_type": "fetched",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity"
+    },
+    {
+      "id": "e308a84a77ae00d83193b9513b7cd6ebd3e543714c502c5364a85b3cd224a8c8",
+      "title": "Anthropic 公布首次公开募股定价",
+      "summary": "Anthropic, PBC 今天将其 A 类普通股的首次公开募股定价为每股 83.00 美元。此次发售包含 980,000,000 股 A 类股票...",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-11-19T03:59:32Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    },
+    {
+      "id": "ec56b5eff9affb1c339e466ce0f8237f0117032663d5db85034279f9f2a19228",
+      "title": "180B 参数，32GB 内存：使用 Transformers 将 MoE 推理推向极限",
+      "summary": "直接从 SSD 流式传输 MoE 专家，其在 Token 上的表现与 Strata 相差在 6% 以内。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-18T00:00:00Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/moe-expert-streaming"
+    },
+    {
+      "id": "a717cd0203870f3e8d3a344df16f5617f0d632afb1696c15c4eae055fe21d1be",
+      "title": "GPT-6.2 Astra 🧠、微软的七个模型 🚀、Replit Missions 🤖",
+      "summary": "87% 的 IT 领导者表示，AI 工具或智能体在过去一年中超出了其预期的范围。只有三分之一的人既能撤销 AI 工具的访问权限，又能结束智能体会话...",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-11-18T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-11-18"
+    },
+    {
+      "id": "5b89a2db7f60ae9099b72ca73768977f61c082125cbaf94b72c9c9bced5f17aa",
+      "title": "Rumble-2-Flash：支持 40 多种语言的开源 0.5B 语音模型",
+      "summary": "今天我们在 Apache 2.0 许可证下开源了 Rumble-2-Flash。这是一个 0.5B 参数的语音模型...",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-18T00:00:00Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/rumble-2-flash"
+    },
+    {
+      "id": "db9b81401cb73d7b9082ca9ac29601a9357fe6b1322fac9d2899b92f57a7cc92",
+      "title": "[AINews] GPT-6.2 Astra：排名第二的前沿模型更好且便宜 20%-600%，但评价不一；6.2 Sol 可能是主力",
+      "summary": "2026年11月17日 — GPT-6.2 Astra 和 Sol 降低了基准测试成本。早期测试者对使用 Astra 的体验看法不一。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-18T10:19:04Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/"
+    },
+    {
+      "id": "d6b88907cbdaa3084d0368cf3bbd8dc89a23fdf4ed3b07836ccaddb3acc8cfd9",
+      "title": "PSF 年终筹款活动",
+      "summary": "以 Python 软件基金会董事会成员的身份：我们为支持该非营利组织的机构启动了年终筹款活动...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-18T14:44:48Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/"
+    },
+    {
+      "id": "aef632472a5e3af7f91b4cd9c5d8e0ecee47135327c9822e26d24027e878b6a3",
+      "title": "Streamhouse 中的时间序列模型：新前沿与用例",
+      "summary": "由 IBM 时间序列模型驱动的实时预测、异常检测和优化。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-18T15:00:23Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
+    },
+    {
+      "id": "27f7b51e3bf8f5a8746a5cb205bbaa2fb3d8f4600eeaaceb049e0845117a6b53",
+      "title": "引用 Daniel Stenberg 的话",
+      "summary": "在这些智能体将 185,000 行 C 代码转换为 340,000 行 Rust 代码期间（我数过），我们在实际的 curl 项目中合并了 300 多个提交...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-18T15:58:27Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/"
+    },
+    {
+      "id": "5f73b59a3fca2b791eb9dfa7bc6cbb9f1e138c178804b9b3ada2007cfd08b82e",
+      "title": "datasette-arrows 0.1a0：版本发布：datasette-arrows 0.1a0",
+      "summary": "版本发布：datasette-arrows 0.1a0。Datasette 1.0a43 增加了插件实现流式导出格式的功能。Datasette 核心支持流式 CSV 等...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-18T17:09:59Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/"
+    },
+    {
+      "id": "e55c8f2df06c07ffc92b5ea28b360b047797a023e968816743ef7e472d87d336",
+      "title": "为什么你的微调任务比 FLOPs 计算的要慢",
+      "summary": "根据 272 次生产运行，预测共享 GPU 集群上的端到端微调时间。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-18T18:53:43Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
+    },
+    {
+      "id": "f0b81ce3c14612880642c854f15f292b941326a9491f444584b41bfe82ab7a56",
+      "title": "DaisyRose-27B：推动后训练效率的前沿",
+      "summary": "DaisyRose-27B 模型博客文章，探讨如何推动后训练效率的前沿。",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-18T19:54:56Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+    },
+    {
+      "id": "c9098ac47ad213215e8148ac573b09e0a665cb75e5b37d90f62ea6c7c6ed01f5",
+      "title": "来自全新 Workers AI Superintelligence 团队的更新版 Clairic 和 Clairic-flash 现已开源权重",
+      "summary": "Workers AI Superintelligence 团队推出了更新版的 Clairic 和 Clairic-flash开源权重模型。",
+      "source": "Cloudflare AI Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-18T22:00:00Z",
+      "time_type": "published",
+      "url": "https://blog.cloudflare.com/open-clairic/"
+    },
+    {
+      "id": "5dd922e14c0ccf9b5c66ad63951d5dcf462757fcde6001d6834f45d0be1446d2",
+      "title": "HKUDS / CLI-Anything 命令行工具项目",
+      "summary": "“CLI-Anything: Making ALL Software Agent-Native” -- CLI-Hub: https://clianything.cc/ - 语言：Python - 今日获得 389 个标星",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-19T03:59:32Z",
+      "time_type": "fetched",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "id": "3db40af345d5afa2a2657bdd86712a3441b19b5471de92fd9a3d68e7d8c3defa",
+      "title": "p-e-w / heretic 语言模型修改工具",
+      "summary": "免训练的语言模型修改工具：去除审查、抑制废话、减少谄媚等 - 语言：Python - 今日获得 515 个标星",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-19T03:59:32Z",
+      "time_type": "fetched",
+      "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+      "id": "ee3431af9f197f0e42bf99c06080bce3c267b9a44201bbc0294fefa6d824eda1",
+      "title": "AI agents 在审计试验中提出的问题比 KPMG 会计师更好",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=50547777 原始内容链接：https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ 作者：Betelbuddy",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-18T15:49:34Z",
+      "time_type": "published",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+    },
+    {
+      "id": "ab00b903e6c152288b03148162d865536b692f74e640264d310be5af4754724e",
+      "title": "七款具有可扩展性价比的新模型",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=50548021 原始内容链接：https://microsoft.ai/news/microsoft-ignite-2026/ 作者：gmays 得分：473",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-18T16:08:24Z",
+      "time_type": "published",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+    },
+    {
+      "id": "e88bc937214729b32fc5abc5876a2b14ddde371ed3e0f5aeb236c74fd978d84a",
+      "title": "使用 OpenAI 模型推进芯片设计",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=50549493 原始内容链接：https://openai.com/index/advancing-chip-design-with-our-models/ 作者：vighneshiyer",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-18T17:45:47Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/"
+    },
+    {
+      "id": "52f6bc9a43b3606d3a017786cb62ffc7a7c614e673e196f0232e907124c03544",
+      "title": "Genie 4 现已发布",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=50550415 原始内容链接：https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-avai...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-18T18:49:51Z",
+      "time_type": "published",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
+    },
+    {
+      "id": "f539fcdaf975fdb95a5bae097e6d5ad73098fb6ef262c35175e2b68cea5d0ea8",
+      "title": "Gemini 4 Neon：HN 故事：https://news.ycombinator.com/item?id=50552424 原始内容链接：https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini...",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=50552424 原始内容链接：https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-18T21:34:07Z",
+      "time_type": "published",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+      "id": "f255b78c66f1c4647739aae9d6571888ac4d35cd872f0b8caba622330eef3cf2",
+      "title": "LLM 辅助逆向工程",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=50553225 原始内容链接：https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering 作者：ioma8",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-18T22:29:13Z",
+      "time_type": "published",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+    },
+    {
+      "id": "e8a84f6111970e8a26ca2d6a04c0b2ef2bfe0fe5b11632c82d4164d69c3b1945",
+      "title": "Gemini 4 Neon 看起来像是 Opus 5.5 的竞争对手",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=50554374 原始内容链接：https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ 作者：seizethecheese",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-19T00:29:45Z",
+      "time_type": "published",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
+    },
+    {
+      "id": "15b39e0a4758e7ae5ac1ec0be2025c7e10ad29a9ddf0fe25935950d3e55831b1",
+      "title": "基于前 Token 预测的 LLM 逆向用于提示词重建",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=50554908 原始内容链接：https://arxiv.org/abs/2607.29378 作者：dalmo3 得分：20",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-19T01:27:02Z",
+      "time_type": "published",
+      "url": "https://arxiv.org/abs/2607.29378"
+    },
+    {
+      "id": "936a5145ec1e1f65ffa6ff8a6d0fe9645f87b128befa2af50e0f8ce9a2b5c3d8",
+      "title": "AI 不会让你变富 (2025)",
+      "summary": "HN 故事：https://news.ycombinator.com/item?id=50555093 原始内容链接：https://colossus.com/article/ai-will-not-make-you-rich/ 作者：madars 得分：66",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-19T01:51:28Z",
+      "time_type": "published",
+      "url": "https://colossus.com/article/ai-will-not-make-you-rich/"
+    },
+    {
+      "id": "c46757e52d000b45a87106f4029e0b19489369d51dedcf7372d4ef1c67a04f63",
+      "title": "Product Hunt：uRun — 为语音和视频 Agent 提供实时决策",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/urun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%2...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-18T08:00:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/6LIUKY3DAUN3W7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "75b7cd647559879a1c0164c33930c6681e3c6960a3ccbac1a118456727326b35",
+      "title": "Product Hunt：Dippr — 通过一个提示词为你的 Agent 提供数据平台",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/dippr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-18T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/FOOJ7X4LAUBRQ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "13fcb6fc4a2b4c8b9e31e610d92b095a57e88b52a042b4964fef50cd4b768ae4",
+      "title": "Product Hunt：GPT-6.2 Astra 和 Sol — OpenAI 的两个新模型：前沿的 Astra 与高效的 Sol",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-18T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/ZQTBM36RYPXJZM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "2ec6f08591d206515602193b906373e1c17ed2c7ea01214d63b696b865f112cc",
+      "title": "Product Hunt：Incredible Agents — 能够查看屏幕并运行 Agent 的快速语音 AI",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/incredible?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-18T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/7QMVFIJZQVX5XH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "73f30460f3c58a90b39cdeec9276796b0ca471f0739d8326a272c1b14129c549",
+      "title": "Product Hunt：Mermaid Flow — 用于 Agent 工作流的可视化构建器",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/mermaid-chart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-18T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/6TWGPBZTSE7PQW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "7d3aa92ea7db63956d54619d9b7a7d7cc9ec70179eb90375993c2b6a56a6ec54",
+      "title": "Product Hunt：S.Space — 将你的团队和所有人的 AI Agent 汇聚在一个工作区",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/s-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-18T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/3NGQFAYB2FLK2V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "e1d5400c3c23f594f7210486c75bf1d404f49032e0eb802512f140d7d2451610",
+      "title": "Product Hunt：Tencent Hy4 flash — 腾讯推出的快速且低成本模型，输入价格从每百万 Token 0.07 美元起",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/hunyuan-a13b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-18T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/XOB6V2WUKZDQJV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "dbcdd3fd24863073877e8e25911feaeec718f858482a122925502d1b8dd00b6a",
+      "title": "Product Hunt：Toone — 结合了 Grokbot 与 n8n/Zapier 的工具",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/toone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-18T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/46Q2MJEJGU72E3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "4ce18e4872257155e9209858b0b698fc2420474081c1d6ac34102861b259f137",
+      "title": "Product Hunt：Waldo by Wherobots — 利用空间数据加速工程开发的 AI Agent",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/waldo-by-wherobots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-18T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/7GHVBKIFOJ7ABR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "d5e2a2a19f6450ddadf2cac22c351c10a8f7122a79027bf4c313b5a34f9cd8d9",
+      "title": "Product Hunt：dusk bot — 免费开源的 Grok bot 替代品",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/dusk-bot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-18T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/U6XX5FHY4UCNF3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
