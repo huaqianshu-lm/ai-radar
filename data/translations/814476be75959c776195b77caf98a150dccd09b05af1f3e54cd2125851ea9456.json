@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "content_hash": "910e8f87f7e938197ef2d4a45aabc34baed768c52fe986ed3e3e63347013ad37",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f0b81ce3c14612880642c854f15f292b941326a9491f444584b41bfe82ab7a56",
+    "title": "DaisyRose-27B：推动后训练效率的前沿",
+    "summary": "DaisyRose-27B 模型博客文章，探讨如何推动后训练效率的前沿。"
+  }
+}

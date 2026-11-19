@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/managing-frontier-ai-risk",
+  "content_hash": "26631fa7b1358fcb6c2dbe48763195d223b2fd214a0054d56cbe83357b201005",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "99be0c0a7e074380d1a5d6cdb0953a68d68217eb3d8f50443a74e9d288a8cea0",
+    "title": "管理前沿 AI 风险：从训练到部署",
+    "summary": "OpenAI 解释了如何通过模型对齐、沙盒、拦截安全防护和监控，来管理从训练到部署的全流程前沿 AI 风险。"
+  }
+}

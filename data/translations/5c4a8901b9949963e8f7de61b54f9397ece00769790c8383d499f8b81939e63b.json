@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/moe-expert-streaming",
+  "content_hash": "aa58fa396f3ba99a15a3d7239fe56d7bdb3862630ae4fa6e1e77f27dfc50f758",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ec56b5eff9affb1c339e466ce0f8237f0117032663d5db85034279f9f2a19228",
+    "title": "180B 参数，32GB 内存：使用 Transformers 将 MoE 推理推向极限",
+    "summary": "直接从 SSD 流式传输 MoE 专家，其在 Token 上的表现与 Strata 相差在 6% 以内。"
+  }
+}

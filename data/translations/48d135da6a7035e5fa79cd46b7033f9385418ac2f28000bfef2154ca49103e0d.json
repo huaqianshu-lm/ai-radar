@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "content_hash": "8a66ee6dd1e005db076c353b0bd40ab4ada3be7bb9c6eeff51e84d71bb2347cc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "aef632472a5e3af7f91b4cd9c5d8e0ecee47135327c9822e26d24027e878b6a3",
+    "title": "Streamhouse 中的时间序列模型：新前沿与用例",
+    "summary": "由 IBM 时间序列模型驱动的实时预测、异常检测和优化。"
+  }
+}

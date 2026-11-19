@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+  "content_hash": "cf533160ed75a85e73187c9d0dff94959a8bd65e24a23c2b239ae068891b9ff3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a1de396d3910fa2e0f79d5fc1596f0a162b45e4ee5be0f06557fa126a8cc5915",
+    "title": "Le Groupe Figaro 与 OpenAI 达成合作，将 Le Figaro 的新闻内容引入 ChatGPT",
+    "summary": "Le Groupe Figaro 与 OpenAI 合作，通过摘要、节选以及指向原文的链接，将 Le Figaro 的新闻报道引入 ChatGPT。"
+  }
+}

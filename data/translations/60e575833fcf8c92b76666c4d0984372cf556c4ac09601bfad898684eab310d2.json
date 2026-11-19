@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "content_hash": "0ba1af87666a6142e0e4e5b46b100b85336161ab7121b5f89d6ce2b04a396b26",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "58da586369f33999eb920dc2411502d48d9dc9ca37a4ab1a788d83ffd176938a",
+    "title": "研究加速：参差不齐的前沿",
+    "summary": "OpenAI 评估了编程智能体如何加速 AI 研究、其性能在哪些方面仍然不均衡，以及这向递归自我改进发出了什么信号。"
+  }
+}

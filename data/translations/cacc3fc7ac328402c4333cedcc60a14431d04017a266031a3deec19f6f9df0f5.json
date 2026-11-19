@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/18/datasette-arrows",
+  "content_hash": "e65359b0a9b222751593c2573417917b31a4c8ec595f7c760041c10c46cacc04",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5f73b59a3fca2b791eb9dfa7bc6cbb9f1e138c178804b9b3ada2007cfd08b82e",
+    "title": "datasette-arrows 0.1a0：版本发布：datasette-arrows 0.1a0",
+    "summary": "版本发布：datasette-arrows 0.1a0。Datasette 1.0a43 增加了插件实现流式导出格式的功能。Datasette 核心支持流式 CSV 等..."
+  }
+}

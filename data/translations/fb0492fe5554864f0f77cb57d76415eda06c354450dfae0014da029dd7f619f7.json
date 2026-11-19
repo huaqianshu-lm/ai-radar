@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2607.29378",
+  "content_hash": "eb4fd70f40619cfa1f40d522528e01ea8bd7f5f849d64636de34439452caf11e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "15b39e0a4758e7ae5ac1ec0be2025c7e10ad29a9ddf0fe25935950d3e55831b1",
+    "title": "基于前 Token 预测的 LLM 逆向用于提示词重建",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=50554908 原始内容链接：https://arxiv.org/abs/2607.29378 作者：dalmo3 得分：20"
+  }
+}

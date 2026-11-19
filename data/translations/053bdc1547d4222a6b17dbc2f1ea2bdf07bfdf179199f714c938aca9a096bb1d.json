@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/rumble-2-flash",
+  "content_hash": "74843dc504f0e2d44a526599936630386b7bd4d672d8d357adbd966226ae5d24",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5b89a2db7f60ae9099b72ca73768977f61c082125cbaf94b72c9c9bced5f17aa",
+    "title": "Rumble-2-Flash：支持 40 多种语言的开源 0.5B 语音模型",
+    "summary": "今天我们在 Apache 2.0 许可证下开源了 Rumble-2-Flash。这是一个 0.5B 参数的语音模型..."
+  }
+}

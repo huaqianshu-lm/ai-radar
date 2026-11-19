@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/p-e-w/heretic",
+  "content_hash": "fd3d3624c1753e9058d1ccb5a37e860868d942655b86d854377b3d58c2c86205",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3db40af345d5afa2a2657bdd86712a3441b19b5471de92fd9a3d68e7d8c3defa",
+    "title": "p-e-w / heretic 语言模型修改工具",
+    "summary": "免训练的语言模型修改工具：去除审查、抑制废话、减少谄媚等 - 语言：Python - 今日获得 515 个标星"
+  }
+}

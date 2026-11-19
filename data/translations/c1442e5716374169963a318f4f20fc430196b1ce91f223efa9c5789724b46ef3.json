@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/open-clairic",
+  "content_hash": "92c7b0bf876339060a127805af2ca38e6c8728a4549a1817f9bd8d0c886e25ac",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c9098ac47ad213215e8148ac573b09e0a665cb75e5b37d90f62ea6c7c6ed01f5",
+    "title": "来自全新 Workers AI Superintelligence 团队的更新版 Clairic 和 Clairic-flash 现已开源权重",
+    "summary": "Workers AI Superintelligence 团队推出了更新版的 Clairic 和 Clairic-flash开源权重模型。"
+  }
+}

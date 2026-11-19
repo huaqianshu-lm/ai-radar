@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+  "content_hash": "5bd0aeefbe524cc65dcb2e92c4af1691383d345529d895779a9844fa66f17c6d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f255b78c66f1c4647739aae9d6571888ac4d35cd872f0b8caba622330eef3cf2",
+    "title": "LLM 辅助逆向工程",
+    "summary": "HN 故事：https://news.ycombinator.com/item?id=50553225 原始内容链接：https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering 作者：ioma8"
+  }
+}

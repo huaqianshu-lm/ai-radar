@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/inside-the-codex-sandbox",
+  "content_hash": "4643ba2208b096e5ede83fffdb39820a874b0312fb1ad8c507dfb48c8290893a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "67952d9a918d2536a7bf3b37b6c05ec5dc7c7c22fdf68db178458bb74b4d4f2d",
+    "title": "Codex 沙盒内部机制",
+    "summary": "了解 Codex 如何在你的机器上运行命令，同时在 macOS、Linux 和 Windows 上强制执行你所控制的文件系统和网络限制。"
+  }
+}

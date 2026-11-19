@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg",
+  "content_hash": "e597e207611585b0e4e0a5378e74da091c9af9f94a192e95a6091609ab143c85",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "27f7b51e3bf8f5a8746a5cb205bbaa2fb3d8f4600eeaaceb049e0845117a6b53",
+    "title": "引用 Daniel Stenberg 的话",
+    "summary": "在这些智能体将 185,000 行 C 代码转换为 340,000 行 Rust 代码期间（我数过），我们在实际的 curl 项目中合并了 300 多个提交..."
+  }
+}

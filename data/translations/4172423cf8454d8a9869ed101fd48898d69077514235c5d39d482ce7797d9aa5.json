@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "content_hash": "3880ca2d7d39745715fc3f60e247b5365c19c751e077204c73a94c74be811a10",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e55c8f2df06c07ffc92b5ea28b360b047797a023e968816743ef7e472d87d336",
+    "title": "为什么你的微调任务比 FLOPs 计算的要慢",
+    "summary": "根据 272 次生产运行，预测共享 GPU 集群上的端到端微调时间。"
+  }
+}

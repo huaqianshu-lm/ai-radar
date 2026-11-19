@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/business/customer-stories/sumitomo-life",
+  "content_hash": "c183a79ce93455bd645996da4b184117cd3839ba5976da92e168867acf374ef7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "53d809d7420a3923e8bad7c3bd224d7d2c9da9cb37fe0d761411713f6da0b90e",
+    "title": "住友生命保险的领导者如何帮助团队采用 ChatGPT Enterprise",
+    "summary": "住友生命保险使用 ChatGPT Enterprise 来研究保险公司、准备提案并起草用于投资分析的代码。高管的早期使用有助于推动普及..."
+  }
+}
