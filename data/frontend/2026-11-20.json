@@ -1,0 +1,355 @@
+{
+  "date": "2026-11-20",
+  "items": [
+    {
+      "id": "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9",
+      "title": "部署 Daybreak Red",
+      "summary": "探索使用 Daybreak Red 进行监督式安全调查的参考架构，包括安全控制、设置和监控。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-19T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red"
+    },
+    {
+      "id": "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552",
+      "title": "探索 Codex Security Plugin",
+      "summary": "观看 Codex Security Plugin 的演示，了解从上手入门到查看录屏中展示结果完整的工作流程。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-19T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo"
+    },
+    {
+      "id": "da30645137037f0052cd70ab3b09df0b31abc0303db9422eaa375a651d60b969",
+      "title": "Daybreak Blue 入门指南",
+      "summary": "观看 Daybreak Blue 的入职引导演示，详细了解安装设置体验以及如何开始使用。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-19T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
+    },
+    {
+      "id": "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0",
+      "title": "了解实际运行中的 PR 扫描",
+      "summary": "观看 PR 扫描的演示，了解演讲者如何在 Pull Request 工作流程中审查扫描结果。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-19T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/business/learn/pr-scans-demo"
+    },
+    {
+      "id": "9342dbf934e428aa00c16520441f258a949ccd62bcb28471deb475c04ce3c227",
+      "title": "OpenAI 的 Performance Factory 如何保持 ChatGPT 高效运行",
+      "summary": "了解 OpenAI 如何构建 Performance Factory（一个由 Codex 驱动的工作流系统），用于发现并修复性能问题，从而保持 ChatGPT 的快速响应。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-19T08:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+    },
+    {
+      "id": "5232879038119e5daf1cea5da747152ebf5fd117959d59aecaae6299dca923ae",
+      "title": "Anthropic 公告",
+      "summary": "2026年10月21日公告：实验物理学家 Christopher Stubbs 博士加入 Anthropic 的长期利益信托（Long-Term Benefit Trust）...",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-11-20T03:53:10Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/announcements"
+    },
+    {
+      "id": "ce196ca9fba47cb74cfc05ef18f0dcbf7c7151c0953dbe85144aa090e6310f31",
+      "title": "Anthropic 合作伙伴关系",
+      "summary": "2026年10月27日合作伙伴关系：扩大与 GSA 的合作，将 Claude 引入各级政府...",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-11-20T03:53:10Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/partnerships"
+    },
+    {
+      "id": "4c6292fc5ecba5f2e0a9084156b47d5dbe0a85c39204b9c1840be9eb7e97963a",
+      "title": "Voxtral 3：语音转文本、TTS 与语音代理 | Mistral",
+      "summary": "请为这位患者做皮肤科会诊。当前治疗：氢化可的松乳膏。Martin 医生，帕克诊所。代理说：“Merci de...”",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-11-20T03:53:10Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/voxtral-3"
+    },
+    {
+      "id": "02f125d9c6cc44016cdd5863c55514ff9b228cc9a9c1f186a956db5a6ed46313",
+      "title": "llm-gemini 0.38 版本",
+      "summary": "版本发布：llm-gemini 0.38。今天谷歌推出了 Gemini 4 Neon。作者最近撰文讨论了 Gemini 4 系列令人困惑的定价策略——而 Neon 某种程度上...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-18T23:59:20Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/"
+    },
+    {
+      "id": "1f719d9412b5587a1433bf2451cffa725018477d169f4a3c161648de6ce3312c",
+      "title": "Gemini 4 Neon、Genie 4 worlds、AI 设计芯片",
+      "summary": "关于你正在构建的项目，最好的交流往往不是在电话会议上，而是在与用户喝咖啡时、在每日站会后的走廊上，或者在散步时...",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-11-19T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-11-19"
+    },
+    {
+      "id": "a913764b1be35e0fc8d73e7e95d72534487b286679126dfc43a1f67f603187da",
+      "title": "Gemini 4 Neon：GDM 的 Opus/Sol 竞争者",
+      "summary": "2026 年 11 月 18 日 — 谷歌的中端产品在智能指数中获得 61 分。此外，Anthropic 将其 IPO 定价为 83 美元。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-19T07:07:43Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/"
+    },
+    {
+      "id": "a457925fbd609abe8fd65471755023c6eafadcbcedf77ee83bc9ad7aec976502",
+      "title": "PostgreSQL 19 发布",
+      "summary": "PostgreSQL 19 已发布。大多数情况下 PostgreSQL 会在 9 月发布新版本，但由于各种问题的繁杂，今年的发布推迟了两个月。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-19T20:43:57Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/"
+    },
+    {
+      "id": "af7ab104329c0da3e3ca11f0bd8528fedfe093684683216199d89b56922b68bb",
+      "title": "将 Linear 的 GTM 扩展至 1 万美元 ARR — 运营官 Cristina Cordova",
+      "summary": "超过 50% 的工单由 Agent 编写，实现数月内达到一亿美元 ARR 背后的 AI 预算，以及在没有 SDR 或 FDE 的情况下进行销售。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-19T23:58:21Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/linear-scaling/"
+    },
+    {
+      "id": "478ea25aeed3c99796b0356a483dc4ee65f76b1400b1dd90fccb02ce51d76d03",
+      "title": "Token 欺诈已经出现而且非常严重（YouTube）",
+      "summary": "Token 欺诈已经到来而且情况很糟糕（YouTube）。Claire Vo 运营着 ChatPRD，这是一个帮助产品经理“将想法转化为规范”的 AI 平台。该产品一直...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-20T02:49:57Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/"
+    },
+    {
+      "id": "f458b196520daad67d95d1726dc2e4d2ba63707eb57478bf701843f3f598cb46",
+      "title": "Imbad0202 / academic-research-skills：学术研究技能工具",
+      "summary": "适用于 Claude Code 的学术研究技能：研究 → 写作 → 审阅 → 修改 → 定稿 - 语言：Python - 今日获得 244 个 Star",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-20T03:53:10Z",
+      "time_type": "fetched",
+      "url": "https://github.com/Imbad0202/academic-research-skills"
+    },
+    {
+      "id": "83475f57615f5d10347dd863cffa04ccccae1650b63dfb84cae698b03ee47801",
+      "title": "Tracer-Cloud / opensre：开源 SRE 智能体",
+      "summary": "用于 CI/CD 可靠性的开源 Agent - 语言：Python - 今日获得 38 个 Star",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-20T03:53:10Z",
+      "time_type": "fetched",
+      "url": "https://github.com/Tracer-Cloud/opensre"
+    },
+    {
+      "id": "31661aae5fd34dec93b27281e47f630e64f252a43f71a8572aab477b47f5fde2",
+      "title": "wshobson / agents：AI 开发工具集",
+      "summary": "为 Claude Code、Codex CLI、Cursor、OpenCode、Antigravity CLI、GitHub Copilot 和 Pi 编写的插件、Agent、技能和命令，采用 Markdown 编写一次并可适配...",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-20T03:53:10Z",
+      "time_type": "fetched",
+      "url": "https://github.com/wshobson/agents"
+    },
+    {
+      "id": "ce3bf530c35576de8f3585f0c008a13eecb48d3729ccd3c339bc0c332a41ca34",
+      "title": "zhouxiaoka / autoclip：开源 AI 视频剪辑工具",
+      "summary": "AutoClip ｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-20T03:53:10Z",
+      "time_type": "fetched",
+      "url": "https://github.com/zhouxiaoka/autoclip"
+    },
+    {
+      "id": "b9120f9f49386fdc9963dec486a789f8aba0cc43eb5dc6a7ad9469a9d7929af9",
+      "title": "Pete Warden 谈本地 AI、开源模型、语音界面与硬件未来",
+      "summary": "HN 讨论帖，探讨 Pete Warden 关于本地 AI、开源模型、语音交互界面及硬件发展趋势的观点。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-19T15:38:12Z",
+      "time_type": "published",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/"
+    },
+    {
+      "id": "820c5c0c56b1ca5c1d0b5a657571eda46b20c8a6a8cf36da6085266b462ff928",
+      "title": "Launch HN：Onlook (YC W25) – 面向设计师的开源开发者工具",
+      "summary": "HN 推出新项目：Onlook，一款专为设计师打造的开源开发者工具。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-19T16:34:04Z",
+      "time_type": "published",
+      "url": "https://github.com/onlook-dev/onlook/"
+    },
+    {
+      "id": "15969c90ab8fc1c8a428c62d96326d3934b88dc4ff27b67f4bac1ec89724a435",
+      "title": "Anthropic 登陆纳斯达克",
+      "summary": "HN 讨论帖，关注 Anthropic 的历史性上市及其对人工智能发展前景与风险的启示。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-19T17:02:40Z",
+      "time_type": "published",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+    },
+    {
+      "id": "5fe21d2b4ecab0b0d155093a6e6ab840418403ca7f39e16ef22c0a3ac253e717",
+      "title": "Claude 解决了黑洞物理学中的两个未解之谜",
+      "summary": "HN 讨论帖，报道 Anthropic 的研究成果，即 Claude 成功解决了黑洞物理学中的两个未解难题。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-19T17:30:44Z",
+      "time_type": "published",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+    },
+    {
+      "id": "c51551cd2d791f85c79f7b4cb0f265778d2026fa2363e8fc692cb2d2ef918a0b",
+      "title": "政府是否应该放缓前沿 AI 的发展？Jacob Coxon 与 Robin Hanson 辩论 [视频]",
+      "summary": "HN 讨论帖，分享了关于政府是否应当放缓前沿人工智能发展步伐的辩论视频。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-19T18:47:16Z",
+      "time_type": "published",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o"
+    },
+    {
+      "id": "7b8ef2b88b8fb9cc3ea5f8d1e36dcba4799ade91934922e59b38803c7010a77c",
+      "title": "法院裁定：美国宪法第四修正案不允许使用 AI 生成的“合理怀疑”",
+      "summary": "HN 讨论：相关链接指向 Techdirt 关于宪法第四修正案及警察执法中 AI 应用的报道。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-19T22:56:59Z",
+      "time_type": "published",
+      "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/"
+    },
+    {
+      "id": "62c4112d846ac767f04e53d2e022e50d3d188b921dc90b508cf19e691cd8e6b0",
+      "title": "Gemini 4 Neon 登上 Models Engineering Index 榜首",
+      "summary": "HN 讨论：Gemini 4 Neon 在 Models Engineering Index 上排名第一。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-19T23:35:35Z",
+      "time_type": "published",
+      "url": "https://git-aarvin.github.io/mei/"
+    },
+    {
+      "id": "d337eae71a2d2f3fc6a06d718178202d107f3424caf1e8e0340262a5215eb88b",
+      "title": "Product Hunt：Wispr Flow Notetaker for iPhone — 提供免费的 AI 会议记录工具",
+      "summary": "Product Hunt 页面：随时随地为 iPhone 提供免费 AI 会议记录。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-19T08:00:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/HTWKRZXSXSNV54?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "7c18646548e9c410a216f02b818d6297204e645fd5e84e4fc21f71208950a577",
+      "title": "Product Hunt：Adside — 专业 AI 代理团队，为您管理付费广告",
+      "summary": "Product Hunt 页面：Adside 是一支由专业 AI 代理组成的团队，可代您管理付费广告。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-19T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/32JCPUC6N6DHBO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "6a28b4a88ec0b2bb717df4daf5837316a70d8793a72802c06238721b3a7e39fc",
+      "title": "Product Hunt：Enrichable by Context.dev — 用于数据增强的开源 AI 电子表格",
+      "summary": "Product Hunt 页面：Context.dev 推出的 Enrichable 是用于数据增强的开源 AI 电子表格。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-19T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/3LIRC5KMTJRIG5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "ce9aadc85fe5f1176605fb4e93ad02101ff25b7a41a4d2bd333d5ad6c3fb95ba",
+      "title": "Product Hunt：Gemini 4 Neon — 具备前沿推理能力与更快任务完成速度",
+      "summary": "Product Hunt 页面：Gemini 4 Neon 提供前沿推理能力，任务完成速度更快。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-19T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VNQ2C436QNLPO3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "54027e8f4d86486b0e84c5a8833e3c7aa5a0afbbdddeb3aa41a8c2d5221f1a94",
+      "title": "Product Hunt：Manufact — 将 MCP 发布并测试到各个插件市场",
+      "summary": "Product Hunt 页面：Manufact 帮助您将 MCP 发布并测试到所有插件市场。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-19T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/UI6BJYW7WUUNYS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "46530dba8f7a2e47bf44830c383769fff363d5a2bd69b8f99bced6a6d9676ad3",
+      "title": "Product Hunt：Netlify Server — 运行 WebSockets、多人应用和长时间运行的代理",
+      "summary": "Product Hunt 页面：Netlify Server 支持运行 WebSockets、多人游戏应用及长期运行的代理。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-19T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VOJHOAWTB6DIXE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "3e28c88d4e84bb5a47980cf2f2381886bba2fabda9f4ab667c5f923b8347ac3d",
+      "title": "Product Hunt：Stripo Email Widgets — 在电子邮件中嵌入游戏、测验或调查，无需编写代码",
+      "summary": "Product Hunt 页面：Stripo Email Widgets 允许您在下一封电子邮件中零代码嵌入游戏、测验或调查。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-19T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/Q2V6HYMV6Q7K4J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "ab714bf7829dc782daadc5981bc7cd90b3a7796ea437cccab6a195a685b25886",
+      "title": "Product Hunt：Tabstack by Mozilla — 在不放弃隐私的前提下为您的模型提供网络访问",
+      "summary": "Product Hunt 页面：Tabstack by Mozilla 让您的 AI 模型在保持隐私安全的同时连接互联网。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-19T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/FM63R7JHAJZXNE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "2d8e106a851cf77f738c6c664b058b5dff38d8ac49cf1a432bc920f3c09e941b",
+      "title": "Product Hunt：Teaflask — 为应用打造的自我提升 AI 助手，无需修改后端",
+      "summary": "Product Hunt 页面：Teaflask 是一款可自我进化的应用 AI 助手，且无需更改后端。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-19T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/P7M5XVDZPLYNNQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "cd464e8dab74af5e0033fd1d4df31452de8018decd7b4f79ef24d04990ef8a42",
+      "title": "Product Hunt：TestSprite 4.0 — 修复一处却破坏另一处？这款 AI 代理能全面检查",
+      "summary": "Product Hunt 页面：TestSprite 4.0 推出全新 AI 代理，帮您解决修复旧问题引发新bug的烦恼。",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-19T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/7TKIXW445YMK2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
