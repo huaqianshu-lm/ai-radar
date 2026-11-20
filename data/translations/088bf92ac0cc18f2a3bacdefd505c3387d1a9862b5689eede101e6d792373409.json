@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/business/learn/pr-scans-demo",
+  "content_hash": "c4232071d7c55436d1b6bb8213d0c755737fd5ae4daf18e46a02e5d2b5a2777a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0",
+    "title": "了解实际运行中的 PR 扫描",
+    "summary": "观看 PR 扫描的演示，了解演讲者如何在 Pull Request 工作流程中审查扫描结果。"
+  }
+}

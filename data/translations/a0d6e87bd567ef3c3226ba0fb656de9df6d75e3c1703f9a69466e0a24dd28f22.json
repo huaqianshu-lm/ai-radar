@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/business/learn/deploying-daybreak-red",
+  "content_hash": "c6e2d59ed52e96cdbf4b4014c972297021e549eaed1cae8a7592bc58275fe4e5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9",
+    "title": "部署 Daybreak Red",
+    "summary": "探索使用 Daybreak Red 进行监督式安全调查的参考架构，包括安全控制、设置和监控。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/Tracer-Cloud/opensre",
+  "content_hash": "d8a30020828dde2cc2ac6863540712c2b37307a7abf4319f73b8dd4322bb531d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "83475f57615f5d10347dd863cffa04ccccae1650b63dfb84cae698b03ee47801",
+    "title": "Tracer-Cloud / opensre：开源 SRE 智能体",
+    "summary": "用于 CI/CD 可靠性的开源 Agent - 语言：Python - 今日获得 38 个 Star"
+  }
+}

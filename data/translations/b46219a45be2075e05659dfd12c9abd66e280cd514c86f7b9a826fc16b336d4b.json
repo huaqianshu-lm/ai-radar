@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/VOJHOAWTB6DIXE",
+  "content_hash": "4eb15a42e7220a38f001df08920eac7d329979743952ada3b8549e333ac3f3d1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "46530dba8f7a2e47bf44830c383769fff363d5a2bd69b8f99bced6a6d9676ad3",
+    "title": "Product Hunt：Netlify Server — 运行 WebSockets、多人应用和长时间运行的代理",
+    "summary": "Product Hunt 页面：Netlify Server 支持运行 WebSockets、多人游戏应用及长期运行的代理。"
+  }
+}

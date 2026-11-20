@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/18/llm-gemini",
+  "content_hash": "631ca604a69f9b0797d840342620d845c147f08305fab9a571a9dd4c84d663da",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "02f125d9c6cc44016cdd5863c55514ff9b228cc9a9c1f186a956db5a6ed46313",
+    "title": "llm-gemini 0.38 版本",
+    "summary": "版本发布：llm-gemini 0.38。今天谷歌推出了 Gemini 4 Neon。作者最近撰文讨论了 Gemini 4 系列令人困惑的定价策略——而 Neon 某种程度上..."
+  }
+}

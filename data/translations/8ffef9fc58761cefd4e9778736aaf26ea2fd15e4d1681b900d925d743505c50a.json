@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/research/claude-black-hole-physics",
+  "content_hash": "f8c7d468d64f742adb3b427025ae1169b5b1f15d524a136f96b6f5b02a4631aa",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5fe21d2b4ecab0b0d155093a6e6ab840418403ca7f39e16ef22c0a3ac253e717",
+    "title": "Claude 解决了黑洞物理学中的两个未解之谜",
+    "summary": "HN 讨论帖，报道 Anthropic 的研究成果，即 Claude 成功解决了黑洞物理学中的两个未解难题。"
+  }
+}

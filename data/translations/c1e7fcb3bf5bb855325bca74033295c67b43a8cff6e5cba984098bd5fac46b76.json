@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-19",
+  "content_hash": "e4cc730d96983580fdf8d14412ccb8c5255b225868686d389ae77f67e6bf876f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1f719d9412b5587a1433bf2451cffa725018477d169f4a3c161648de6ce3312c",
+    "title": "Gemini 4 Neon、Genie 4 worlds、AI 设计芯片",
+    "summary": "关于你正在构建的项目，最好的交流往往不是在电话会议上，而是在与用户喝咖啡时、在每日站会后的走廊上，或者在散步时..."
+  }
+}

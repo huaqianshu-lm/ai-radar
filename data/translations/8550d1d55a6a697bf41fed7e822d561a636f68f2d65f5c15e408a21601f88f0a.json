@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/19/postgresql-19",
+  "content_hash": "09eed2af21b6298bd4eb2be55a4bc53734d53a705f0467f3809c355acf7f93be",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a457925fbd609abe8fd65471755023c6eafadcbcedf77ee83bc9ad7aec976502",
+    "title": "PostgreSQL 19 发布",
+    "summary": "PostgreSQL 19 已发布。大多数情况下 PostgreSQL 会在 9 月发布新版本，但由于各种问题的繁杂，今年的发布推迟了两个月。"
+  }
+}

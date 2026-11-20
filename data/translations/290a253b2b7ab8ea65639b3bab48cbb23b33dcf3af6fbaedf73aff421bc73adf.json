@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://thedataexchange.media/pete-warden-moonshine",
+  "content_hash": "6bc09bf65236ad32f7d9cda113b2ee08d9b3f50e18af4673d0040b900884fd61",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b9120f9f49386fdc9963dec486a789f8aba0cc43eb5dc6a7ad9469a9d7929af9",
+    "title": "Pete Warden 谈本地 AI、开源模型、语音界面与硬件未来",
+    "summary": "HN 讨论帖，探讨 Pete Warden 关于本地 AI、开源模型、语音交互界面及硬件发展趋势的观点。"
+  }
+}

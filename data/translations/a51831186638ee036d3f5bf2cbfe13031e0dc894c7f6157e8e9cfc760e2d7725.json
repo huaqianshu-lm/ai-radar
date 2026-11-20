@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "content_hash": "3f2301f3ebae9de3c1b5889506a36b0681318a8d6f63838c7e5f733df9641f42",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9342dbf934e428aa00c16520441f258a949ccd62bcb28471deb475c04ce3c227",
+    "title": "OpenAI 的 Performance Factory 如何保持 ChatGPT 高效运行",
+    "summary": "了解 OpenAI 如何构建 Performance Factory（一个由 Codex 驱动的工作流系统），用于发现并修复性能问题，从而保持 ChatGPT 的快速响应。"
+  }
+}

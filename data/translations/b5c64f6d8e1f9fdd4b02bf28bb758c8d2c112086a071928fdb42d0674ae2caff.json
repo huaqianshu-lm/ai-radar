@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/wshobson/agents",
+  "content_hash": "4b7fcb5116ffa648cde3f02b0b736d31d8fe9f4c2aa06bb9f748bc6f069bc4c4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "31661aae5fd34dec93b27281e47f630e64f252a43f71a8572aab477b47f5fde2",
+    "title": "wshobson / agents：AI 开发工具集",
+    "summary": "为 Claude Code、Codex CLI、Cursor、OpenCode、Antigravity CLI、GitHub Copilot 和 Pi 编写的插件、Agent、技能和命令，采用 Markdown 编写一次并可适配..."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/linear-scaling",
+  "content_hash": "473af8ca81e587ad25f0183e699e2ae3bdd8835e51a0f1ba958aa447d5a55261",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "af7ab104329c0da3e3ca11f0bd8528fedfe093684683216199d89b56922b68bb",
+    "title": "将 Linear 的 GTM 扩展至 1 万美元 ARR — 运营官 Cristina Cordova",
+    "summary": "超过 50% 的工单由 Agent 编写，实现数月内达到一亿美元 ARR 背后的 AI 预算，以及在没有 SDR 或 FDE 的情况下进行销售。"
+  }
+}

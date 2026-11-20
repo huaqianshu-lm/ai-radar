@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+  "content_hash": "b80dcfc23c791a2bfe3fc179ac31c340ea296afe85c1e2c3965d7cb161e51af4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552",
+    "title": "探索 Codex Security Plugin",
+    "summary": "观看 Codex Security Plugin 的演示，了解从上手入门到查看录屏中展示结果完整的工作流程。"
+  }
+}

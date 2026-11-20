@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/7TKIXW445YMK2C",
+  "content_hash": "5ee742a32e81fc26a3a7f15ee5a412bb8881dcba8e6cf7dad2cafc8d2f1dfc7d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cd464e8dab74af5e0033fd1d4df31452de8018decd7b4f79ef24d04990ef8a42",
+    "title": "Product Hunt：TestSprite 4.0 — 修复一处却破坏另一处？这款 AI 代理能全面检查",
+    "summary": "Product Hunt 页面：TestSprite 4.0 推出全新 AI 代理，帮您解决修复旧问题引发新bug的烦恼。"
+  }
+}
