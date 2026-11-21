@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://ankitg.me/blog/vibecoding-inference-chip",
+  "content_hash": "685a1f3736988bfbfaea32515038104af6812945244e7ed83409dac4ad902a39",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "578fb428dfe44b2465403ef9df6ff38c5cfaefcfd42ee83ca5aad7849f31462f",
+    "title": "Vibecoding 一个推理芯片",
+    "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=50579297 原始网址：https://ankitg.me/blog/vibecoding-inference-chip/ 作者：ankitvgupta 得分：120"
+  }
+}

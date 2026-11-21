@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/GGVBUX3ATW7EJK",
+  "content_hash": "41375d2236241c89e7833cf6fccdc73c77329fb0d9275d3d6ef6332f0087179f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a33bb130c89c043282fc4e650c336cc86ac2e30f043b04537f60fd86bc232545",
+    "title": "Product Hunt: tensorViz — 让你的编程智能体查看 PyTorch 模型内部的工具",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/tensorviz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294..."
+  }
+}

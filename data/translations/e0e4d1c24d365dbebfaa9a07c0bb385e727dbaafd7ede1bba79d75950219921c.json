@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://architectlabs.com/blog/frostbite",
+  "content_hash": "7adf2119b7a745d17838bc93cba09f07117586a688f943e799d48efbc5c799a7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3381c1b46b2b81fa0a771b8a1f3da29d0a409d7a204fa1944649d30c79a386e2",
+    "title": "Frostbite：由 AI 发现、设计并验证的新型 CPU 架构",
+    "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=50572503 原始网址：https://architectlabs.com/blog/frostbite 作者：shioyama 得分：632"
+  }
+}

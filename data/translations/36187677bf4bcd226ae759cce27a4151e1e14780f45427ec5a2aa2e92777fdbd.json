@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://arxiv.org/abs/2611.21885",
+  "content_hash": "8a55fbbda160c0b08d3ed1b3cda465bd784076e67fb0f533e6f879148e484e08",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "03b179946dd0e551984b025c5c0109181a33c8ab2521005dd6c1243f1fb2bdf6",
+    "title": "语言模型可以重写自身的权重",
+    "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=50577265 原始网址：https://arxiv.org/abs/2611.21885 作者：lwhsiao 得分：357"
+  }
+}

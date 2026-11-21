@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.anthropic.com/news/ipo-close",
+  "content_hash": "380d459f5b5836964e67b753422d2c74864d945a945d5e45955cdbf4cd5a5c53",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fd109fdc361c3cd3d5827b792d4795d479fc5c70f204c1bf9bad683fe9efc289",
+    "title": "Anthropic 宣布完成首次公开募股及同期私募",
+    "summary": "Anthropic, PBC 今天宣布完成其 A 类普通股总计 1,127,000,000 股的首次公开募股（IPO），其中包含承购商全额行使购买额外股份的选择权，同时完成了同期的私募。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/introducing-medchembench",
+  "content_hash": "e1dfbf94566abc05ce42c89eec6f344eb62f592ce6a06209cdbc9b1c969baaba",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c1a2af93db54bfcf7c217cb74db83cfc0f90565b5c1b91d5871ab9ee0c953910",
+    "title": "AI 能帮助科学家识别有前景的候选药物吗？",
+    "summary": "MedChemBench 评估了 AI 模型在早期药物发现中解释分子结构、根据实验证据进行推理以及选择化合物的能力。"
+  }
+}

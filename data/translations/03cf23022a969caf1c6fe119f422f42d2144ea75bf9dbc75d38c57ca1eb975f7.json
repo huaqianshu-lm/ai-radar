@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/inkling2mini",
+  "content_hash": "2d0e17fa575c51389473c64c0f5feb076d8803ce183a2c384b47cf13bd91828e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "824c03b970f1dc58cad676334e63167d2af3b369add30c83b73e4ecb318d913d",
+    "title": "欢迎使用 Inkling 2 Mini，为本地部署带来前沿性能",
+    "summary": "Inkling 2 Mini 是一个全新的循环 Transformer 模型，它是一个多模态的混合专家模型..."
+  }
+}

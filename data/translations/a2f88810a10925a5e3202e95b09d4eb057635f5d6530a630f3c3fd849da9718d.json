@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/combatting-adversarial-distillation",
+  "content_hash": "05973afb1c5e61b8b5fb01ea8c56bd363669c31fa4969401ab409d2f0a23a0bc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7ad44f990f0c53ef2e2a537716dcd0f4d19ea5c4fbcd3c1cf3877b1b8eae8965",
+    "title": "对抗对抗性蒸馏",
+    "summary": "OpenAI 采用多层方法来应对对抗性蒸馏，结合了模型训练、安全防护、检测和执行措施，以防止能力提取。"
+  }
+}

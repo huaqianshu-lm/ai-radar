@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+  "content_hash": "1ade193b7fc98fbf67f533a968d1b074fb25dd8b7c414f3902a4ab39ee9c362e",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cdb655553e90536b9b5c32ad66641a59774b347edd25bbb3b2d09ecf8d27e3d7",
+    "title": "饥饿管家效应：LLM 中隐藏的商业激励",
+    "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=50583117 原始网址：https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Comm..."
+  }
+}

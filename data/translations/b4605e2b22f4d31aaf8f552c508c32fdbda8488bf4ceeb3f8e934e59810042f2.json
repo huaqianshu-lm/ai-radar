@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-20",
+  "content_hash": "d9e6c05b0bae19620e89b55f40d47cc8a730c7508ca531602fd9c2b580a7584c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "fce4a7528812b1a00bf12e49b8c7ce16022c332cd54425f52d7f63513f767e45",
+    "title": "Gemini 工具检索、Stripe 评估方法与智能体集群",
+    "summary": "许多 AI 系统需要液冷，这使得对现有风冷设施进行改造的成本高昂。Axios 报道称，原定于 2026 年实施的项目中，多达一半可能会..."
+  }
+}

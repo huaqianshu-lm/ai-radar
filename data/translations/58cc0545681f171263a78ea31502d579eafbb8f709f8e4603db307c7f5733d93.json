@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://signal.org/blog/protecting-your-privacy",
+  "content_hash": "f9d8d600f12aa90b7a9b4a31c8c805c251da9769eecb39fc2aaf894990201bfd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "8e7b1da91569f41ae654d89899021bec74fd940d8c874beb7320dba2170076c3",
+    "title": "限制移动操作系统平台中的 AI 智能体捕获数据",
+    "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=50572348 原始网址：https://signal.org/blog/protecting-your-privacy/ 作者：dotcoma 得分：526"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/formal-verification",
+  "content_hash": "366e67d648a91cf58edc98934e0202041d236f662a588a8b087289af1455098c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a45c88c92cca72434d4d8e13d822b675ecb4a32a8667b081442a85485de3b5b9",
+    "title": "反对平庸内容的战争与新兴武器：形式化验证",
+    "summary": "长期以来，用数学方法证明软件正确性需要专业人员的工作。现在，AI 和 Lean 正在帮助实现该过程的自动化。"
+  }
+}

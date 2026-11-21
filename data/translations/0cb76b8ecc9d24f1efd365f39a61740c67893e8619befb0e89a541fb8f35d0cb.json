@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "content_hash": "31044070ce6d38d8f0cf5e5861ca6671f57e8f12840302a97a5a473ccb3b16ff",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "701a571706ec6c00de8bbc6af8a9bc31d2eec98a2272e87a59a9e6a4a97a82f1",
+    "title": "介绍 Harness Adapters：将喜爱的模型适配至框架以提升性能并降低成本",
+    "summary": "将自定义任务分布上的强化学习与您喜爱的模型相结合..."
+  }
+}
