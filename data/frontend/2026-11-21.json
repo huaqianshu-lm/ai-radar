@@ -1,0 +1,325 @@
+{
+  "date": "2026-11-21",
+  "items": [
+    {
+      "id": "c1a2af93db54bfcf7c217cb74db83cfc0f90565b5c1b91d5871ab9ee0c953910",
+      "title": "AI 能帮助科学家识别有前景的候选药物吗？",
+      "summary": "MedChemBench 评估了 AI 模型在早期药物发现中解释分子结构、根据实验证据进行推理以及选择化合物的能力。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-20T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/introducing-medchembench"
+    },
+    {
+      "id": "8145fefb47ff1ca9fa5560e62b69bf54a222274ffe6f44de71f6b3dfaaa8f955",
+      "title": "Hebbia 发现使用 GPT-6 Astra 提升了金融研究效果",
+      "summary": "Hebbia 对 GPT-6 Astra 进行了金融研究测试。其预发布评估显示，在信息源覆盖范围、引文相关性和演示质量方面均有所提升。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-20T00:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/business/customer-stories/hebbia"
+    },
+    {
+      "id": "7ad44f990f0c53ef2e2a537716dcd0f4d19ea5c4fbcd3c1cf3877b1b8eae8965",
+      "title": "对抗对抗性蒸馏",
+      "summary": "OpenAI 采用多层方法来应对对抗性蒸馏，结合了模型训练、安全防护、检测和执行措施，以防止能力提取。",
+      "source": "OpenAI News",
+      "source_type": "official",
+      "display_time": "2026-11-20T10:00:00Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    },
+    {
+      "id": "fd109fdc361c3cd3d5827b792d4795d479fc5c70f204c1bf9bad683fe9efc289",
+      "title": "Anthropic 宣布完成首次公开募股及同期私募",
+      "summary": "Anthropic, PBC 今天宣布完成其 A 类普通股总计 1,127,000,000 股的首次公开募股（IPO），其中包含承购商全额行使购买额外股份的选择权，同时完成了同期的私募。",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-11-21T03:49:15Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/ipo-close"
+    },
+    {
+      "id": "5bd02a39074589ea287cbb3366029f6e2bf7736e86fb59723fcd5e861472d65a",
+      "title": "在 Mistral Studio 中构建企业智能体、工作流与应用",
+      "summary": "Mistral Large 4 (Le Chonk) 通过先进的编码、网络安全等功能增强了企业级 AI...",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-11-21T03:49:15Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/build-with-studio"
+    },
+    {
+      "id": "71c778fc837a506c9836bf32924bf0ed0f9274d66ad7a553f4d7959ac5c03868",
+      "title": "Anthropic 功能特性",
+      "summary": "新闻特性 3 篇文章 最新的标题 描述 日期 形势报告：一种罕见的埃博拉病毒株正在刚果民主共和国传播，目前尚无确定的疫苗。全球...",
+      "source": "Anthropic News",
+      "source_type": "official",
+      "display_time": "2026-11-21T03:49:15Z",
+      "time_type": "fetched",
+      "url": "https://www.anthropic.com/news/features"
+    },
+    {
+      "id": "856c26ca4c2d04bcedc9cb9fdb44809b32952d1d2e61bb97c33ffc0e2dda8f57",
+      "title": "Mistral 携手 NVIDIA 推进工程领域 AI 发展 | Mistral",
+      "summary": "思考摘要：Mistral 与 NVIDIA 正在合作，通过将 Mistral 的 AI 模型与 NVIDIA 的加速计算集成，彻底改变工程工作流程。",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-11-21T03:49:15Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering"
+    },
+    {
+      "id": "fce4a7528812b1a00bf12e49b8c7ce16022c332cd54425f52d7f63513f767e45",
+      "title": "Gemini 工具检索、Stripe 评估方法与智能体集群",
+      "summary": "许多 AI 系统需要液冷，这使得对现有风冷设施进行改造的成本高昂。Axios 报道称，原定于 2026 年实施的项目中，多达一半可能会...",
+      "source": "TLDR AI",
+      "source_type": "curated",
+      "display_time": "2026-11-20T00:00:00Z",
+      "time_type": "published",
+      "url": "https://tldr.tech/ai/2026-11-20"
+    },
+    {
+      "id": "701a571706ec6c00de8bbc6af8a9bc31d2eec98a2272e87a59a9e6a4a97a82f1",
+      "title": "介绍 Harness Adapters：将喜爱的模型适配至框架以提升性能并降低成本",
+      "summary": "将自定义任务分布上的强化学习与您喜爱的模型相结合...",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-20T00:00:00Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+    },
+    {
+      "id": "824c03b970f1dc58cad676334e63167d2af3b369add30c83b73e4ecb318d913d",
+      "title": "欢迎使用 Inkling 2 Mini，为本地部署带来前沿性能",
+      "summary": "Inkling 2 Mini 是一个全新的循环 Transformer 模型，它是一个多模态的混合专家模型...",
+      "source": "Hugging Face Blog",
+      "source_type": "developer",
+      "display_time": "2026-11-20T00:00:00Z",
+      "time_type": "published",
+      "url": "https://huggingface.co/blog/inkling2mini"
+    },
+    {
+      "id": "abadb4e0aaec88e90a5bac13f297099ff95357b7fc5c51870da91a147449f060",
+      "title": "[AINews] Anthropic 完成史上最大规模 IPO，估值达 1.5 万亿美元",
+      "summary": "2026 年 11 月 19 日 — ANT 发行价为 83 美元，开盘价为 111.50 美元，收盘价为 97.17 美元。此外，Google 向开发者开放了 Genie 4。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-20T07:12:24Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/"
+    },
+    {
+      "id": "f27b1f34ce20932cc3d093afc75aaeb677b7c4a6451c5b6c222be88f40fbc74d",
+      "title": "引用 Levent Alpöge 的观点",
+      "summary": "我相信在与 Claude 的合作下，我发现了黎曼猜想的证明。事实上，该方法很容易进一步扩展，从而解决所谓的...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-20T16:30:48Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
+    },
+    {
+      "id": "cf3b0c6c1cbc2369e530af20c1396a54e8598305dfd2e39b52c4892d56ff1203",
+      "title": "引用 Ravi Vakil 的观点",
+      "summary": "Alessandro Masullo 提出了一项关于[广义黎曼猜想]的证明草案，Brian Conrad 对其进行了数月的密切研究并给予了广泛的反馈...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-20T19:21:49Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/"
+    },
+    {
+      "id": "a45c88c92cca72434d4d8e13d822b675ecb4a32a8667b081442a85485de3b5b9",
+      "title": "反对平庸内容的战争与新兴武器：形式化验证",
+      "summary": "长期以来，用数学方法证明软件正确性需要专业人员的工作。现在，AI 和 Lean 正在帮助实现该过程的自动化。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-20T21:18:41Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/formal-verification/"
+    },
+    {
+      "id": "8e7b1da91569f41ae654d89899021bec74fd940d8c874beb7320dba2170076c3",
+      "title": "限制移动操作系统平台中的 AI 智能体捕获数据",
+      "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=50572348 原始网址：https://signal.org/blog/protecting-your-privacy/ 作者：dotcoma 得分：526",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-20T09:42:16Z",
+      "time_type": "published",
+      "url": "https://signal.org/blog/protecting-your-privacy/"
+    },
+    {
+      "id": "3381c1b46b2b81fa0a771b8a1f3da29d0a409d7a204fa1944649d30c79a386e2",
+      "title": "Frostbite：由 AI 发现、设计并验证的新型 CPU 架构",
+      "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=50572503 原始网址：https://architectlabs.com/blog/frostbite 作者：shioyama 得分：632",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-20T10:01:41Z",
+      "time_type": "published",
+      "url": "https://architectlabs.com/blog/frostbite"
+    },
+    {
+      "id": "03b179946dd0e551984b025c5c0109181a33c8ab2521005dd6c1243f1fb2bdf6",
+      "title": "语言模型可以重写自身的权重",
+      "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=50577265 原始网址：https://arxiv.org/abs/2611.21885 作者：lwhsiao 得分：357",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-20T16:29:06Z",
+      "time_type": "published",
+      "url": "https://arxiv.org/abs/2611.21885"
+    },
+    {
+      "id": "3537652d0d6ae99e02f9de374a66b82febcd168affa1481ac65ef29dbe7c557c",
+      "title": "AI 正在向所有人给出相同的建议",
+      "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=50577872 原始网址：https://a90.com/experiments/same-advice/ 作者：amin 得分：63",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-20T16:58:05Z",
+      "time_type": "published",
+      "url": "https://a90.com/experiments/same-advice/"
+    },
+    {
+      "id": "578fb428dfe44b2465403ef9df6ff38c5cfaefcfd42ee83ca5aad7849f31462f",
+      "title": "Vibecoding 一个推理芯片",
+      "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=50579297 原始网址：https://ankitg.me/blog/vibecoding-inference-chip/ 作者：ankitvgupta 得分：120",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-20T18:15:16Z",
+      "time_type": "published",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/"
+    },
+    {
+      "id": "89c1b5008b7af961675486e4f3aa2c2cf8fcf280afcc527a0c73d6bb46e72d75",
+      "title": "Inkling 2 Mini 简介",
+      "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=50581260 原始网址：https://thinkingmachines.ai/news/inkling-2-mini/ 作者：jasondavies 得分：776",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-20T20:12:19Z",
+      "time_type": "published",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+    },
+    {
+      "id": "e54c27197d1f98554061719985f7ed70e72141963158ea2a252a8b3449364302",
+      "title": "Show HN：OpenComputer – Devin 的开源替代品",
+      "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=50581403 原始网址：https://github.com/diggerhq/opencomputer 作者：iacguy 得分：74",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-20T20:19:56Z",
+      "time_type": "published",
+      "url": "https://github.com/diggerhq/opencomputer"
+    },
+    {
+      "id": "cdb655553e90536b9b5c32ad66641a59774b347edd25bbb3b2d09ecf8d27e3d7",
+      "title": "饥饿管家效应：LLM 中隐藏的商业激励",
+      "summary": "HN 讨论故事：https://news.ycombinator.com/item?id=50583117 原始网址：https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Comm...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-20T22:18:20Z",
+      "time_type": "published",
+      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models"
+    },
+    {
+      "id": "bfb3012b718fa6900e0880ea099d4e82a568515607e5a1be195f4575d37f57f5",
+      "title": "Product Hunt 上的 Docker：专为智能体时代打造的信任运行环境",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/docker",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-20T08:00:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/4IV63EDN4UZ3NO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "d4adf778640788672ae6483aa892a60dd22c40f2d1f5dfd6ed50850bbde18b74",
+      "title": "Product Hunt: MakePixel — 游戏精灵、图块集与地图的像素艺术编辑器",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/makepixel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-20T08:00:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/NJCEPA4Y4KCKSX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "9ee3ef3c37839fb61f453d810f5c65712e3eb2ca586e1c1b924414de712788a6",
+      "title": "Product Hunt: Tripmojo — 帮助规划、预订和执行行程的智能旅行应用",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/tripmojo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-20T08:00:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/MGYYGRQ2OTZNMZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "0d62b4eaa568e80f82534b12863493d09a4690b5b6b1b24aba04918ca140fea2",
+      "title": "Product Hunt: Compass OS — 提前为你准备好职业规划的系统",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/compassos-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-20T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/YZO4X6632LA7NO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "0ca967bbe1d139f10eb249e040a2f3e161e5f040564817c8922471395b845a97",
+      "title": "Product Hunt: Fack’d — 在 YouTube 播放时直接进行带来源的事实核查",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/fack-d?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-20T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/BPUZPJG5G3SBU6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "30785c0c652371e145dff496d96819db1ed07f0fc1aeed734a3358da86be2bc5",
+      "title": "Product Hunt: Kuc-kuc — 危险天气来临时敲门提醒的应用",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/kuc-kuc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-20T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/LKBGU35INMLRUR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "db2a59dee615ed044021d2642a9a93d7a19b519f874acd5dec6a8049d5127003",
+      "title": "Product Hunt: Tamekoshi — 能够完成实际工作的拓麻歌子风格 AI 伴侣",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/tamekoshi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-20T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/D7S6JA3X5PKAUF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "e4a8ce15817d6b1780a5241187a3e8df87cc09ec17b6e4bd7436f018406131c4",
+      "title": "Product Hunt: ThreadLore — 将面料照片转化为可编辑织机的设计草图",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/threadlore?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-20T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/IM4QGOTXXMUZFG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "52470e2ca13080e1e2d2940821a8dbfb4e38259f26a3d6ba082d0f6b008a888e",
+      "title": "Product Hunt: Volcano — 由 Kong 推出的自愈型智能体云服务",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/volcano-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-20T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/M2PZAL4CR53OAW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "a33bb130c89c043282fc4e650c336cc86ac2e30f043b04537f60fd86bc232545",
+      "title": "Product Hunt: tensorViz — 让你的编程智能体查看 PyTorch 模型内部的工具",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/tensorviz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-20T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/GGVBUX3ATW7EJK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
