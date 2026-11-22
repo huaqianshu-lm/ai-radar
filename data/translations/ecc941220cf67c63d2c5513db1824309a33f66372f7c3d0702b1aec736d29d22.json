@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+  "content_hash": "e7cdd05df9bac16f862c925368a54a595ff40b39e2f535d8f870ea0aecb4ac11",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b9d1c9e9c4cc8c6bd95a9938a8e997f40281fbecbb7054cda3a782090cd65cee",
+    "title": "OpenRouter 下架 3 家提供商，从零数据保留中撤出 125 个端点",
+    "summary": "Hacker News 故事：https://news.ycombinator.com/item?id=50595554 原始链接：https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/..."
+  }
+}

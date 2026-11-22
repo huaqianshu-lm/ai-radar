@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/APQZ54KU3JOGBN",
+  "content_hash": "a17c759a5886901e4f56db8ae1bc87efe74de25c0ade9523df5e8eaaf87c7fdc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "ee2a8b81ab370a713717e0b2362ba41df7c4c870158dfd2b7271d1a39b432252",
+    "title": "Product Hunt: Shipyard — 面向 Claude、Cursor 和 Codex 的 MCP，用于自动化集成",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/shipyard?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949..."
+  }
+}

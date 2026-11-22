@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/21/muru",
+  "content_hash": "64d33ec7c06af983f1c784384b2d36f0a42265522f6d1f75a4becd404f5a6de0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dc9b4a0c426ddc42fdcf787a56fcbf633cc6d19dad24a7c130a4be2df80e0fb3",
+    "title": "Muru：Muru Graham Dumpleton 在20岁时启动了 mod_wsgi 项目，此后一直在思考在生产环境中托管 Python Web 应用的理想方式",
+    "summary": "Muru Graham Dumpleton 在20岁时启动了 mod_wsgi 项目，此后一直在思考在生产环境中托管 Python Web 应用的理想方式。Muru i..."
+  }
+}

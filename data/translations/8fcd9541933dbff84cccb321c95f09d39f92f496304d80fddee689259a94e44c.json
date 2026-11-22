@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/microsoft/markitdown",
+  "content_hash": "7eedf85bc9151a7519c5760952c321d5ce4dd5c8e365c4dd692d76e5582a83c4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dec36f96df8d997b886d778052919e729e5e6cf0f7d9068a89efff8467c9514f",
+    "title": "microsoft / markitdown：用于将文件和 Office 文档转换为 Markdown 的 Python 工具",
+    "summary": "用于将文件和 Office 文档转换为 Markdown 的 Python 工具。- 编程语言：Python - 今日获得 182 个 Star"
+  }
+}

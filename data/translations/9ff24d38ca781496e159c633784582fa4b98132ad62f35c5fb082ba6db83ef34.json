@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://pwn.ai/upload2shell",
+  "content_hash": "e9f77064e38d5b9e0ac39f25e139c7bc7324d8d61499f59f1f1952ccc19017be",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1a6bc61cbec29813b9f10410c19b0c8634b6fcb040d8c4636c93a3d86bb64355",
+    "title": "Upload2Shell (CVE-2026-125396)：Hacker News 故事：https://news.ycombinator.com/item?id=50592097 原始链接：https://pwn.ai/upload2shell 作者：f311a 评分：81",
+    "summary": "Hacker News 故事：https://news.ycombinator.com/item?id=50592097 原始链接：https://pwn.ai/upload2shell 作者：f311a 评分：81"
+  }
+}
