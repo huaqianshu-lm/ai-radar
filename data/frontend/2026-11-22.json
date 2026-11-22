@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-22",
+  "items": [
+    {
+      "id": "6f131bbed5e7925d040e498e9f355192a661ee34bb8a5418a070e852a4c72a41",
+      "title": "Mistral 发布 Mistral Large 4",
+      "summary": "今天，我们推出了 Mistral Large 4 的公开预览版。非官方代号为 ML4，官方代号为：le Chonk。ML4 推动了开放权重性能的边界...",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-11-22T02:51:43Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/mistral-large-4"
+    },
+    {
+      "id": "5c282b7409adeedbd90c511c02e2e0c834432044ad59095468eaa34d9eb6e7f2",
+      "title": "黎曼猜想被独立证明了两次",
+      "summary": "2026年11月20日 —",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-21T05:02:13Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/"
+    },
+    {
+      "id": "dc9b4a0c426ddc42fdcf787a56fcbf633cc6d19dad24a7c130a4be2df80e0fb3",
+      "title": "Muru：Muru Graham Dumpleton 在20岁时启动了 mod_wsgi 项目，此后一直在思考在生产环境中托管 Python Web 应用的理想方式",
+      "summary": "Muru Graham Dumpleton 在20岁时启动了 mod_wsgi 项目，此后一直在思考在生产环境中托管 Python Web 应用的理想方式。Muru i...",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-21T23:56:28Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/"
+    },
+    {
+      "id": "88c3606113f4102a3acb27e4b29c713466732ac55e32b16d384ae6a059592fbf",
+      "title": "apache / airflow：Apache Airflow - 用于以编程方式编写、调度和监控工作流的平台 - 编程语言：Python - 今日获得 16 个 Star",
+      "summary": "Apache Airflow - 用于以编程方式编写、调度和监控工作流的平台 - 编程语言：Python - 今日获得 16 个 Star",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-22T02:51:43Z",
+      "time_type": "fetched",
+      "url": "https://github.com/apache/airflow"
+    },
+    {
+      "id": "dec36f96df8d997b886d778052919e729e5e6cf0f7d9068a89efff8467c9514f",
+      "title": "microsoft / markitdown：用于将文件和 Office 文档转换为 Markdown 的 Python 工具",
+      "summary": "用于将文件和 Office 文档转换为 Markdown 的 Python 工具。- 编程语言：Python - 今日获得 182 个 Star",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-22T02:51:43Z",
+      "time_type": "fetched",
+      "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+      "id": "3293eb0f037addf5466f9d97352c19b5ad398a5bf8986af2c4f0475ef4fcdcdf",
+      "title": "Hacker News 问答：我失业两年了，在美国有15年经验，该怎么办？",
+      "summary": "Hacker News 故事：https://news.ycombinator.com/item?id=50583761 作者：LetThingsBeDiff 评分：625 我是一名位于美国（DMV 地区）的高级软件工程师，拥有 15 年经验...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-20T23:18:32Z",
+      "time_type": "published",
+      "url": "https://news.ycombinator.com/item?id=50583761"
+    },
+    {
+      "id": "bc4ea20c927d277cad6535bf194157fa1333e7874f80fa8d948fb9ede333935f",
+      "title": "ClawDOS – 适用于 DOS 的 AI 编码智能体",
+      "summary": "Hacker News 故事：https://news.ycombinator.com/item?id=50586292 原始链接：http://ricapar.net/ClawDOS/ 作者：Ricapar 评分：159",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-21T05:38:01Z",
+      "time_type": "published",
+      "url": "http://ricapar.net/ClawDOS/"
+    },
+    {
+      "id": "1a6bc61cbec29813b9f10410c19b0c8634b6fcb040d8c4636c93a3d86bb64355",
+      "title": "Upload2Shell (CVE-2026-125396)：Hacker News 故事：https://news.ycombinator.com/item?id=50592097 原始链接：https://pwn.ai/upload2shell 作者：f311a 评分：81",
+      "summary": "Hacker News 故事：https://news.ycombinator.com/item?id=50592097 原始链接：https://pwn.ai/upload2shell 作者：f311a 评分：81",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-21T18:29:29Z",
+      "time_type": "published",
+      "url": "https://pwn.ai/upload2shell"
+    },
+    {
+      "id": "414bab6a17e87f2938da65f4e1979c76ea3092b2b299e3f2d6592082a4e91390",
+      "title": "Pandex – 通过 MCP 提供面向 AI 智能体的官方欧洲法律",
+      "summary": "Hacker News 故事：https://news.ycombinator.com/item?id=50593481 原始链接：https://www.pandex.io 作者：vasie 评分：39",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-21T20:47:41Z",
+      "time_type": "published",
+      "url": "https://www.pandex.io"
+    },
+    {
+      "id": "cac4d486e46aeed2b2c3cb6e9d4def0130bd53731219af9d027a99b178867d3b",
+      "title": "关于控制自主武器使用的联合国国际谈判破裂",
+      "summary": "Hacker News 故事：https://news.ycombinator.com/item?id=50594564 原始链接：https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomo...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-21T23:10:21Z",
+      "time_type": "published",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+    },
+    {
+      "id": "b9d1c9e9c4cc8c6bd95a9938a8e997f40281fbecbb7054cda3a782090cd65cee",
+      "title": "OpenRouter 下架 3 家提供商，从零数据保留中撤出 125 个端点",
+      "summary": "Hacker News 故事：https://news.ycombinator.com/item?id=50595554 原始链接：https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-22T02:14:14Z",
+      "time_type": "published",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
+    },
+    {
+      "id": "324eee5460e2be90cc166cc94e068eace17903b1d44172f8a54011ddfb5333a3",
+      "title": "Product Hunt: AI Context Flow MCP — 你可控制的内存，同步到每个智能体、工具和团队",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/ai-context-flow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-21T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/62GR7ZBTBONXEL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "19cc56489651955defc3e1245875596ede922252186557de224cf02631ac21ac",
+      "title": "Product Hunt: AlterContacts — 能够前瞻思考和行动的 AI 客户关系助手",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/alter-contacts-ai-client-relationships?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Applica...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-21T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/P3PTYNAORNS7UV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "2e5c02657650f216b7e1e63dab1f4e2818c587c100d36f7b526f159fd7ec2938",
+      "title": "Product Hunt: Exa Websets V2 — 从实时网络构建自定义数据集，速度提升 4 倍",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/exa-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-21T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VCBQ7YACKGLBQ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "7f231d5ac93e048374493ec50149f3fd9ffdc89e30e6fc3db050d7eebdbecc35",
+      "title": "Product Hunt: Glassmail — 一款快速的 Mac 电子邮件应用，内置永不离开你 Mac 的 AI",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/glassmail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-21T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/AMEMZBGSYLXSVQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "20f90f1639aaec63e8f25c3e772b11b47ed4220d94fad6299759362731e03eb6",
+      "title": "Product Hunt: LoudFlow — 我们教会了文本转语音（TTS）进行思考",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/loudflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-21T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/ZIA3VPESLKYAS2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "b66ac2826ddda6d1c5b68bd169699ad2eede32917229de02be29c2d00f3ae0cf",
+      "title": "Product Hunt: OpenVorld — 为你的 AI 智能体提供一个家和一个虚拟世界 (Vorld)",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/openvorld?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-21T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/PRFDOJRZF6LOTD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "91fa8211e7fe5b54c630429acbef33dc6ef6f0b8e4beb1df234327c6eb703833",
+      "title": "Product Hunt: Prompt Puncher — AI CEO 格斗游戏",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/prompt-puncher?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-21T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/UF2HFP67MJWMCP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "ee2a8b81ab370a713717e0b2362ba41df7c4c870158dfd2b7271d1a39b432252",
+      "title": "Product Hunt: Shipyard — 面向 Claude、Cursor 和 Codex 的 MCP，用于自动化集成",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/shipyard?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-21T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/APQZ54KU3JOGBN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "7af3880004a97d3f10b01f113a5a223ed24659939e33ca18456958dba11428c5",
+      "title": "Product Hunt: Stitch Loop — 谷歌的 AI 智能体，可发布修复程序并监控指标",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/stitch-loop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-21T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/FPBEULM4VZK4X6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "cf4f276501a957919b499ad4de716bae54bf002aba84f3e5562f5d16964a7385",
+      "title": "Product Hunt: SuperMailbox — 集中管理你的电子邮件收件箱，随时准备接入 AI",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/supermailbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-21T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/I7TOYEDE6GL46T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
