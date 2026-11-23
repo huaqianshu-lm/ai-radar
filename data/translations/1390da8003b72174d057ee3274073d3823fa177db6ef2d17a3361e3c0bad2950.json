@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/22/select-styling",
+  "content_hash": "1096882f250d3834d53a8738db81419f3429c2a8e38625a688ddfcb94ef4e65d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b0c1b6250591975f9e1e8428770a17b769d00ec45a05a90700dafd99cc8efaa1",
+    "title": "Select Styling Specimens (选择样式示例)",
+    "summary": "工具：Select Styling Specimens。作者对 HTML <select> 框在不同浏览器中默认外观各异且在 C... 感到沮丧。"
+  }
+}

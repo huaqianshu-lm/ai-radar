@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+  "content_hash": "7a620ed0ded5a000a1b1e431f60f5d1e820d63f79b48bf0c4e6ddb3b786d29dd",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a9f7ae49b5fbd4f4edc31b0b0e42abd66e29e9dd398ea5acfa2e3ac3b0681ef3",
+    "title": "使用 Inkling、Qwen 和 Unsloth 的本地 AI 初学者指南",
+    "summary": "HN 报道：https://news.ycombinator.com/item?id=50603845 原文链接：https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth 作者：Rete..."
+  }
+}
