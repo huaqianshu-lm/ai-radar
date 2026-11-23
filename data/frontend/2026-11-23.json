@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-23",
+  "items": [
+    {
+      "id": "b0c1b6250591975f9e1e8428770a17b769d00ec45a05a90700dafd99cc8efaa1",
+      "title": "Select Styling Specimens (选择样式示例)",
+      "summary": "工具：Select Styling Specimens。作者对 HTML <select> 框在不同浏览器中默认外观各异且在 C... 感到沮丧。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-22T19:45:06Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling/"
+    },
+    {
+      "id": "8c9d1d1bd7692dd29f4e78362452e2469cf2566c484ff22046f585ca1668de61",
+      "title": "2028年 Anthropic 算力的 87% 将来自天然气，11% 来自煤炭",
+      "summary": "HN 报道：https://news.ycombinator.com/item?id=50597612 原文链接：https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-g...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-22T08:57:34Z",
+      "time_type": "published",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
+    },
+    {
+      "id": "9e90f9c0947157e7e7e9741eaa955ec5191728240cd75732108aa7039e38f2a5",
+      "title": "Show HN：我制作了一款让你扮演 LLM 子代理的游戏",
+      "summary": "HN 报道：https://news.ycombinator.com/item?id=50599762 原文链接：https://github.com/gulivan/worker755 作者：ivantgam 得分：282",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-22T13:56:58Z",
+      "time_type": "published",
+      "url": "https://github.com/gulivan/worker755"
+    },
+    {
+      "id": "1df8c4ddfaf2f3734955610851651ae03daee1039a3d12d46753eeaca3d84cc0",
+      "title": "Perplexity 与 Intelligence",
+      "summary": "HN 报道：https://news.ycombinator.com/item?id=50601525 原文链接：https://openai.com/index/perplexity-and-intelligence/ 作者：acossta 得分：513",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-22T17:06:27Z",
+      "time_type": "published",
+      "url": "https://openai.com/index/perplexity-and-intelligence/"
+    },
+    {
+      "id": "bc4f2b45a8f9442d5a4543f0ec73226e56ded85c4a59ac3f0692ae72e2167c51",
+      "title": "Harvard CS 2881R AI 安全课程",
+      "summary": "HN 报道：https://news.ycombinator.com/item?id=50602153 原文链接：https://boazbk.github.io/mltheoryseminar/ 作者：enjoyyourlife 得分：53",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-22T18:01:54Z",
+      "time_type": "published",
+      "url": "https://boazbk.github.io/mltheoryseminar/"
+    },
+    {
+      "id": "2c57b9b7bfe83955db0d13dc500b07f62c106201003785095799544ec5f24b82",
+      "title": "2026年秋季发生了什么：AI 与 P vs. NP 问题",
+      "summary": "HN 报道：https://news.ycombinator.com/item?id=50603219 原文链接：https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np 作者：abelanger...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-22T19:50:36Z",
+      "time_type": "published",
+      "url": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np"
+    },
+    {
+      "id": "a9f7ae49b5fbd4f4edc31b0b0e42abd66e29e9dd398ea5acfa2e3ac3b0681ef3",
+      "title": "使用 Inkling、Qwen 和 Unsloth 的本地 AI 初学者指南",
+      "summary": "HN 报道：https://news.ycombinator.com/item?id=50603845 原文链接：https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth 作者：Rete...",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-22T21:01:16Z",
+      "time_type": "published",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+    },
+    {
+      "id": "1a72a8f666343934e87d175361a591b39d40de11b3b1a2b10a29d7dbda607f48",
+      "title": "尝试解决 P vs. NP 问题的 Agent 蜂群",
+      "summary": "HN 报道：https://news.ycombinator.com/item?id=50604314 原文链接：https://pequalnp.com/ 作者：bananaflag 得分：127",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-22T21:53:45Z",
+      "time_type": "published",
+      "url": "https://pequalnp.com/"
+    },
+    {
+      "id": "61d8127e693f0b0f3ba7ef2dc32bc9bfe97d415c3f165973c0ab2ef8ad20a2b9",
+      "title": "Alessandro Masullo 手稿 Lean 形式化的进展图",
+      "summary": "HN 报道：https://news.ycombinator.com/item?id=50605045 原文链接：https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 作者：Qision 得分：173",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-22T23:12:10Z",
+      "time_type": "published",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3"
+    },
+    {
+      "id": "d76d1fd47e7f903ad709849633ab74b09aa2e665e195067e554ff2d61f8a9455",
+      "title": "0rwx — 受 Unix 权限启发的 AI 使用简单模型",
+      "summary": "HN 报道：https://news.ycombinator.com/item?id=50605445 原文链接：https://0rwx.com/ 作者：misswaterfairy 得分：26",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-22T23:53:00Z",
+      "time_type": "published",
+      "url": "https://0rwx.com/"
+    },
+    {
+      "id": "81c86762db74db287cbcd4f5ed5605fbce1a5504b839179c709e9e4ea5719b48",
+      "title": "Product Hunt: Rankhog — 在 Reddit 上自动获客",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/rankhog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-22T08:00:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/HVFQNHONLRBAJZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "c7eeac4b28c85cd3418c455acb84c11532eef0dafa84cfa3e317c83af23224ae",
+      "title": "Product Hunt: Zapyso — 免费的会议记录和语音听写工具，数据留存在 Mac 上",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/zapyso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-22T08:00:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/4IF373ZI2ZYN7T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "1e38bca9a7fb476e74b1e756495b328bad040cd324254cdc8de419e1a5eb1a01",
+      "title": "Product Hunt: Omi CLI — 在你离开时自动工作的 AI 编码代理",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/omi-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-22T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/GWUUBKQHSYM563?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "68d57e913e865ca8fa1d477ec908858cd2a79ea3c1dd141899818e38efdc1dd7",
+      "title": "Product Hunt: Resurf — 适用于 Mac 的个人知识库与书签管理器",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-22T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VXIIBY4W6WDWZU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "105de171a9241ea6e961bba2c8529fb8d4c92bc3b638a8f443c9d288d622c44e",
+      "title": "Product Hunt: Squint — 解释你正在看的任何内容，现已登陆 Mac",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/squint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-22T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/HWTEFOUJ6RVPVZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "31da8bf921c9bb9054c7010ca335a6237174a944c4f23237faebc5807947c3e8",
+      "title": "Product Hunt: TeaserKit — 让你的编码代理指导发布视频",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/teaserkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-22T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/Z7T4PLU64AYRCX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "f1333fba58c2a8959992dca250cac50a115507666cb8d105ada284cae9ba8771",
+      "title": "Product Hunt: Ulika — 针对使用 Claude、Cursor 或 Codex 构建的网站的可视化编辑器",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/ulika?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-22T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/RMUGMIHZYR2MRX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "8017cf9c28cf66171f7429f07a1511393af90d3dddde33cb9612afcac2649b36",
+      "title": "Product Hunt: Webless Agents — 你想要直接面向客户展示的 Agent",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/webless?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-22T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/VH6EKEDCE4QLCA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "469748996ccb8c73fc3cc3a13a7c1a9714362637edd4760ea7b2e354f63a063a",
+      "title": "Product Hunt: Yoroll — 无需游戏引擎即可构建可玩的故事",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/yoroll?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-22T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/XKLWN5SDJ5RSLW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "4631311e62ab9ffddf9ba863e14a2fabae455e2a205c13c203d5347a3ab8a599",
+      "title": "Product Hunt: oovi — 桌面上的专属 AI 团队",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/oovi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%2...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-22T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/YLKKXHEBGSFA4O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    }
+  ]
+}
