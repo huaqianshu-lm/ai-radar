@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+  "content_hash": "0bcf1780c6d346cbef69fc3ed413e479a6977310369bb44195b2c0a96d8e6f48",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1259b534687dd8b3171199ff6c1e4d274ef5d072ac6513620703d8171072ee72",
+    "title": "Richpanel 帮助企业在30天内实现 50% 客服自动化",
+    "summary": "Richpanel 使用 GPT-6 Astra 和 GPT-6.1 Sol 为其 AI 客服代理配备工具和流程，并使用 GPT-6 Luna 进行对话。"
+  }
+}

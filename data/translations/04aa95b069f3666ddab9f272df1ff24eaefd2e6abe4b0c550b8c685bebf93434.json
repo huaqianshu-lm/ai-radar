@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+  "content_hash": "e38f5ed12e3a3f18adee26cc7d8ae2d4d42ebeba4d878e6b07973df9fa7b51ba",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "895b540db6a8889e694ca9f9b509808f44f14c578e93735626eea109f5cda62f",
+    "title": "使用智能体与形式化验证寻找更快的量子算法 — Google DeepMind",
+    "summary": "探讨了如何使用智能体团队和形式化验证来改进用于建模的量子算法。"
+  }
+}

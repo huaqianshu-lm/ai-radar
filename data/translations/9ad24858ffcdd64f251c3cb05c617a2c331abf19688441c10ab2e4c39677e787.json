@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/24/datasette-charts",
+  "content_hash": "810c1358ab41db139be66cf8db8e5a5ac67e68c57a2792591bd88ed0390ecead",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bfe39e5b176c7b576ee420378fbbd0fe6b045551bed7cc86f458fd70f2cdabd5",
+    "title": "datasette-charts 0.2a0 图表插件发布",
+    "summary": "发布了 datasette-charts 0.2a0，这是一个为 Datasette 推出的全新图表插件，现已集成 Datasette Agent。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/robotrack",
+  "content_hash": "bace416f753722ac3dd017a81691dd06c58e2cde43f2123189fb0152fb4a4b43",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "eb2701ff66febea2729388256362b1e990ea44c9d3e87f78378f64a362cb43e9",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation：原文摘要",
+    "summary": "原文摘要：# RoboTrack: Point tracking for real-world robotic manipulation 🤖 Models | 📄 Tech Report | 📊 Data | 💻 Code | 🌐 Project Page | 📈 Benchmark Deploying robots in re..."
+  }
+}

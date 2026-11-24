@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://claude.com/resources/articles/introducing-claude-ship",
+  "content_hash": "bae12c2658d36e5b09be4d308059b727025e20b2f97b89a1a5db1b861804e97a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b5129d6fc89af52dbb221093582b3062f27076437d52e78fc40a0d58a7f3445f",
+    "title": "Claude Ship：原文摘要",
+    "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50618513 Original URL: https://claude.com/resources/articles/introducing-claude-ship Author: matthieu_bl Score: 4..."
+  }
+}

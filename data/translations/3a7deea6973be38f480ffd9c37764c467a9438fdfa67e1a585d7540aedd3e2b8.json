@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/23/datasette-charts",
+  "content_hash": "ee37e7b516b551a88f49d19b3e256e21a64e48cff75f4e9f4740e490ef8c4030",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d26bd4b314a87a6551800b11b6b42e7192295de07f8d3ebd62e9bbba773ffca5",
+    "title": "datasette-charts 0.1a0 发布",
+    "summary": "发布 datasette-charts 0.1a0。作者思考了一年多之后，最终在周日启动 Claude Fable 5.2 构建了初始版本。"
+  }
+}

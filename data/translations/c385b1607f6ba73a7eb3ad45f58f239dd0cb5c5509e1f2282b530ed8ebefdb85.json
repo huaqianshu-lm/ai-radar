@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft",
+  "content_hash": "06c466c05d06f521bef28127accd90ff3c0f70f95c9c01c58f7c2c78df7c0056",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "89be47622d1f215519f33c46b84767cac4723ba5ab9ae1f21ab693edd47fa03f",
+    "title": "Jensen 回归！OpenAI 公布预训练曲线并携手微软",
+    "summary": "2026年11月23日 — Nvidia 重新任命其创始人，OpenAI 发布了其内部损失曲线并提出了共享训练限制。"
+  }
+}

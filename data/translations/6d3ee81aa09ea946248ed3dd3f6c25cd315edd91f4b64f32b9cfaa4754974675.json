@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/23/ladybird",
+  "content_hash": "b3c8e578109a9fe9b6194e5a2acb677935a871b2348f401d41652f1e7b411f9a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e59fe8be067f4ab68ffc304fcc9e3126445ea0ff6b1f69457810bc8055f9cdc0",
+    "title": "Ladybird 发布首个 Alpha 版本",
+    "summary": "Ladybird 是一个极其宏大的项目：目标是在 2026 年推出一款全新的浏览器，并自行实现大部分核心组件，包括 HTML 解析、CSS 引擎、布局等。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/agentic-evals",
+  "content_hash": "e10f0d7dbf06948751a644bafaf68ab4bf6463beb5286a280b92d358eb9093e7",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "00d52199bef25f9eda98fa79c30b3c80d4e34af93f50b3c1b0911b599d05708b",
+    "title": "如何构建与维护 Agent 评估体系",
+    "summary": "AI 评估有助于决定人们构建、采用和信任哪些系统。评估能够为系统提供指导。"
+  }
+}

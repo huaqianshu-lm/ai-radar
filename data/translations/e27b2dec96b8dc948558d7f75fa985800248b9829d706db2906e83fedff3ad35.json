@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/SG2HQWZE7PXLKB",
+  "content_hash": "7f516b81d76e9fd0da310d8061fe68deb1cbeca035411b2f189a345267922506",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bf950146852ff2e9605a11d765561c892dbcbe9572ca96a1df61088ba88e1485",
+    "title": "Product Hunt: Inkling 2 Mini —— 用于笔记本电脑编程的 26B 循环模型",
+    "summary": "Product Hunt 页面链接提供了关于 Inkling 2 Mini 的信息，这是一个 26B 的循环模型，旨在支持在笔记本电脑上进行编程开发。"
+  }
+}

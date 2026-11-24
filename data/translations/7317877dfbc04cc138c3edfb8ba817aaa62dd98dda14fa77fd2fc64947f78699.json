@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/24/datasette-agent",
+  "content_hash": "744274375c6ea8330a7d197228e3e83415159e930eac755015c4ecd363761377",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cde2e4331c947b3b8676571ed8dd0a2e71aa51e486f621be2e65ad2623565ae0",
+    "title": "datasette-agent 0.7a1：原文摘要",
+    "summary": "原文摘要：Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to differe..."
+  }
+}
