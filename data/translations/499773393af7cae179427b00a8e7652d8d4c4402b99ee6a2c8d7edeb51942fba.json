@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab",
+  "content_hash": "4613a02831fb2a98c2384e3178be88088a7e51b1ad4fd4b5614eea5b0ddb927a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bee434900b5ec6c4b9c61585d2e6e096d11437e749f8e57d6f5bc3baa66e9627",
+    "title": "Gemini 4 Neon 标志着 GDM 作为前沿实验室的全面回归",
+    "summary": "2026年11月24日 — Neon 在 LiveBench 上击败了 Astra 和 Fable，并将其 Theo's TS Rust 基准测试运行时间缩短了 48.6%。"
+  }
+}

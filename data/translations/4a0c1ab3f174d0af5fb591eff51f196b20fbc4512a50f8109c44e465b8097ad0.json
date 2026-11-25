@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/business/customer-stories/ifood",
+  "content_hash": "401affae8a3010cd7e2e3d916a00bf648df33e3afc1d6dc5241bf101ec620971",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "89a905d5eae9fa3ef5a8af6c1b3d6471a3626169568a0058a355675d3a41557f",
+    "title": "How iFood scales coding agents across 15,000 repositories：原文摘要",
+    "summary": "原文摘要：https://openai.com/business/customer-stories/ifood"
+  }
+}

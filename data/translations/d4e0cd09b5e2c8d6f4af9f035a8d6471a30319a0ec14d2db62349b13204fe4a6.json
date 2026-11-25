@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-24",
+  "content_hash": "81d70a9a218de757bf37c1e842d3363b508d8ba383c98ad37f8484ed5c91c65d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "dea337e6b29a862535459fb9a4348ac22d253758530f6b7d5073374d51ee621f",
+    "title": "GLM-5.4 循环、Claude Ship 与 OpenAI 确保 Linux 安全",
+    "summary": "AI 快讯 2026-11-24：GLM-5.4 循环、Claude Ship、OpenAI 确保 Linux 安全。推出 Natural Voice（阅读时间 8 分钟），Natural Voice 使语音代理成为可能……"
+  }
+}

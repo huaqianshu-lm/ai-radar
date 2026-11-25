@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+  "content_hash": "b5c1d246dc7037d9d029612526ab9cda470991ad90a48810bdffaa0bb7bedac4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a3c9028eefd69cfd15ff27f48e02556532b9ed7a8c483b2a5ba430ca611a8783",
+    "title": "Clay 借助 Codex 和 ChatGPT 帮助销售团队赢得业务",
+    "summary": "通过集成 ChatGPT 和 Codex，Clay 的用户能够研究交易并将数据转化为进入市场的策略，其中 GPT-6 模型负责处理推理工作。"
+  }
+}

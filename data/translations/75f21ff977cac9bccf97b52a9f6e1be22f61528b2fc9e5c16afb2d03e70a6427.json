@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+  "content_hash": "915a950286cef54a7b160ad063b5f9355e9a566ec592f373e34a09847fe10fde",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "6a28e842b3bf4bfd8400220ee7c0735b0ecf3e38a0b3cb368303e1e3a450e25f",
+    "title": "Microduck Obstacle Avoidance: 使用 Isaac Lab 和 Newton 的 Sim2Real 工作流",
+    "summary": "为 Microduck 添加本地避障功能，同时保持其行走策略不变。"
+  }
+}

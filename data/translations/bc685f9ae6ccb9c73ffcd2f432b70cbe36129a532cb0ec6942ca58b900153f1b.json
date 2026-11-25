@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.proofatlas.ai/open-problems",
+  "content_hash": "7a0c9247b3967b02812216a9b6c314ce6271ce5822c0e7ff8bee14822424f73a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5356d92e181ed8221bb6e4829bcb7572ad9bccbc6efa3e64f1d7de3e46fbb85f",
+    "title": "通过 LLM 评估重要性排名的数学领域核心未解难题",
+    "summary": "HN 讨论帖，原文链接指向 ProofAtlas，由用户 ijidak 提交，得分为 19 分。"
+  }
+}

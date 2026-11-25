@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+  "content_hash": "982f50f30d160cc3db3c7a9ddc2becdfc4f239521d9646ea1a003ce6a780866f",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "22f7a46f7fe9f580e61c872694695dfde86848600c48b6b8afcd04d7f1fa9e1e",
+    "title": "Matrix Multiplication is Θ(n^2.25) [pdf]：原文摘要",
+    "summary": "原文摘要：HN story: https://news.ycombinator.com/item?id=50637220 Original URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-n..."
+  }
+}

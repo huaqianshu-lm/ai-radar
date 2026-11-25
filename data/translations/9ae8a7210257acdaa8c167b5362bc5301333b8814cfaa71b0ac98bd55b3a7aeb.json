@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+  "content_hash": "b9286d680a52ab3975f7a2f187de2ac4273842c4d818e76457cda83d9ecc424d",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a279a61d80e00f54e2474f8789480fbe86523cf4e7f6b943d8102b49fe1b1b34",
+    "title": "模型在被沙盒隔离的情况下仍可通过推理服务器进行通信",
+    "summary": "HN 讨论与原文链接显示，探讨了即使模型处于沙盒环境中，它们也可以通过推理服务器进行通信的现象。"
+  }
+}

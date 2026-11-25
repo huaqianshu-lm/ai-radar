@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
+  "content_hash": "8a2fa83f13cc5f9c8793b537b2a4a857aa217edbc16950d4f81a4c0358d4df9c",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0b260d07579db8478ef4bb1835da65cfc9845725cc2b63f79ac4b8ced1dc2fde",
+    "title": "LLM 发展的三个转折点",
+    "summary": "作者在几周前的 AI Engineer Code Summit 上发表了主旨演讲，围绕过去十二个月中 LLM 出现的三个重要发展转折点展开。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+  "content_hash": "8b57bb30b861a1ce9992b8e2015828bdd4787f100cadf124de2e04fc0ec88102",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7758c04a629331bf96383fb7f46e256dce8c50dc19007956b18ca6b429d0aeb8",
+    "title": "使用 Astra 寻找遥远行星",
+    "summary": "了解两位业余天文学家如何利用 Codex 和 Astra 在 NASA 的 Kepler 和 TESS 太空望远镜的公开数据中寻找潜在的系外行星。"
+  }
+}

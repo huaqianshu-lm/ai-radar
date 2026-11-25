@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/sous-labs/songe",
+  "content_hash": "06450163650fc081cedc08d457f0bc1971cc0ed32f9cb1abdd3e700fa6c29def",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "9121917f87f40b617f50831383737ac13aaf30ed8737c57ee7046cd57c41027c",
+    "title": "songe：利用闲置算力训练本地模型的引擎",
+    "summary": "一个使用用户闲置计算资源来训练本地模型的训练引擎。"
+  }
+}

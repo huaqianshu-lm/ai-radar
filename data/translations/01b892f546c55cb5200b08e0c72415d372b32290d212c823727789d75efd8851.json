@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://news.ycombinator.com/item?id=50634426",
+  "content_hash": "0cdabb693538ab0f3751d177c21be1ba7de8f050c20d2ae4a7804207badc0a63",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f13f50765ddb35d9b0c1471c768ecd1182a5f803913ddb76a94da9d6219fe3db",
+    "title": "Launch HN: Versine (YC F26) – 用于收发资金的 MCP",
+    "summary": "Versine (YC F26) 是一项用于实现收发资金功能的 MCP（Model Context Protocol）项目。"
+  }
+}
