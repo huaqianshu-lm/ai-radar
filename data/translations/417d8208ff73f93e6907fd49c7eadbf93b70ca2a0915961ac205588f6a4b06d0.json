@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+  "content_hash": "10c9eff93a09bfa7718caf1a11ba0d84160aed8ef3338c9b5a20901b08974ede",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "1bfb90103b3c1d8e3d87c8f4fa689f779fc4191ffc5abac373e7e67f807bf6b2",
+    "title": "《纽约时报》警告摄影师不要因 AI 功能而更新 Photoshop",
+    "summary": "有关《纽约时报》针对 Photoshop AI 功能更新警告的 Hacker News 讨论。"
+  }
+}

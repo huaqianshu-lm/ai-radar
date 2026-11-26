@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+  "content_hash": "f0c8d71e92f46ffd93f2b6f5d76f25e8393c98229214e2721f92938a2297af4b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "88bd06d7e0e9b82f43a3c7b49740216e6a1dfae7affc60d91ec0a4415c5ccb91",
+    "title": "科学家对 AI 智能体的底线在哪里",
+    "summary": "将研究任务委派给 AI 并不能免除科学家对工作完成方式的责任。"
+  }
+}

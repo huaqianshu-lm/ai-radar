@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+  "content_hash": "735d7bf80ac3e116514ece55c28ce089f32cbd8c5b0ae183b3c17ac8e5fdf1b5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "df3be113c8aed13fbadf7f5fd23bf1c3fea1d6aa84ef1d6c6b80d5e4f468adf1",
+    "title": "在单张 RTX PRO 6000 上进行 Hill-climbing Inkling 2 Mini 推理",
+    "summary": "Inkling 2 Mini 于上周发布，为本地 AI 和小型开源模型树立了新的行业领先水平。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-25",
+  "content_hash": "8931e8820211d550247344a065a0459d9be3debe33990a392596a5223a14c52b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c4498a4ee830620e81e52d5648f70e166021d738d4f818343a7ba3fa37149f1d",
+    "title": "OpenAI 解决矩阵数学、SWE-2.1 以及集群限制问题",
+    "summary": "Cognition 发布了其升级版本的 SWE-2.1。"
+  }
+}

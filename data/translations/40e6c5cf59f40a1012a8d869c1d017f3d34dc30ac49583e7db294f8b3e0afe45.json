@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+  "content_hash": "300e12ea680c0fe72ad5254654f89fc7b70b3f2c47ebc2a5c9eeae2e4ed7bba2",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0077e07924e43bf73f6b214e80c2636fd705749c1e6b72af3b822ac4ce5e9fb4",
+    "title": "使用 CUGA 构建 Indic 语音智能体",
+    "summary": "大多数有用的知识都是用英文书写和数字化，而许多需要这些知识的人则习惯用自己的母语交流。"
+  }
+}

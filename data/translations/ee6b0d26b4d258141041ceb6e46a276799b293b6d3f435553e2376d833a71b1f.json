@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+  "content_hash": "b825bd198a580d375e3fefcddc6a25466e1eb3367b23a043272d9e42d809f8af",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "636ec9fc5513c4d5c7ef44e99731900da155af8e2ddc4ca13c8507cd7d58ffbf",
+    "title": "多项式 Hirsch 猜想是不成立的",
+    "summary": "HN 讨论及 OpenAI 数学预印本相关内容。"
+  }
+}

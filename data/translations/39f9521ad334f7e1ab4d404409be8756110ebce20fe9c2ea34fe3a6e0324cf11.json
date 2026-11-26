@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+  "content_hash": "c34c20c5f419ab79135f9cd8e0455946dff282660bc46a32a5a7c1b4cfb967e4",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "acd1839cbac010dd245e0e2695bfe3b72664d9c4da6410797b1d3ff2745b2545",
+    "title": "裸机 Qwen",
+    "summary": "有关在裸机系统上运行 Qwen 的相关讨论与代码仓库分享。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/lsernau/grh-lean",
+  "content_hash": "ae78279cef54684048b4fa9f5d7536623ba69e62d6dccc55886b091049aeb8ab",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "d0f42301425834014aa9bd7d6aa49fe102bc795a087c488b2455cf08d99a303e",
+    "title": "Anthropic 提供的 GRH Lean 验证的精简版本",
+    "summary": "有关 GRH Lean 验证短版本的 Hacker News 讨论。"
+  }
+}

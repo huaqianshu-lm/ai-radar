@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+  "content_hash": "80d7f106e048daeab54b2d489c18b275b71ebad87c6bca122ec4f4c58464f36b",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "616293296550946fa78f0e19ab2c464c501f2e1f6e0b1ba1716bfe4b1f96cb5a",
+    "title": "Google DeepMind：使用 Mass Spec Skills 识别 Google Antigravity 中的分子",
+    "summary": "Google DeepMind 与分析化学家合作，利用社区资源，通过 Mass Spec Skills 从光谱推导结构来识别分子。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://blog.cloudflare.com/search-for-agents",
+  "content_hash": "98b5e787d6cbb72a840e8d86c851fe51678ec59f4104e29cc8ee7c7ddf461268",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a9bc069d7df2112171f7d581825bc11505d2b27a06782707707dc394915d0333",
+    "title": "推出 Search for Agents",
+    "summary": "只需开启一个开关，即可让您的网站支持 AI 智能体搜索，并具备自动内容索引、可发现的搜索 API 以及原生 HTTP QUERY 支持。"
+  }
+}
