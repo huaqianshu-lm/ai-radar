@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai",
+  "content_hash": "e2270f56d3eb0f645e8d57f9a29546c6e190f9b08b23ffde945a8a9202f5fbb0",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3063f177323d0010e0ffedffff72d9132a19da8b23af01e3cd71388ba0c61922",
+    "title": "Clay 如何构建 GTM Agents — AI 负责人 Jeff Barg",
+    "summary": "探讨了如何用 1500 美元筛选全球每家公司、为什么客户讨厌模型选择器，以及 Clay 如何为每个 agent 构建 Go-to-Market 基础设施。"
+  }
+}

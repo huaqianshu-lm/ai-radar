@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+  "content_hash": "dfa65af8652171328a88bfa2f2ffd7c25435e1eb0a7af895bb5f979ea079eca5",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "0b35b27d1979c0f4ee533cc62a0b0467b08ed02a9963e1fabbbf153acf5e310b",
+    "title": "Google 将让 AI Agents 使用其 MCP Servers，其中 Gmail 版本无法发送邮件",
+    "summary": "HN 讨论及文章报道了 Google Workspace AI Agents 将使用其 MCP Servers 的相关信息，并指出其中的 Gmail 服务无法发送邮件。"
+  }
+}

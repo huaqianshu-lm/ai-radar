@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://topcitedscientists.com/figures/ai-at-four-us-companies",
+  "content_hash": "3b00c0370c88a78d348ec50aa548fb4a2261a9421ccbbcaf36e9b0deed3b97fc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "2eac8052b2ee17bbd5bf9505fc2033b21869ebeea56d44aa44293f0baaa34b8b",
+    "title": "四家美国公司的顶尖 AI 科学家对比",
+    "summary": "对比了四家美国公司中被引用次数最多的 AI 科学家。"
+  }
+}

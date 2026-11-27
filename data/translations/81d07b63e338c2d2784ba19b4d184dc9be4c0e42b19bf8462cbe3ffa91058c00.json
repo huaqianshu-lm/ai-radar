@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/training-swarms",
+  "content_hash": "f56921011ee9183ccce0b41a892e5b53be1bf686f66f8ea40de835b07898d3cc",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "819f2bb8e324e5e7f3ab174fd75a2e35e495da76ab1ed0dc431b91e93d876cbf",
+    "title": "Swarms, Flocks, Gangs：如何构建、训练和评估多智能体系统",
+    "summary": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems *Part 1: Understanding swarms and training to communicate* 这是一个雄心勃勃的..."
+  }
+}

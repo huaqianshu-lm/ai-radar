@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "content_hash": "cfe34f49e16923f1f65a8fdb65470987b2949c2fe7dd93942671816ab397fa78",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "a734da9d3a1d876054f86e6e92e632f9c2a091a208fef8a96dd4cc4467d6055b",
+    "title": "介绍针对 AMD Ryzen 和 Radeon 的 llama.cpp 基准测试仪表板",
+    "summary": "llama.cpp 与 AMD 基准测试仪表板已在 Hugging Face 上线，可用于追踪相关性能。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/SKCIVKZDKR5QGT",
+  "content_hash": "42a089645f9cbc1966c4be258b30cb10748089cb62997c467238b949dd818426",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "48f49795a242524d672a0e2639ed6ecd577be9803ebb9107de4cdec1364e22ba",
+    "title": "Hub - 运行 100 个 Claude Code 或 Codex 会话",
+    "summary": "Product Hunt 页面链接，用于介绍 Hub 产品，可像运行 5 个会话一样轻松运行 100 个 Claude Code 或 Codex 会话。"
+  }
+}

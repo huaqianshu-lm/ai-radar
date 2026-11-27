@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync",
+  "content_hash": "1f2a0ff52698d12ba455872df2f41976643ea5aed0b1acb1a776c0bddc7fa4f9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7de39f044da3622e099c177c574552c01c97c561295b87556dd28d5b356fba88",
+    "title": "sqlite3_rsync：SQLite 数据库远程复制工具",
+    "summary": "sqlite3_rsync 是一个用于 SQLite 的数据库远程复制工具。这个额外的 SQLite 工具已经推出了一段时间，最初在 SQLite 3.47 中被添加为“实验性”功能。"
+  }
+}

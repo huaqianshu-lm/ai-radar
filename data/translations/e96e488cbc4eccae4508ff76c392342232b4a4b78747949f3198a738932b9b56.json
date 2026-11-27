@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://www.producthunt.com/r/AAE5I2SEYZUMZR",
+  "content_hash": "5e391ec229bf2e239dfaee6511c549cf674d60065d6696934c6d2d5c779b47c3",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "f4238f0b13b2bcef8547a7a472c833106d109342f53ce7ed7c60c9ec60561a73",
+    "title": "Product Hunt: QA.tech MCP — 使用 QA agents 从 IDE 验证每一次代码变更",
+    "summary": "Product Hunt 页面：https://www.producthunt.com/products/qa-tech?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494..."
+  }
+}

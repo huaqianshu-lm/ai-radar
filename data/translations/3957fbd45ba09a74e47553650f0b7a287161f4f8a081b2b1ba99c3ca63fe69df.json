@@ -1,0 +1,10 @@
+{
+  "normalized_url": "http://themouseless.dev/vim",
+  "content_hash": "d449b73648a5aef46fd176c44e14de676f5c46c8f9f55c8526309b5d0dbd86ce",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "80d29bbc46f18f1594cad7d46439572ebf5ece2a0005979f727b7ae87a08d449",
+    "title": "Show HN: 我历时 4 年编写了一整本 Vim 手册",
+    "summary": "作者历时四年完成了一本完整的 Vim 手册并将其发布。"
+  }
+}

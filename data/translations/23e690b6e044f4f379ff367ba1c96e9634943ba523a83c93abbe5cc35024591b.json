@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "content_hash": "c532b3aebb7e4e606048d6c6f1ac350a05eab5f5d843b28e92f1449eea150432",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "3d2697b636d74b834fc0e7341d4d275b2177cb68cfa6554cf0431f54189d28f2",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference：原文摘要",
+    "summary": "原文摘要：https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+  }
+}

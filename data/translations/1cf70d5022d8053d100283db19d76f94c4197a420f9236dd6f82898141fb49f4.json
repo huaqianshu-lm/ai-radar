@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/25/datasette-charts",
+  "content_hash": "0668165a3a943b783ab0a326d66826f297ec5c5dd3fdcfcd85cd27f5387609bb",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "e0577f40419a647d93e2542964f06ad9594c89a5d825ebf0e70984f43cac39f3",
+    "title": "datasette-charts 0.3a0 发布",
+    "summary": "datasette-charts 0.3a0 版本发布，新增了图表注释功能，现在支持在渲染的图表中添加线条、阴影区域和标签等注释。"
+  }
+}
