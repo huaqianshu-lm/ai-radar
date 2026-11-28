@@ -1,275 +1,285 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "items": [
     {
-      "id": "ba0fcf4e325b4115c73c9ef83ebd1ffebf008c30d8d75edc5ffce3b5226c5537",
-      "title": "AlphaGenome 2：解读细胞如何读取 DNA 以更好地理解疾病 —— Google DeepMind",
-      "summary": "AlphaGenome 2：解读细胞如何读取 DNA 以更好地理解疾病。我们的下一代 DNA 序列模型弥合了单细胞生物学与人类遗传学之间的差距...",
-      "source": "Google DeepMind Blog",
-      "source_type": "official",
-      "display_time": "2026-11-27T04:49:54Z",
-      "time_type": "fetched",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease"
-    },
-    {
-      "id": "550f4d88633d42452645fe28be1f95c7b820136518ea7942332ddf189b2d73b8",
-      "title": "扩大与 GSA 的合作，将 Claude 引入各级政府 —— Anthropic",
-      "summary": "我们正在通过一项新协议扩大与总务管理局（GSA）的合作，该协议为政府合作伙伴提供 40% 的 Claude 折扣...",
+      "id": "e63c44ee253751eb72aef3f2b8bd6200913735fee19428e07e0f2cafc0129b53",
+      "title": "AI for Science 扩展至更多基金会与机构 —— Anthropic",
+      "summary": "我们正重点介绍来自全球的 20 家科学基金会、机构和研究小组，我们已与他们达成合作，以推进 AI for Science 的发展...",
       "source": "Anthropic News",
       "source_type": "official",
-      "display_time": "2026-11-27T04:49:54Z",
+      "display_time": "2026-11-28T04:34:54Z",
       "time_type": "fetched",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
     },
     {
-      "id": "e0577f40419a647d93e2542964f06ad9594c89a5d825ebf0e70984f43cac39f3",
-      "title": "datasette-charts 0.3a0 发布",
-      "summary": "datasette-charts 0.3a0 版本发布，新增了图表注释功能，现在支持在渲染的图表中添加线条、阴影区域和标签等注释。",
-      "source": "Simon Willison",
-      "source_type": "developer",
-      "display_time": "2026-11-25T18:16:50Z",
-      "time_type": "published",
-      "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/"
+      "id": "ee4dc087c20018324226a16e2a13651b155ce78c88fcc91e4606b45fe6d0efda",
+      "title": "Mistral 在慕尼黑开设枢纽以推进德国的工业 AI",
+      "summary": "Mistral 在欧洲最大经济体的慕尼黑开设德国枢纽，以推进工业 AI 的发展。",
+      "source": "Mistral AI News",
+      "source_type": "official",
+      "display_time": "2026-11-28T04:34:54Z",
+      "time_type": "fetched",
+      "url": "https://mistral.ai/news/hallo-deutschland"
     },
     {
-      "id": "6417f2f798c5e447f3366090baeae46504c93e9bdd16e1a71da855743e349e21",
-      "title": "Opus 5.6 测试 🤖、OpenAI 私有推理 🔒、Jev 可能是 Qwen 📝",
-      "summary": "各方都在讨论瓶颈的转移……我们的客户在规模化扩展时只想要稳定、具备优秀开发者体验且不碍事的方案。",
+      "id": "5c89254832272f64a5d08807481d82f62de6d605f8b6a5c536b52e2b03e06cca",
+      "title": "OpenAI 成本控制、RSI 衡量与循环 Transformer",
+      "summary": "TLDR AI 2026-11-27 简报，涵盖 OpenAI 成本控制、RSI 衡量、循环 Transformer 以及 Anthropic 为 Claude 准备 Google Drive 文件浏览器等内容。",
       "source": "TLDR AI",
       "source_type": "curated",
-      "display_time": "2026-11-26T00:00:00Z",
+      "display_time": "2026-11-27T00:00:00Z",
       "time_type": "published",
-      "url": "https://tldr.tech/ai/2026-11-26"
+      "url": "https://tldr.tech/ai/2026-11-27"
     },
     {
-      "id": "819f2bb8e324e5e7f3ab174fd75a2e35e495da76ab1ed0dc431b91e93d876cbf",
-      "title": "Swarms, Flocks, Gangs：如何构建、训练和评估多智能体系统",
-      "summary": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems *Part 1: Understanding swarms and training to communicate* 这是一个雄心勃勃的...",
+      "id": "c2bd7953104652e48b060cb836c5b0b220f5916987e34c7cb4215ee5c922c5b1",
+      "title": "将 Trainium3 应用于实践：使用 LTX-2.5 生成视频",
+      "summary": "通过与 AWS 的合作，团队得以访问 Trainium3 机器并使用 LTX-2.5 进行视频生成。",
       "source": "Hugging Face Blog",
       "source_type": "developer",
-      "display_time": "2026-11-26T00:00:00Z",
+      "display_time": "2026-11-27T00:00:00Z",
       "time_type": "published",
-      "url": "https://huggingface.co/blog/training-swarms"
+      "url": "https://huggingface.co/blog/video-trainium3"
     },
     {
-      "id": "3d2697b636d74b834fc0e7341d4d275b2177cb68cfa6554cf0431f54189d28f2",
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference：原文摘要",
-      "summary": "原文摘要：https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "source": "Hugging Face Blog",
-      "source_type": "developer",
-      "display_time": "2026-11-26T05:05:36Z",
-      "time_type": "published",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
-    },
-    {
-      "id": "7de39f044da3622e099c177c574552c01c97c561295b87556dd28d5b356fba88",
-      "title": "sqlite3_rsync：SQLite 数据库远程复制工具",
-      "summary": "sqlite3_rsync 是一个用于 SQLite 的数据库远程复制工具。这个额外的 SQLite 工具已经推出了一段时间，最初在 SQLite 3.47 中被添加为“实验性”功能。",
+      "id": "cb9c58904170486c8df4ceb65d16fe7185c666e3f23686d550b3e49a08ce9655",
+      "title": "datasette-mcp 0.4：发布 datasette-mcp 0.4 版本，修复了与 Datasette 1.0a44 的兼容性问题",
+      "summary": "发布 datasette-mcp 0.4 版本，修复了与 Datasette 1.0a44 的兼容性问题。",
       "source": "Simon Willison",
       "source_type": "developer",
-      "display_time": "2026-11-26T06:08:25Z",
+      "display_time": "2026-11-27T00:26:17Z",
       "time_type": "published",
-      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/"
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/"
     },
     {
-      "id": "a734da9d3a1d876054f86e6e92e632f9c2a091a208fef8a96dd4cc4467d6055b",
-      "title": "介绍针对 AMD Ryzen 和 Radeon 的 llama.cpp 基准测试仪表板",
-      "summary": "llama.cpp 与 AMD 基准测试仪表板已在 Hugging Face 上线，可用于追踪相关性能。",
-      "source": "Hugging Face Blog",
-      "source_type": "developer",
-      "display_time": "2026-11-26T11:37:17Z",
-      "time_type": "published",
-      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
-    },
-    {
-      "id": "fcbb41954277a0a1d4ec84755196f69282448a167b12743191e432b96804474a",
-      "title": "引用 Jack Despain Zhou",
-      "summary": "AI 已经产生的大量影响之一是巨大的去个性化。我打开一个 YouTube 视频，听到了 Claude 的声音。我坐在一个会议演讲中...",
-      "source": "Simon Willison",
-      "source_type": "developer",
-      "display_time": "2026-11-26T15:09:31Z",
-      "time_type": "published",
-      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/"
-    },
-    {
-      "id": "3063f177323d0010e0ffedffff72d9132a19da8b23af01e3cd71388ba0c61922",
-      "title": "Clay 如何构建 GTM Agents — AI 负责人 Jeff Barg",
-      "summary": "探讨了如何用 1500 美元筛选全球每家公司、为什么客户讨厌模型选择器，以及 Clay 如何为每个 agent 构建 Go-to-Market 基础设施。",
+      "id": "63dc8adfd39e08f20f7b8d01b29e892c580f8a5a98bb6cda52a3e75830a1ddf5",
+      "title": "深入了解 AI 训练数据市场 — Gabe Greenberg, G2i",
+      "summary": "前沿实验室可以为独占的训练数据支付更高费用，或者对其他实验室也能购买的数据接受折扣。在 AI Engineer CODE 会议上，G2i 创始人 Gabe Greenberg 探讨了相关内容。",
       "source": "Latent Space",
       "source_type": "developer",
-      "display_time": "2026-11-26T23:02:48Z",
+      "display_time": "2026-11-27T22:19:18Z",
       "time_type": "published",
-      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/"
+      "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/"
     },
     {
-      "id": "e2ac2e209969c35f750b80f0d81743bcb79e17295a2361da8c9948b57da343d7",
-      "title": "Moat：OpenRouter 替代方案",
-      "summary": "HN 讨论帖，介绍 OpenRouter 的替代产品 Moat，由 amanverasia 发布，获得 263 分。",
+      "id": "bedee2e9acb0a56aa26158016f05e4bdb0bbf68e86e07c930ab03b961e46c9bf",
+      "title": "datasette-charts 0.4a0：发布 datasette-charts 0.4a0 插件，它拥有自己的插件钩子，允许其他插件定义新的图表类型",
+      "summary": "发布 datasette-charts 0.4a0 插件，它拥有自己的插件钩子，允许其他插件定义新的图表类型。",
+      "source": "Simon Willison",
+      "source_type": "developer",
+      "display_time": "2026-11-27T23:57:17Z",
+      "time_type": "published",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/"
+    },
+    {
+      "id": "14f57ff759ec1ad1b4f47c33cb817a01781a049975602af972f3c0d87c57db26",
+      "title": "[AINews] 深入爆发中的代码数据市场",
+      "summary": "2026年11月27日 — 探讨前沿实验室如何购买训练数据。",
+      "source": "Latent Space",
+      "source_type": "developer",
+      "display_time": "2026-11-28T03:45:59Z",
+      "time_type": "published",
+      "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/"
+    },
+    {
+      "id": "b88590c43555a909e1ff4309ecbf7f5564518a8eeb8290dba5726961f2fe41cc",
+      "title": "mvanhorn / last30days-skill：这是一个 AI 代理技能（Skill），用于在 Reddit、X、YouTube、HN、Polymarket 和全网研究任意主题，并综合生成有依据的总结",
+      "summary": "这是一个 AI 代理技能（Skill），用于在 Reddit、X、YouTube、HN、Polymarket 和全网研究任意主题，并综合生成有依据的总结。使用 Python 编写。",
+      "source": "GitHub Trending Python",
+      "source_type": "developer",
+      "display_time": "2026-11-28T04:34:54Z",
+      "time_type": "fetched",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "id": "20d57cb5d63bf1587f48cfbc5594f5be36acc8a78a498fe58ff134dd9dd5071a",
+      "title": "“Claude 的兽设（fursona）是什么？”及其他问题",
+      "summary": "Hacker News 讨论贴，探讨了关于 Claude 的相关趣味问题。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-26T06:32:48Z",
+      "display_time": "2026-11-27T04:56:18Z",
       "time_type": "published",
-      "url": "https://commandcode.ai/moat"
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"
     },
     {
-      "id": "2d51dd164fd1d38fc54e925fdc2e825f52c01a1370cb87b722aa934f31bd0f7b",
-      "title": "OpenAI 可能正在进入成本控制模式",
-      "summary": "HN 讨论帖，原文链接为 https://micjm.com/blog/openai-is-in-cost-control-mode/，作者为 seizethecheese，得分为 307。",
+      "id": "a8f643349bc099825e7c4281661258a053a50602ae3a07542005ae4e09700b0e",
+      "title": "群聊：你的 AI 在背后议论你",
+      "summary": "Hacker News 讨论贴，链接至 construct22.com。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-26T07:33:12Z",
+      "display_time": "2026-11-27T06:44:34Z",
       "time_type": "published",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/"
+      "url": "https://construct22.com/"
     },
     {
-      "id": "0b35b27d1979c0f4ee533cc62a0b0467b08ed02a9963e1fabbbf153acf5e310b",
-      "title": "Google 将让 AI Agents 使用其 MCP Servers，其中 Gmail 版本无法发送邮件",
-      "summary": "HN 讨论及文章报道了 Google Workspace AI Agents 将使用其 MCP Servers 的相关信息，并指出其中的 Gmail 服务无法发送邮件。",
+      "id": "b645d71050c86d3dc77818e2a9ffe526f0d375d0c89debb1b825d3555f617174",
+      "title": "Claude 正在破坏机器学习研究任务？",
+      "summary": "Hacker News 讨论贴，探讨了关于 Claude 在执行 ML 研究任务时出现异常表现的推特内容。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-26T09:44:23Z",
+      "display_time": "2026-11-27T08:28:08Z",
       "time_type": "published",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
     },
     {
-      "id": "80d29bbc46f18f1594cad7d46439572ebf5ece2a0005979f727b7ae87a08d449",
-      "title": "Show HN: 我历时 4 年编写了一整本 Vim 手册",
-      "summary": "作者历时四年完成了一本完整的 Vim 手册并将其发布。",
+      "id": "ff46556d3568b91149add839946c72a5e4cdb6d8111fd10f5366b91eb7a5677a",
+      "title": "Show HN: bouncemarket – 围绕弹跳球的实时预测市场游戏",
+      "summary": "Hacker News 讨论贴，关于一个预测球何时下落的交易游戏。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-26T14:44:22Z",
+      "display_time": "2026-11-27T15:01:50Z",
       "time_type": "published",
-      "url": "http://themouseless.dev/vim/"
+      "url": "https://bouncemarket.minhanhday.com/"
     },
     {
-      "id": "2eac8052b2ee17bbd5bf9505fc2033b21869ebeea56d44aa44293f0baaa34b8b",
-      "title": "四家美国公司的顶尖 AI 科学家对比",
-      "summary": "对比了四家美国公司中被引用次数最多的 AI 科学家。",
+      "id": "c6ad98147159ef5c5ac85e7b1d7cc9f7bb7fd09d564be3cbfe107d4c7d03606a",
+      "title": "Prospero：基于 ImGui 的无臃肿、原生 AI 编码 harness",
+      "summary": "Hacker News 讨论贴，介绍了一个轻量级、原生的 AI 编码辅助工具。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-26T19:44:31Z",
+      "display_time": "2026-11-27T20:23:14Z",
       "time_type": "published",
-      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/"
+      "url": "https://github.com/skeeto/prospero"
     },
     {
-      "id": "aebfbe56731bd98a52c5ac3451e735c2673dc7f68b56294a13dd3318c1042dc1",
-      "title": "AI 让自建托管再次变得有趣",
-      "summary": "HN 讨论帖，原文链接指向 janlukas.blog 关于 AI 与自建托管的博客文章，作者为 jlelse，得分为 443。",
+      "id": "b7f18d41d591cfabe522bc450cd042eaca4000559ee8039f1a95084c88eccd0a",
+      "title": "SessionGraph：在一个交互式图表中可视化你所有的编码代理会话",
+      "summary": "Hacker News 讨论贴，介绍 sessiongraph.ai 平台，用于可视化编码代理会话。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-26T21:47:45Z",
+      "display_time": "2026-11-27T21:07:34Z",
       "time_type": "published",
-      "url": "https://janlukas.blog/posts/ai-self-hosting"
+      "url": "https://sessiongraph.ai/"
     },
     {
-      "id": "4f8d724efa6652fd0327c1a192abfdd88b6189b00befd34236dcdc46e666b7ec",
-      "title": "AI 智能体现已控制 DeepMind 部分用于 Gemini 实验的算力",
-      "summary": "AI 智能体已经开始接管 DeepMind 用于 Gemini 实验的一部分计算资源。",
+      "id": "990f58ceeb055fd185ae5dcf35b73238b71631e8127518237ce1a837e94e898b",
+      "title": "Google 的 DeepCrossAttention 实现高达 3 倍的提速且保持同等模型质量",
+      "summary": "Hacker News 讨论贴，介绍 Google 研究博客关于超级 Transformer 残差连接的成果。",
       "source": "Hacker News AI",
       "source_type": "discovery",
-      "display_time": "2026-11-27T00:03:18Z",
+      "display_time": "2026-11-27T23:06:29Z",
       "time_type": "published",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
     },
     {
-      "id": "abb5292751751971e9c5a70ca59746750ae69ce58da5cd0790385f72ab0c913f",
-      "title": "Clary — 通过 WhatsApp 等应用以发送者原声播报 iOS 通知",
-      "summary": "来自 Product Hunt 的产品页面，介绍 Clary 应用的相关信息。",
-      "source": "Product Hunt AI",
-      "source_type": "community",
-      "display_time": "2026-11-26T08:00:00Z",
+      "id": "37881cc6652cee7391573b356ac3979ddaea9a70de21f21c9df6fa1975ad27a2",
+      "title": "房东的 AI 助手告知可延迟交租后，女子遭驱逐",
+      "summary": "Hacker News 讨论贴，分享了一起因房东 AI 助手错误回复导致的租房纠纷文章。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-28T01:32:56Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/MLYVI4EXR363WY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai"
     },
     {
-      "id": "14279c6f3093a07cc9187bae5b7c69e574c3bfc50a3fd870291a7a02f57d68ba",
-      "title": "Product Hunt: Monton — AI agents that do your agency's busywork：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/monton?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
-      "source": "Product Hunt AI",
-      "source_type": "community",
-      "display_time": "2026-11-26T08:00:00Z",
+      "id": "7697666b68a8a4a5ad0cf9c9b238e1fd1aecebe0b13dab0f73e45defdc336636",
+      "title": "Claude 悄悄在应用中添加了忽略用户肤色偏好的规则",
+      "summary": "Hacker News 讨论贴，引用了关于 Claude 行为的推特讨论。",
+      "source": "Hacker News AI",
+      "source_type": "discovery",
+      "display_time": "2026-11-28T03:55:15Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/MYQORKGIV2MIOS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://twitter.com/jakozloski/status/2126281598517576049"
     },
     {
-      "id": "f4238f0b13b2bcef8547a7a472c833106d109342f53ce7ed7c60c9ec60561a73",
-      "title": "Product Hunt: QA.tech MCP — 使用 QA agents 从 IDE 验证每一次代码变更",
-      "summary": "Product Hunt 页面：https://www.producthunt.com/products/qa-tech?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
+      "id": "3d319970ff8fec9ab2c350eb9733df657d0eb3d9b1858a2fcb383929f5907491",
+      "title": "Product Hunt: Contral — 能够检查自身工作并教导你的 AI 编码代理",
+      "summary": "Product Hunt 产品页面，介绍 Contral 编码代理工具。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-26T08:00:00Z",
+      "display_time": "2026-11-27T08:00:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/AAE5I2SEYZUMZR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/O345273IOJN5AK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "37001b689edafc965d030d41acd58f038c28705b589a798b043ae158fbc922ab",
-      "title": "Product Hunt: Bifura — See your website the way AI agents do：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/bifura?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940...",
+      "id": "831429a449ff66bed549fd813768c21c2d26eebfb311c66e9ea86e41d8474888",
+      "title": "Product Hunt: Periscope — 将任意工作转化为 API",
+      "summary": "Product Hunt 产品页面，介绍 Periscope 转换工具。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-26T08:01:00Z",
+      "display_time": "2026-11-27T08:00:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/LEZHQJUHVZTF4Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/MKDWAD6MXFEF3A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "b3f1d2e4e9a57566e487c9ea9e3f1814caa4213e2ad1afdb99d91aab9d5358a7",
-      "title": "Product Hunt: DeskFleet — Run coding agents together across your team’s machines：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/deskfleet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294...",
+      "id": "b22bc7f1f499c6446880b16808be445456dc3a7bee5c69dfdd784749b03f5f66",
+      "title": "Product Hunt: Pushary Calls — 错过 AI 代理的通知？Pushary 会打电话给你。",
+      "summary": "Product Hunt 产品页面，介绍 Pushary 电话提醒应用。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-26T08:01:00Z",
+      "display_time": "2026-11-27T08:00:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/ZDO3VZNN2YJRV2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/KPT5IG56HJWKXE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "ed8f18bea965186cc7dd018e4aabe9a5e156a08e17f3a3bc27aca6eea3698170",
-      "title": "Product Hunt: Doodle — 任务栏上的火柴人问答助手",
-      "summary": "Product Hunt 页面链接：https://www.producthunt.com/products/doodle-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "id": "a9bf1fca5d2fc34cf0213c5f5e989f7a66a4f79a7b1d31e3f0a6344a32b090b4",
+      "title": "Product Hunt: Depost AI — 学习适配你品牌风格的 LinkedIn AI 代理",
+      "summary": "Product Hunt 产品页面，介绍 Depost AI 营销工具。",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-26T08:01:00Z",
+      "display_time": "2026-11-27T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/QXHWNWTFM24C6G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/32DE54NLUY7ZZ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "48f49795a242524d672a0e2639ed6ecd577be9803ebb9107de4cdec1364e22ba",
-      "title": "Hub - 运行 100 个 Claude Code 或 Codex 会话",
-      "summary": "Product Hunt 页面链接，用于介绍 Hub 产品，可像运行 5 个会话一样轻松运行 100 个 Claude Code 或 Codex 会话。",
+      "id": "e3c6fb72de5c145d0fe182ad25dc52765e5a4b17ba39850a75c4d0532e169c87",
+      "title": "Product Hunt: Onset — 面向 YouTube 创作者的 AI 评论、标题与缩略图生成工具",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/onset?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-26T08:01:00Z",
+      "display_time": "2026-11-27T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/SKCIVKZDKR5QGT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/R5R2P35SGKOPBT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "1aa2a9d317a078bda89fa2d05b779edfc2cacbbd8ef5daf84364287155bc38d5",
-      "title": "Product Hunt: Kagi Mail — Private email that puts people who need you first：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/kagi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%2...",
+      "id": "14e29ea0ecd6bbea4584920e8ff6c999fa95b794228ce3cc243e2db47d3aae8d",
+      "title": "Product Hunt: Wizstar R1 — 以更低成本提供 Seedance 2.0 级别产品视频的工具",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-26T08:01:00Z",
+      "display_time": "2026-11-27T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/C2PPJIYKNSS7AC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/MFADSN4RJLJCWY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "e1cf6dc123595c2d72f917ce306738211ed30107244334268e37cbf139157cd9",
-      "title": "Product Hunt: Pax by Pydantic — A coding agent where even coding is a plugin：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/pydantic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "id": "b8cbf2e3590a65e31b67695458f018e712b1278815f3289cf3db2dafe9e03fad",
+      "title": "Product Hunt: Woomool — 让思考具象化的 AI 画布",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/woomool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+29494...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-26T08:01:00Z",
+      "display_time": "2026-11-27T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/NMB6ADZU5ATEMZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/Y5ICTAOJGXUV2K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     },
     {
-      "id": "7642f25c55bf8578fe9d8920acd4e7109d380bc40ac480a8e7849e4afa754d41",
-      "title": "Product Hunt: Remora — The long-term memory layer for AI agents：原文摘要",
-      "summary": "原文摘要：Product Hunt page: https://www.producthunt.com/products/remora-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+2949...",
+      "id": "3e0c365bba6825a5a4018af5cb43c55e16489e76f850c59ed923282b446d5381",
+      "title": "Product Hunt: gpyou — 提供现货中最便宜 GPU 的算力 OpenRouter",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/gpyou?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
       "source": "Product Hunt AI",
       "source_type": "community",
-      "display_time": "2026-11-26T08:01:00Z",
+      "display_time": "2026-11-27T08:01:00Z",
       "time_type": "published",
-      "url": "https://www.producthunt.com/r/V6ZWYHU3DFZMWY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+      "url": "https://www.producthunt.com/r/ZUD3HJIGUCLI3N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "4466c5c32d4ad42abe97a3e07f8e30f6cd19205c9737b17d1b6f144cb3be60ee",
+      "title": "Product Hunt: slay — iPhone 的 AI 构图向导相机应用",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/slay-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-27T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/XVZL46OAKSN6YJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
+    },
+    {
+      "id": "a893156d30752bbc6ff003d682711511a4c489e089feb322a0e0f2160f88c95f",
+      "title": "Product Hunt: snibl — 保存任意应用中高亮文本并向 AI 提问的工具",
+      "summary": "Product Hunt 页面：https://www.producthunt.com/products/snibl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%...",
+      "source": "Product Hunt AI",
+      "source_type": "community",
+      "display_time": "2026-11-27T08:01:00Z",
+      "time_type": "published",
+      "url": "https://www.producthunt.com/r/IET2H5J64ZBLDK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+ai-radar+%28ID%3A+294940%29"
     }
   ]
 }
