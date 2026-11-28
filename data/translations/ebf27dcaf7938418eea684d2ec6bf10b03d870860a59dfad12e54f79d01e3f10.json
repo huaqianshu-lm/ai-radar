@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/skeeto/prospero",
+  "content_hash": "a5a427baca2020a4d2c2facc4f33e7aba9e7e7ca9a5488daa9da87dad59ea3ed",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c6ad98147159ef5c5ac85e7b1d7cc9f7bb7fd09d564be3cbfe107d4c7d03606a",
+    "title": "Prospero：基于 ImGui 的无臃肿、原生 AI 编码 harness",
+    "summary": "Hacker News 讨论贴，介绍了一个轻量级、原生的 AI 编码辅助工具。"
+  }
+}

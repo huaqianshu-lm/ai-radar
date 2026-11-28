@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/27/datasette-mcp",
+  "content_hash": "dc0caca919de3b6534e2001c605f4455435e9b0c5fb5002992f7b35dc0c5de12",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "cb9c58904170486c8df4ceb65d16fe7185c666e3f23686d550b3e49a08ce9655",
+    "title": "datasette-mcp 0.4：发布 datasette-mcp 0.4 版本，修复了与 Datasette 1.0a44 的兼容性问题",
+    "summary": "发布 datasette-mcp 0.4 版本，修复了与 Datasette 1.0a44 的兼容性问题。"
+  }
+}

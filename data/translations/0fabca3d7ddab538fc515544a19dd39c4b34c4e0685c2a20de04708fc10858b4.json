@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://research.google/blog/supercharging-transformer-residual-connections",
+  "content_hash": "257938067599b75b7ac5fb1b0cbfe5ece5496c52255b94a7bd05f313b7fbecf9",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "990f58ceeb055fd185ae5dcf35b73238b71631e8127518237ce1a837e94e898b",
+    "title": "Google 的 DeepCrossAttention 实现高达 3 倍的提速且保持同等模型质量",
+    "summary": "Hacker News 讨论贴，介绍 Google 研究博客关于超级 Transformer 残差连接的成果。"
+  }
+}

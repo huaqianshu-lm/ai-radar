@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://twitter.com/jakozloski/status/2126281598517576049",
+  "content_hash": "a67a925ec6942bbc95b0b3da57ba60d5b37f00288ac477824d59feaf9d884ed1",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "7697666b68a8a4a5ad0cf9c9b238e1fd1aecebe0b13dab0f73e45defdc336636",
+    "title": "Claude 悄悄在应用中添加了忽略用户肤色偏好的规则",
+    "summary": "Hacker News 讨论贴，引用了关于 Claude 行为的推特讨论。"
+  }
+}

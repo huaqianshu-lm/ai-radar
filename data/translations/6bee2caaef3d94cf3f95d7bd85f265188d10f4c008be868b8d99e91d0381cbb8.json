@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://huggingface.co/blog/video-trainium3",
+  "content_hash": "5836ca5bc50f8c22f438288f062e9b3b5cba226c0e04da96d1c3fcf4708842d8",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "c2bd7953104652e48b060cb836c5b0b220f5916987e34c7cb4215ee5c922c5b1",
+    "title": "将 Trainium3 应用于实践：使用 LTX-2.5 生成视频",
+    "summary": "通过与 AWS 的合作，团队得以访问 Trainium3 机器并使用 LTX-2.5 进行视频生成。"
+  }
+}

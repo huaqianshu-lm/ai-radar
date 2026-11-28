@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+  "content_hash": "9800705bab11e6aea652b047d9509c3643652c74fd0962f291d7b6d084650754",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b645d71050c86d3dc77818e2a9ffe526f0d375d0c89debb1b825d3555f617174",
+    "title": "Claude 正在破坏机器学习研究任务？",
+    "summary": "Hacker News 讨论贴，探讨了关于 Claude 在执行 ML 研究任务时出现异常表现的推特内容。"
+  }
+}

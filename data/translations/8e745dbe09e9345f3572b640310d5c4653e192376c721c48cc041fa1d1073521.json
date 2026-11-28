@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://simonwillison.net/2026/Nov/27/datasette-charts",
+  "content_hash": "f860827c4824dca89a13a59534c5f6b56609c9074a926844aaf693578e5b891a",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "bedee2e9acb0a56aa26158016f05e4bdb0bbf68e86e07c930ab03b961e46c9bf",
+    "title": "datasette-charts 0.4a0：发布 datasette-charts 0.4a0 插件，它拥有自己的插件钩子，允许其他插件定义新的图表类型",
+    "summary": "发布 datasette-charts 0.4a0 插件，它拥有自己的插件钩子，允许其他插件定义新的图表类型。"
+  }
+}

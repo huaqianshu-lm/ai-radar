@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://tldr.tech/ai/2026-11-27",
+  "content_hash": "c85a3596e1fde7c5ff6ef148b508856f48242b2fc6c72973844372edf3c27d67",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "5c89254832272f64a5d08807481d82f62de6d605f8b6a5c536b52e2b03e06cca",
+    "title": "OpenAI 成本控制、RSI 衡量与循环 Transformer",
+    "summary": "TLDR AI 2026-11-27 简报，涵盖 OpenAI 成本控制、RSI 衡量、循环 Transformer 以及 Anthropic 为 Claude 准备 Google Drive 文件浏览器等内容。"
+  }
+}

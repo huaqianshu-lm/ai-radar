@@ -1,0 +1,10 @@
+{
+  "normalized_url": "https://github.com/mvanhorn/last30days-skill",
+  "content_hash": "c221545ada56fafcccd682f08bc7370ce7ffce0cfaa96e5c1077d46ce476d750",
+  "model": "gemini-3.5-flash-lite",
+  "translation": {
+    "id": "b88590c43555a909e1ff4309ecbf7f5564518a8eeb8290dba5726961f2fe41cc",
+    "title": "mvanhorn / last30days-skill：这是一个 AI 代理技能（Skill），用于在 Reddit、X、YouTube、HN、Polymarket 和全网研究任意主题，并综合生成有依据的总结",
+    "summary": "这是一个 AI 代理技能（Skill），用于在 Reddit、X、YouTube、HN、Polymarket 和全网研究任意主题，并综合生成有依据的总结。使用 Python 编写。"
+  }
+}
